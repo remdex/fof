@@ -6,7 +6,7 @@ class erLhcoreClassRenderHelper {
     {
        
         $cache = CSCacheAPC::getMem();          
-        $cacheKey = erLhcoreClassPN::multi_implode('attr',$params);
+        $cacheKey = CSCacheAPC::multi_implode('attr',$params);
         $cacheKey = md5($cacheKey.'site_version_'.$cache->getCacheVersion('site_version'));
         
         if (($output = $cache->restore($cacheKey)) === false)
@@ -284,7 +284,7 @@ class erLhcoreClassRenderHelper {
     public static function fetchFromCache($params) {
         
         $cache = CSCacheAPC::getMem();          
-        $cacheKey = erLhcoreClassPN::multi_implode('params_fetch',$params);
+        $cacheKey = CSCacheAPC::multi_implode('params_fetch',$params);
         $cacheKey = md5($cacheKey.'site_version_'.$cache->getCacheVersion('site_version'));
         
         if (($output = $cache->restore($cacheKey)) === false)
@@ -349,7 +349,7 @@ class erLhcoreClassRenderHelper {
             unset($params['attr_selected']);
         }
                 
-        $cacheKey = erLhcoreClassAd::multi_implode('attr',$params).'_attr_seelcted_'.erLhcoreClassAd::multi_implode('attr_si',$attrSelectedArray);
+        $cacheKey = CSCacheAPC::multi_implode('attr',$params).'_attr_seelcted_'.CSCacheAPC::multi_implode('attr_si',$attrSelectedArray);
         $cacheKey = md5($cacheKey.'site_version_link_combobox_'.$cache->getCacheVersion('site_version'));
         
         if (($output = $cache->restore($cacheKey)) === false)

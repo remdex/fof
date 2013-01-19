@@ -39,7 +39,7 @@ class erLhcoreClassForum {
    {
       if ($cacheEnabled == true ) {
         $cache = CSCacheAPC::getMem();        
-        $cacheKey =  md5('SphinxSearchForum_VersionCache'.$cache->getCacheVersion('sphinx_forum_cache_version').erLhcoreClassGallery::multi_implode(',',$params));
+        $cacheKey =  md5('SphinxSearchForum_VersionCache'.$cache->getCacheVersion('sphinx_forum_cache_version').CSCacheAPC::multi_implode(',',$params));
       }
       
       if ($cacheEnabled == false || ($resultReturn = $cache->restore($cacheKey)) === false)

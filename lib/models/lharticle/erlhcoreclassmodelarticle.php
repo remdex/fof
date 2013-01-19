@@ -61,7 +61,7 @@ class erLhcoreClassModelArticle {
        
        if (!isset($params['disable_sql_cache']))
        {
-	       	$sql = erLhcoreClassPN::multi_implode(',',$params);
+	       	$sql = CSCacheAPC::multi_implode(',',$params);
 	       	 
 	       	$cache = CSCacheAPC::getMem();
 	       	$cacheKey = isset($params['cache_key']) ? md5($sql.$params['cache_key']) : md5('site_version_article_list_'.$cache->getCacheVersion('article_cache_version').$sql);

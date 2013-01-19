@@ -230,7 +230,7 @@ class erLhAbstractModelAttrGroup {
    {
        if (isset($params['enable_sql_cache']))
        {
-              $sql = erLhcoreClassAd::multi_implode(',',$params); 
+              $sql = CSCacheAPC::multi_implode(',',$params); 
               $cache = CSCacheAPC::getMem();
 
               $cacheKey = isset($params['cache_key']) ? md5($sql.$params['cache_key']) : md5('attr_group_count_'.$cache->getCacheVersion('site_attributes_version').$sql);
@@ -290,7 +290,7 @@ class erLhAbstractModelAttrGroup {
        
        if (isset($params['enable_sql_cache']))
        {
-              $sql = erLhcoreClassAd::multi_implode(',',$params); 
+              $sql = CSCacheAPC::multi_implode(',',$params); 
               $cache = CSCacheAPC::getMem();
 
               $cacheKey = isset($params['cache_key']) ? md5($sql.$params['cache_key']) : md5('attr_group_list_'.$cache->getCacheVersion('site_attributes_version').$sql);

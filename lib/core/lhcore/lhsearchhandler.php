@@ -6,7 +6,7 @@ class erLhcoreClassSearchHandler {
         
         $uparams = isset($params['uparams']) ? $params['uparams'] : array();
              
-        $fieldsObjects = include('lib/core/lhpn/searchattr/'.$params['module_file'].'.php');
+        $fieldsObjects = include('lib/core/lhcore/searchattr/'.$params['module_file'].'.php');
                         
         $fields = $fieldsObjects['filterAttributes'];
 

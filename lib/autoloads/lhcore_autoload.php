@@ -138,13 +138,8 @@ return array_merge(array (
          'erLhcoreClassBrowser'                  => 'lib/core/lhword/parsers/lhbrowser.php',
          'erLhcoreClassParserRSS2'               => 'lib/core/lhword/parsers/lhrss2.php',
          'erLhcoreClassWordDotGenerate'          => 'lib/core/lhword/lhworddot.php',
-		
-         'erLhcoreClassPN'          			 => 'lib/core/lhpn/lhpn.php',
-         'erLhcoreClassPNMailAction'          	 => 'lib/core/lhpn/lhpnmailaction.php',
+         'erLhcoreClassInputForm'          		 => 'lib/core/lhcore/lhform.php',   
 	
-         'erLhcoreClassInputForm'          		 		=> 'lib/core/lhcore/lhform.php',   
-	
-		 				
 		  // Abstract module
 		  'erLhcoreClassAbstract' 				 => 'lib/core/lhabstract/lhabstract.php',
 		  'erLhAbstractModelClassification' 	 => 'lib/models/lhabstract/erlhabstractmodelclassification.php',

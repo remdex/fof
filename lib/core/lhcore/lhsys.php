@@ -140,7 +140,27 @@ class CSCacheAPC {
         } else {
            $GLOBALS[$key] = $value; 
         }
-    }      
+    }
+
+    public static function multi_implode($glue, $pieces, $key = null)
+    {
+       $string='';
+
+       if(is_array($pieces))
+       {
+           reset($pieces);
+           while(list($key,$value)=each($pieces))
+           {
+               $string.=$glue.self::multi_implode($glue, $value, $key);
+           }
+       }
+       else
+       {
+           return "{$key}_{$pieces}";
+       }
+
+       return trim($string, $glue);
+    }   
 }
 
 

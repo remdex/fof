@@ -104,7 +104,7 @@ class erLhAbstractModelPostcode {
    {       
        if (!isset($params['disable_sql_cache']))
        {
-          $sql = erLhcoreClassPN::multi_implode(',',$params);
+          $sql = CSCacheAPC::multi_implode(',',$params);
           
           $cache = CSCacheAPC::getMem();          
           $cacheKey = isset($params['cache_key']) ? md5($sql.$params['cache_key']) : md5('global_cache_'.$cache->getCacheVersion('site_version').$sql);
@@ -186,7 +186,7 @@ class erLhAbstractModelPostcode {
        
        if (!isset($params['disable_sql_cache']))
        {
-          $sql = erLhcoreClassPN::multi_implode(',',$params);
+          $sql = CSCacheAPC::multi_implode(',',$params);
           
           $cache = CSCacheAPC::getMem();          
           $cacheKey = isset($params['cache_key']) ? md5($sql.$params['cache_key']) : md5('global_cache_'.$cache->getCacheVersion('site_version').$sql);
