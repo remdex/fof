@@ -1,0 +1,6 @@
+.left-photo{float:left;}
+.shop-options{float:right;width:300px;text-align:left;}
+.ad-basket{background:url(../images/icons/basket_add.png) no-repeat top left;width:16px;height:16px;float:left;cursor:pointer;}
+.ad-basket-ok{background-image:url(../images/icons/basket_delete.png);}
+
+

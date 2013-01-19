@@ -1,0 +1,4280 @@
+<?xml version="1.0"?>
+<!DOCTYPE TS>
+<TS>
+  <context>
+    <name>article/editstatic</name>
+    <message>
+      <source>Article name</source>
+      <translation>Artikli nimi</translation>
+    </message>
+    <message>
+      <source>Body</source>
+      <translation>Keha</translation>
+    </message>
+    <message>
+      <source>Article edit</source>
+      <translation>Artikli muuta</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Ajakohastama</translation>
+    </message>
+  </context>
+  <context>
+    <name>article/newstatic</name>
+    <message>
+      <source>New article</source>
+      <translation>Uus artikkel</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>V&#xE4;lja arvatud</translation>
+    </message>
+  </context>
+  <context>
+    <name>article/staticlist</name>
+    <message>
+      <source>Static articles</source>
+      <translation>Static esemeid</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Nimi</translation>
+    </message>
+    <message>
+      <source>Edit</source>
+      <translation>Edit</translation>
+    </message>
+    <message>
+      <source>New article</source>
+      <translation>Uus artikkel</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/admincategorys</name>
+    <message>
+      <source>Category</source>
+      <translation>Kategooria</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Pealkiri</translation>
+    </message>
+    <message>
+      <source>Owner</source>
+      <translation>Omanik</translation>
+    </message>
+    <message>
+      <source>Topics</source>
+      <translation>Teemasid</translation>
+    </message>
+    <message>
+      <source>Messages</source>
+      <translation>S&#xF5;numid</translation>
+    </message>
+    <message>
+      <source>Edit category</source>
+      <translation>Edit kategooria</translation>
+    </message>
+    <message>
+      <source>Delete category</source>
+      <translation>Kustuta kategooria</translation>
+    </message>
+    <message>
+      <source>Create a category</source>
+      <translation>Loo kategooria</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>Kodus</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/album</name>
+    <message>
+      <source>No records</source>
+      <translation>&#xDC;htegi kirjet</translation>
+    </message>
+    <message>
+      <source>Search by color and keyword, just try to see how fun it is!</source>
+      <translation>Otsing v&#xE4;rvi ja m&#xE4;rks&#xF5;na lihtsalt proovida, et n&#xE4;ha, kui tore on!</translation>
+    </message>
+    <message>
+      <source>Enter keyword or phrase</source>
+      <translation>Sisesta m&#xE4;rks&#xF5;na v&#xF5;i fraas</translation>
+    </message>
+    <message>
+      <source>Search entire gallery</source>
+      <translation>Otsi kogu galeriid</translation>
+    </message>
+    <message>
+      <source>Search</source>
+      <translation>Otsing</translation>
+    </message>
+    <message>
+      <source>enter keyword and click color, or just click color</source>
+      <translation>Sisesta otsingus&#xF5;na ja kl&#xF5;psake v&#xE4;rvi v&#xF5;i kl&#xF5;psake lihtsalt v&#xE4;rvi</translation>
+    </message>
+    <message>
+      <source>Include color</source>
+      <translation>Sisaldavad v&#xE4;rvi</translation>
+    </message>
+    <message>
+      <source>Exclude color</source>
+      <translation>V&#xE4;lista v&#xE4;rvi</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Lehek&#xFC;lg</translation>
+    </message>
+    <message>
+      <source>Last uploaded last</source>
+      <translation>Viimati lisatud viimase</translation>
+    </message>
+    <message>
+      <source>Most popular first</source>
+      <translation>Enamik populaarne esimese</translation>
+    </message>
+    <message>
+      <source>Most popular last</source>
+      <translation>K&#xF5;ige populaarsemad viimane</translation>
+    </message>
+    <message>
+      <source>Last hits first</source>
+      <translation>Viimati tabamust first</translation>
+    </message>
+    <message>
+      <source>Last hits last</source>
+      <translation>Viimati tabamust viimase</translation>
+    </message>
+    <message>
+      <source>Last commented first</source>
+      <translation>Viimati kommenteeritud first</translation>
+    </message>
+    <message>
+      <source>Last commented last</source>
+      <translation>Kommentaarid Viimased</translation>
+    </message>
+    <message>
+      <source>Last rated first</source>
+      <translation>Last hinnatud first</translation>
+    </message>
+    <message>
+      <source>Last rated last</source>
+      <translation>Last hinnatud viimane</translation>
+    </message>
+    <message>
+      <source>Top rated first</source>
+      <translation>Edetabel first</translation>
+    </message>
+    <message>
+      <source>Top rated last Last</source>
+      <translation>Edetabel viimane Viimane</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Resolutsioon</translation>
+    </message>
+    <message>
+      <source>Last uploaded images to album</source>
+      <translation>Viimati lisatud pildid album</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/createcategory</name>
+    <message>
+      <source>New category</source>
+      <translation>Uus kategooria</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>V&#xE4;lja arvatud</translation>
+    </message>
+    <message>
+      <source>back</source>
+      <translation>tagasi</translation>
+    </message>
+    <message>
+      <source>Please enter message!</source>
+      <translation>Palun sisesta s&#xF5;num!</translation>
+    </message>
+    <message>
+      <source>Please enter category name!</source>
+      <translation>Palun sisesta kategooria nimi!</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>Kodus</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/editcategory</name>
+    <message>
+      <source>Category edit</source>
+      <translation>Kategooria muuta</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Ajakohastama</translation>
+    </message>
+    <message>
+      <source>Please enter category name!</source>
+      <translation>Palun sisesta kategooria nimi!</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/editcategory</name>
+    <message>
+      <source>back</source>
+      <translation>tagasi</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Nimi</translation>
+    </message>
+    <message>
+      <source>Description</source>
+      <translation>Kirjeldus</translation>
+    </message>
+    <message>
+      <source>Owner</source>
+      <translation>Omanik</translation>
+    </message>
+    <message>
+      <source>Category edit</source>
+      <translation>Kategooria muuta</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Ajakohastama</translation>
+    </message>
+    <message>
+      <source>Hide subcategorys in frontpage</source>
+      <translation>Hide subcategorys FrontPage</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/albumedit</name>
+    <message>
+      <source>Edit topic</source>
+      <translation>Edit topic</translation>
+    </message>
+    <message>
+      <source>Topic name</source>
+      <translation>Teema nimi</translation>
+    </message>
+    <message>
+      <source>Topic status</source>
+      <translation>Topic staatus</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Ajakohastama</translation>
+    </message>
+    <message>
+      <source>Album edit</source>
+      <translation>Album muuta</translation>
+    </message>
+    <message>
+      <source>Album name</source>
+      <translation>Albumi nimi</translation>
+    </message>
+    <message>
+      <source>Album category</source>
+      <translation>Albumi kategooria</translation>
+    </message>
+    <message>
+      <source>Album owner</source>
+      <translation>Albumi omanik</translation>
+    </message>
+    <message>
+      <source>Description</source>
+      <translation>Kirjeldus</translation>
+    </message>
+    <message>
+      <source>Keywords</source>
+      <translation>M&#xE4;rks&#xF5;nad</translation>
+    </message>
+    <message>
+      <source>Public</source>
+      <translation>Avalik</translation>
+    </message>
+    <message>
+      <source>All users can uploads images to this album</source>
+      <translation>K&#xF5;ik kasutajad saavad lisatud pildid selles albumis</translation>
+    </message>
+    <message>
+      <source>Hidden</source>
+      <translation>Peidetud</translation>
+    </message>
+    <message>
+      <source>Hide album from users</source>
+      <translation>Hide album kasutajate</translation>
+    </message>
+    <message>
+      <source>Album thumbnail</source>
+      <translation>Album thumbnail</translation>
+    </message>
+    <message>
+      <source>Newest album image</source>
+      <translation>Uusim album pilti</translation>
+    </message>
+    <message>
+      <source>Revert to newest album image display mode</source>
+      <translation>Tagasi uusim album pilti kuvare&#x17E;iim</translation>
+    </message>
+    <message>
+      <source>Remove</source>
+      <translation>K&#xF5;rvaldama</translation>
+    </message>
+    <message>
+      <source>Edit message</source>
+      <translation>Edit s&#xF5;num</translation>
+    </message>
+    <message>
+      <source>Message</source>
+      <translation>S&#xF5;num</translation>
+    </message>
+    <message>
+      <source>File</source>
+      <translation>Fail</translation>
+    </message>
+    <message>
+      <source>New message</source>
+      <translation>Uus s&#xF5;num</translation>
+    </message>
+    <message>
+      <source>Publish</source>
+      <translation>Publish</translation>
+    </message>
+    <message>
+      <source>New topic</source>
+      <translation>Uus teema</translation>
+    </message>
+    <message>
+      <source>Choose topic category</source>
+      <translation>Vali teema kategooria</translation>
+    </message>
+    <message>
+      <source>Please enter album name!</source>
+      <translation>Palun sisesta albumi nimi!</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/album_list_admin</name>
+    <message>
+      <source>Are you sure?</source>
+      <translation>Oled sa kindel?</translation>
+    </message>
+    <message>
+      <source>Add images</source>
+      <translation>Lisa pilte</translation>
+    </message>
+    <message>
+      <source>Edit album</source>
+      <translation>Edit album</translation>
+    </message>
+    <message>
+      <source>Move all album photos to another album</source>
+      <translation>Viige k&#xF5;ik album fotod teine &#x200B;&#x200B;album</translation>
+    </message>
+    <message>
+      <source>Move photos by resolution</source>
+      <translation>Liiguta fotod resolutsioon</translation>
+    </message>
+    <message>
+      <source>Delete album</source>
+      <translation>Kustuta album</translation>
+    </message>
+    <message>
+      <source>Approve all images</source>
+      <translation>Kinnita k&#xF5;ik pildid</translation>
+    </message>
+    <message>
+      <source>Disapprove all images</source>
+      <translation>Tauni k&#xF5;ik pildid</translation>
+    </message>
+    <message>
+      <source>View on site</source>
+      <translation>Vaata kohapeal</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/userlist</name>
+    <message>
+      <source>Report list</source>
+      <translation>Report nimekirja</translation>
+    </message>
+    <message>
+      <source>Report</source>
+      <translation>Aruanne</translation>
+    </message>
+    <message>
+      <source>Topic</source>
+      <translation>Teema</translation>
+    </message>
+    <message>
+      <source>Topic message</source>
+      <translation>Topic s&#xF5;num</translation>
+    </message>
+    <message>
+      <source>Date</source>
+      <translation>Kuup&#xE4;ev</translation>
+    </message>
+    <message>
+      <source>Edit topic</source>
+      <translation>Edit topic</translation>
+    </message>
+    <message>
+      <source>Delete topic</source>
+      <translation>Delete topic</translation>
+    </message>
+    <message>
+      <source>IP</source>
+      <translation>IP</translation>
+    </message>
+    <message>
+      <source>Users</source>
+      <translation>Kasutajad</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Kasutajanimi</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Edit user</source>
+      <translation>Muuda kasutaja</translation>
+    </message>
+    <message>
+      <source>Delete user</source>
+      <translation>Kustuta kasutaja</translation>
+    </message>
+    <message>
+      <source>New user</source>
+      <translation>Uus kasutaja</translation>
+    </message>
+    <message>
+      <source>Replace image</source>
+      <translation>Vahetage pilti</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>S&#xFC;steemi konfiguratsioon</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/subcategory_list</name>
+    <message>
+      <source>images</source>
+      <translation>pilte</translation>
+    </message>
+    <message>
+      <source>albums</source>
+      <translation>albumis</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/addimages</name>
+    <message>
+      <source>Add images to album</source>
+      <translation>Pildi lisamine albumisse</translation>
+    </message>
+    <message>
+      <source>Move album images to another album</source>
+      <translation>Liiguta album pilte teise albumi</translation>
+    </message>
+    <message>
+      <source>Move image to another album</source>
+      <translation>Liiguta pilt teine &#x200B;&#x200B;album</translation>
+    </message>
+  </context>
+  <context>
+    <name>lhad/orderitemdetails/orderitemdetails_display_ad_magazine</name>
+    <message>
+      <source>Please enable JavaScript to upload image</source>
+      <translation>Please enable JavaScript to upload image</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/publicupload</name>
+    <message>
+      <source>Upload</source>
+      <translation>&#xDC;les</translation>
+    </message>
+    <message>
+      <source>Click to choose images to upload, you can also drop files here.</source>
+      <translation>Click valida pilte &#xFC;les laadida, saate ka tilk failid siin.</translation>
+    </message>
+    <message>
+      <source>Click to choose images to upload, you can also Drag and Drop files here (Darg and drop only for FF, Chrome).</source>
+      <translation>Click valida pilte &#xFC;les laadida, saate ka lohistada faile siit (Darg and drop ainult FF, Chrome).</translation>
+    </message>
+    <message>
+      <source>Public images archive upload</source>
+      <translation>Avalik pilte arhiiv laadida</translation>
+    </message>
+    <message>
+      <source>Click to choose zip to upload, you can also drop files here (Darg and drop only for FF, Chrome).</source>
+      <translation>Click valida zip faili &#xFC;les laadida saab ka tilk failid siin (Darg and drop ainult FF, Chrome).</translation>
+    </message>
+    <message>
+      <source>Public images upload</source>
+      <translation>Avalik pilte &#xFC;les laadida</translation>
+    </message>
+    <message>
+      <source>Max file size </source>
+      <translation type="unfinished">Max faili suurus</translation>
+    </message>
+  </context>
+  <context>
+    <name>lhad/uploadadorderitem_content</name>
+    <message>
+      <source>Cancel</source>
+      <translation>T&#xFC;histama</translation>
+    </message>
+    <message>
+      <source>Failed</source>
+      <translation>Eba&#xF5;nnestus</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/fileuploadcontainer</name>
+    <message>
+      <source>Title</source>
+      <translation>Pealkiri</translation>
+    </message>
+    <message>
+      <source>Keywords</source>
+      <translation>M&#xE4;rks&#xF5;nad</translation>
+    </message>
+    <message>
+      <source>Cross eye image</source>
+      <translation>Risti eye pilti</translation>
+    </message>
+    <message>
+      <source>Caption</source>
+      <translation>Pealkiri</translation>
+    </message>
+    <message>
+      <source>Enter new album name or choose public album</source>
+      <translation>Sisesta uus album nimega v&#xF5;i valida avalik album</translation>
+    </message>
+    <message>
+      <source>description</source>
+      <translation>kirjeldus</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/admincategorys</name>
+    <message>
+      <source>Category</source>
+      <translation>Kategooria</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Pealkiri</translation>
+    </message>
+    <message>
+      <source>Owner</source>
+      <translation>Omanik</translation>
+    </message>
+    <message>
+      <source>Edit category</source>
+      <translation>Edit kategooria</translation>
+    </message>
+    <message>
+      <source>Delete category</source>
+      <translation>Kustuta kategooria</translation>
+    </message>
+    <message>
+      <source>Create a category</source>
+      <translation>Loo kategooria</translation>
+    </message>
+    <message>
+      <source>Category albums</source>
+      <translation>Kategooria albumis</translation>
+    </message>
+    <message>
+      <source>This category does not have an album.</source>
+      <translation>Selles kategoorias ei ole album.</translation>
+    </message>
+    <message>
+      <source>Create an album</source>
+      <translation>Loo album</translation>
+    </message>
+    <message>
+      <source>Batch album create</source>
+      <translation>Partii album luua</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>Kodus</translation>
+    </message>
+    <message>
+      <source>Root category</source>
+      <translation>Juur kategooria</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/album_list</name>
+    <message>
+      <source>files</source>
+      <translation>faile</translation>
+    </message>
+    <message>
+      <source>Album priority</source>
+      <translation>Album prioriteet</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/batchadd</name>
+    <message>
+      <source>I cannot write this directory</source>
+      <translation>Ma ei saa kirjutada sellesse kataloogi</translation>
+    </message>
+    <message>
+      <source>No image were found!</source>
+      <translation>&#xDC;htegi pilti ei leitud!</translation>
+    </message>
+    <message>
+      <source>Import</source>
+      <translation>Import</translation>
+    </message>
+    <message>
+      <source>Import recursive this directory</source>
+      <translation>Import rekursiivne selles kataloogis</translation>
+    </message>
+    <message>
+      <source>Search</source>
+      <translation>Otsing</translation>
+    </message>
+    <message>
+      <source>Please enter album name and click search</source>
+      <translation>Palun sisesta albumi nimi ja kl&#xF5;psake otsing</translation>
+    </message>
+    <message>
+      <source>List images</source>
+      <translation>List pilte</translation>
+    </message>
+    <message>
+      <source>List images recursive</source>
+      <translation>List pilte rekursiivne</translation>
+    </message>
+    <message>
+      <source>Import images</source>
+      <translation>Import pilte</translation>
+    </message>
+    <message>
+      <source>Click list images or list images recursive</source>
+      <translation>Kliki nimekirja pilte v&#xF5;i nimekirjast pilte rekursiivne</translation>
+    </message>
+    <message>
+      <source>Add images</source>
+      <translation>Lisa pilte</translation>
+    </message>
+    <message>
+      <source>Please choose album first!</source>
+      <translation>Palun vali album esimene!</translation>
+    </message>
+    <message>
+      <source>Mass image upload</source>
+      <translation>Mass image upload</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/ratebanlist</name>
+    <message>
+      <source>Baned IP for rating</source>
+      <translation>Baned IP rating</translation>
+    </message>
+    <message>
+      <source>Are you sure?</source>
+      <translation>Oled sa kindel?</translation>
+    </message>
+    <message>
+      <source>Delete ip</source>
+      <translation>Kustuta ip</translation>
+    </message>
+    <message>
+      <source>New IP BAN</source>
+      <translation>New IP BAN</translation>
+    </message>
+    <message>
+      <source>IP</source>
+      <translation>IP</translation>
+    </message>
+    <message>
+      <source>Add</source>
+      <translation>Lisama</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>S&#xFC;steemi konfiguratsioon</translation>
+    </message>
+    <message>
+      <source>Comment ban IP</source>
+      <translation>Kommentaar keeld IP</translation>
+    </message>
+    <message>
+      <source>Rate ban IP</source>
+      <translation>Hinda keeld IP</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/grouplist</name>
+    <message>
+      <source>Delete comment</source>
+      <translation>Kustuta kommentaar</translation>
+    </message>
+    <message>
+      <source>Edit comment</source>
+      <translation>Muuda kommentaari</translation>
+    </message>
+    <message>
+      <source>Delete image</source>
+      <translation>Kustuta pilt</translation>
+    </message>
+    <message>
+      <source>Groups</source>
+      <translation>Grupid</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Nimi</translation>
+    </message>
+    <message>
+      <source>Edit group</source>
+      <translation>Muuda r&#xFC;hma</translation>
+    </message>
+    <message>
+      <source>Delete group</source>
+      <translation>Kustuta grupp</translation>
+    </message>
+    <message>
+      <source>New group</source>
+      <translation>Uus grupp</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>S&#xFC;steemi konfiguratsioon</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/my_image_list</name>
+    <message>
+      <source>Delete comment</source>
+      <translation>Kustuta kommentaar</translation>
+    </message>
+    <message>
+      <source>Edit comment</source>
+      <translation>Muuda kommentaari</translation>
+    </message>
+    <message>
+      <source>Delete image</source>
+      <translation>Kustuta pilt</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>Vaata pilti</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Pealkiri</translation>
+    </message>
+    <message>
+      <source>Keywords</source>
+      <translation>M&#xE4;rks&#xF5;nad</translation>
+    </message>
+    <message>
+      <source>Caption</source>
+      <translation>Pealkiri</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Ajakohastama</translation>
+    </message>
+    <message>
+      <source>Message author</source>
+      <translation>Saatja</translation>
+    </message>
+    <message>
+      <source>Message</source>
+      <translation>S&#xF5;num</translation>
+    </message>
+    <message>
+      <source>Rotate image clockwise</source>
+      <translation>Pildi p&#xF6;&#xF6;ramine p&#xE4;rip&#xE4;eva</translation>
+    </message>
+    <message>
+      <source>Flip horizontaly</source>
+      <translation>Flip horizontaly</translation>
+    </message>
+    <message>
+      <source>Flip verticaly</source>
+      <translation>Flip verticaly</translation>
+    </message>
+    <message>
+      <source>Upload new image</source>
+      <translation>Laadige uus pilt</translation>
+    </message>
+    <message>
+      <source>Set as folder thumbnail</source>
+      <translation>Set as kausta thumbnail</translation>
+    </message>
+    <message>
+      <source>Move image to another album</source>
+      <translation>Liiguta pilt teine &#x200B;&#x200B;album</translation>
+    </message>
+    <message>
+      <source>Anaglyph</source>
+      <translation>Anaglyph</translation>
+    </message>
+    <message>
+      <source>Approved</source>
+      <translation>Heaks</translation>
+    </message>
+    <message>
+      <source>Select image</source>
+      <translation>Valige pilt</translation>
+    </message>
+    <message>
+      <source>File</source>
+      <translation>Fail</translation>
+    </message>
+    <message>
+      <source>Upload</source>
+      <translation>&#xDC;les</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/createalbumadmin</name>
+    <message>
+      <source>New album</source>
+      <translation>Uus album</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>V&#xE4;lja arvatud</translation>
+    </message>
+    <message>
+      <source>New batch album create</source>
+      <translation>Uue partii album luua</translation>
+    </message>
+    <message>
+      <source>Paste album names separated by new line</source>
+      <translation>Paste album nimed eraldatud uue liini</translation>
+    </message>
+    <message>
+      <source>Public</source>
+      <translation>Avalik</translation>
+    </message>
+    <message>
+      <source>All users can uploads images to this album</source>
+      <translation>K&#xF5;ik kasutajad saavad lisatud pildid selles albumis</translation>
+    </message>
+    <message>
+      <source>Please enter album name!</source>
+      <translation>Palun sisesta albumi nimi!</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/duplicates</name>
+    <message>
+      <source>Similar images number</source>
+      <translation>Sarnaste piltide number</translation>
+    </message>
+    <message>
+      <source>Details</source>
+      <translation>Detailid</translation>
+    </message>
+    <message>
+      <source>More</source>
+      <translation>Rohkem</translation>
+    </message>
+    <message>
+      <source>Delete duplicate session</source>
+      <translation>Kustuta eksemplaris istungil</translation>
+    </message>
+    <message>
+      <source>No duplicates pending...</source>
+      <translation>Ei dubleerib kuni ...</translation>
+    </message>
+    <message>
+      <source>Duplicates</source>
+      <translation>Duplikaatide</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/image</name>
+    <message>
+      <source>Picture comments</source>
+      <translation>Pilt kommentaari</translation>
+    </message>
+    <message>
+      <source>No comments</source>
+      <translation>No comments</translation>
+    </message>
+    <message>
+      <source>Comment stored</source>
+      <translation>Kommentaar salvestatud</translation>
+    </message>
+    <message>
+      <source>Leave a reply</source>
+      <translation>J&#xE4;ta vastus</translation>
+    </message>
+    <message>
+      <source>Nick</source>
+      <translation>Nick</translation>
+    </message>
+    <message>
+      <source>Max 25 characters</source>
+      <translation>Kuni 25 t&#xE4;hem&#xE4;rki</translation>
+    </message>
+    <message>
+      <source>Message</source>
+      <translation>S&#xF5;num</translation>
+    </message>
+    <message>
+      <source>Send</source>
+      <translation>Saatma</translation>
+    </message>
+    <message>
+      <source>Image edit</source>
+      <translation>Pildi redigeerimise</translation>
+    </message>
+    <message>
+      <source>Rate this picture</source>
+      <translation>Hinda seda pilti</translation>
+    </message>
+    <message>
+      <source>star</source>
+      <translation>t&#xE4;ht</translation>
+    </message>
+    <message>
+      <source>stars</source>
+      <translation>t&#xE4;hte</translation>
+    </message>
+    <message>
+      <source>Vote!</source>
+      <translation>H&#xE4;&#xE4;leta!</translation>
+    </message>
+    <message>
+      <source>Deduct vote!</source>
+      <translation>Maha h&#xE4;&#xE4;letada!</translation>
+    </message>
+    <message>
+      <source>next image</source>
+      <translation>j&#xE4;rgmine pilt</translation>
+    </message>
+    <message>
+      <source>previous image</source>
+      <translation>eelmine pilt</translation>
+    </message>
+    <message>
+      <source>return to thumbnails</source>
+      <translation>tagasi pisipiltide</translation>
+    </message>
+    <message>
+      <source>Click to see fullsize</source>
+      <translation>Kl&#xF5;psa, et n&#xE4;ha t&#xE4;issuurus</translation>
+    </message>
+    <message>
+      <source>Supported BB Code style tags: [b] [i] [u] [quote] :) :D :( :o :p ;)</source>
+      <translation>Toetatud BB Kood style tags: [b] [i] [u] [quote]:): D: (: o: p;)</translation>
+    </message>
+    <message>
+      <source>Add to favorites</source>
+      <translation>Lisa s&#xF5;prade nimekirja</translation>
+    </message>
+    <message>
+      <source>Share this page HTML code</source>
+      <translation>Jagage seda lehte HTML koodi</translation>
+    </message>
+    <message>
+      <source>Share PHPBB code</source>
+      <translation>Jaga PhpBB kood</translation>
+    </message>
+    <message>
+      <source>Anaglyph version</source>
+      <translation>Anaglyph versioon</translation>
+    </message>
+    <message>
+      <source>Enter tags separated by space</source>
+      <translation>Enter sildid eraldab t&#xFC;hik</translation>
+    </message>
+    <message>
+      <source>Picture details</source>
+      <translation>Pilt detailid</translation>
+    </message>
+    <message>
+      <source>Filename</source>
+      <translation>Failinimi</translation>
+    </message>
+    <message>
+      <source>File size</source>
+      <translation>Faili suurus</translation>
+    </message>
+    <message>
+      <source>Image rating</source>
+      <translation>Image rating</translation>
+    </message>
+    <message>
+      <source>Date added</source>
+      <translation>Lisamise aeg</translation>
+    </message>
+    <message>
+      <source>Dimensions</source>
+      <translation>M&#xF5;&#xF5;dud</translation>
+    </message>
+    <message>
+      <source>Displayed</source>
+      <translation>N&#xE4;idatud</translation>
+    </message>
+    <message>
+      <source>times</source>
+      <translation>korda</translation>
+    </message>
+    <message>
+      <source>Album</source>
+      <translation>Album</translation>
+    </message>
+    <message>
+      <source>URL</source>
+      <translation>URL</translation>
+    </message>
+    <message>
+      <source>Owner</source>
+      <translation>Omanik</translation>
+    </message>
+    <message>
+      <source>About user</source>
+      <translation>Info kasutaja</translation>
+    </message>
+    <message>
+      <source>votes</source>
+      <translation>h&#xE4;&#xE4;lega</translation>
+    </message>
+    <message>
+      <source>Search for similar colors images</source>
+      <translation>Otsi sarnased v&#xE4;rvid pilte</translation>
+    </message>
+    <message>
+      <source>Search for visualy similar images</source>
+      <translation>Otsi visualy sarnaseid pilte</translation>
+    </message>
+    <message>
+      <source>More user images</source>
+      <translation>Rohkem kasutaja pilte</translation>
+    </message>
+    <message>
+      <source>Version</source>
+      <translation>Versioon</translation>
+    </message>
+    <message>
+      <source>Image size</source>
+      <translation>Pildi suurus</translation>
+    </message>
+    <message>
+      <source>Format</source>
+      <translation>Formaat</translation>
+    </message>
+    <message>
+      <source>Price</source>
+      <translation>Hind</translation>
+    </message>
+    <message>
+      <source>credits</source>
+      <translation>krediiti</translation>
+    </message>
+    <message>
+      <source>Remove from basket</source>
+      <translation>Eemalda ostukorvist</translation>
+    </message>
+    <message>
+      <source>Add to basket</source>
+      <translation>Lisa ostukorvi</translation>
+    </message>
+    <message>
+      <source>Wrong captcha code!</source>
+      <translation>Vale captcha koodi!</translation>
+    </message>
+    <message>
+      <source>Please enter nick!</source>
+      <translation>Palun sisesta Nick!</translation>
+    </message>
+    <message>
+      <source>Please enter comment!</source>
+      <translation>Palun sisesta kommentaar!</translation>
+    </message>
+    <message>
+      <source>You are not allowed to leave a comments!</source>
+      <translation>Sul ei ole lubatud lahkuda kommentaarid!</translation>
+    </message>
+    <message>
+      <source>Guest_</source>
+      <translation>Guest_</translation>
+    </message>
+    <message>
+      <source>Last uploaded images</source>
+      <translation>Viimati lisatud pildid</translation>
+    </message>
+    <message>
+      <source>Last additions</source>
+      <translation>Viimased lisandused</translation>
+    </message>
+    <message>
+      <source>Last viewed images</source>
+      <translation>Viimati vaadatud pildid</translation>
+    </message>
+    <message>
+      <source>Last commented images</source>
+      <translation>Viimati kommenteeris pilte</translation>
+    </message>
+    <message>
+      <source>Last rated images</source>
+      <translation>Viimati hinnatud pildid</translation>
+    </message>
+    <message>
+      <source>Top rated images</source>
+      <translation>K&#xF5;rgeimalt hinnatud pildid</translation>
+    </message>
+    <message>
+      <source>Search by color</source>
+      <translation>Otsing v&#xE4;rvi</translation>
+    </message>
+    <message>
+      <source>Most popular images</source>
+      <translation>K&#xF5;ige populaarsemad pilte</translation>
+    </message>
+    <message>
+      <source>Search rss by keyword</source>
+      <translation>Otsi rss m&#xE4;rks&#xF5;na j&#xE4;rgi</translation>
+    </message>
+    <message>
+      <source>Last uploaded first</source>
+      <translation>Viimati lisatud first</translation>
+    </message>
+    <message>
+      <source>Last uploaded last</source>
+      <translation>Viimati lisatud viimase</translation>
+    </message>
+    <message>
+      <source>Most popular first</source>
+      <translation>Enamik populaarne esimese</translation>
+    </message>
+    <message>
+      <source>Most popular last</source>
+      <translation>K&#xF5;ige populaarsemad viimane</translation>
+    </message>
+    <message>
+      <source>Last hits first</source>
+      <translation>Viimati tabamust first</translation>
+    </message>
+    <message>
+      <source>Last hits last</source>
+      <translation>Viimati tabamust viimase</translation>
+    </message>
+    <message>
+      <source>Last commented first</source>
+      <translation>Viimati kommenteeritud first</translation>
+    </message>
+    <message>
+      <source>Last commented last</source>
+      <translation>Kommentaarid Viimased</translation>
+    </message>
+    <message>
+      <source>Top rated first</source>
+      <translation>Edetabel first</translation>
+    </message>
+    <message>
+      <source>Top rated last Last</source>
+      <translation>Edetabel viimane Viimane</translation>
+    </message>
+    <message>
+      <source>Last rated first</source>
+      <translation>Last hinnatud first</translation>
+    </message>
+    <message>
+      <source>Last rated last</source>
+      <translation>Last hinnatud viimane</translation>
+    </message>
+    <message>
+      <source>Most relevance images last</source>
+      <translation>Enamik tekst pilte viimane</translation>
+    </message>
+    <message>
+      <source>search results</source>
+      <translation>Otsingu tulemused</translation>
+    </message>
+    <message>
+      <source>Last uploaded images to album</source>
+      <translation>Viimati lisatud pildid album</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/managealbum</name>
+    <message>
+      <source>No records.</source>
+      <translation>Ei arvestust.</translation>
+    </message>
+    <message>
+      <source>Category</source>
+      <translation>Kategooria</translation>
+    </message>
+    <message>
+      <source>Create an album</source>
+      <translation>Loo album</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>Kodus</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/managealbumimages</name>
+    <message>
+      <source>Move selected images to</source>
+      <translation>Liiguta valitud pildid</translation>
+    </message>
+    <message>
+      <source>Check all</source>
+      <translation>Vaata k&#xF5;ik</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>Ei arvestust.</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>Kodus</translation>
+    </message>
+    <message>
+      <source>Root category</source>
+      <translation>Juur kategooria</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/movealbumphotos</name>
+    <message>
+      <source>Search album</source>
+      <translation>Otsi album</translation>
+    </message>
+    <message>
+      <source>Move photos</source>
+      <translation>Liiguta fotod</translation>
+    </message>
+    <message>
+      <source>We moved</source>
+      <translation>Kolisime</translation>
+    </message>
+    <message>
+      <source>images</source>
+      <translation>pilte</translation>
+    </message>
+    <message>
+      <source>Move album photos</source>
+      <translation>Liiguta album fotod</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/image_list</name>
+    <message>
+      <source>preview version</source>
+      <translation>eelvaate versiooni</translation>
+    </message>
+    <message>
+      <source>See full size</source>
+      <translation>Vaata t&#xE4;issuuruses</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/search</name>
+    <message>
+      <source>Last uploaded</source>
+      <translation>Viimati lisatud</translation>
+    </message>
+    <message>
+      <source>Most popular</source>
+      <translation>Populaarsemad</translation>
+    </message>
+    <message>
+      <source>Last hits</source>
+      <translation>Viimati tabamust</translation>
+    </message>
+    <message>
+      <source>Top rated</source>
+      <translation>K&#xF5;rgeimalt hinnatud</translation>
+    </message>
+    <message>
+      <source>Last rated</source>
+      <translation>Last hinnatud</translation>
+    </message>
+    <message>
+      <source>Last commented</source>
+      <translation>Viimati kommenteeritud</translation>
+    </message>
+    <message>
+      <source>Filename</source>
+      <translation>Failinimi</translation>
+    </message>
+    <message>
+      <source>Search results</source>
+      <translation>Otsingu tulemused</translation>
+    </message>
+    <message>
+      <source>Nothing found</source>
+      <translation>Ei leitud midagi</translation>
+    </message>
+    <message>
+      <source>Any resolution</source>
+      <translation>Iga otsuse</translation>
+    </message>
+    <message>
+      <source>Relevance</source>
+      <translation>T&#xE4;htsus</translation>
+    </message>
+    <message>
+      <source>Any keyword</source>
+      <translation>Iga m&#xE4;rks&#xF5;na</translation>
+    </message>
+    <message>
+      <source>All keywords</source>
+      <translation>K&#xF5;ik m&#xE4;rks&#xF5;nad</translation>
+    </message>
+    <message>
+      <source>search results</source>
+      <translation>Otsingu tulemused</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Lehek&#xFC;lg</translation>
+    </message>
+    <message>
+      <source>Last uploaded first</source>
+      <translation>Viimati lisatud first</translation>
+    </message>
+    <message>
+      <source>Last uploaded last</source>
+      <translation>Viimati lisatud viimase</translation>
+    </message>
+    <message>
+      <source>Most popular first</source>
+      <translation>Enamik populaarne esimese</translation>
+    </message>
+    <message>
+      <source>Most popular last</source>
+      <translation>K&#xF5;ige populaarsemad viimane</translation>
+    </message>
+    <message>
+      <source>Last hits first</source>
+      <translation>Viimati tabamust first</translation>
+    </message>
+    <message>
+      <source>Last hits last</source>
+      <translation>Viimati tabamust viimase</translation>
+    </message>
+    <message>
+      <source>Last commented first</source>
+      <translation>Viimati kommenteeritud first</translation>
+    </message>
+    <message>
+      <source>Last commented last</source>
+      <translation>Kommentaarid Viimased</translation>
+    </message>
+    <message>
+      <source>Last rated first</source>
+      <translation>Last hinnatud first</translation>
+    </message>
+    <message>
+      <source>Last rated last</source>
+      <translation>Last hinnatud viimane</translation>
+    </message>
+    <message>
+      <source>Top rated first</source>
+      <translation>Edetabel first</translation>
+    </message>
+    <message>
+      <source>Top rated last</source>
+      <translation>Edetabel viimane</translation>
+    </message>
+    <message>
+      <source>Most relevance images last</source>
+      <translation>Enamik tekst pilte viimane</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Resolutsioon</translation>
+    </message>
+    <message>
+      <source>Search RSS by keyword</source>
+      <translation>Otsi RSS m&#xE4;rks&#xF5;na j&#xE4;rgi</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/editrole</name>
+    <message>
+      <source>Role edit</source>
+      <translation>Role muuta</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Pealkiri</translation>
+    </message>
+    <message>
+      <source>Assigned functions</source>
+      <translation>M&#xE4;&#xE4;ratud &#xFC;lesannete</translation>
+    </message>
+    <message>
+      <source>Module</source>
+      <translation>Moodul</translation>
+    </message>
+    <message>
+      <source>Function</source>
+      <translation>Funktsioon</translation>
+    </message>
+    <message>
+      <source>Remove selected</source>
+      <translation>Kustuta valitud</translation>
+    </message>
+    <message>
+      <source>New policy</source>
+      <translation>Uus poliitika</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Ajakohastama</translation>
+    </message>
+    <message>
+      <source>Cancel</source>
+      <translation>T&#xFC;histama</translation>
+    </message>
+    <message>
+      <source>Role assigned groups</source>
+      <translation>Rolli m&#xE4;&#xE4;ras r&#xFC;hmade</translation>
+    </message>
+    <message>
+      <source>Group assignement to role</source>
+      <translation>Group assignement Roll</translation>
+    </message>
+    <message>
+      <source>Assign group</source>
+      <translation>M&#xE4;&#xE4;ra r&#xFC;hm</translation>
+    </message>
+    <message>
+      <source>Please enter role name</source>
+      <translation>Palun sisesta rolli nimi</translation>
+    </message>
+    <message>
+      <source>Please choose module</source>
+      <translation>Palun valige moodul</translation>
+    </message>
+    <message>
+      <source>Please choose module function</source>
+      <translation>Palun valige moodul funktsioon</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>S&#xFC;steemi konfiguratsioon</translation>
+    </message>
+    <message>
+      <source>List of roles</source>
+      <translation>List rollide</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/groupassignrole</name>
+    <message>
+      <source>Title</source>
+      <translation>Pealkiri</translation>
+    </message>
+    <message>
+      <source>Assign</source>
+      <translation>M&#xE4;&#xE4;rama</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/modulefunctions</name>
+    <message>
+      <source>All functions</source>
+      <translation>K&#xF5;ik funktsioonid</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/newpolicy</name>
+    <message>
+      <source>New policy</source>
+      <translation>Uus poliitika</translation>
+    </message>
+    <message>
+      <source>Assigned functions</source>
+      <translation>M&#xE4;&#xE4;ratud &#xFC;lesannete</translation>
+    </message>
+    <message>
+      <source>Choose module</source>
+      <translation>Vali moodul</translation>
+    </message>
+    <message>
+      <source>All modules</source>
+      <translation>K&#xF5;ik moodulid</translation>
+    </message>
+    <message>
+      <source>Choose module function</source>
+      <translation>Vali moodul funktsioon</translation>
+    </message>
+    <message>
+      <source>All functions</source>
+      <translation>K&#xF5;ik funktsioonid</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>V&#xE4;lja arvatud</translation>
+    </message>
+    <message>
+      <source>Cancel</source>
+      <translation>T&#xFC;histama</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/newrole</name>
+    <message>
+      <source>New role</source>
+      <translation>Uue rolli</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Pealkiri</translation>
+    </message>
+    <message>
+      <source>Policy list</source>
+      <translation>Policy nimekiri</translation>
+    </message>
+    <message>
+      <source>Module</source>
+      <translation>Moodul</translation>
+    </message>
+    <message>
+      <source>Function</source>
+      <translation>Funktsioon</translation>
+    </message>
+    <message>
+      <source>New policy</source>
+      <translation>Uus poliitika</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>V&#xE4;lja arvatud</translation>
+    </message>
+    <message>
+      <source>Cancel</source>
+      <translation>T&#xFC;histama</translation>
+    </message>
+    <message>
+      <source>Please enter role name</source>
+      <translation>Palun sisesta rolli nimi</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>S&#xFC;steemi konfiguratsioon</translation>
+    </message>
+    <message>
+      <source>List of roles</source>
+      <translation>List rollide</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/roleassigngroup</name>
+    <message>
+      <source>Title</source>
+      <translation>Pealkiri</translation>
+    </message>
+    <message>
+      <source>Assign</source>
+      <translation>M&#xE4;&#xE4;rama</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/roles</name>
+    <message>
+      <source>List of roles</source>
+      <translation>List rollide</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Pealkiri</translation>
+    </message>
+    <message>
+      <source>Edit role</source>
+      <translation>Edit rolli</translation>
+    </message>
+    <message>
+      <source>Delete role</source>
+      <translation>Kustuta rolli</translation>
+    </message>
+    <message>
+      <source>New role</source>
+      <translation>Uue rolli</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>S&#xFC;steemi konfiguratsioon</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/index</name>
+    <message>
+      <source>Shop configuration</source>
+      <translation>Shop konfiguratsiooni</translation>
+    </message>
+    <message>
+      <source>Images variations sizes</source>
+      <translation>Images variatsioonid suurused</translation>
+    </message>
+    <message>
+      <source>List payment options</source>
+      <translation>List maksev&#xF5;imalused</translation>
+    </message>
+    <message>
+      <source>Settings list</source>
+      <translation>Seaded nimekirja</translation>
+    </message>
+    <message>
+      <source>Orders list</source>
+      <translation>Tellimused nimekirja</translation>
+    </message>
+    <message>
+      <source>Credits orders list</source>
+      <translation>Autorid tellimuste nimekirja</translation>
+    </message>
+    <message>
+      <source>Shop</source>
+      <translation>Kauplus</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/listpaymentoptions</name>
+    <message>
+      <source>Payment options</source>
+      <translation>Maksev&#xF5;imalused</translation>
+    </message>
+    <message>
+      <source>Identifier</source>
+      <translation>Identifier</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Nimi</translation>
+    </message>
+    <message>
+      <source>Active</source>
+      <translation>Aktiivne</translation>
+    </message>
+    <message>
+      <source>Author</source>
+      <translation>Autor</translation>
+    </message>
+    <message>
+      <source>Edit</source>
+      <translation>Edit</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/orderedit</name>
+    <message>
+      <source>Order view</source>
+      <translation>Et vaadata</translation>
+    </message>
+    <message>
+      <source>Order time</source>
+      <translation>Tellimuse t&#xE4;itmisaeg</translation>
+    </message>
+    <message>
+      <source>Order price</source>
+      <translation>Et hind</translation>
+    </message>
+    <message>
+      <source>Order credits</source>
+      <translation>Et krediiti</translation>
+    </message>
+    <message>
+      <source>Order status</source>
+      <translation>Tellimuse staatus</translation>
+    </message>
+    <message>
+      <source>Payed.</source>
+      <translation>Payed.</translation>
+    </message>
+    <message>
+      <source>Confirmed</source>
+      <translation>Kinnitatud</translation>
+    </message>
+    <message>
+      <source>Ordered items</source>
+      <translation>Tellitud teemad</translation>
+    </message>
+    <message>
+      <source>Image name</source>
+      <translation>Pildi nimi</translation>
+    </message>
+    <message>
+      <source>Version</source>
+      <translation>Versioon</translation>
+    </message>
+    <message>
+      <source>Image size</source>
+      <translation>Pildi suurus</translation>
+    </message>
+    <message>
+      <source>Format</source>
+      <translation>Formaat</translation>
+    </message>
+    <message>
+      <source>Price</source>
+      <translation>Hind</translation>
+    </message>
+    <message>
+      <source>Download count</source>
+      <translation>Lae count</translation>
+    </message>
+    <message>
+      <source>Downloads left</source>
+      <translation>Downloads vasakul</translation>
+    </message>
+    <message>
+      <source>Credits</source>
+      <translation>Autorid</translation>
+    </message>
+  </context>
+  <context>
+    <name>systemconfig/list</name>
+    <message>
+      <source>Delete order item</source>
+      <translation>Kustuta Toode</translation>
+    </message>
+    <message>
+      <source>Delete order</source>
+      <translation>Delete, et</translation>
+    </message>
+    <message>
+      <source>Config list</source>
+      <translation>Config nimekirja</translation>
+    </message>
+    <message>
+      <source>Identifier</source>
+      <translation>Identifier</translation>
+    </message>
+    <message>
+      <source>Explain</source>
+      <translation>Selgitama</translation>
+    </message>
+    <message>
+      <source>Edit value</source>
+      <translation>Edit v&#xE4;&#xE4;rtus</translation>
+    </message>
+    <message>
+      <source>System config options</source>
+      <translation>S&#xFC;steem config valikud</translation>
+    </message>
+    <message>
+      <source>List</source>
+      <translation>Nimekiri</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/orderslist</name>
+    <message>
+      <source>Orders credits list</source>
+      <translation>Tellimused krediiti nimekirja</translation>
+    </message>
+    <message>
+      <source>ID</source>
+      <translation>ID</translation>
+    </message>
+    <message>
+      <source>Date</source>
+      <translation>Kuup&#xE4;ev</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Order price</source>
+      <translation>Et hind</translation>
+    </message>
+    <message>
+      <source>Order credits</source>
+      <translation>Et krediiti</translation>
+    </message>
+    <message>
+      <source>Order status</source>
+      <translation>Tellimuse staatus</translation>
+    </message>
+    <message>
+      <source>Payed.</source>
+      <translation>Payed.</translation>
+    </message>
+    <message>
+      <source>Confirmed</source>
+      <translation>Kinnitatud</translation>
+    </message>
+    <message>
+      <source>No orders...</source>
+      <translation>Ei tellimusi ...</translation>
+    </message>
+    <message>
+      <source>Orders list</source>
+      <translation>Tellimused nimekirja</translation>
+    </message>
+    <message>
+      <source>Order view</source>
+      <translation>Et vaadata</translation>
+    </message>
+    <message>
+      <source>User orders list</source>
+      <translation>Kasutaja tellimuste nimekirja</translation>
+    </message>
+    <message>
+      <source>User credits orders list</source>
+      <translation>Kasutaja krediiti tellimuste nimekirja</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/paymentoptionedit</name>
+    <message>
+      <source>Payment option edit</source>
+      <translation>Makseviisi muuta</translation>
+    </message>
+    <message>
+      <source>Identifier</source>
+      <translation>Identifier</translation>
+    </message>
+    <message>
+      <source>Active</source>
+      <translation>Aktiivne</translation>
+    </message>
+    <message>
+      <source>Payment settings</source>
+      <translation>Makse seaded</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Ajakohastama</translation>
+    </message>
+  </context>
+  <context>
+    <name>systemconfig/edit</name>
+    <message>
+      <source>Edit</source>
+      <translation>Edit</translation>
+    </message>
+    <message>
+      <source>Data updated</source>
+      <translation>Andmed uuendatud</translation>
+    </message>
+    <message>
+      <source>Identifier</source>
+      <translation>Identifier</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Ajakohastama</translation>
+    </message>
+    <message>
+      <source>Values applies to</source>
+      <translation>V&#xE4;&#xE4;rtused kehtib</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/settinglist</name>
+    <message>
+      <source>Shop config list</source>
+      <translation>Shop config nimekirja</translation>
+    </message>
+    <message>
+      <source>Identifier</source>
+      <translation>Identifier</translation>
+    </message>
+    <message>
+      <source>Explain</source>
+      <translation>Selgitama</translation>
+    </message>
+    <message>
+      <source>Value</source>
+      <translation>V&#xE4;&#xE4;rtus</translation>
+    </message>
+    <message>
+      <source>Edit value</source>
+      <translation>Edit v&#xE4;&#xE4;rtus</translation>
+    </message>
+  </context>
+  <context>
+    <name>statistic/choosesite</name>
+    <message>
+      <source>Choose site you want to show statistic</source>
+      <translation>Vali lehek&#xFC;lg soovite n&#xE4;idata statistik</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>V&#xE4;lja arvatud</translation>
+    </message>
+  </context>
+  <context>
+    <name>statistic/index</name>
+    <message>
+      <source>Google analytics statistic</source>
+      <translation>Google analytics statistika</translation>
+    </message>
+    <message>
+      <source>Grant access application to access google analytics API</source>
+      <translation>Juurdep&#xE4;&#xE4;su taotluse kasutada Google Analytics API</translation>
+    </message>
+    <message>
+      <source>Site choose</source>
+      <translation>Saidi valida</translation>
+    </message>
+    <message>
+      <source>View statistic</source>
+      <translation>Vaata statistika</translation>
+    </message>
+    <message>
+      <source>Statistic</source>
+      <translation>Statistika</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>Kodus</translation>
+    </message>
+  </context>
+  <context>
+    <name>system/configuration</name>
+    <message>
+      <source>System configuration</source>
+      <translation>S&#xFC;steemi konfiguratsioon</translation>
+    </message>
+    <message>
+      <source>Users</source>
+      <translation>Kasutajad</translation>
+    </message>
+    <message>
+      <source>List of groups</source>
+      <translation>R&#xFC;hmade loendit</translation>
+    </message>
+    <message>
+      <source>List of roles</source>
+      <translation>List rollide</translation>
+    </message>
+    <message>
+      <source>System configuration values</source>
+      <translation>S&#xFC;steemi konfiguratsiooni v&#xE4;&#xE4;rtused</translation>
+    </message>
+    <message>
+      <source>Watermark protection</source>
+      <translation>Watermark kaitse</translation>
+    </message>
+    <message>
+      <source>Banned rating IP list</source>
+      <translation>Banned rating IP nimekirja</translation>
+    </message>
+    <message>
+      <source>Banned commenting IP list</source>
+      <translation>Banned kommenteerides IP nimekirja</translation>
+    </message>
+  </context>
+  <context>
+    <name>systemconfig/watermark</name>
+    <message>
+      <source>Watermark configuration</source>
+      <translation>Watermark konfiguratsiooni</translation>
+    </message>
+    <message>
+      <source>Settings updated</source>
+      <translation>Seaded uuendatud</translation>
+    </message>
+    <message>
+      <source>Delete watermark</source>
+      <translation>Kustuta vesim&#xE4;rk</translation>
+    </message>
+    <message>
+      <source>Image, it is recommended PNG type image</source>
+      <translation>Pilt on soovitatav, PNG t&#xFC;&#xFC;pi image</translation>
+    </message>
+    <message>
+      <source>Settings</source>
+      <translation>Seaded</translation>
+    </message>
+    <message>
+      <source>Watermark disabled</source>
+      <translation>Watermark keelatud</translation>
+    </message>
+    <message>
+      <source>Watermark enabled for normal size thumbnails</source>
+      <translation>Watermark lubatud normaalse suurusega pisipildid</translation>
+    </message>
+    <message>
+      <source>Watermark enabled for all images</source>
+      <translation>Watermark lubatud k&#xF5;ik pildid</translation>
+    </message>
+    <message>
+      <source>Watermark position</source>
+      <translation>Watermark positsiooni</translation>
+    </message>
+    <message>
+      <source>Top left</source>
+      <translation>&#xDC;leval vasakul</translation>
+    </message>
+    <message>
+      <source>Top right</source>
+      <translation>&#xDC;leval paremal</translation>
+    </message>
+    <message>
+      <source>Bottom left</source>
+      <translation>All vasakul</translation>
+    </message>
+    <message>
+      <source>Bottom right</source>
+      <translation>All paremal</translation>
+    </message>
+    <message>
+      <source>Center</source>
+      <translation>Keskus</translation>
+    </message>
+    <message>
+      <source>Watermark padding from borders</source>
+      <translation>Watermark padding alates piire</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Ajakohastama</translation>
+    </message>
+    <message>
+      <source>Watermark</source>
+      <translation>Watermark</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/account</name>
+    <message>
+      <source>Logged user</source>
+      <translation>Sisseloginud kasutajale</translation>
+    </message>
+    <message>
+      <source>Account updated</source>
+      <translation>Konto uuendatud</translation>
+    </message>
+    <message>
+      <source>Do not enter password unless you want to change it</source>
+      <translation>&#xC4;rge sisestage parooli, kui sa soovid seda muuta</translation>
+    </message>
+    <message>
+      <source>Login information</source>
+      <translation>Logini</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Kasutajanimi</translation>
+    </message>
+    <message>
+      <source>Password</source>
+      <translation>Parool</translation>
+    </message>
+    <message>
+      <source>Repeat password</source>
+      <translation>Korda parooli</translation>
+    </message>
+    <message>
+      <source>Contact information</source>
+      <translation>Kontakt</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Ajakohastama</translation>
+    </message>
+    <message>
+      <source>Message send</source>
+      <translation>Saada</translation>
+    </message>
+    <message>
+      <source>Add google account</source>
+      <translation>Lisa google konto</translation>
+    </message>
+    <message>
+      <source>Working</source>
+      <translation>T&#xF6;&#xF6;</translation>
+    </message>
+    <message>
+      <source>Profile page settings</source>
+      <translation>Profiil lehes&#xE4;tteid</translation>
+    </message>
+    <message>
+      <source>Profile settings updated</source>
+      <translation>Profiili seaded uuendatud</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Nimi</translation>
+    </message>
+    <message>
+      <source>Surname</source>
+      <translation>Perekonnanimi</translation>
+    </message>
+    <message>
+      <source>Website</source>
+      <translation>Veebisait</translation>
+    </message>
+    <message>
+      <source>Information about you</source>
+      <translation>Teavet saate</translation>
+    </message>
+    <message>
+      <source>Profile photo</source>
+      <translation>Profiil foto</translation>
+    </message>
+    <message>
+      <source>See how your profile looks to users</source>
+      <translation>Vaata, kuidas oma profiili ootab kasutajad</translation>
+    </message>
+    <message>
+      <source>View profile</source>
+      <translation>Vaata profiili</translation>
+    </message>
+    <message>
+      <source>Wrong email address</source>
+      <translation>Vale e-posti aadress</translation>
+    </message>
+    <message>
+      <source>Passwords mismatch</source>
+      <translation>Paroolid ei sobi</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/edit</name>
+    <message>
+      <source>User edit</source>
+      <translation>Kasutaja muuta</translation>
+    </message>
+    <message>
+      <source>Do not enter password unless you want to change it</source>
+      <translation>&#xC4;rge sisestage parooli, kui sa soovid seda muuta</translation>
+    </message>
+    <message>
+      <source>Login information</source>
+      <translation>Logini</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Kasutajanimi</translation>
+    </message>
+    <message>
+      <source>Password</source>
+      <translation>Parool</translation>
+    </message>
+    <message>
+      <source>Repeat password</source>
+      <translation>Korda parooli</translation>
+    </message>
+    <message>
+      <source>Contact information</source>
+      <translation>Kontakt</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Ajakohastama</translation>
+    </message>
+    <message>
+      <source>User prifle</source>
+      <translation>Kasutaja prifle</translation>
+    </message>
+    <message>
+      <source>My account</source>
+      <translation>Minu konto</translation>
+    </message>
+    <message>
+      <source>Facebook albums</source>
+      <translation>Facebook albumis</translation>
+    </message>
+    <message>
+      <source>Facebook session has expired, please login</source>
+      <translation>Facebook sessioon on aegunud, palun logige sisse</translation>
+    </message>
+    <message>
+      <source>Account</source>
+      <translation>Konto</translation>
+    </message>
+    <message>
+      <source>Albums</source>
+      <translation>Albumid</translation>
+    </message>
+    <message>
+      <source>My albums</source>
+      <translation>Minu albumid</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>S&#xFC;steemi konfiguratsioon</translation>
+    </message>
+    <message>
+      <source>Account data</source>
+      <translation>Konto andmed</translation>
+    </message>
+    <message>
+      <source>Wrong email address</source>
+      <translation>Vale e-posti aadress</translation>
+    </message>
+    <message>
+      <source>Passwords mismatch</source>
+      <translation>Paroolid ei sobi</translation>
+    </message>
+    <message>
+      <source>Users</source>
+      <translation>Kasutajad</translation>
+    </message>
+    <message>
+      <source>Authentifion with google</source>
+      <translation>Authentifion Google</translation>
+    </message>
+    <message>
+      <source>Profile settings</source>
+      <translation>Profiili seaded</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/editgroup</name>
+    <message>
+      <source>Group edit</source>
+      <translation>Group muuta</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Pealkiri</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Ajakohastama</translation>
+    </message>
+    <message>
+      <source>Assigned users</source>
+      <translation>Sihtotstarbeline kasutajad</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Kasutajanimi</translation>
+    </message>
+    <message>
+      <source>Remove user from group</source>
+      <translation>Eemalda kasutaja grupist</translation>
+    </message>
+    <message>
+      <source>Assign user</source>
+      <translation>M&#xE4;&#xE4;ra kasutaja</translation>
+    </message>
+    <message>
+      <source>User assignment</source>
+      <translation>Kasutaja &#xFC;lesande</translation>
+    </message>
+    <message>
+      <source>Assigned roles</source>
+      <translation>Sihtotstarbeline rollid</translation>
+    </message>
+    <message>
+      <source>Remove role from group</source>
+      <translation>Eemalda osa grupist</translation>
+    </message>
+    <message>
+      <source>Assign role</source>
+      <translation>M&#xE4;&#xE4;ra rolli</translation>
+    </message>
+    <message>
+      <source>Role assignment</source>
+      <translation>Role m&#xE4;&#xE4;ramine</translation>
+    </message>
+    <message>
+      <source>Please enter group name</source>
+      <translation>Palun sisesta r&#xFC;hma nimi</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>S&#xFC;steemi konfiguratsioon</translation>
+    </message>
+    <message>
+      <source>Groups</source>
+      <translation>Grupid</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/groupassignuser</name>
+    <message>
+      <source>User</source>
+      <translation>Kasutaja</translation>
+    </message>
+    <message>
+      <source>Assign</source>
+      <translation>M&#xE4;&#xE4;rama</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/login</name>
+    <message>
+      <source>Please login</source>
+      <translation>Palun logi sisse</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Kasutajanimi</translation>
+    </message>
+    <message>
+      <source>Password</source>
+      <translation>Parool</translation>
+    </message>
+    <message>
+      <source>Login</source>
+      <translation>Kasutajanimi</translation>
+    </message>
+    <message>
+      <source>Password remind</source>
+      <translation>Parool meelde</translation>
+    </message>
+    <message>
+      <source>Please login with your facebook account</source>
+      <translation>Palun logi sisse oma Facebook konto</translation>
+    </message>
+    <message>
+      <source>Report abuse</source>
+      <translation>Teata kuritarvitusest</translation>
+    </message>
+    <message>
+      <source>Please write whats wrong within a post</source>
+      <translation>Palun kirjutage whats vale jooksul post</translation>
+    </message>
+    <message>
+      <source>Send</source>
+      <translation>Saatma</translation>
+    </message>
+    <message>
+      <source>Registration is complete</source>
+      <translation>Registreerimine on l&#xF5;ppenud</translation>
+    </message>
+    <message>
+      <source>Registration is complete please login.</source>
+      <translation>Registreerimine on l&#xF5;ppenud, palun logi sisse.</translation>
+    </message>
+    <message>
+      <source>Checkout</source>
+      <translation>Checkout</translation>
+    </message>
+    <message>
+      <source>Incorrect username or password</source>
+      <translation>Vale kasutajanimi v&#xF5;i parool</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/new</name>
+    <message>
+      <source>New user</source>
+      <translation>Uus kasutaja</translation>
+    </message>
+    <message>
+      <source>Login information</source>
+      <translation>Logini</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Kasutajanimi</translation>
+    </message>
+    <message>
+      <source>Password</source>
+      <translation>Parool</translation>
+    </message>
+    <message>
+      <source>Repeat password</source>
+      <translation>Korda parooli</translation>
+    </message>
+    <message>
+      <source>Contact information</source>
+      <translation>Kontakt</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>V&#xE4;lja arvatud</translation>
+    </message>
+    <message>
+      <source>OR login with</source>
+      <translation>V&#xF5;i logi sisse</translation>
+    </message>
+    <message>
+      <source>Login with google account</source>
+      <translation>Sisene oma Google&amp;#39;i konto</translation>
+    </message>
+    <message>
+      <source>Working</source>
+      <translation>T&#xF6;&#xF6;</translation>
+    </message>
+    <message>
+      <source>Working...</source>
+      <translation>Hetk ...</translation>
+    </message>
+    <message>
+      <source>Registration</source>
+      <translation>Registreerimine</translation>
+    </message>
+    <message>
+      <source>Safe code</source>
+      <translation>Ohutu kood</translation>
+    </message>
+    <message>
+      <source>Register</source>
+      <translation>Register</translation>
+    </message>
+    <message>
+      <source>Sutch username is already taken!</source>
+      <translation>Sutch kasutajanimi on juba v&#xF5;etud!</translation>
+    </message>
+    <message>
+      <source>Please enter album name!</source>
+      <translation>Palun sisesta albumi nimi!</translation>
+    </message>
+    <message>
+      <source>Please enter category name!</source>
+      <translation>Palun sisesta kategooria nimi!</translation>
+    </message>
+    <message>
+      <source>User exists</source>
+      <translation>Kasutaja on olemas</translation>
+    </message>
+    <message>
+      <source>Wrong email address</source>
+      <translation>Vale e-posti aadress</translation>
+    </message>
+    <message>
+      <source>Please enter username</source>
+      <translation>Palun sisesta kasutajanimi</translation>
+    </message>
+    <message>
+      <source>Passwords mismatch</source>
+      <translation>Paroolid ei sobi</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>S&#xFC;steemi konfiguratsioon</translation>
+    </message>
+    <message>
+      <source>Users</source>
+      <translation>Kasutajad</translation>
+    </message>
+    <message>
+      <source>Please enter group name</source>
+      <translation>Palun sisesta r&#xFC;hma nimi</translation>
+    </message>
+    <message>
+      <source>E-mail taken!</source>
+      <translation>E-mail v&#xF5;tnud!</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/newgroup</name>
+    <message>
+      <source>New group</source>
+      <translation>Uus grupp</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Pealkiri</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>V&#xE4;lja arvatud</translation>
+    </message>
+    <message>
+      <source>Save and assign user</source>
+      <translation>Salvesta ja m&#xE4;&#xE4;rake kasutaja</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>S&#xFC;steemi konfiguratsioon</translation>
+    </message>
+    <message>
+      <source>Groups</source>
+      <translation>Grupid</translation>
+    </message>
+  </context>
+  <context>
+    <name>pagelayout/pagelayout</name>
+    <message>
+      <source>Home</source>
+      <translation>Kodus</translation>
+    </message>
+    <message>
+      <source>Configuration</source>
+      <translation>Konfiguratsioon</translation>
+    </message>
+    <message>
+      <source>Gallery categorys</source>
+      <translation>Gallery Kategooriad</translation>
+    </message>
+    <message>
+      <source>Last uploads to albums</source>
+      <translation>Viimati lisatud albumitesse</translation>
+    </message>
+    <message>
+      <source>Batch images add</source>
+      <translation>Partii pilte lisada</translation>
+    </message>
+    <message>
+      <source>Duplicates</source>
+      <translation>Duplikaatide</translation>
+    </message>
+    <message>
+      <source>Static articles</source>
+      <translation>Static esemeid</translation>
+    </message>
+    <message>
+      <source>Statistic</source>
+      <translation>Statistika</translation>
+    </message>
+    <message>
+      <source>Shop</source>
+      <translation>Kauplus</translation>
+    </message>
+    <message>
+      <source>Forum</source>
+      <translation>Foorum</translation>
+    </message>
+    <message>
+      <source>Delete photo by ID</source>
+      <translation>Kustuta foto ID</translation>
+    </message>
+    <message>
+      <source>Photo was deleted</source>
+      <translation>Foto on kustutatud</translation>
+    </message>
+    <message>
+      <source>Go to album</source>
+      <translation>Mine album</translation>
+    </message>
+    <message>
+      <source>Go to forum topic</source>
+      <translation>Mine foorumi teemat</translation>
+    </message>
+    <message>
+      <source>Go to forum category</source>
+      <translation>Go to forum kategooria</translation>
+    </message>
+    <message>
+      <source>Go to image</source>
+      <translation>Mine image</translation>
+    </message>
+    <message>
+      <source>Root category</source>
+      <translation>Juur kategooria</translation>
+    </message>
+    <message>
+      <source>Open</source>
+      <translation>Avatud</translation>
+    </message>
+    <message>
+      <source>Edit</source>
+      <translation>Edit</translation>
+    </message>
+    <message>
+      <source>New album</source>
+      <translation>Uus album</translation>
+    </message>
+    <message>
+      <source>New batch albums</source>
+      <translation>Uue partii albumis</translation>
+    </message>
+    <message>
+      <source>New category</source>
+      <translation>Uus kategooria</translation>
+    </message>
+    <message>
+      <source>Delete album</source>
+      <translation>Kustuta album</translation>
+    </message>
+    <message>
+      <source>Delete category</source>
+      <translation>Kustuta kategooria</translation>
+    </message>
+    <message>
+      <source>Add images</source>
+      <translation>Lisa pilte</translation>
+    </message>
+    <message>
+      <source>Move images</source>
+      <translation>Liiguta pilte</translation>
+    </message>
+    <message>
+      <source>It\'s NOT fake!</source>
+      <translation>See \ &amp;#39;s ei ole v&#xF5;lts!</translation>
+    </message>
+    <message>
+      <source>Rendered in</source>
+      <translation>Sulatatud sisse</translation>
+    </message>
+    <message>
+      <source>Logged user</source>
+      <translation>Sisseloginud kasutajale</translation>
+    </message>
+    <message>
+      <source>Account</source>
+      <translation>Konto</translation>
+    </message>
+    <message>
+      <source>Logout</source>
+      <translation>Logi v&#xE4;lja</translation>
+    </message>
+    <message>
+      <source>Login</source>
+      <translation>Kasutajanimi</translation>
+    </message>
+    <message>
+      <source>Enter keyword or phrase</source>
+      <translation>Sisesta m&#xE4;rks&#xF5;na v&#xF5;i fraas</translation>
+    </message>
+    <message>
+      <source>Search entire forum</source>
+      <translation>Otsi kogu forum</translation>
+    </message>
+    <message>
+      <source>Search</source>
+      <translation>Otsing</translation>
+    </message>
+    <message>
+      <source>Last uploads</source>
+      <translation>Viimati lisatud</translation>
+    </message>
+    <message>
+      <source>Last commented</source>
+      <translation>Viimati kommenteeritud</translation>
+    </message>
+    <message>
+      <source>Last hits</source>
+      <translation>Viimati tabamust</translation>
+    </message>
+    <message>
+      <source>Last rated</source>
+      <translation>Last hinnatud</translation>
+    </message>
+    <message>
+      <source>Last 24 h.</source>
+      <translation>Viimase 24 h.</translation>
+    </message>
+    <message>
+      <source>Most popular</source>
+      <translation>Populaarsemad</translation>
+    </message>
+    <message>
+      <source>Top rated</source>
+      <translation>K&#xF5;rgeimalt hinnatud</translation>
+    </message>
+    <message>
+      <source>Search entire gallery</source>
+      <translation>Otsi kogu galeriid</translation>
+    </message>
+    <message>
+      <source>Last uploaded images</source>
+      <translation>Viimati lisatud pildid</translation>
+    </message>
+    <message>
+      <source>View all categorys</source>
+      <translation>Vaata k&#xF5;iki Kategooriad</translation>
+    </message>
+    <message>
+      <source>All time</source>
+      <translation>Kogu aeg</translation>
+    </message>
+    <message>
+      <source>Interactive</source>
+      <translation>Interaktiivne</translation>
+    </message>
+    <message>
+      <source>Search by keyword</source>
+      <translation>Otsing m&#xE4;rks&#xF5;na j&#xE4;rgi</translation>
+    </message>
+    <message>
+      <source>Search by color</source>
+      <translation>Otsing v&#xE4;rvi</translation>
+    </message>
+    <message>
+      <source>Search by similarity</source>
+      <translation>Otsing sarnasus</translation>
+    </message>
+    <message>
+      <source>Search by sketch</source>
+      <translation>Otsing visand</translation>
+    </message>
+    <message>
+      <source>Last viewed images</source>
+      <translation>Viimati vaadatud pildid</translation>
+    </message>
+    <message>
+      <source>Last searches</source>
+      <translation>Viimati otsingud</translation>
+    </message>
+    <message>
+      <source>My account</source>
+      <translation>Minu konto</translation>
+    </message>
+    <message>
+      <source>Profile page</source>
+      <translation>Profile page</translation>
+    </message>
+    <message>
+      <source>Manage albums</source>
+      <translation>Manage albumis</translation>
+    </message>
+    <message>
+      <source>Credits</source>
+      <translation>Autorid</translation>
+    </message>
+    <message>
+      <source>My orders</source>
+      <translation>Minu tellimused</translation>
+    </message>
+    <message>
+      <source>My credits orders</source>
+      <translation>Minu krediiti tellimusi</translation>
+    </message>
+    <message>
+      <source>Import images from facebook</source>
+      <translation>Import pilte facebook</translation>
+    </message>
+    <message>
+      <source>Register</source>
+      <translation>Register</translation>
+    </message>
+    <message>
+      <source>My favorites</source>
+      <translation>Minu lemmikud</translation>
+    </message>
+    <message>
+      <source>Basket</source>
+      <translation>Korv</translation>
+    </message>
+    <message>
+      <source>Upload</source>
+      <translation>&#xDC;les</translation>
+    </message>
+    <message>
+      <source>Upload zip</source>
+      <translation>Laadida zip</translation>
+    </message>
+    <message>
+      <source>Search...</source>
+      <translation>Search ...</translation>
+    </message>
+  </context>
+  <context>
+    <name>fb/album</name>
+    <message>
+      <source>Check photo to import</source>
+      <translation>Vaata fotot import</translation>
+    </message>
+    <message>
+      <source>Import selected images to</source>
+      <translation>Import valitud pildid</translation>
+    </message>
+    <message>
+      <source>To what album you want to import images, start typing album name and click search</source>
+      <translation>Mil album soovite importida pilte, hakake albumi nimi ja valige Otsi</translation>
+    </message>
+    <message>
+      <source>Search for album</source>
+      <translation>Otsi album</translation>
+    </message>
+    <message>
+      <source>Check all</source>
+      <translation>Vaata k&#xF5;ik</translation>
+    </message>
+    <message>
+      <source>Click to see target, new window will open</source>
+      <translation>Click to see eesm&#xE4;rk, uus aken</translation>
+    </message>
+    <message>
+      <source>Import selected images</source>
+      <translation>Import valitud pildid</translation>
+    </message>
+    <message>
+      <source>Please choose atleast one image!</source>
+      <translation>Palun valige atleast &#xFC;ks pilt!</translation>
+    </message>
+    <message>
+      <source>images to import</source>
+      <translation>pilte import</translation>
+    </message>
+    <message>
+      <source>All images were imported</source>
+      <translation>K&#xF5;ik pildid olid imporditud</translation>
+    </message>
+    <message>
+      <source>Please choose album</source>
+      <translation>Palun vali album</translation>
+    </message>
+    <message>
+      <source>Preview version</source>
+      <translation>Eelvaate versiooni</translation>
+    </message>
+  </context>
+  <context>
+    <name>feedback/form</name>
+    <message>
+      <source>Feedback</source>
+      <translation>Tagasiside</translation>
+    </message>
+    <message>
+      <source>Feedback was send</source>
+      <translation>Tagasiside oli saata</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Nimi</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Text</source>
+      <translation>Tekst</translation>
+    </message>
+    <message>
+      <source>Captcha image</source>
+      <translation>Captcha pilti</translation>
+    </message>
+    <message>
+      <source>Captcha code</source>
+      <translation>Captcha koodi</translation>
+    </message>
+    <message>
+      <source>Required fields</source>
+      <translation>Kohustuslikud v&#xE4;ljad</translation>
+    </message>
+    <message>
+      <source>Send</source>
+      <translation>Saatma</translation>
+    </message>
+    <message>
+      <source>Please enter name!</source>
+      <translation>Palun sisesta nimi!</translation>
+    </message>
+    <message>
+      <source>Invalid e-mail address!</source>
+      <translation>Vigane e-posti aadress!</translation>
+    </message>
+    <message>
+      <source>Please enter text!</source>
+      <translation>Palun sisesta teksti!</translation>
+    </message>
+    <message>
+      <source>Please enter captcha code!</source>
+      <translation>Palun sisesta captcha koodi!</translation>
+    </message>
+  </context>
+  <context>
+    <name>feedback/formsend</name>
+    <message>
+      <source>Feedback</source>
+      <translation>Tagasiside</translation>
+    </message>
+    <message>
+      <source>Your feedback was succesfuly send</source>
+      <translation>Teie tagasiside on edukalt saata</translation>
+    </message>
+    <message>
+      <source>Home page</source>
+      <translation>Kodulehek&#xFC;lg</translation>
+    </message>
+  </context>
+  <context>
+    <name>feedback/mail</name>
+    <message>
+      <source>Hello</source>
+      <translation>Tere</translation>
+    </message>
+    <message>
+      <source>Feedback data</source>
+      <translation>Tagasiside andmed</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Nimi</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Text</source>
+      <translation>Tekst</translation>
+    </message>
+    <message>
+      <source>Bye</source>
+      <translation>Bye</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/anaglyph</name>
+    <message>
+      <source>Original</source>
+      <translation>Originaal</translation>
+    </message>
+    <message>
+      <source>Anaglyph</source>
+      <translation>Anaglyph</translation>
+    </message>
+    <message>
+      <source>Animating</source>
+      <translation>Elavdamine</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/color</name>
+    <message>
+      <source>Exclude color</source>
+      <translation>V&#xE4;lista v&#xE4;rvi</translation>
+    </message>
+    <message>
+      <source>Maximum</source>
+      <translation>Maksimaalne</translation>
+    </message>
+    <message>
+      <source>filters</source>
+      <translation>filtrid</translation>
+    </message>
+    <message>
+      <source>Include color</source>
+      <translation>Sisaldavad v&#xE4;rvi</translation>
+    </message>
+    <message>
+      <source>Remove color</source>
+      <translation>Eemalda v&#xE4;rv</translation>
+    </message>
+    <message>
+      <source>Excluded colors in search</source>
+      <translation>V&#xE4;listatud v&#xE4;rve otsing</translation>
+    </message>
+    <message>
+      <source>colors</source>
+      <translation>v&#xE4;rvid</translation>
+    </message>
+    <message>
+      <source>More color</source>
+      <translation>Rohkem v&#xE4;rvi</translation>
+    </message>
+    <message>
+      <source>Return to pallete</source>
+      <translation>Tagasi pallete</translation>
+    </message>
+    <message>
+      <source>Images by color</source>
+      <translation>Images v&#xE4;rvi j&#xE4;rgi</translation>
+    </message>
+    <message>
+      <source>Choose color</source>
+      <translation>Vali v&#xE4;rv</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>Ei arvestust.</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Lehek&#xFC;lg</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/createalbum</name>
+    <message>
+      <source>New album</source>
+      <translation>Uus album</translation>
+    </message>
+    <message>
+      <source>Album name</source>
+      <translation>Albumi nimi</translation>
+    </message>
+    <message>
+      <source>Description</source>
+      <translation>Kirjeldus</translation>
+    </message>
+    <message>
+      <source>Keywords</source>
+      <translation>M&#xE4;rks&#xF5;nad</translation>
+    </message>
+    <message>
+      <source>Create</source>
+      <translation>Looma</translation>
+    </message>
+    <message>
+      <source>Create and upload photos</source>
+      <translation>Luua ja &#xFC;les laadida fotosid</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/myfavorites</name>
+    <message>
+      <source>Remove from favorites</source>
+      <translation>Eemalda s&#xF5;prade nimekirja</translation>
+    </message>
+    <message>
+      <source>My favorite images</source>
+      <translation>Minu lemmik pildid</translation>
+    </message>
+    <message>
+      <source>Remove</source>
+      <translation>K&#xF5;rvaldama</translation>
+    </message>
+    <message>
+      <source>Remove Open ID</source>
+      <translation>Eemalda Open ID</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastcommented</name>
+    <message>
+      <source>Last commented images</source>
+      <translation>Viimati kommenteeris pilte</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>Ei arvestust.</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Resolutsioon</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Lehek&#xFC;lg</translation>
+    </message>
+    <message>
+      <source>Last commented gallery images.</source>
+      <translation>Viimati kommenteeritud gallery images.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lasthits</name>
+    <message>
+      <source>Last viewed images</source>
+      <translation>Viimati vaadatud pildid</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>Ei arvestust.</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Resolutsioon</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Lehek&#xFC;lg</translation>
+    </message>
+    <message>
+      <source>Last viewed gallery images.</source>
+      <translation>Viimati vaadatud gallery images.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastrated</name>
+    <message>
+      <source>Last rated images</source>
+      <translation>Viimati hinnatud pildid</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>Ei arvestust.</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Resolutsioon</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Lehek&#xFC;lg</translation>
+    </message>
+    <message>
+      <source>Recently rated images.</source>
+      <translation>Hiljuti hinnatud pildid.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastsearches</name>
+    <message>
+      <source>Last searches</source>
+      <translation>Viimati otsingud</translation>
+    </message>
+    <message>
+      <source>No records</source>
+      <translation>&#xDC;htegi kirjet</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastuploads</name>
+    <message>
+      <source>Last uploaded images</source>
+      <translation>Viimati lisatud pildid</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>Ei arvestust.</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Resolutsioon</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Lehek&#xFC;lg</translation>
+    </message>
+    <message>
+      <source>Latest additions to gallery.</source>
+      <translation>Viimased t&#xE4;iendused galeriisse.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/my_albums_list</name>
+    <message>
+      <source>Edit album</source>
+      <translation>Edit album</translation>
+    </message>
+    <message>
+      <source>Are you sure?</source>
+      <translation>Oled sa kindel?</translation>
+    </message>
+    <message>
+      <source>Delete album</source>
+      <translation>Kustuta album</translation>
+    </message>
+    <message>
+      <source>Add images</source>
+      <translation>Lisa pilte</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/myalbums</name>
+    <message>
+      <source>My albums</source>
+      <translation>Minu albumid</translation>
+    </message>
+    <message>
+      <source>New album</source>
+      <translation>Uus album</translation>
+    </message>
+    <message>
+      <source>Update priority</source>
+      <translation>Uuenda prioriteet</translation>
+    </message>
+    <message>
+      <source>You do not have any album.</source>
+      <translation>Sa ei ole &#xFC;htegi albumit.</translation>
+    </message>
+    <message>
+      <source>Create a new album.</source>
+      <translation>Loo uus album.</translation>
+    </message>
+    <message>
+      <source>Account</source>
+      <translation>Konto</translation>
+    </message>
+    <message>
+      <source>Albums</source>
+      <translation>Albumid</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/mylistalbum</name>
+    <message>
+      <source>No records.</source>
+      <translation>Ei arvestust.</translation>
+    </message>
+    <message>
+      <source>Account</source>
+      <translation>Konto</translation>
+    </message>
+    <message>
+      <source>Albums</source>
+      <translation>Albumid</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/popular</name>
+    <message>
+      <source>Most popular images</source>
+      <translation>K&#xF5;ige populaarsemad pilte</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>Ei arvestust.</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Resolutsioon</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Lehek&#xFC;lg</translation>
+    </message>
+    <message>
+      <source>All time most popular images.</source>
+      <translation>K&#xF5;igi aegade k&#xF5;ige populaarsem pilte.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/popularrecect</name>
+    <message>
+      <source>Most popular images in 24 hours.</source>
+      <translation>K&#xF5;ige populaarsemad pilte 24 tundi.</translation>
+    </message>
+    <message>
+      <source>There are no images.</source>
+      <translation>Ei ole pilte.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/ratedrecent</name>
+    <message>
+      <source>Top rated images in 24 hours.</source>
+      <translation>Edetabel pilte 24 tundi.</translation>
+    </message>
+    <message>
+      <source>Top rated images in 24 hours</source>
+      <translation>Edetabel pilte 24 tundi</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Lehek&#xFC;lg</translation>
+    </message>
+    <message>
+      <source>Top rated images in last 24 hours.</source>
+      <translation>Edetabel pilte viimased 24 tundi.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/sharehtml</name>
+    <message>
+      <source>Link to image</source>
+      <translation>Link pildile</translation>
+    </message>
+    <message>
+      <source>Link to image with thumbnail</source>
+      <translation>Link pildi thumbnail</translation>
+    </message>
+    <message>
+      <source>Link to image with medium size thumbnail</source>
+      <translation>Link pildi keskmise suurusega thumbnail</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/sharephpbb</name>
+    <message>
+      <source>Link to image</source>
+      <translation>Link pildile</translation>
+    </message>
+    <message>
+      <source>Link to image with thumbnail</source>
+      <translation>Link pildi thumbnail</translation>
+    </message>
+    <message>
+      <source>Link to image with medium size thumbnail</source>
+      <translation>Link pildi keskmise suurusega thumbnail</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/subcategory_list_full</name>
+    <message>
+      <source>albums</source>
+      <translation>albumis</translation>
+    </message>
+    <message>
+      <source>images</source>
+      <translation>pilte</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/toprated</name>
+    <message>
+      <source>Top rated images</source>
+      <translation>K&#xF5;rgeimalt hinnatud pildid</translation>
+    </message>
+    <message>
+      <source>No records</source>
+      <translation>&#xDC;htegi kirjet</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Resolutsioon</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Lehek&#xFC;lg</translation>
+    </message>
+    <message>
+      <source>All time top rated images.</source>
+      <translation>K&#xF5;igi aegade suurimad hinnatud pildid.</translation>
+    </message>
+  </context>
+  <context>
+    <name>kernel/nopermission</name>
+    <message>
+      <source>You do not have permission to access module</source>
+      <translation>Sul pole juurdep&#xE4;&#xE4;su&#xF5;igust moodul</translation>
+    </message>
+    <message>
+      <source>and use</source>
+      <translation>ja kasutamiseks</translation>
+    </message>
+    <message>
+      <source>function</source>
+      <translation>funktsioon</translation>
+    </message>
+    <message>
+      <source>You do not have permission to access current object</source>
+      <translation>Sul pole juurdep&#xE4;&#xE4;su&#xF5;igust praegune objekti</translation>
+    </message>
+  </context>
+  <context>
+    <name>core/paginator</name>
+    <message>
+      <source>Page</source>
+      <translation>Lehek&#xFC;lg</translation>
+    </message>
+    <message>
+      <source>of</source>
+      <translation>of</translation>
+    </message>
+    <message>
+      <source>Found</source>
+      <translation>Leitud</translation>
+    </message>
+    <message>
+      <source>Previous</source>
+      <translation>Eelmine</translation>
+    </message>
+    <message>
+      <source>Go to page</source>
+      <translation>Mine lehele</translation>
+    </message>
+    <message>
+      <source>Next</source>
+      <translation>J&#xE4;rgmine</translation>
+    </message>
+  </context>
+  <context>
+    <name>similar/similar</name>
+    <message>
+      <source>Visualy similar images to</source>
+      <translation>Visualy sarnane pildid</translation>
+    </message>
+    <message>
+      <source>Search for visualy similar images</source>
+      <translation>Otsi visualy sarnaseid pilte</translation>
+    </message>
+    <message>
+      <source>Please enable JavaScript to upload image</source>
+      <translation>Please enable JavaScript to upload image</translation>
+    </message>
+    <message>
+      <source>Click to choose image, you can also Drag and Drop file here (Drag and drop only for FF, Chrome).</source>
+      <translation>Klikka, et valida pildi, saate ka lohistada fail siit (Lohista ainult FF, Chrome).</translation>
+    </message>
+    <message>
+      <source>Cancel</source>
+      <translation>T&#xFC;histama</translation>
+    </message>
+    <message>
+      <source>Failed</source>
+      <translation>Eba&#xF5;nnestus</translation>
+    </message>
+  </context>
+  <context>
+    <name>similar/sketch</name>
+    <message>
+      <source>Search by sketch</source>
+      <translation>Otsing visand</translation>
+    </message>
+    <message>
+      <source>Sketch and find images by your sketch</source>
+      <translation>Sketch ja leida pilte oma eskiis</translation>
+    </message>
+  </context>
+  <context>
+    <name>statistic/view</name>
+    <message>
+      <source>hours</source>
+      <translation>tundi</translation>
+    </message>
+    <message>
+      <source>Total pageviews</source>
+      <translation>Kuvamiste koguarvust</translation>
+    </message>
+    <message>
+      <source>Total visits</source>
+      <translation>K&#xFC;lastusi kokku</translation>
+    </message>
+    <message>
+      <source>Time spent</source>
+      <translation>Kuluv aeg</translation>
+    </message>
+    <message>
+      <source>Last 31 days statistic, data resource - google analytics API</source>
+      <translation>Viimase 31 p&#xE4;eva statistika, andmed ressursi - Google Analytics API</translation>
+    </message>
+    <message>
+      <source>Legend</source>
+      <translation>Legend</translation>
+    </message>
+    <message>
+      <source>Pageviews</source>
+      <translation>Kuvamised</translation>
+    </message>
+    <message>
+      <source>Visits</source>
+      <translation>K&#xFC;lastusi</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/mapaccounts</name>
+    <message>
+      <source>Login with facebook</source>
+      <translation type="unfinished">Login with facebook</translation>
+    </message>
+    <message>
+      <source>Map to my account</source>
+      <translation type="unfinished">Kaart oma kontole</translation>
+    </message>
+    <message>
+      <source>my account</source>
+      <translation type="unfinished">minu konto</translation>
+    </message>
+    <message>
+      <source>Login</source>
+      <translation type="unfinished">Kasutajanimi</translation>
+    </message>
+    <message>
+      <source>map to my account</source>
+      <translation type="unfinished">map oma kontole</translation>
+    </message>
+    <message>
+      <source>Incorrect login or password</source>
+      <translation type="unfinished">Vale kasutajanimi v&#xF5;i salas&#xF5;na</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation type="unfinished">Kasutajanimi</translation>
+    </message>
+    <message>
+      <source>Password</source>
+      <translation type="unfinished">Parool</translation>
+    </message>
+    <message>
+      <source>OR</source>
+      <translation type="unfinished">OR</translation>
+    </message>
+    <message>
+      <source>create account</source>
+      <translation type="unfinished">registreeru kasutajaks</translation>
+    </message>
+    <message>
+      <source>Next</source>
+      <translation type="unfinished">J&#xE4;rgmine</translation>
+    </message>
+    <message>
+      <source>Open ID</source>
+      <translation type="unfinished">Open ID</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/forgotpassword</name>
+    <message>
+      <source>Password remind</source>
+      <translation type="unfinished">Parool meelde</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation type="unfinished">E-mail</translation>
+    </message>
+    <message>
+      <source>Restore password</source>
+      <translation type="unfinished">Taasta parool</translation>
+    </message>
+    <message>
+      <source>Order confirmed</source>
+      <translation type="unfinished">Kinnitatud tellimus</translation>
+    </message>
+    <message>
+      <source>Credits order confirmed</source>
+      <translation type="unfinished">Autorid Kinnitatud tellimus</translation>
+    </message>
+    <message>
+      <source>Wrong e-mail address!</source>
+      <translation type="unfinished">Vale e-posti aadress!</translation>
+    </message>
+    <message>
+      <source>Click this link and to You will be send new password</source>
+      <translation type="unfinished">Kl&#xF5;psake seda linki, ja Te Saada uus parool</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/forgotpasswordsent</name>
+    <message>
+      <source>Password remind</source>
+      <translation type="unfinished">Parool meelde</translation>
+    </message>
+    <message>
+      <source>E-mail send. Click link in email and to You will be send out new password.</source>
+      <translation type="unfinished">E-mail saata. Click link e ja Sul on saata uue parooli.</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/index</name>
+    <message>
+      <source>User home</source>
+      <translation type="unfinished">Kasutaja kodu</translation>
+    </message>
+    <message>
+      <source>Welcome. Here you can:</source>
+      <translation type="unfinished">Teretulnud. Siin saad:</translation>
+    </message>
+    <message>
+      <source>Edit personal settings</source>
+      <translation type="unfinished">Edit isiklikud seaded</translation>
+    </message>
+    <message>
+      <source>Manage personal albums</source>
+      <translation type="unfinished">Juhtida isiklikku albumis</translation>
+    </message>
+    <message>
+      <source>My account</source>
+      <translation type="unfinished">Minu konto</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/profile</name>
+    <message>
+      <source>User profile</source>
+      <translation type="unfinished">Kasutaja profiili</translation>
+    </message>
+    <message>
+      <source>Name and surname</source>
+      <translation type="unfinished">Ees-ja perekonnanimi</translation>
+    </message>
+    <message>
+      <source>Website</source>
+      <translation type="unfinished">Veebisait</translation>
+    </message>
+    <message>
+      <source>Introduction</source>
+      <translation type="unfinished">Sissejuhatus</translation>
+    </message>
+    <message>
+      <source>Last updated albums</source>
+      <translation type="unfinished">Viimati uuendatud albumid</translation>
+    </message>
+    <message>
+      <source>Last uploaded images</source>
+      <translation type="unfinished">Viimati lisatud pildid</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/remindpassword</name>
+    <message>
+      <source>New password</source>
+      <translation type="unfinished">Uus parool</translation>
+    </message>
+    <message>
+      <source>Hash not found or was used already</source>
+      <translation type="unfinished">Hash ei leitud v&#xF5;i on kasutatud juba</translation>
+    </message>
+    <message>
+      <source>Password remind - new password</source>
+      <translation type="unfinished">Parool meelde - uus parool</translation>
+    </message>
+    <message>
+      <source>New password:</source>
+      <translation type="unfinished">Uus parool:</translation>
+    </message>
+    <message>
+      <source>New password has beend send to your email.</source>
+      <translation type="unfinished">Uus parool on beend saata oma e-posti.</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/basket</name>
+    <message>
+      <source>Basket</source>
+      <translation type="unfinished">Korv</translation>
+    </message>
+    <message>
+      <source>Image name</source>
+      <translation type="unfinished">Pildi nimi</translation>
+    </message>
+    <message>
+      <source>Version</source>
+      <translation type="unfinished">Versioon</translation>
+    </message>
+    <message>
+      <source>Image size</source>
+      <translation type="unfinished">Pildi suurus</translation>
+    </message>
+    <message>
+      <source>Format</source>
+      <translation type="unfinished">Formaat</translation>
+    </message>
+    <message>
+      <source>Price</source>
+      <translation type="unfinished">Hind</translation>
+    </message>
+    <message>
+      <source>Credits</source>
+      <translation type="unfinished">Autorid</translation>
+    </message>
+    <message>
+      <source>Remove from basket</source>
+      <translation type="unfinished">Eemalda ostukorvist</translation>
+    </message>
+    <message>
+      <source>Choose payment option</source>
+      <translation type="unfinished">Vali makseviis</translation>
+    </message>
+    <message>
+      <source>In order to checkout atlest one item have to be selected.</source>
+      <translation type="unfinished">Et kassasse atlest &#xDC;he elemendi peavad olema valitud.</translation>
+    </message>
+    <message>
+      <source>In order to checkout you have to</source>
+      <translation type="unfinished">Et kassasse pead</translation>
+    </message>
+    <message>
+      <source>sign in</source>
+      <translation type="unfinished">Logi sisse</translation>
+    </message>
+    <message>
+      <source>or</source>
+      <translation type="unfinished">v&#xF5;i</translation>
+    </message>
+    <message>
+      <source>login</source>
+      <translation type="unfinished">kasutajanimi</translation>
+    </message>
+    <message>
+      <source>if you have already created an account</source>
+      <translation type="unfinished">Kui Te olete juba loonud kontot</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/buycredits</name>
+    <message>
+      <source>Buy credits</source>
+      <translation type="unfinished">Osta krediiti</translation>
+    </message>
+    <message>
+      <source>How many credits do want to buy?</source>
+      <translation type="unfinished">Mitu ainepunkti ei taha osta?</translation>
+    </message>
+    <message>
+      <source>Choose payment method</source>
+      <translation type="unfinished">Vali makseviis</translation>
+    </message>
+  </context>
+  <context>
+    <name>credits_handler/accept</name>
+    <message>
+      <source>Order succesfull</source>
+      <translation type="unfinished">Et edukas</translation>
+    </message>
+    <message>
+      <source>Payment was succesfull</source>
+      <translation type="unfinished">Makse oli edukas</translation>
+    </message>
+  </context>
+  <context>
+    <name>credits_handler/process</name>
+    <message>
+      <source>Checkout</source>
+      <translation type="unfinished">Checkout</translation>
+    </message>
+    <message>
+      <source>Confirm payment</source>
+      <translation type="unfinished">Kinnita makse</translation>
+    </message>
+    <message>
+      <source>Not enouth credits to checkout</source>
+      <translation type="unfinished">Mitte enouth krediiti kassas</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/cancel</name>
+    <message>
+      <source>Payment canceled</source>
+      <translation type="unfinished">Makse t&#xFC;histada</translation>
+    </message>
+    <message>
+      <source>Paypal payment was canceled.</source>
+      <translation type="unfinished">Paypal makse katkestati.</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/error</name>
+    <message>
+      <source>Error</source>
+      <translation type="unfinished">Viga</translation>
+    </message>
+    <message>
+      <source>Execution was terminated unexpectedly.</source>
+      <translation type="unfinished">Execution l&#xF5;petati ootamatult.</translation>
+    </message>
+  </context>
+  <context>
+    <name>paypal_handler/process</name>
+    <message>
+      <source>Checkout using Paypal</source>
+      <translation type="unfinished">Kassasse kasutades Paypal</translation>
+    </message>
+    <message>
+      <source>Buyer\'s Email</source>
+      <translation type="unfinished">Ostja \ &amp;#39;s Email</translation>
+    </message>
+    <message>
+      <source>Amount</source>
+      <translation type="unfinished">Summa</translation>
+    </message>
+    <message>
+      <source>Currency</source>
+      <translation type="unfinished">Raha</translation>
+    </message>
+    <message>
+      <source>Credits</source>
+      <translation type="unfinished">Autorid</translation>
+    </message>
+  </context>
+  <context>
+    <name>paypal_handler/review</name>
+    <message>
+      <source>Order payment confirmation</source>
+      <translation type="unfinished">Et makse kinnitust</translation>
+    </message>
+    <message>
+      <source>Order amount</source>
+      <translation type="unfinished">Tellimuse summa</translation>
+    </message>
+    <message>
+      <source>Confirm payment</source>
+      <translation type="unfinished">Kinnita makse</translation>
+    </message>
+    <message>
+      <source>Thank you for your payment!</source>
+      <translation type="unfinished">T&#xE4;name makse!</translation>
+    </message>
+    <message>
+      <source>credits</source>
+      <translation type="unfinished">krediiti</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/mycredits</name>
+    <message>
+      <source>My credits balanse</source>
+      <translation type="unfinished">Minu krediiti balanse</translation>
+    </message>
+    <message>
+      <source>You have</source>
+      <translation type="unfinished">Te olete</translation>
+    </message>
+    <message>
+      <source>in your account</source>
+      <translation type="unfinished">kontole</translation>
+    </message>
+    <message>
+      <source>Buy credits</source>
+      <translation type="unfinished">Osta krediiti</translation>
+    </message>
+    <message>
+      <source>My credits</source>
+      <translation type="unfinished">Minu krediiti</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/myorders</name>
+    <message>
+      <source>My credits orders</source>
+      <translation type="unfinished">Minu krediiti tellimusi</translation>
+    </message>
+    <message>
+      <source>Date</source>
+      <translation type="unfinished">Kuup&#xE4;ev</translation>
+    </message>
+    <message>
+      <source>Order price</source>
+      <translation type="unfinished">Et hind</translation>
+    </message>
+    <message>
+      <source>Order credits</source>
+      <translation type="unfinished">Et krediiti</translation>
+    </message>
+    <message>
+      <source>Order status</source>
+      <translation type="unfinished">Tellimuse staatus</translation>
+    </message>
+    <message>
+      <source>Payed</source>
+      <translation type="unfinished">Payed</translation>
+    </message>
+    <message>
+      <source>Confirmed</source>
+      <translation type="unfinished">Kinnitatud</translation>
+    </message>
+    <message>
+      <source>My orders</source>
+      <translation type="unfinished">Minu tellimused</translation>
+    </message>
+    <message>
+      <source>Order view</source>
+      <translation type="unfinished">Et vaadata</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/orderview</name>
+    <message>
+      <source>Order view</source>
+      <translation type="unfinished">Et vaadata</translation>
+    </message>
+    <message>
+      <source>Order time</source>
+      <translation type="unfinished">Tellimuse t&#xE4;itmisaeg</translation>
+    </message>
+    <message>
+      <source>Order price</source>
+      <translation type="unfinished">Et hind</translation>
+    </message>
+    <message>
+      <source>Order credits</source>
+      <translation type="unfinished">Et krediiti</translation>
+    </message>
+    <message>
+      <source>Order status</source>
+      <translation type="unfinished">Tellimuse staatus</translation>
+    </message>
+    <message>
+      <source>Payed</source>
+      <translation type="unfinished">Payed</translation>
+    </message>
+    <message>
+      <source>Confirmed</source>
+      <translation type="unfinished">Kinnitatud</translation>
+    </message>
+    <message>
+      <source>Ordered items</source>
+      <translation type="unfinished">Tellitud teemad</translation>
+    </message>
+    <message>
+      <source>Image name</source>
+      <translation type="unfinished">Pildi nimi</translation>
+    </message>
+    <message>
+      <source>Version</source>
+      <translation type="unfinished">Versioon</translation>
+    </message>
+    <message>
+      <source>Image size</source>
+      <translation type="unfinished">Pildi suurus</translation>
+    </message>
+    <message>
+      <source>Format</source>
+      <translation type="unfinished">Formaat</translation>
+    </message>
+    <message>
+      <source>Price</source>
+      <translation type="unfinished">Hind</translation>
+    </message>
+    <message>
+      <source>Download count</source>
+      <translation type="unfinished">Lae count</translation>
+    </message>
+    <message>
+      <source>Downloads left</source>
+      <translation type="unfinished">Downloads vasakul</translation>
+    </message>
+    <message>
+      <source>Credits</source>
+      <translation type="unfinished">Autorid</translation>
+    </message>
+    <message>
+      <source>Download image</source>
+      <translation type="unfinished">Lae pilt</translation>
+    </message>
+    <message>
+      <source>downloads left</source>
+      <translation type="unfinished">downloads vasakul</translation>
+    </message>
+    <message>
+      <source>No downloads available</source>
+      <translation type="unfinished">Ei downloads saadaval</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/paymentoption</name>
+    <message>
+      <source>Payment option</source>
+      <translation type="unfinished">Maksmise v&#xF5;imalus</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation type="unfinished">E-mail</translation>
+    </message>
+    <message>
+      <source>Choose payment method</source>
+      <translation type="unfinished">Vali makseviis</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/paymentoptioncredit</name>
+    <message>
+      <source>Payment option</source>
+      <translation type="unfinished">Maksmise v&#xF5;imalus</translation>
+    </message>
+    <message>
+      <source>Continue</source>
+      <translation type="unfinished">J&#xE4;tkama</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/category</name>
+    <message>
+      <source>Root category</source>
+      <translation type="unfinished">Juur kategooria</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation type="unfinished">Lehek&#xFC;lg</translation>
+    </message>
+    <message>
+      <source>Forum</source>
+      <translation type="unfinished">Foorum</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/category</name>
+    <message>
+      <source>Please enter topic name!</source>
+      <translation type="unfinished">Palun sisesta teema nime!</translation>
+    </message>
+    <message>
+      <source>Please enter message!</source>
+      <translation type="unfinished">Palun sisesta s&#xF5;num!</translation>
+    </message>
+    <message>
+      <source>Please choose category!</source>
+      <translation type="unfinished">Palun valige kategooria!</translation>
+    </message>
+    <message>
+      <source>Not parent category!</source>
+      <translation type="unfinished">Mitte peakategooriast!</translation>
+    </message>
+    <message>
+      <source>Invalid category!</source>
+      <translation type="unfinished">Vale kategooria!</translation>
+    </message>
+    <message>
+      <source>Forum</source>
+      <translation type="unfinished">Foorum</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/createcategory</name>
+    <message>
+      <source>Please enter category name!</source>
+      <translation type="unfinished">Palun sisesta kategooria nimi!</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation type="unfinished">Kodus</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/editmessage</name>
+    <message>
+      <source>Please enter message!</source>
+      <translation type="unfinished">Palun sisesta s&#xF5;num!</translation>
+    </message>
+    <message>
+      <source>Forum</source>
+      <translation type="unfinished">Foorum</translation>
+    </message>
+    <message>
+      <source>Message edit</source>
+      <translation type="unfinished">Teade muuta</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/edittopic</name>
+    <message>
+      <source>Please enter topic name!</source>
+      <translation type="unfinished">Palun sisesta teema nime!</translation>
+    </message>
+    <message>
+      <source>Please enter topic status!</source>
+      <translation type="unfinished">Palun sisesta topic staatus!</translation>
+    </message>
+    <message>
+      <source>Forum</source>
+      <translation type="unfinished">Foorum</translation>
+    </message>
+    <message>
+      <source>Topic edit</source>
+      <translation type="unfinished">Topic muuta</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/report</name>
+    <message>
+      <source>Please enter message!</source>
+      <translation type="unfinished">Palun sisesta s&#xF5;num!</translation>
+    </message>
+    <message>
+      <source>Forum message report</source>
+      <translation type="unfinished">Forum s&#xF5;num aruanne</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/searchrss</name>
+    <message>
+      <source>Search results</source>
+      <translation type="unfinished">Otsingu tulemused</translation>
+    </message>
+    <message>
+      <source>Search</source>
+      <translation type="unfinished">Otsing</translation>
+    </message>
+    <message>
+      <source>Search RSS by keyword</source>
+      <translation type="unfinished">Otsi RSS m&#xE4;rks&#xF5;na j&#xE4;rgi</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation type="unfinished">Vaata pilti</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/searchrss</name>
+    <message>
+      <source>Search</source>
+      <translation type="unfinished">Otsing</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/albumeditadmin</name>
+    <message>
+      <source>Root category</source>
+      <translation type="unfinished">Juur kategooria</translation>
+    </message>
+    <message>
+      <source>Add images</source>
+      <translation type="unfinished">Lisa pilte</translation>
+    </message>
+    <message>
+      <source>Album edit</source>
+      <translation type="unfinished">Album muuta</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/addvote</name>
+    <message>
+      <source>Thank you for your vote</source>
+      <translation type="unfinished">T&#xE4;name h&#xE4;&#xE4;letada</translation>
+    </message>
+    <message>
+      <source>You are not allowed to vote!</source>
+      <translation type="unfinished">Sa ei ole lubatud h&#xE4;&#xE4;letada!</translation>
+    </message>
+    <message>
+      <source>You have already voted!</source>
+      <translation type="unfinished">Te olete juba h&#xE4;&#xE4;letanud!</translation>
+    </message>
+    <message>
+      <source>Vote deducted!</source>
+      <translation type="unfinished">Hinda maha!</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/albumrss</name>
+    <message>
+      <source>Last uploaded images to album</source>
+      <translation type="unfinished">Viimati lisatud pildid album</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation type="unfinished">Vaata pilti</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lasthitsrss</name>
+    <message>
+      <source>watched</source>
+      <translation type="unfinished">vaatasin</translation>
+    </message>
+    <message>
+      <source>Last viewed images</source>
+      <translation type="unfinished">Viimati vaadatud pildid</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation type="unfinished">Vaata pilti</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastcommentedrss</name>
+    <message>
+      <source>Last commented images</source>
+      <translation type="unfinished">Viimati kommenteeris pilte</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation type="unfinished">Vaata pilti</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastratedrss</name>
+    <message>
+      <source>Last rated images</source>
+      <translation type="unfinished">Viimati hinnatud pildid</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation type="unfinished">Vaata pilti</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastuploadsrss</name>
+    <message>
+      <source>Last uploaded images</source>
+      <translation type="unfinished">Viimati lisatud pildid</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation type="unfinished">Vaata pilti</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastuploadstoalbums</name>
+    <message>
+      <source>Last uploads to albums</source>
+      <translation type="unfinished">Viimati lisatud albumitesse</translation>
+    </message>
+    <message>
+      <source>Recently updated albums</source>
+      <translation type="unfinished">Hiljuti uuendatud albumid</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/movebyresolution</name>
+    <message>
+      <source>Move by resolution</source>
+      <translation type="unfinished">Liikuda resolutsioon</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/popularrecent</name>
+    <message>
+      <source>Most popular images in 24 hours</source>
+      <translation type="unfinished">K&#xF5;ige populaarsemad pilte 24 tundi</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation type="unfinished">Lehek&#xFC;lg</translation>
+    </message>
+    <message>
+      <source>Most popular images in last 24 hours.</source>
+      <translation type="unfinished">K&#xF5;ige populaarsemad pilte viimased 24 tundi.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/popularrss</name>
+    <message>
+      <source>Most popular images</source>
+      <translation type="unfinished">K&#xF5;ige populaarsemad pilte</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/tagphoto</name>
+    <message>
+      <source>Thank you a lot :)</source>
+      <translation type="unfinished">T&#xE4;nan teid palju:)</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/topratedrss</name>
+    <message>
+      <source>Top rated images</source>
+      <translation type="unfinished">K&#xF5;rgeimalt hinnatud pildid</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation type="unfinished">Vaata pilti</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/updateimage</name>
+    <message>
+      <source>Image updated</source>
+      <translation type="unfinished">Pilt uuendatud</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/imagevariation</name>
+    <message>
+      <source>Basket</source>
+      <translation type="unfinished">Korv</translation>
+    </message>
+    <message>
+      <source>Payment option</source>
+      <translation type="unfinished">Maksmise v&#xF5;imalus</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/imagevariationform</name>
+    <message>
+      <source>Credits amount must be greater than 0!</source>
+      <translation type="unfinished">Autorid summa peab olema suurem kui 0!</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/settingedit</name>
+    <message>
+      <source>Edit</source>
+      <translation type="unfinished">Edit</translation>
+    </message>
+  </context>
+  <context>
+    <name>similar/image</name>
+    <message>
+      <source>Similar images to</source>
+      <translation type="unfinished">Sarnased pildid</translation>
+    </message>
+    <message>
+      <source>Search for visualy similar images</source>
+      <translation type="unfinished">Otsi visualy sarnaseid pilte</translation>
+    </message>
+  </context>
+  <context>
+    <name>system/index</name>
+    <message>
+      <source>System administration panel</source>
+      <translation type="unfinished">S&#xFC;steemi haldamise paneel</translation>
+    </message>
+  </context>
+</TS>

@@ -1,0 +1,4467 @@
+<?xml version="1.0"?>
+<!DOCTYPE TS>
+<TS>
+  <context>
+    <name>article/editstatic</name>
+    <message>
+      <source>Article name</source>
+      <translation>Nome do Artigo</translation>
+    </message>
+    <message>
+      <source>Body</source>
+      <translation>Corpo</translation>
+    </message>
+    <message>
+      <source>Article edit</source>
+      <translation>Artigo editar</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+  </context>
+  <context>
+    <name>article/newstatic</name>
+    <message>
+      <source>New article</source>
+      <translation>Novo artigo</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Guardar</translation>
+    </message>
+  </context>
+  <context>
+    <name>article/staticlist</name>
+    <message>
+      <source>Static articles</source>
+      <translation>artigos est&#xE1;ticos</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Nome</translation>
+    </message>
+    <message>
+      <source>Edit</source>
+      <translation>Editar</translation>
+    </message>
+    <message>
+      <source>New article</source>
+      <translation>Novo artigo</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/addimages</name>
+    <message>
+      <source>All files were uploaded. See album.</source>
+      <translation type="unfinished">Todos os arquivos foram enviados. Veja &#xE1;lbum.</translation>
+    </message>
+    <message>
+      <source>Uploading</source>
+      <translation type="unfinished">Uploading</translation>
+    </message>
+    <message>
+      <source>Complete</source>
+      <translation type="unfinished">Complete</translation>
+    </message>
+    <message>
+      <source>Choose images for upload first.</source>
+      <translation type="unfinished">Escolha imagens para upload primeiro.</translation>
+    </message>
+    <message>
+      <source>File is too big.</source>
+      <translation type="unfinished">O arquivo &#xE9; muito grande.</translation>
+    </message>
+    <message>
+      <source>Choose one of</source>
+      <translation type="unfinished">Escolha uma das</translation>
+    </message>
+    <message>
+      <source>Browse</source>
+      <translation type="unfinished">Procurar</translation>
+    </message>
+    <message>
+      <source>Attatch local images</source>
+      <translation type="unfinished">imagens attatch local</translation>
+    </message>
+    <message>
+      <source>Max file size </source>
+      <translation type="unfinished">Tamanho m&#xE1;ximo do arquivo</translation>
+    </message>
+    <message>
+      <source>Images to upload</source>
+      <translation type="unfinished">Imagens para upload</translation>
+    </message>
+    <message>
+      <source>Choose images for upload</source>
+      <translation type="unfinished">Escolha imagens para upload</translation>
+    </message>
+    <message>
+      <source>Upload</source>
+      <translation type="unfinished">Upload</translation>
+    </message>
+    <message>
+      <source>SWFUpload is loading. Please wait a moment...</source>
+      <translation type="unfinished">SWFUpload est&#xE1; a carregar. Aguarde um momento ...</translation>
+    </message>
+    <message>
+      <source>SWFUpload is taking a long time to load or the load has failed.  Please make sure that the Flash Plugin is enabled and that a working version of the Adobe Flash Player is installed.</source>
+      <translation type="unfinished">SWFUpload est&#xE1; demorando muito tempo para carregar ou a carga falhou. Por favor, certifique-se que o plug-in Flash &#xE9; habilitado e que uma vers&#xE3;o de trabalho do Adobe Flash Player est&#xE1; instalado.</translation>
+    </message>
+    <message>
+      <source>Attachment of local images</source>
+      <translation type="unfinished">Penhora de imagens locais</translation>
+    </message>
+    <message>
+      <source>Max file size 5mb.</source>
+      <translation type="unfinished">Tamanho m&#xE1;ximo 5mb de arquivo.</translation>
+    </message>
+    <message>
+      <source>Choose images for upload.</source>
+      <translation type="unfinished">Escolha imagens para upload.</translation>
+    </message>
+    <message>
+      <source>Add images to album</source>
+      <translation>Adicionar imagens ao &#xE1;lbum</translation>
+    </message>
+    <message>
+      <source>Move album images to another album</source>
+      <translation>Mover imagens &#xE1;lbum para outro &#xE1;lbum</translation>
+    </message>
+    <message>
+      <source>Move image to another album</source>
+      <translation>Mover a imagem para outro &#xE1;lbum</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/admincategorys</name>
+    <message>
+      <source>Found</source>
+      <translation type="unfinished">Encontrados</translation>
+    </message>
+    <message>
+      <source>Category</source>
+      <translation>Categoria</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>T&#xED;tulo</translation>
+    </message>
+    <message>
+      <source>Owner</source>
+      <translation>Propriet&#xE1;rio</translation>
+    </message>
+    <message>
+      <source>Edit category</source>
+      <translation>Editar categoria</translation>
+    </message>
+    <message>
+      <source>Delete category</source>
+      <translation>categoria Excluir</translation>
+    </message>
+    <message>
+      <source>Create a category</source>
+      <translation>Criar uma categoria</translation>
+    </message>
+    <message>
+      <source>Category albums</source>
+      <translation>Categoria &#xE1;lbuns</translation>
+    </message>
+    <message>
+      <source>This category does not have an album.</source>
+      <translation>Esta categoria n&#xE3;o tem um &#xE1;lbum.</translation>
+    </message>
+    <message>
+      <source>Create an album</source>
+      <translation>Criar um &#xE1;lbum</translation>
+    </message>
+    <message>
+      <source>Batch album create</source>
+      <translation>Lote criar &#xE1;lbum</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>In&#xED;cio</translation>
+    </message>
+    <message>
+      <source>Root category</source>
+      <translation>Categoria raiz</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/album_list_admin</name>
+    <message>
+      <source>Found</source>
+      <translation type="unfinished">Encontrados</translation>
+    </message>
+    <message>
+      <source>Are you sure?</source>
+      <translation>Voc&#xEA; tem certeza?</translation>
+    </message>
+    <message>
+      <source>Add images</source>
+      <translation>Adicione imagens</translation>
+    </message>
+    <message>
+      <source>Edit album</source>
+      <translation>Editar &#xE1;lbum</translation>
+    </message>
+    <message>
+      <source>Move all album photos to another album</source>
+      <translation>Mova todas as fotos do &#xE1;lbum para outro &#xE1;lbum</translation>
+    </message>
+    <message>
+      <source>Move photos by resolution</source>
+      <translation>Mover fotos por resolu&#xE7;&#xE3;o</translation>
+    </message>
+    <message>
+      <source>Delete album</source>
+      <translation>Excluir &#xE1;lbum</translation>
+    </message>
+    <message>
+      <source>Approve all images</source>
+      <translation>Aprovar todas as imagens</translation>
+    </message>
+    <message>
+      <source>Disapprove all images</source>
+      <translation>Desaprovar todas as imagens</translation>
+    </message>
+    <message>
+      <source>View on site</source>
+      <translation>Veja no site</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/grouplist</name>
+    <message>
+      <source>Title</source>
+      <translation type="unfinished">T&#xED;tulo</translation>
+    </message>
+    <message>
+      <source>Delete comment</source>
+      <translation>Excluir coment&#xE1;rio</translation>
+    </message>
+    <message>
+      <source>Edit comment</source>
+      <translation>Editar coment&#xE1;rio</translation>
+    </message>
+    <message>
+      <source>Delete image</source>
+      <translation>Apagar imagem</translation>
+    </message>
+    <message>
+      <source>Groups</source>
+      <translation>Grupos</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Nome</translation>
+    </message>
+    <message>
+      <source>Edit group</source>
+      <translation>Editar grupo</translation>
+    </message>
+    <message>
+      <source>Delete group</source>
+      <translation>Excluir grupo</translation>
+    </message>
+    <message>
+      <source>New group</source>
+      <translation>Novo grupo</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>A configura&#xE7;&#xE3;o do sistema</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/albumedit</name>
+    <message>
+      <source>Edit topic</source>
+      <translation>Edite o t&#xF3;pico</translation>
+    </message>
+    <message>
+      <source>Topic name</source>
+      <translation>Nome do t&#xF3;pico</translation>
+    </message>
+    <message>
+      <source>Topic status</source>
+      <translation>Status de t&#xF3;pico</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+    <message>
+      <source>Album edit</source>
+      <translation>&#xC1;lbum editar</translation>
+    </message>
+    <message>
+      <source>Album name</source>
+      <translation>O nome do &#xE1;lbum</translation>
+    </message>
+    <message>
+      <source>Album category</source>
+      <translation>categoria &#xC1;lbum</translation>
+    </message>
+    <message>
+      <source>Album owner</source>
+      <translation>propriet&#xE1;rio do &#xE1;lbum</translation>
+    </message>
+    <message>
+      <source>Description</source>
+      <translation>Descri&#xE7;&#xE3;o</translation>
+    </message>
+    <message>
+      <source>Keywords</source>
+      <translation>Palavras-chave</translation>
+    </message>
+    <message>
+      <source>Public</source>
+      <translation>P&#xFA;blico</translation>
+    </message>
+    <message>
+      <source>All users can uploads images to this album</source>
+      <translation>Todos os usu&#xE1;rios podem uploads de imagens para este &#xE1;lbum</translation>
+    </message>
+    <message>
+      <source>Hidden</source>
+      <translation>Escondido</translation>
+    </message>
+    <message>
+      <source>Hide album from users</source>
+      <translation>Ocultar &#xE1;lbum dos usu&#xE1;rios</translation>
+    </message>
+    <message>
+      <source>Album thumbnail</source>
+      <translation>Miniatura do &#xE1;lbum</translation>
+    </message>
+    <message>
+      <source>Newest album image</source>
+      <translation>Imagem mais recente &#xE1;lbum</translation>
+    </message>
+    <message>
+      <source>Revert to newest album image display mode</source>
+      <translation>Reverter para o mais novo modo de exibi&#xE7;&#xE3;o do &#xE1;lbum de imagem</translation>
+    </message>
+    <message>
+      <source>Remove</source>
+      <translation>Remover</translation>
+    </message>
+    <message>
+      <source>Edit message</source>
+      <translation>Editar mensagem</translation>
+    </message>
+    <message>
+      <source>Message</source>
+      <translation>Mensagem</translation>
+    </message>
+    <message>
+      <source>File</source>
+      <translation>Arquivo</translation>
+    </message>
+    <message>
+      <source>New message</source>
+      <translation>Nova mensagem</translation>
+    </message>
+    <message>
+      <source>Publish</source>
+      <translation>Publicar</translation>
+    </message>
+    <message>
+      <source>New topic</source>
+      <translation>Novo t&#xF3;pico</translation>
+    </message>
+    <message>
+      <source>Choose topic category</source>
+      <translation>Escolha a categoria t&#xF3;pico</translation>
+    </message>
+    <message>
+      <source>Please enter album name!</source>
+      <translation>Por favor, digite o nome do &#xE1;lbum!</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/batchadd</name>
+    <message>
+      <source>I cannot write this directory</source>
+      <translation>Eu n&#xE3;o posso escrever este diret&#xF3;rio</translation>
+    </message>
+    <message>
+      <source>No image were found!</source>
+      <translation>Nenhuma imagem foi encontrado!</translation>
+    </message>
+    <message>
+      <source>Import</source>
+      <translation>Importa&#xE7;&#xE3;o</translation>
+    </message>
+    <message>
+      <source>Import recursive this directory</source>
+      <translation>Importa&#xE7;&#xE3;o recursiva o diret&#xF3;rio</translation>
+    </message>
+    <message>
+      <source>Search</source>
+      <translation>Pesquisa</translation>
+    </message>
+    <message>
+      <source>Please enter album name and click search</source>
+      <translation>Por favor, digite o nome do &#xE1;lbum e clique em pesquisar</translation>
+    </message>
+    <message>
+      <source>List images</source>
+      <translation>Lista de imagens</translation>
+    </message>
+    <message>
+      <source>List images recursive</source>
+      <translation>Lista de imagens recursiva</translation>
+    </message>
+    <message>
+      <source>Import images</source>
+      <translation>Importar imagens</translation>
+    </message>
+    <message>
+      <source>Click list images or list images recursive</source>
+      <translation>Clique nas imagens ou imagens lista Lista recursiva</translation>
+    </message>
+    <message>
+      <source>Add images</source>
+      <translation>Adicione imagens</translation>
+    </message>
+    <message>
+      <source>Please choose album first!</source>
+      <translation>Por favor, escolha primeiro &#xE1;lbum!</translation>
+    </message>
+    <message>
+      <source>Mass image upload</source>
+      <translation>Missa de envio de imagens</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/createalbumadmin</name>
+    <message>
+      <source>New album</source>
+      <translation>Novo &#xE1;lbum</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Guardar</translation>
+    </message>
+    <message>
+      <source>New batch album create</source>
+      <translation>Novo &#xE1;lbum do lote criar</translation>
+    </message>
+    <message>
+      <source>Paste album names separated by new line</source>
+      <translation>Os nomes dos &#xE1;lbuns Colar separados por nova linha</translation>
+    </message>
+    <message>
+      <source>Public</source>
+      <translation>P&#xFA;blico</translation>
+    </message>
+    <message>
+      <source>All users can uploads images to this album</source>
+      <translation>Todos os usu&#xE1;rios podem uploads de imagens para este &#xE1;lbum</translation>
+    </message>
+    <message>
+      <source>Please enter album name!</source>
+      <translation>Por favor, digite o nome do &#xE1;lbum!</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/createcategory</name>
+    <message>
+      <source>New category</source>
+      <translation>Nova categoria</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Guardar</translation>
+    </message>
+    <message>
+      <source>back</source>
+      <translation>volta</translation>
+    </message>
+    <message>
+      <source>Please enter message!</source>
+      <translation>Por favor introduza a mensagem!</translation>
+    </message>
+    <message>
+      <source>Please enter category name!</source>
+      <translation>Por favor, insira o nome da categoria!</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>In&#xED;cio</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/duplicates</name>
+    <message>
+      <source>Similar images number</source>
+      <translation>n&#xFA;mero de imagens semelhantes</translation>
+    </message>
+    <message>
+      <source>Details</source>
+      <translation>Detalhes</translation>
+    </message>
+    <message>
+      <source>More</source>
+      <translation>Mais</translation>
+    </message>
+    <message>
+      <source>Delete duplicate session</source>
+      <translation>Excluir sess&#xE3;o duplicada</translation>
+    </message>
+    <message>
+      <source>No duplicates pending...</source>
+      <translation>N&#xE3;o duplicatas pendentes ...</translation>
+    </message>
+    <message>
+      <source>Duplicates</source>
+      <translation>Duplicatas</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/my_image_list</name>
+    <message>
+      <source>Found</source>
+      <translation type="unfinished">Encontrados</translation>
+    </message>
+    <message>
+      <source>Cross eye image</source>
+      <translation type="unfinished">Cross imagem do olho</translation>
+    </message>
+    <message>
+      <source>Delete comment</source>
+      <translation>Excluir coment&#xE1;rio</translation>
+    </message>
+    <message>
+      <source>Edit comment</source>
+      <translation>Editar coment&#xE1;rio</translation>
+    </message>
+    <message>
+      <source>Delete image</source>
+      <translation>Apagar imagem</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>imagem</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>T&#xED;tulo</translation>
+    </message>
+    <message>
+      <source>Keywords</source>
+      <translation>Palavras-chave</translation>
+    </message>
+    <message>
+      <source>Caption</source>
+      <translation>Legenda</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+    <message>
+      <source>Message author</source>
+      <translation>Autor da mensagem</translation>
+    </message>
+    <message>
+      <source>Message</source>
+      <translation>Mensagem</translation>
+    </message>
+    <message>
+      <source>Rotate image clockwise</source>
+      <translation>Girar imagem em sentido hor&#xE1;rio</translation>
+    </message>
+    <message>
+      <source>Flip horizontaly</source>
+      <translation>Virar horizontalmente</translation>
+    </message>
+    <message>
+      <source>Flip verticaly</source>
+      <translation>Virar Vertical para</translation>
+    </message>
+    <message>
+      <source>Upload new image</source>
+      <translation>Carregar nova imagem</translation>
+    </message>
+    <message>
+      <source>Set as folder thumbnail</source>
+      <translation>Definir como miniaturas pasta</translation>
+    </message>
+    <message>
+      <source>Move image to another album</source>
+      <translation>Mover a imagem para outro &#xE1;lbum</translation>
+    </message>
+    <message>
+      <source>Anaglyph</source>
+      <translation>Anaglyph</translation>
+    </message>
+    <message>
+      <source>Approved</source>
+      <translation>Aprovado</translation>
+    </message>
+    <message>
+      <source>Select image</source>
+      <translation>Selecione uma imagem</translation>
+    </message>
+    <message>
+      <source>File</source>
+      <translation>Arquivo</translation>
+    </message>
+    <message>
+      <source>Upload</source>
+      <translation>Carregar</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/editcategory</name>
+    <message>
+      <source>back</source>
+      <translation>volta</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Nome</translation>
+    </message>
+    <message>
+      <source>Description</source>
+      <translation>Descri&#xE7;&#xE3;o</translation>
+    </message>
+    <message>
+      <source>Owner</source>
+      <translation>Propriet&#xE1;rio</translation>
+    </message>
+    <message>
+      <source>Category edit</source>
+      <translation>Categoria editar</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+    <message>
+      <source>Hide subcategorys in frontpage</source>
+      <translation>subcategorys Hide em frontpage</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/managealbum</name>
+    <message>
+      <source>No records.</source>
+      <translation>N&#xE3;o h&#xE1; registros.</translation>
+    </message>
+    <message>
+      <source>Category</source>
+      <translation>Categoria</translation>
+    </message>
+    <message>
+      <source>Create an album</source>
+      <translation>Criar um &#xE1;lbum</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>In&#xED;cio</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/managealbumimages</name>
+    <message>
+      <source>Move selected images to</source>
+      <translation>Mover imagens selecionadas para</translation>
+    </message>
+    <message>
+      <source>Check all</source>
+      <translation>Verifique todas as</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>N&#xE3;o h&#xE1; registros.</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>In&#xED;cio</translation>
+    </message>
+    <message>
+      <source>Root category</source>
+      <translation>Categoria raiz</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/editrole</name>
+    <message>
+      <source>Role edit</source>
+      <translation>Papel editar</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>T&#xED;tulo</translation>
+    </message>
+    <message>
+      <source>Assigned functions</source>
+      <translation>fun&#xE7;&#xF5;es atribu&#xED;das</translation>
+    </message>
+    <message>
+      <source>Module</source>
+      <translation>M&#xF3;dulo</translation>
+    </message>
+    <message>
+      <source>Function</source>
+      <translation>Fun&#xE7;&#xE3;o</translation>
+    </message>
+    <message>
+      <source>Remove selected</source>
+      <translation>Remover selecionados</translation>
+    </message>
+    <message>
+      <source>New policy</source>
+      <translation>Nova pol&#xED;tica</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+    <message>
+      <source>Cancel</source>
+      <translation>Cancelar</translation>
+    </message>
+    <message>
+      <source>Role assigned groups</source>
+      <translation>grupos papel atribu&#xED;do</translation>
+    </message>
+    <message>
+      <source>Group assignement to role</source>
+      <translation>Grupo assignement ao papel</translation>
+    </message>
+    <message>
+      <source>Assign group</source>
+      <translation>Atribuir grupo</translation>
+    </message>
+    <message>
+      <source>Please enter role name</source>
+      <translation>Por favor, insira o nome papel</translation>
+    </message>
+    <message>
+      <source>Please choose module</source>
+      <translation>Por favor, escolha o m&#xF3;dulo</translation>
+    </message>
+    <message>
+      <source>Please choose module function</source>
+      <translation>Por favor, escolha a fun&#xE7;&#xE3;o m&#xF3;dulo</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>A configura&#xE7;&#xE3;o do sistema</translation>
+    </message>
+    <message>
+      <source>List of roles</source>
+      <translation>Lista dos pap&#xE9;is</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/groupassignrole</name>
+    <message>
+      <source>Title</source>
+      <translation>T&#xED;tulo</translation>
+    </message>
+    <message>
+      <source>Assign</source>
+      <translation>Atribuir</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/modulefunctions</name>
+    <message>
+      <source>All functions</source>
+      <translation>Todas as fun&#xE7;&#xF5;es</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/newpolicy</name>
+    <message>
+      <source>New policy</source>
+      <translation>Nova pol&#xED;tica</translation>
+    </message>
+    <message>
+      <source>Assigned functions</source>
+      <translation>fun&#xE7;&#xF5;es atribu&#xED;das</translation>
+    </message>
+    <message>
+      <source>Choose module</source>
+      <translation>Escolha o m&#xF3;dulo</translation>
+    </message>
+    <message>
+      <source>All modules</source>
+      <translation>Todos os m&#xF3;dulos</translation>
+    </message>
+    <message>
+      <source>Choose module function</source>
+      <translation>Escolha o m&#xF3;dulo de fun&#xE7;&#xE3;o</translation>
+    </message>
+    <message>
+      <source>All functions</source>
+      <translation>Todas as fun&#xE7;&#xF5;es</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Guardar</translation>
+    </message>
+    <message>
+      <source>Cancel</source>
+      <translation>Cancelar</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/newrole</name>
+    <message>
+      <source>New role</source>
+      <translation>Novo papel</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>T&#xED;tulo</translation>
+    </message>
+    <message>
+      <source>Policy list</source>
+      <translation>Pol&#xED;tica de lista</translation>
+    </message>
+    <message>
+      <source>Module</source>
+      <translation>M&#xF3;dulo</translation>
+    </message>
+    <message>
+      <source>Function</source>
+      <translation>Fun&#xE7;&#xE3;o</translation>
+    </message>
+    <message>
+      <source>New policy</source>
+      <translation>Nova pol&#xED;tica</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Guardar</translation>
+    </message>
+    <message>
+      <source>Cancel</source>
+      <translation>Cancelar</translation>
+    </message>
+    <message>
+      <source>Please enter role name</source>
+      <translation>Por favor, insira o nome papel</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>A configura&#xE7;&#xE3;o do sistema</translation>
+    </message>
+    <message>
+      <source>List of roles</source>
+      <translation>Lista dos pap&#xE9;is</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/roleassigngroup</name>
+    <message>
+      <source>Title</source>
+      <translation>T&#xED;tulo</translation>
+    </message>
+    <message>
+      <source>Assign</source>
+      <translation>Atribuir</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/roles</name>
+    <message>
+      <source>List of roles</source>
+      <translation>Lista dos pap&#xE9;is</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>T&#xED;tulo</translation>
+    </message>
+    <message>
+      <source>Edit role</source>
+      <translation>Editar papel</translation>
+    </message>
+    <message>
+      <source>Delete role</source>
+      <translation>papel Excluir</translation>
+    </message>
+    <message>
+      <source>New role</source>
+      <translation>Novo papel</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>A configura&#xE7;&#xE3;o do sistema</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/index</name>
+    <message>
+      <source>Shop configuration</source>
+      <translation>configura&#xE7;&#xE3;o Shop</translation>
+    </message>
+    <message>
+      <source>Images variations sizes</source>
+      <translation>varia&#xE7;&#xF5;es de tamanhos de Imagens</translation>
+    </message>
+    <message>
+      <source>List payment options</source>
+      <translation>Lista de op&#xE7;&#xF5;es de pagamento</translation>
+    </message>
+    <message>
+      <source>Settings list</source>
+      <translation>lista Defini&#xE7;&#xF5;es</translation>
+    </message>
+    <message>
+      <source>Orders list</source>
+      <translation>Lista de pedidos</translation>
+    </message>
+    <message>
+      <source>Credits orders list</source>
+      <translation>Cr&#xE9;ditos lista de pedidos</translation>
+    </message>
+    <message>
+      <source>Shop</source>
+      <translation>Loja</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/listpaymentoptions</name>
+    <message>
+      <source>Payment options</source>
+      <translation>As op&#xE7;&#xF5;es de pagamento</translation>
+    </message>
+    <message>
+      <source>Identifier</source>
+      <translation>Identificador</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Nome</translation>
+    </message>
+    <message>
+      <source>Active</source>
+      <translation>Active</translation>
+    </message>
+    <message>
+      <source>Author</source>
+      <translation>Autor</translation>
+    </message>
+    <message>
+      <source>Edit</source>
+      <translation>Editar</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/orderedit</name>
+    <message>
+      <source>Order view</source>
+      <translation>Ordem vista</translation>
+    </message>
+    <message>
+      <source>Order time</source>
+      <translation>tempo Ordem</translation>
+    </message>
+    <message>
+      <source>Order price</source>
+      <translation>pre&#xE7;o da oferta</translation>
+    </message>
+    <message>
+      <source>Order credits</source>
+      <translation>cr&#xE9;ditos de Ordem</translation>
+    </message>
+    <message>
+      <source>Order status</source>
+      <translation>status Ordem</translation>
+    </message>
+    <message>
+      <source>Payed.</source>
+      <translation>Pago.</translation>
+    </message>
+    <message>
+      <source>Confirmed</source>
+      <translation>Confirmada</translation>
+    </message>
+    <message>
+      <source>Ordered items</source>
+      <translation>itens ordenados</translation>
+    </message>
+    <message>
+      <source>Image name</source>
+      <translation>nome da imagem</translation>
+    </message>
+    <message>
+      <source>Version</source>
+      <translation>Vers&#xE3;o</translation>
+    </message>
+    <message>
+      <source>Image size</source>
+      <translation>Tamanho da imagem</translation>
+    </message>
+    <message>
+      <source>Format</source>
+      <translation>Formato</translation>
+    </message>
+    <message>
+      <source>Price</source>
+      <translation>Pre&#xE7;o</translation>
+    </message>
+    <message>
+      <source>Download count</source>
+      <translation>contagem Download</translation>
+    </message>
+    <message>
+      <source>Downloads left</source>
+      <translation>Downloads esquerda</translation>
+    </message>
+    <message>
+      <source>Credits</source>
+      <translation>Cr&#xE9;ditos</translation>
+    </message>
+  </context>
+  <context>
+    <name>systemconfig/list</name>
+    <message>
+      <source>Delete order item</source>
+      <translation>item da ordem Excluir</translation>
+    </message>
+    <message>
+      <source>Delete order</source>
+      <translation>Para Apagar</translation>
+    </message>
+    <message>
+      <source>Config list</source>
+      <translation>lista Config</translation>
+    </message>
+    <message>
+      <source>Identifier</source>
+      <translation>Identificador</translation>
+    </message>
+    <message>
+      <source>Explain</source>
+      <translation>Explicar</translation>
+    </message>
+    <message>
+      <source>Edit value</source>
+      <translation>Editar valor</translation>
+    </message>
+    <message>
+      <source>System config options</source>
+      <translation>Sistema op&#xE7;&#xF5;es de configura&#xE7;&#xE3;o</translation>
+    </message>
+    <message>
+      <source>List</source>
+      <translation>Lista</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/orderslist</name>
+    <message>
+      <source>Orders credits list</source>
+      <translation>Lista de pedidos de cr&#xE9;ditos</translation>
+    </message>
+    <message>
+      <source>ID</source>
+      <translation>ID</translation>
+    </message>
+    <message>
+      <source>Date</source>
+      <translation>Data</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Order price</source>
+      <translation>pre&#xE7;o da oferta</translation>
+    </message>
+    <message>
+      <source>Order credits</source>
+      <translation>cr&#xE9;ditos de Ordem</translation>
+    </message>
+    <message>
+      <source>Order status</source>
+      <translation>status Ordem</translation>
+    </message>
+    <message>
+      <source>Payed.</source>
+      <translation>Pago.</translation>
+    </message>
+    <message>
+      <source>Confirmed</source>
+      <translation>Confirmada</translation>
+    </message>
+    <message>
+      <source>No orders...</source>
+      <translation>Nenhuma ordem ...</translation>
+    </message>
+    <message>
+      <source>Orders list</source>
+      <translation>Lista de pedidos</translation>
+    </message>
+    <message>
+      <source>Order view</source>
+      <translation>Ordem vista</translation>
+    </message>
+    <message>
+      <source>User orders list</source>
+      <translation>ordens Usu&#xE1;rio lista</translation>
+    </message>
+    <message>
+      <source>User credits orders list</source>
+      <translation>Usu&#xE1;rio cr&#xE9;ditos lista de pedidos</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/paymentoptionedit</name>
+    <message>
+      <source>Payment option edit</source>
+      <translation>op&#xE7;&#xE3;o de pagamento editar</translation>
+    </message>
+    <message>
+      <source>Identifier</source>
+      <translation>Identificador</translation>
+    </message>
+    <message>
+      <source>Active</source>
+      <translation>Active</translation>
+    </message>
+    <message>
+      <source>Payment settings</source>
+      <translation>configura&#xE7;&#xF5;es de pagamento</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+  </context>
+  <context>
+    <name>systemconfig/edit</name>
+    <message>
+      <source>Edit</source>
+      <translation>Editar</translation>
+    </message>
+    <message>
+      <source>Data updated</source>
+      <translation>Dados atualizados</translation>
+    </message>
+    <message>
+      <source>Identifier</source>
+      <translation>Identificador</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+    <message>
+      <source>Values applies to</source>
+      <translation>Aplica-se aos valores</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/settinglist</name>
+    <message>
+      <source>Shop config list</source>
+      <translation>Loja de configura&#xE7;&#xE3;o da lista</translation>
+    </message>
+    <message>
+      <source>Identifier</source>
+      <translation>Identificador</translation>
+    </message>
+    <message>
+      <source>Explain</source>
+      <translation>Explicar</translation>
+    </message>
+    <message>
+      <source>Value</source>
+      <translation>Valor</translation>
+    </message>
+    <message>
+      <source>Edit value</source>
+      <translation>Editar valor</translation>
+    </message>
+  </context>
+  <context>
+    <name>statistic/choosesite</name>
+    <message>
+      <source>Choose site you want to show statistic</source>
+      <translation>Escolha o site que voc&#xEA; deseja mostrar estat&#xED;stica</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Guardar</translation>
+    </message>
+  </context>
+  <context>
+    <name>statistic/index</name>
+    <message>
+      <source>Google analytics statistic</source>
+      <translation>Google analytics estat&#xED;stica</translation>
+    </message>
+    <message>
+      <source>Grant access application to access google analytics API</source>
+      <translation>Grant pedido de acesso para API do Google Analytics</translation>
+    </message>
+    <message>
+      <source>Site choose</source>
+      <translation>Site escolhe</translation>
+    </message>
+    <message>
+      <source>View statistic</source>
+      <translation>Ver estat&#xED;stica</translation>
+    </message>
+    <message>
+      <source>Statistic</source>
+      <translation>Estat&#xED;stica</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>In&#xED;cio</translation>
+    </message>
+  </context>
+  <context>
+    <name>system/configuration</name>
+    <message>
+      <source>System configuration</source>
+      <translation>A configura&#xE7;&#xE3;o do sistema</translation>
+    </message>
+    <message>
+      <source>Users</source>
+      <translation>Usu&#xE1;rios</translation>
+    </message>
+    <message>
+      <source>List of groups</source>
+      <translation>Lista de grupos</translation>
+    </message>
+    <message>
+      <source>List of roles</source>
+      <translation>Lista dos pap&#xE9;is</translation>
+    </message>
+    <message>
+      <source>System configuration values</source>
+      <translation>valores de configura&#xE7;&#xE3;o do sistema</translation>
+    </message>
+    <message>
+      <source>Watermark protection</source>
+      <translation>prote&#xE7;&#xE3;o Watermark</translation>
+    </message>
+    <message>
+      <source>Banned rating IP list</source>
+      <translation>Lista de IP banido classifica&#xE7;&#xE3;o</translation>
+    </message>
+    <message>
+      <source>Banned commenting IP list</source>
+      <translation>Banned lista comentando IP</translation>
+    </message>
+  </context>
+  <context>
+    <name>systemconfig/watermark</name>
+    <message>
+      <source>Watermark configuration</source>
+      <translation>configura&#xE7;&#xE3;o Watermark</translation>
+    </message>
+    <message>
+      <source>Settings updated</source>
+      <translation>Configura&#xE7;&#xF5;es atualizadas</translation>
+    </message>
+    <message>
+      <source>Delete watermark</source>
+      <translation>marca d&amp;#39;&#xE1;gua Excluir</translation>
+    </message>
+    <message>
+      <source>Image, it is recommended PNG type image</source>
+      <translation>Imagem, recomenda-se o tipo de imagem PNG</translation>
+    </message>
+    <message>
+      <source>Settings</source>
+      <translation>Configura&#xE7;&#xF5;es</translation>
+    </message>
+    <message>
+      <source>Watermark disabled</source>
+      <translation>Marca d&amp;#39;&#xE1;gua desativada</translation>
+    </message>
+    <message>
+      <source>Watermark enabled for normal size thumbnails</source>
+      <translation>Watermark habilitado para ver em tamanho normal miniaturas</translation>
+    </message>
+    <message>
+      <source>Watermark enabled for all images</source>
+      <translation>Watermark habilitado para todas as imagens</translation>
+    </message>
+    <message>
+      <source>Watermark position</source>
+      <translation>Posi&#xE7;&#xE3;o da Estampa</translation>
+    </message>
+    <message>
+      <source>Top left</source>
+      <translation>Topo &#xE0; esquerda</translation>
+    </message>
+    <message>
+      <source>Top right</source>
+      <translation>Topo &#xE0; direita</translation>
+    </message>
+    <message>
+      <source>Bottom left</source>
+      <translation>Inferior esquerdo</translation>
+    </message>
+    <message>
+      <source>Bottom right</source>
+      <translation>Embaixo &#xE0; direita</translation>
+    </message>
+    <message>
+      <source>Center</source>
+      <translation>Centro</translation>
+    </message>
+    <message>
+      <source>Watermark padding from borders</source>
+      <translation>Watermark preenchimento das fronteiras</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+    <message>
+      <source>Watermark</source>
+      <translation>Marca d&amp;#39;&#xE1;gua</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/account</name>
+    <message>
+      <source>Logged user</source>
+      <translation>usu&#xE1;rio logado</translation>
+    </message>
+    <message>
+      <source>Account updated</source>
+      <translation>Conta atualizada</translation>
+    </message>
+    <message>
+      <source>Do not enter password unless you want to change it</source>
+      <translation>N&#xE3;o digite a senha menos que voc&#xEA; queira mud&#xE1;-lo</translation>
+    </message>
+    <message>
+      <source>Login information</source>
+      <translation>Informa&#xE7;&#xE3;o de login</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Nome de Usu&#xE1;rio</translation>
+    </message>
+    <message>
+      <source>Password</source>
+      <translation>Senha</translation>
+    </message>
+    <message>
+      <source>Repeat password</source>
+      <translation>Repita a senha</translation>
+    </message>
+    <message>
+      <source>Contact information</source>
+      <translation>Informa&#xE7;&#xF5;es para contato</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+    <message>
+      <source>Message send</source>
+      <translation>Enviar mensagem</translation>
+    </message>
+    <message>
+      <source>Add google account</source>
+      <translation>Adicionar conta google</translation>
+    </message>
+    <message>
+      <source>Working</source>
+      <translation>Trabalhar</translation>
+    </message>
+    <message>
+      <source>Profile page settings</source>
+      <translation type="unfinished">P&#xE1;gina de configura&#xE7;&#xF5;es de perfil</translation>
+    </message>
+    <message>
+      <source>Profile settings updated</source>
+      <translation type="unfinished">Configura&#xE7;&#xF5;es do perfil s&#xE3;o atualizadas</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation type="unfinished">Nome</translation>
+    </message>
+    <message>
+      <source>Surname</source>
+      <translation type="unfinished">Sobrenome</translation>
+    </message>
+    <message>
+      <source>Website</source>
+      <translation type="unfinished">Site</translation>
+    </message>
+    <message>
+      <source>Information about you</source>
+      <translation type="unfinished">Informa&#xE7;&#xF5;es sobre voc&#xEA;</translation>
+    </message>
+    <message>
+      <source>Profile photo</source>
+      <translation type="unfinished">Perfil fotos</translation>
+    </message>
+    <message>
+      <source>See how your profile looks to users</source>
+      <translation type="unfinished">Veja como o seu perfil olha para os usu&#xE1;rios</translation>
+    </message>
+    <message>
+      <source>View profile</source>
+      <translation type="unfinished">Ver o perfil de</translation>
+    </message>
+    <message>
+      <source>Wrong email address</source>
+      <translation>endere&#xE7;o de e-mail errado</translation>
+    </message>
+    <message>
+      <source>Passwords mismatch</source>
+      <translation>incompatibilidade Senhas</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/edit</name>
+    <message>
+      <source>User edit</source>
+      <translation>Edi&#xE7;&#xE3;o do utilizador</translation>
+    </message>
+    <message>
+      <source>Do not enter password unless you want to change it</source>
+      <translation>N&#xE3;o digite a senha menos que voc&#xEA; queira mud&#xE1;-lo</translation>
+    </message>
+    <message>
+      <source>Login information</source>
+      <translation>Informa&#xE7;&#xE3;o de login</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Nome de Usu&#xE1;rio</translation>
+    </message>
+    <message>
+      <source>Password</source>
+      <translation>Senha</translation>
+    </message>
+    <message>
+      <source>Repeat password</source>
+      <translation>Repita a senha</translation>
+    </message>
+    <message>
+      <source>Contact information</source>
+      <translation>Informa&#xE7;&#xF5;es para contato</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+    <message>
+      <source>User prifle</source>
+      <translation>Prifle usu&#xE1;rio</translation>
+    </message>
+    <message>
+      <source>My account</source>
+      <translation>A minha conta</translation>
+    </message>
+    <message>
+      <source>Facebook albums</source>
+      <translation>&#xC1;lbuns Facebook</translation>
+    </message>
+    <message>
+      <source>Facebook session has expired, please login</source>
+      <translation>Facebook sess&#xE3;o expirou, fa&#xE7;a o login</translation>
+    </message>
+    <message>
+      <source>Account</source>
+      <translation>Conta</translation>
+    </message>
+    <message>
+      <source>Albums</source>
+      <translation>&#xC1;lbuns</translation>
+    </message>
+    <message>
+      <source>My albums</source>
+      <translation>Os meus &#xE1;lbuns</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>A configura&#xE7;&#xE3;o do sistema</translation>
+    </message>
+    <message>
+      <source>Account data</source>
+      <translation>Dados da conta</translation>
+    </message>
+    <message>
+      <source>Wrong email address</source>
+      <translation>endere&#xE7;o de e-mail errado</translation>
+    </message>
+    <message>
+      <source>Passwords mismatch</source>
+      <translation>incompatibilidade Senhas</translation>
+    </message>
+    <message>
+      <source>Users</source>
+      <translation>Usu&#xE1;rios</translation>
+    </message>
+    <message>
+      <source>Authentifion with google</source>
+      <translation>Authentifion com google</translation>
+    </message>
+    <message>
+      <source>Profile settings</source>
+      <translation type="unfinished">Configura&#xE7;&#xF5;es de perfil</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/editgroup</name>
+    <message>
+      <source>Group edit</source>
+      <translation>Grupo editar</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>T&#xED;tulo</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+    <message>
+      <source>Assigned users</source>
+      <translation>Atribu&#xED;do usu&#xE1;rios</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Nome de Usu&#xE1;rio</translation>
+    </message>
+    <message>
+      <source>Remove user from group</source>
+      <translation>Remover usu&#xE1;rio do grupo</translation>
+    </message>
+    <message>
+      <source>Assign user</source>
+      <translation>Atribuir usu&#xE1;rio</translation>
+    </message>
+    <message>
+      <source>User assignment</source>
+      <translation>atribui&#xE7;&#xE3;o de instru&#xE7;&#xF5;es</translation>
+    </message>
+    <message>
+      <source>Assigned roles</source>
+      <translation>fun&#xE7;&#xF5;es atribu&#xED;das</translation>
+    </message>
+    <message>
+      <source>Remove role from group</source>
+      <translation>Retire o papel do grupo</translation>
+    </message>
+    <message>
+      <source>Assign role</source>
+      <translation>Atribuir papel</translation>
+    </message>
+    <message>
+      <source>Role assignment</source>
+      <translation>atribui&#xE7;&#xE3;o de fun&#xE7;&#xE3;o</translation>
+    </message>
+    <message>
+      <source>Please enter group name</source>
+      <translation>Por favor, digite o nome do grupo</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>A configura&#xE7;&#xE3;o do sistema</translation>
+    </message>
+    <message>
+      <source>Groups</source>
+      <translation>Grupos</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/groupassignuser</name>
+    <message>
+      <source>Username</source>
+      <translation type="unfinished">Nome de Usu&#xE1;rio</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation type="unfinished">E-mail</translation>
+    </message>
+    <message>
+      <source>User</source>
+      <translation>Usu&#xE1;rio</translation>
+    </message>
+    <message>
+      <source>Assign</source>
+      <translation>Atribuir</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/login</name>
+    <message>
+      <source>Please login</source>
+      <translation>Fa&#xE7;a o login</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Nome de Usu&#xE1;rio</translation>
+    </message>
+    <message>
+      <source>Password</source>
+      <translation>Senha</translation>
+    </message>
+    <message>
+      <source>Login</source>
+      <translation>Login</translation>
+    </message>
+    <message>
+      <source>Password remind</source>
+      <translation>Lembrar senha</translation>
+    </message>
+    <message>
+      <source>Please login with your facebook account</source>
+      <translation>Por favor fa&#xE7;a o login com sua conta do Facebook</translation>
+    </message>
+    <message>
+      <source>Report abuse</source>
+      <translation>Denunciar um abuso</translation>
+    </message>
+    <message>
+      <source>Please write whats wrong within a post</source>
+      <translation>Por favor, escreva o que est&#xE1; errado dentro de um posto</translation>
+    </message>
+    <message>
+      <source>Send</source>
+      <translation>Enviar</translation>
+    </message>
+    <message>
+      <source>Registration is complete</source>
+      <translation>O registo &#xE9; completa</translation>
+    </message>
+    <message>
+      <source>Registration is complete please login.</source>
+      <translation>Registo est&#xE1; completo fa&#xE7;a o login.</translation>
+    </message>
+    <message>
+      <source>Checkout</source>
+      <translation>Sa&#xED;da</translation>
+    </message>
+    <message>
+      <source>Incorrect username or password</source>
+      <translation>Nome de usu&#xE1;rio incorreto ou senha</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/new</name>
+    <message>
+      <source>New user</source>
+      <translation>Novo usu&#xE1;rio</translation>
+    </message>
+    <message>
+      <source>Login information</source>
+      <translation>Informa&#xE7;&#xE3;o de login</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Nome de Usu&#xE1;rio</translation>
+    </message>
+    <message>
+      <source>Password</source>
+      <translation>Senha</translation>
+    </message>
+    <message>
+      <source>Repeat password</source>
+      <translation>Repita a senha</translation>
+    </message>
+    <message>
+      <source>Contact information</source>
+      <translation>Informa&#xE7;&#xF5;es para contato</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Guardar</translation>
+    </message>
+    <message>
+      <source>OR login with</source>
+      <translation>OU fa&#xE7;a o login com</translation>
+    </message>
+    <message>
+      <source>Login with google account</source>
+      <translation>Entrar com conta google</translation>
+    </message>
+    <message>
+      <source>Working</source>
+      <translation>Trabalhar</translation>
+    </message>
+    <message>
+      <source>Working...</source>
+      <translation>Trabalhar ...</translation>
+    </message>
+    <message>
+      <source>Registration</source>
+      <translation>Registro</translation>
+    </message>
+    <message>
+      <source>Safe code</source>
+      <translation>c&#xF3;digo de seguran&#xE7;a</translation>
+    </message>
+    <message>
+      <source>Register</source>
+      <translation>Registrar</translation>
+    </message>
+    <message>
+      <source>Sutch username is already taken!</source>
+      <translation>Sutch username j&#xE1; est&#xE1; tomada!</translation>
+    </message>
+    <message>
+      <source>Please enter album name!</source>
+      <translation>Por favor, digite o nome do &#xE1;lbum!</translation>
+    </message>
+    <message>
+      <source>Please enter category name!</source>
+      <translation>Por favor, insira o nome da categoria!</translation>
+    </message>
+    <message>
+      <source>User exists</source>
+      <translation>Usu&#xE1;rio existe</translation>
+    </message>
+    <message>
+      <source>Wrong email address</source>
+      <translation>endere&#xE7;o de e-mail errado</translation>
+    </message>
+    <message>
+      <source>Please enter username</source>
+      <translation>Por favor insira nome de usu&#xE1;rio</translation>
+    </message>
+    <message>
+      <source>Passwords mismatch</source>
+      <translation>incompatibilidade Senhas</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>A configura&#xE7;&#xE3;o do sistema</translation>
+    </message>
+    <message>
+      <source>Users</source>
+      <translation>Usu&#xE1;rios</translation>
+    </message>
+    <message>
+      <source>Please enter group name</source>
+      <translation>Por favor, digite o nome do grupo</translation>
+    </message>
+    <message>
+      <source>E-mail taken!</source>
+      <translation>E-mail tomadas!</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/newgroup</name>
+    <message>
+      <source>New group</source>
+      <translation>Novo grupo</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>T&#xED;tulo</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Guardar</translation>
+    </message>
+    <message>
+      <source>Save and assign user</source>
+      <translation>Salvar e atribua usu&#xE1;rio</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>A configura&#xE7;&#xE3;o do sistema</translation>
+    </message>
+    <message>
+      <source>Groups</source>
+      <translation>Grupos</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/userlist</name>
+    <message>
+      <source>Report list</source>
+      <translation>Lista de relat&#xF3;rio</translation>
+    </message>
+    <message>
+      <source>Report</source>
+      <translation>Relat&#xF3;rio</translation>
+    </message>
+    <message>
+      <source>Topic</source>
+      <translation>T&#xF3;pico</translation>
+    </message>
+    <message>
+      <source>Topic message</source>
+      <translation>Mensagem de t&#xF3;pico</translation>
+    </message>
+    <message>
+      <source>Date</source>
+      <translation>Data</translation>
+    </message>
+    <message>
+      <source>Edit topic</source>
+      <translation>Edite o t&#xF3;pico</translation>
+    </message>
+    <message>
+      <source>Delete topic</source>
+      <translation>Excluir t&#xF3;pico</translation>
+    </message>
+    <message>
+      <source>IP</source>
+      <translation>IP</translation>
+    </message>
+    <message>
+      <source>Users</source>
+      <translation>Usu&#xE1;rios</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Nome de Usu&#xE1;rio</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Edit user</source>
+      <translation>Editar usu&#xE1;rio</translation>
+    </message>
+    <message>
+      <source>Delete user</source>
+      <translation>Excluir usu&#xE1;rio</translation>
+    </message>
+    <message>
+      <source>New user</source>
+      <translation>Novo usu&#xE1;rio</translation>
+    </message>
+    <message>
+      <source>Replace image</source>
+      <translation>Substituir a imagem</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>A configura&#xE7;&#xE3;o do sistema</translation>
+    </message>
+  </context>
+  <context>
+    <name>pagelayout/pagelayout</name>
+    <message>
+      <source>Home</source>
+      <translation>In&#xED;cio</translation>
+    </message>
+    <message>
+      <source>Configuration</source>
+      <translation>Configura&#xE7;&#xE3;o</translation>
+    </message>
+    <message>
+      <source>Gallery categorys</source>
+      <translation>Galeria categorys</translation>
+    </message>
+    <message>
+      <source>Last uploads to albums</source>
+      <translation>&#xDA;ltimas fotos para &#xE1;lbuns</translation>
+    </message>
+    <message>
+      <source>Batch images add</source>
+      <translation>adicionar imagens em lote</translation>
+    </message>
+    <message>
+      <source>Duplicates</source>
+      <translation>Duplicatas</translation>
+    </message>
+    <message>
+      <source>Static articles</source>
+      <translation>artigos est&#xE1;ticos</translation>
+    </message>
+    <message>
+      <source>Statistic</source>
+      <translation>Estat&#xED;stica</translation>
+    </message>
+    <message>
+      <source>Shop</source>
+      <translation>Loja</translation>
+    </message>
+    <message>
+      <source>Forum</source>
+      <translation>F&#xF3;rum</translation>
+    </message>
+    <message>
+      <source>Delete photo by ID</source>
+      <translation>Excluir foto por ID</translation>
+    </message>
+    <message>
+      <source>Photo was deleted</source>
+      <translation>A foto foi exclu&#xED;da</translation>
+    </message>
+    <message>
+      <source>Go to album</source>
+      <translation>Ir para o &#xE1;lbum</translation>
+    </message>
+    <message>
+      <source>Go to forum topic</source>
+      <translation>Ir para t&#xF3;pico no f&#xF3;rum</translation>
+    </message>
+    <message>
+      <source>Go to forum category</source>
+      <translation>Ir ao f&#xF3;rum categoria</translation>
+    </message>
+    <message>
+      <source>Go to image</source>
+      <translation>Ir para a imagem</translation>
+    </message>
+    <message>
+      <source>Root category</source>
+      <translation>categoria Raiz</translation>
+    </message>
+    <message>
+      <source>Open</source>
+      <translation>Abrir</translation>
+    </message>
+    <message>
+      <source>Edit</source>
+      <translation>Editar</translation>
+    </message>
+    <message>
+      <source>New album</source>
+      <translation>Novo &#xE1;lbum</translation>
+    </message>
+    <message>
+      <source>New batch albums</source>
+      <translation>Novo lote de &#xE1;lbuns</translation>
+    </message>
+    <message>
+      <source>New category</source>
+      <translation>Nova categoria</translation>
+    </message>
+    <message>
+      <source>Delete album</source>
+      <translation>Excluir &#xE1;lbum</translation>
+    </message>
+    <message>
+      <source>Delete category</source>
+      <translation>categoria Excluir</translation>
+    </message>
+    <message>
+      <source>Add images</source>
+      <translation>Adicione imagens</translation>
+    </message>
+    <message>
+      <source>Move images</source>
+      <translation>Mover imagens</translation>
+    </message>
+    <message>
+      <source>It\'s NOT fake!</source>
+      <translation>It \ &amp;#39;s n&#xE3;o &#xE9; falso!</translation>
+    </message>
+    <message>
+      <source>Rendered in</source>
+      <translation>Proferida na</translation>
+    </message>
+    <message>
+      <source>Logged user</source>
+      <translation>usu&#xE1;rio logado</translation>
+    </message>
+    <message>
+      <source>Account</source>
+      <translation>Conta</translation>
+    </message>
+    <message>
+      <source>Logout</source>
+      <translation>Logout</translation>
+    </message>
+    <message>
+      <source>Login</source>
+      <translation>Login</translation>
+    </message>
+    <message>
+      <source>Enter keyword or phrase</source>
+      <translation>Digite palavra-chave ou frase</translation>
+    </message>
+    <message>
+      <source>Search entire forum</source>
+      <translation>Pesquisar f&#xF3;rum inteiro</translation>
+    </message>
+    <message>
+      <source>Search</source>
+      <translation>Pesquisa</translation>
+    </message>
+    <message>
+      <source>Last uploads</source>
+      <translation>&#xDA;ltimas fotos</translation>
+    </message>
+    <message>
+      <source>Last commented</source>
+      <translation>&#xDA;ltimo coment&#xE1;rio</translation>
+    </message>
+    <message>
+      <source>Last hits</source>
+      <translation>&#xDA;ltima hits</translation>
+    </message>
+    <message>
+      <source>Last rated</source>
+      <translation>&#xDA;ltima avalia&#xE7;&#xE3;o</translation>
+    </message>
+    <message>
+      <source>Last 24 h.</source>
+      <translation>&#xDA;ltimas 24 h.</translation>
+    </message>
+    <message>
+      <source>Most popular</source>
+      <translation>Mais populares</translation>
+    </message>
+    <message>
+      <source>Top rated</source>
+      <translation>Mais Populares</translation>
+    </message>
+    <message>
+      <source>Search entire gallery</source>
+      <translation>galeria inteira Search</translation>
+    </message>
+    <message>
+      <source>Last uploaded images</source>
+      <translation>&#xDA;ltimas imagens carregado</translation>
+    </message>
+    <message>
+      <source>View all categorys</source>
+      <translation>Ver todas as categorys</translation>
+    </message>
+    <message>
+      <source>All time</source>
+      <translation>Todos os tempos</translation>
+    </message>
+    <message>
+      <source>Interactive</source>
+      <translation>Interativo</translation>
+    </message>
+    <message>
+      <source>Search by keyword</source>
+      <translation>Busca por palavra-chave</translation>
+    </message>
+    <message>
+      <source>Search by color</source>
+      <translation>Pesquisa por cor</translation>
+    </message>
+    <message>
+      <source>Search by similarity</source>
+      <translation>Busca por similaridade</translation>
+    </message>
+    <message>
+      <source>Search by sketch</source>
+      <translation>Busca por sketch</translation>
+    </message>
+    <message>
+      <source>Last viewed images</source>
+      <translation>&#xDA;ltimas imagens visualizadas</translation>
+    </message>
+    <message>
+      <source>Last searches</source>
+      <translation>&#xDA;ltimas pesquisas</translation>
+    </message>
+    <message>
+      <source>My account</source>
+      <translation>A minha conta</translation>
+    </message>
+    <message>
+      <source>Profile page</source>
+      <translation type="unfinished">P&#xE1;gina de perfil</translation>
+    </message>
+    <message>
+      <source>Manage albums</source>
+      <translation>Gerenciar &#xE1;lbuns</translation>
+    </message>
+    <message>
+      <source>Credits</source>
+      <translation>Cr&#xE9;ditos</translation>
+    </message>
+    <message>
+      <source>My orders</source>
+      <translation>Minhas ordens</translation>
+    </message>
+    <message>
+      <source>My credits orders</source>
+      <translation>Minhas ordens cr&#xE9;ditos</translation>
+    </message>
+    <message>
+      <source>Import images from facebook</source>
+      <translation>Importar imagens a partir facebook</translation>
+    </message>
+    <message>
+      <source>Register</source>
+      <translation>Registre-se</translation>
+    </message>
+    <message>
+      <source>My favorites</source>
+      <translation>Os meus favoritos</translation>
+    </message>
+    <message>
+      <source>Basket</source>
+      <translation>Cesta</translation>
+    </message>
+    <message>
+      <source>Upload</source>
+      <translation>Upload</translation>
+    </message>
+    <message>
+      <source>Upload zip</source>
+      <translation>zip Upload</translation>
+    </message>
+    <message>
+      <source>Search...</source>
+      <translation>Pesquisa ...</translation>
+    </message>
+  </context>
+  <context>
+    <name>feedback/form</name>
+    <message>
+      <source>Feedback</source>
+      <translation>Feedback</translation>
+    </message>
+    <message>
+      <source>Feedback was send</source>
+      <translation>Feedback foi enviado</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Nome</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Text</source>
+      <translation>Texto</translation>
+    </message>
+    <message>
+      <source>Captcha image</source>
+      <translation>imagem Captcha</translation>
+    </message>
+    <message>
+      <source>Captcha code</source>
+      <translation>c&#xF3;digo Captcha</translation>
+    </message>
+    <message>
+      <source>Required fields</source>
+      <translation>Os campos obrigat&#xF3;rios</translation>
+    </message>
+    <message>
+      <source>Send</source>
+      <translation>Enviar</translation>
+    </message>
+    <message>
+      <source>Please enter name!</source>
+      <translation>Por favor, insira o nome!</translation>
+    </message>
+    <message>
+      <source>Invalid e-mail address!</source>
+      <translation>Inv&#xE1;lido endere&#xE7;o de e-mail!</translation>
+    </message>
+    <message>
+      <source>Please enter text!</source>
+      <translation>Digite o texto!</translation>
+    </message>
+    <message>
+      <source>Please enter captcha code!</source>
+      <translation>Por favor insira o c&#xF3;digo captcha!</translation>
+    </message>
+  </context>
+  <context>
+    <name>feedback/formsend</name>
+    <message>
+      <source>Feedback</source>
+      <translation>Feedback</translation>
+    </message>
+    <message>
+      <source>Your feedback was succesfuly send</source>
+      <translation>Seu coment&#xE1;rio foi enviar com &#xEA;xito</translation>
+    </message>
+    <message>
+      <source>Home page</source>
+      <translation>P&#xE1;gina Principal</translation>
+    </message>
+  </context>
+  <context>
+    <name>feedback/mail</name>
+    <message>
+      <source>Hellow</source>
+      <translation type="unfinished">Hellow</translation>
+    </message>
+    <message>
+      <source>Hello</source>
+      <translation>Ol&#xE1;</translation>
+    </message>
+    <message>
+      <source>Feedback data</source>
+      <translation>dados de Feedback</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Nome</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Text</source>
+      <translation>Texto</translation>
+    </message>
+    <message>
+      <source>Bye</source>
+      <translation>Tchau</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/image_list</name>
+    <message>
+      <source>preview version</source>
+      <translation>vers&#xE3;o preview</translation>
+    </message>
+    <message>
+      <source>See full size</source>
+      <translation>Veja em tamanho maior</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/album</name>
+    <message>
+      <source>No records</source>
+      <translation>N&#xE3;o h&#xE1; registros</translation>
+    </message>
+    <message>
+      <source>Search by color and keyword, just try to see how fun it is!</source>
+      <translation>Busca por cor e palavra-chave, apenas tentar ver como &#xE9; divertido!</translation>
+    </message>
+    <message>
+      <source>Enter keyword or phrase</source>
+      <translation>Digite palavra-chave ou frase</translation>
+    </message>
+    <message>
+      <source>Search entire gallery</source>
+      <translation>Pesquisar galeria inteira</translation>
+    </message>
+    <message>
+      <source>Search</source>
+      <translation>Pesquisa</translation>
+    </message>
+    <message>
+      <source>enter keyword and click color, or just click color</source>
+      <translation>entrar palavra-chave e clique em cor, ou apenas clique em cor</translation>
+    </message>
+    <message>
+      <source>Include color</source>
+      <translation>Incluem cor</translation>
+    </message>
+    <message>
+      <source>Exclude color</source>
+      <translation>Excluir da cor</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>P&#xE1;gina</translation>
+    </message>
+    <message>
+      <source>Last uploaded last</source>
+      <translation>&#xDA;ltima carregado passado</translation>
+    </message>
+    <message>
+      <source>Most popular first</source>
+      <translation>Mais populares primeiro</translation>
+    </message>
+    <message>
+      <source>Most popular last</source>
+      <translation>Mais populares passado</translation>
+    </message>
+    <message>
+      <source>Last hits first</source>
+      <translation>&#xDA;ltimo primeiro hits</translation>
+    </message>
+    <message>
+      <source>Last hits last</source>
+      <translation>&#xDA;ltimos acessos</translation>
+    </message>
+    <message>
+      <source>Last commented first</source>
+      <translation>&#xDA;ltima comentou primeiro</translation>
+    </message>
+    <message>
+      <source>Last commented last</source>
+      <translation>&#xDA;ltimo coment&#xE1;rio &#xFA;ltima</translation>
+    </message>
+    <message>
+      <source>Last rated first</source>
+      <translation>&#xDA;ltima avaliado primeiro</translation>
+    </message>
+    <message>
+      <source>Last rated last</source>
+      <translation>&#xDA;ltima avaliado passado</translation>
+    </message>
+    <message>
+      <source>Top rated first</source>
+      <translation>Mais Populares primeiro</translation>
+    </message>
+    <message>
+      <source>Top rated last Last</source>
+      <translation>Mais Populares &#xFA;ltimos</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Resolu&#xE7;&#xE3;o</translation>
+    </message>
+    <message>
+      <source>Last uploaded images to album</source>
+      <translation>&#xDA;ltima imagens enviadas para o &#xE1;lbum</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/album_list</name>
+    <message>
+      <source>files</source>
+      <translation>arquivos</translation>
+    </message>
+    <message>
+      <source>Album priority</source>
+      <translation>Prioridade &#xE1;lbum</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/anaglyph</name>
+    <message>
+      <source>Original</source>
+      <translation>Original</translation>
+    </message>
+    <message>
+      <source>Anaglyph</source>
+      <translation>Anaglyph</translation>
+    </message>
+    <message>
+      <source>Animating</source>
+      <translation>Animando</translation>
+    </message>
+  </context>
+  <context>
+    <name>core/paginator</name>
+    <message>
+      <source>Page</source>
+      <translation>P&#xE1;gina</translation>
+    </message>
+    <message>
+      <source>of</source>
+      <translation>de</translation>
+    </message>
+    <message>
+      <source>Found</source>
+      <translation>Encontrados</translation>
+    </message>
+    <message>
+      <source>Previous</source>
+      <translation>Anterior</translation>
+    </message>
+    <message>
+      <source>Go to page</source>
+      <translation>Ir para a p&#xE1;gina</translation>
+    </message>
+    <message>
+      <source>Next</source>
+      <translation>Seguinte</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/createalbum</name>
+    <message>
+      <source>New album</source>
+      <translation>Novo &#xE1;lbum</translation>
+    </message>
+    <message>
+      <source>Album name</source>
+      <translation>O nome do &#xE1;lbum</translation>
+    </message>
+    <message>
+      <source>Description</source>
+      <translation>Descri&#xE7;&#xE3;o</translation>
+    </message>
+    <message>
+      <source>Keywords</source>
+      <translation>Palavras-chave</translation>
+    </message>
+    <message>
+      <source>Create</source>
+      <translation>Criar</translation>
+    </message>
+    <message>
+      <source>Create and upload photos</source>
+      <translation>Criar e fazer upload de fotos</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/fileuploadcontainer</name>
+    <message>
+      <source>Waiting</source>
+      <translation type="unfinished">Esperando</translation>
+    </message>
+    <message>
+      <source>Sutch file already exists</source>
+      <translation type="unfinished">Sutch arquivo j&#xE1; existe</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>T&#xED;tulo</translation>
+    </message>
+    <message>
+      <source>Keywords</source>
+      <translation>Palavras-chave</translation>
+    </message>
+    <message>
+      <source>Cross eye image</source>
+      <translation>Cross imagem do olho</translation>
+    </message>
+    <message>
+      <source>Caption</source>
+      <translation>Legenda</translation>
+    </message>
+    <message>
+      <source>Enter new album name or choose public album</source>
+      <translation>Digite o nome do novo &#xE1;lbum ou escolha de &#xE1;lbuns p&#xFA;blicos</translation>
+    </message>
+    <message>
+      <source>description</source>
+      <translation>descri&#xE7;&#xE3;o</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/image</name>
+    <message>
+      <source>Picture comments</source>
+      <translation>Imagem coment&#xE1;rios</translation>
+    </message>
+    <message>
+      <source>No comments</source>
+      <translation>Sem coment&#xE1;rios</translation>
+    </message>
+    <message>
+      <source>Comment stored</source>
+      <translation>Coment&#xE1;rio armazenados</translation>
+    </message>
+    <message>
+      <source>Leave a reply</source>
+      <translation>Deixe uma resposta</translation>
+    </message>
+    <message>
+      <source>Nick</source>
+      <translation>Nick</translation>
+    </message>
+    <message>
+      <source>Max 25 characters</source>
+      <translation>M&#xE1;ximo de 25 caracteres</translation>
+    </message>
+    <message>
+      <source>Message</source>
+      <translation>Mensagem</translation>
+    </message>
+    <message>
+      <source>Send</source>
+      <translation>Enviar</translation>
+    </message>
+    <message>
+      <source>Image edit</source>
+      <translation>De edi&#xE7;&#xE3;o de imagens</translation>
+    </message>
+    <message>
+      <source>Rate this picture</source>
+      <translation>Avalie esta imagem</translation>
+    </message>
+    <message>
+      <source>star</source>
+      <translation>estrelas</translation>
+    </message>
+    <message>
+      <source>stars</source>
+      <translation>Estrelas</translation>
+    </message>
+    <message>
+      <source>Vote!</source>
+      <translation>Vote!</translation>
+    </message>
+    <message>
+      <source>Deduct vote!</source>
+      <translation>Deduzir vote!</translation>
+    </message>
+    <message>
+      <source>next image</source>
+      <translation>pr&#xF3;xima imagem</translation>
+    </message>
+    <message>
+      <source>previous image</source>
+      <translation>imagem anterior</translation>
+    </message>
+    <message>
+      <source>return to thumbnails</source>
+      <translation>voltar &#xE0;s miniaturas</translation>
+    </message>
+    <message>
+      <source>Click to see fullsize</source>
+      <translation>Clique para ver em tamanho real</translation>
+    </message>
+    <message>
+      <source>Supported BB Code style tags: [b] [i] [u] [quote] :) :D :( :o :p ;)</source>
+      <translation>Suportados BB marcas de estilo C&#xF3;digo: [b] [i] [u] [quote]:): D: (: o: p;)</translation>
+    </message>
+    <message>
+      <source>Add to favorites</source>
+      <translation>Adicionar aos favoritos</translation>
+    </message>
+    <message>
+      <source>Share this page HTML code</source>
+      <translation>Partilhe este c&#xF3;digo HTML p&#xE1;gina</translation>
+    </message>
+    <message>
+      <source>Share PHPBB code</source>
+      <translation>Compartilhe c&#xF3;digo PHPBB</translation>
+    </message>
+    <message>
+      <source>Anaglyph version</source>
+      <translation>vers&#xE3;o Anaglyph</translation>
+    </message>
+    <message>
+      <source>Enter tags separated by space</source>
+      <translation>Insira etiquetas separadas por espa&#xE7;o</translation>
+    </message>
+    <message>
+      <source>Picture details</source>
+      <translation>detalhes da fotografia</translation>
+    </message>
+    <message>
+      <source>Filename</source>
+      <translation>Nome do arquivo</translation>
+    </message>
+    <message>
+      <source>File size</source>
+      <translation>O tamanho do arquivo</translation>
+    </message>
+    <message>
+      <source>Image rating</source>
+      <translation>Avalia&#xE7;&#xE3;o da imagem</translation>
+    </message>
+    <message>
+      <source>Date added</source>
+      <translation>Data adicionada</translation>
+    </message>
+    <message>
+      <source>Dimensions</source>
+      <translation>Dimens&#xF5;es</translation>
+    </message>
+    <message>
+      <source>Displayed</source>
+      <translation>Exibida</translation>
+    </message>
+    <message>
+      <source>times</source>
+      <translation>vezes</translation>
+    </message>
+    <message>
+      <source>Album</source>
+      <translation>&#xC1;lbum</translation>
+    </message>
+    <message>
+      <source>URL</source>
+      <translation>URL</translation>
+    </message>
+    <message>
+      <source>Owner</source>
+      <translation>Propriet&#xE1;rio</translation>
+    </message>
+    <message>
+      <source>About user</source>
+      <translation type="unfinished">Sobre o usu&#xE1;rio</translation>
+    </message>
+    <message>
+      <source>votes</source>
+      <translation>votos</translation>
+    </message>
+    <message>
+      <source>Search for similar colors images</source>
+      <translation>Buscar por imagens semelhantes cores</translation>
+    </message>
+    <message>
+      <source>Search for visualy similar images</source>
+      <translation>Procurar imagens similares visualy</translation>
+    </message>
+    <message>
+      <source>More user images</source>
+      <translation>Mais imagens de usu&#xE1;rio</translation>
+    </message>
+    <message>
+      <source>Version</source>
+      <translation>Vers&#xE3;o</translation>
+    </message>
+    <message>
+      <source>Image size</source>
+      <translation>Tamanho da imagem</translation>
+    </message>
+    <message>
+      <source>Format</source>
+      <translation>Formato</translation>
+    </message>
+    <message>
+      <source>Price</source>
+      <translation>Pre&#xE7;o</translation>
+    </message>
+    <message>
+      <source>credits</source>
+      <translation>cr&#xE9;ditos</translation>
+    </message>
+    <message>
+      <source>Remove from basket</source>
+      <translation>Remover da cesta</translation>
+    </message>
+    <message>
+      <source>Add to basket</source>
+      <translation>Adicionar ao cesto</translation>
+    </message>
+    <message>
+      <source>Wrong captcha code!</source>
+      <translation>c&#xF3;digo captcha Errado!</translation>
+    </message>
+    <message>
+      <source>Please enter nick!</source>
+      <translation>Por favor, indique nick!</translation>
+    </message>
+    <message>
+      <source>Please enter comment!</source>
+      <translation>Por favor, indique coment&#xE1;rio!</translation>
+    </message>
+    <message>
+      <source>You are not allowed to leave a comments!</source>
+      <translation>Voc&#xEA; n&#xE3;o tem permiss&#xE3;o para deixar um coment&#xE1;rio!</translation>
+    </message>
+    <message>
+      <source>Guest_</source>
+      <translation>Guest_</translation>
+    </message>
+    <message>
+      <source>Last uploaded images</source>
+      <translation>&#xDA;ltimas imagens carregado</translation>
+    </message>
+    <message>
+      <source>Last additions</source>
+      <translation>&#xDA;ltimas Imagens Adicionadas</translation>
+    </message>
+    <message>
+      <source>Last viewed images</source>
+      <translation>&#xDA;ltimas imagens visualizadas</translation>
+    </message>
+    <message>
+      <source>Last commented images</source>
+      <translation>&#xDA;ltima comentou imagens</translation>
+    </message>
+    <message>
+      <source>Last rated images</source>
+      <translation>&#xDA;ltimas imagens nominal</translation>
+    </message>
+    <message>
+      <source>Top rated images</source>
+      <translation>Top imagens nominal</translation>
+    </message>
+    <message>
+      <source>Search by color</source>
+      <translation>Busca por cor</translation>
+    </message>
+    <message>
+      <source>Most popular images</source>
+      <translation>Imagens mais populares</translation>
+    </message>
+    <message>
+      <source>Search rss by keyword</source>
+      <translation>rss Busca por palavra-chave</translation>
+    </message>
+    <message>
+      <source>Last uploaded first</source>
+      <translation>&#xDA;ltima upload primeiro</translation>
+    </message>
+    <message>
+      <source>Last uploaded last</source>
+      <translation>&#xDA;ltima carregado passado</translation>
+    </message>
+    <message>
+      <source>Most popular first</source>
+      <translation>Mais populares primeiro</translation>
+    </message>
+    <message>
+      <source>Most popular last</source>
+      <translation>Mais populares passado</translation>
+    </message>
+    <message>
+      <source>Last hits first</source>
+      <translation>&#xDA;ltimo primeiro hits</translation>
+    </message>
+    <message>
+      <source>Last hits last</source>
+      <translation>&#xDA;ltimos acessos</translation>
+    </message>
+    <message>
+      <source>Last commented first</source>
+      <translation>&#xDA;ltima comentou primeiro</translation>
+    </message>
+    <message>
+      <source>Last commented last</source>
+      <translation>&#xDA;ltimo coment&#xE1;rio &#xFA;ltima</translation>
+    </message>
+    <message>
+      <source>Top rated first</source>
+      <translation>Mais Populares primeiro</translation>
+    </message>
+    <message>
+      <source>Top rated last Last</source>
+      <translation>Mais Populares &#xFA;ltimos</translation>
+    </message>
+    <message>
+      <source>Last rated first</source>
+      <translation>&#xDA;ltima avaliado primeiro</translation>
+    </message>
+    <message>
+      <source>Last rated last</source>
+      <translation>&#xDA;ltima avaliado passado</translation>
+    </message>
+    <message>
+      <source>Most relevance images last</source>
+      <translation>A maioria das imagens relev&#xE2;ncia &#xFA;ltima</translation>
+    </message>
+    <message>
+      <source>search results</source>
+      <translation>resultados da pesquisa</translation>
+    </message>
+    <message>
+      <source>Last uploaded images to album</source>
+      <translation>&#xDA;ltima imagens enviadas para o &#xE1;lbum</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/myfavorites</name>
+    <message>
+      <source>Remove from favorites</source>
+      <translation>Remover dos favoritos</translation>
+    </message>
+    <message>
+      <source>My favorite images</source>
+      <translation>Minhas imagens favoritas</translation>
+    </message>
+    <message>
+      <source>Remove</source>
+      <translation>Remover</translation>
+    </message>
+    <message>
+      <source>Remove Open ID</source>
+      <translation>Remover Open ID</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastcommented</name>
+    <message>
+      <source>Last commented images</source>
+      <translation>&#xDA;ltima comentou imagens</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>N&#xE3;o h&#xE1; registros.</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Resolu&#xE7;&#xE3;o</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>P&#xE1;gina</translation>
+    </message>
+    <message>
+      <source>Last commented gallery images.</source>
+      <translation type="unfinished">&#xDA;ltima comentou imagens da galeria.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lasthits</name>
+    <message>
+      <source>Last viewed images</source>
+      <translation>&#xDA;ltimas imagens visualizadas</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>N&#xE3;o h&#xE1; registros.</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Resolu&#xE7;&#xE3;o</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>P&#xE1;gina</translation>
+    </message>
+    <message>
+      <source>Last viewed gallery images.</source>
+      <translation type="unfinished">&#xDA;ltimas imagens visualizadas galeria.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastrated</name>
+    <message>
+      <source>Last rated images</source>
+      <translation>&#xDA;ltimas imagens nominal</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>N&#xE3;o h&#xE1; registros.</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Resolu&#xE7;&#xE3;o</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>P&#xE1;gina</translation>
+    </message>
+    <message>
+      <source>Recently rated images.</source>
+      <translation type="unfinished">Recentemente avaliado imagens.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastuploads</name>
+    <message>
+      <source>Last uploaded images</source>
+      <translation>&#xDA;ltimas imagens carregado</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>N&#xE3;o h&#xE1; registros.</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Resolu&#xE7;&#xE3;o</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>P&#xE1;gina</translation>
+    </message>
+    <message>
+      <source>Latest additions to gallery.</source>
+      <translation type="unfinished">Mais recentes adi&#xE7;&#xF5;es &#xE0; galeria.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/my_albums_list</name>
+    <message>
+      <source>Edit album</source>
+      <translation>Editar &#xE1;lbum</translation>
+    </message>
+    <message>
+      <source>Are you sure?</source>
+      <translation>Voc&#xEA; tem certeza?</translation>
+    </message>
+    <message>
+      <source>Delete album</source>
+      <translation>Excluir &#xE1;lbum</translation>
+    </message>
+    <message>
+      <source>Add images</source>
+      <translation>Adicione imagens</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/myalbums</name>
+    <message>
+      <source>My albums</source>
+      <translation>Os meus &#xE1;lbuns</translation>
+    </message>
+    <message>
+      <source>New album</source>
+      <translation>Novo &#xE1;lbum</translation>
+    </message>
+    <message>
+      <source>Update priority</source>
+      <translation>Prioridade de atualiza&#xE7;&#xE3;o</translation>
+    </message>
+    <message>
+      <source>You do not have any album.</source>
+      <translation>Voc&#xEA; n&#xE3;o tem nenhum &#xE1;lbum.</translation>
+    </message>
+    <message>
+      <source>Create a new album.</source>
+      <translation>Criar um novo &#xE1;lbum.</translation>
+    </message>
+    <message>
+      <source>Account</source>
+      <translation>Conta</translation>
+    </message>
+    <message>
+      <source>Albums</source>
+      <translation>&#xC1;lbuns</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/mylistalbum</name>
+    <message>
+      <source>My albums</source>
+      <translation type="unfinished">Os meus &#xE1;lbuns</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>N&#xE3;o h&#xE1; registros.</translation>
+    </message>
+    <message>
+      <source>Account</source>
+      <translation>Conta</translation>
+    </message>
+    <message>
+      <source>Albums</source>
+      <translation>&#xC1;lbuns</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/search</name>
+    <message>
+      <source>Last uploaded</source>
+      <translation>&#xDA;ltima carregado</translation>
+    </message>
+    <message>
+      <source>Most popular</source>
+      <translation>Mais populares</translation>
+    </message>
+    <message>
+      <source>Last hits</source>
+      <translation>&#xDA;ltima hits</translation>
+    </message>
+    <message>
+      <source>Top rated</source>
+      <translation>Mais Populares</translation>
+    </message>
+    <message>
+      <source>Last rated</source>
+      <translation>&#xDA;ltima avalia&#xE7;&#xE3;o</translation>
+    </message>
+    <message>
+      <source>Last commented</source>
+      <translation>&#xDA;ltimo coment&#xE1;rio</translation>
+    </message>
+    <message>
+      <source>Filename</source>
+      <translation>Nome do arquivo</translation>
+    </message>
+    <message>
+      <source>Search results</source>
+      <translation>Resultados da pesquisa</translation>
+    </message>
+    <message>
+      <source>Nothing found</source>
+      <translation>Nada foi encontrado</translation>
+    </message>
+    <message>
+      <source>Any resolution</source>
+      <translation>Qualquer resolu&#xE7;&#xE3;o</translation>
+    </message>
+    <message>
+      <source>Relevance</source>
+      <translation>Relev&#xE2;ncia</translation>
+    </message>
+    <message>
+      <source>Any keyword</source>
+      <translation>Qualquer palavra-chave</translation>
+    </message>
+    <message>
+      <source>All keywords</source>
+      <translation>Todas as palavras-chave</translation>
+    </message>
+    <message>
+      <source>search results</source>
+      <translation>resultados da pesquisa</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>P&#xE1;gina</translation>
+    </message>
+    <message>
+      <source>Last uploaded first</source>
+      <translation>&#xDA;ltima upload primeiro</translation>
+    </message>
+    <message>
+      <source>Last uploaded last</source>
+      <translation>&#xDA;ltima carregado passado</translation>
+    </message>
+    <message>
+      <source>Most popular first</source>
+      <translation>Mais populares primeiro</translation>
+    </message>
+    <message>
+      <source>Most popular last</source>
+      <translation>Mais populares passado</translation>
+    </message>
+    <message>
+      <source>Last hits first</source>
+      <translation>&#xDA;ltimo primeiro hits</translation>
+    </message>
+    <message>
+      <source>Last hits last</source>
+      <translation>&#xDA;ltimos acessos</translation>
+    </message>
+    <message>
+      <source>Last commented first</source>
+      <translation>&#xDA;ltima comentou primeiro</translation>
+    </message>
+    <message>
+      <source>Last commented last</source>
+      <translation>&#xDA;ltimo coment&#xE1;rio &#xFA;ltima</translation>
+    </message>
+    <message>
+      <source>Last rated first</source>
+      <translation>&#xDA;ltima avaliado primeiro</translation>
+    </message>
+    <message>
+      <source>Last rated last</source>
+      <translation>&#xDA;ltima avaliado passado</translation>
+    </message>
+    <message>
+      <source>Top rated first</source>
+      <translation>Mais Populares primeiro</translation>
+    </message>
+    <message>
+      <source>Top rated last</source>
+      <translation>Mais Populares passado</translation>
+    </message>
+    <message>
+      <source>Most relevance images last</source>
+      <translation>A maioria das imagens relev&#xE2;ncia &#xFA;ltima</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Resolu&#xE7;&#xE3;o</translation>
+    </message>
+    <message>
+      <source>Search RSS by keyword</source>
+      <translation>Busca por palavra-chave RSS</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/popular</name>
+    <message>
+      <source>Most popular images</source>
+      <translation>Imagens mais populares</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>N&#xE3;o h&#xE1; registros.</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Resolu&#xE7;&#xE3;o</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>P&#xE1;gina</translation>
+    </message>
+    <message>
+      <source>All time most popular images.</source>
+      <translation type="unfinished">O tempo todo mais populares imagens.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/popularrecect</name>
+    <message>
+      <source>Most popular images in 24 hours.</source>
+      <translation>Imagens mais populares em 24 horas.</translation>
+    </message>
+    <message>
+      <source>There are no images.</source>
+      <translation>N&#xE3;o h&#xE1; imagens.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/publicupload</name>
+    <message>
+      <source>All files were uploaded. See album.</source>
+      <translation type="unfinished">Todos os arquivos foram enviados. Veja &#xE1;lbum.</translation>
+    </message>
+    <message>
+      <source>Uploading</source>
+      <translation type="unfinished">Uploading</translation>
+    </message>
+    <message>
+      <source>Complete</source>
+      <translation type="unfinished">Complete</translation>
+    </message>
+    <message>
+      <source>Choose images for upload first.</source>
+      <translation type="unfinished">Escolha imagens para upload primeiro.</translation>
+    </message>
+    <message>
+      <source>File is too big.</source>
+      <translation type="unfinished">O arquivo &#xE9; muito grande.</translation>
+    </message>
+    <message>
+      <source>Choose one of</source>
+      <translation type="unfinished">Escolha uma das</translation>
+    </message>
+    <message>
+      <source>Browse</source>
+      <translation type="unfinished">Procurar</translation>
+    </message>
+    <message>
+      <source>Images to upload</source>
+      <translation type="unfinished">Imagens para upload</translation>
+    </message>
+    <message>
+      <source>Choose images for upload.</source>
+      <translation type="unfinished">Escolha imagens para upload.</translation>
+    </message>
+    <message>
+      <source>Image upload is in progress. Please wait a moment...</source>
+      <translation type="unfinished">Upload de imagem est&#xE1; em andamento. Aguarde um momento ...</translation>
+    </message>
+    <message>
+      <source>Image upload is taking a long time to load or the load has failed.  Please make sure that the Flash Plugin is enabled and that a working version of the Adobe Flash Player is installed.</source>
+      <translation type="unfinished">Upload de imagem est&#xE1; levando muito tempo para carregar ou a carga falhou. Por favor, certifique-se que o plug-in Flash &#xE9; habilitado e que uma vers&#xE3;o de trabalho do Adobe Flash Player est&#xE1; instalado.</translation>
+    </message>
+    <message>
+      <source>Attatch local images</source>
+      <translation type="unfinished">imagens attatch local</translation>
+    </message>
+    <message>
+      <source>Upload</source>
+      <translation>Upload</translation>
+    </message>
+    <message>
+      <source>Click to choose images to upload, you can also drop files here.</source>
+      <translation>Clique para escolher as imagens para upload, voc&#xEA; tamb&#xE9;m pode soltar arquivos aqui.</translation>
+    </message>
+    <message>
+      <source>Click to choose images to upload, you can also Drag and Drop files here (Darg and drop only for FF, Chrome).</source>
+      <translation>Clique para escolher as imagens para upload, voc&#xEA; tamb&#xE9;m pode arrastar e soltar arquivos aqui (Darg e soltar apenas para FF, Chrome).</translation>
+    </message>
+    <message>
+      <source>Public images archive upload</source>
+      <translation>P&#xFA;blico arquivar imagens de upload</translation>
+    </message>
+    <message>
+      <source>Click to choose zip to upload, you can also drop files here (Darg and drop only for FF, Chrome).</source>
+      <translation>Clique para escolher zip para fazer o upload, voc&#xEA; tamb&#xE9;m pode soltar arquivos aqui (Darg e soltar apenas para FF, Chrome).</translation>
+    </message>
+    <message>
+      <source>Public images upload</source>
+      <translation>P&#xFA;blico upload de imagens</translation>
+    </message>
+    <message>
+      <source>Max file size </source>
+      <translation type="unfinished">Tamanho m&#xE1;ximo de arquivo</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/ratedrecent</name>
+    <message>
+      <source>Top rated images in 24 hours.</source>
+      <translation>Top imagens avaliado em 24 horas.</translation>
+    </message>
+    <message>
+      <source>Top rated images in 24 hours</source>
+      <translation>Top imagens nominal em 24 horas</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>P&#xE1;gina</translation>
+    </message>
+    <message>
+      <source>Top rated images in last 24 hours.</source>
+      <translation type="unfinished">Top imagens nominal nas &#xFA;ltimas 24 horas.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/sharehtml</name>
+    <message>
+      <source>Link to image</source>
+      <translation>Link para a imagem</translation>
+    </message>
+    <message>
+      <source>Link to image with thumbnail</source>
+      <translation>Link para a imagem com miniaturas</translation>
+    </message>
+    <message>
+      <source>Link to image with medium size thumbnail</source>
+      <translation>Link para a imagem com tamanho m&#xE9;dio de miniaturas</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/sharephpbb</name>
+    <message>
+      <source>Link to image</source>
+      <translation>Link para a imagem</translation>
+    </message>
+    <message>
+      <source>Link to image with thumbnail</source>
+      <translation>Link para a imagem com miniaturas</translation>
+    </message>
+    <message>
+      <source>Link to image with medium size thumbnail</source>
+      <translation>Link para a imagem com tamanho m&#xE9;dio de miniaturas</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/subcategory_list</name>
+    <message>
+      <source>images</source>
+      <translation>imagens</translation>
+    </message>
+    <message>
+      <source>albums</source>
+      <translation>&#xC1;lbuns</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/subcategory_list_full</name>
+    <message>
+      <source>albums</source>
+      <translation>&#xC1;lbuns</translation>
+    </message>
+    <message>
+      <source>images</source>
+      <translation>imagens</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/toprated</name>
+    <message>
+      <source>Top rated images</source>
+      <translation>Top imagens nominal</translation>
+    </message>
+    <message>
+      <source>No records</source>
+      <translation>N&#xE3;o h&#xE1; registros</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Resolu&#xE7;&#xE3;o</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>P&#xE1;gina</translation>
+    </message>
+    <message>
+      <source>All time top rated images.</source>
+      <translation type="unfinished">O top de tempo avaliado imagens.</translation>
+    </message>
+  </context>
+  <context>
+    <name>kernel/nopermission</name>
+    <message>
+      <source>You do not have permission to access module</source>
+      <translation>Voc&#xEA; n&#xE3;o tem permiss&#xE3;o para acessar o m&#xF3;dulo</translation>
+    </message>
+    <message>
+      <source>and use</source>
+      <translation>e uso</translation>
+    </message>
+    <message>
+      <source>function</source>
+      <translation>fun&#xE7;&#xE3;o</translation>
+    </message>
+    <message>
+      <source>You do not have permission to access current object</source>
+      <translation>Voc&#xEA; n&#xE3;o tem permiss&#xE3;o para acessar o objeto atual</translation>
+    </message>
+  </context>
+  <context>
+    <name>statistic/view</name>
+    <message>
+      <source>hours</source>
+      <translation>horas</translation>
+    </message>
+    <message>
+      <source>Total pageviews</source>
+      <translation>Total de pageviews</translation>
+    </message>
+    <message>
+      <source>Total visits</source>
+      <translation>Total de visitas</translation>
+    </message>
+    <message>
+      <source>Time spent</source>
+      <translation>O tempo gasto</translation>
+    </message>
+    <message>
+      <source>Last 31 days statistic, data resource - google analytics API</source>
+      <translation>Estat&#xED;stica &#xFA;ltimos 31 dias, recurso de dados - API do Google Analytics</translation>
+    </message>
+    <message>
+      <source>Legend</source>
+      <translation>Legenda</translation>
+    </message>
+    <message>
+      <source>Pageviews</source>
+      <translation>Pageviews</translation>
+    </message>
+    <message>
+      <source>Visits</source>
+      <translation>Visitas</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/forgotpassword</name>
+    <message>
+      <source>Password remind</source>
+      <translation>Lembrar senha</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Restore password</source>
+      <translation>Recuperar Senha</translation>
+    </message>
+    <message>
+      <source>Order confirmed</source>
+      <translation>Ordem confirmada</translation>
+    </message>
+    <message>
+      <source>Credits order confirmed</source>
+      <translation>Cr&#xE9;ditos a ordem confirmada</translation>
+    </message>
+    <message>
+      <source>Wrong e-mail address!</source>
+      <translation>e-mail errado!</translation>
+    </message>
+    <message>
+      <source>Click this link and to You will be send new password</source>
+      <translation>Clique neste link e voc&#xEA; ser&#xE1; enviar uma nova senha</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/forgotpasswordsent</name>
+    <message>
+      <source>Password remind</source>
+      <translation>Lembrar senha</translation>
+    </message>
+    <message>
+      <source>E-mail send. Click link in email and to You will be send out new password.</source>
+      <translation>E-mail enviado. Clique no link no e-mail e voc&#xEA; ser&#xE1; enviar nova senha.</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/index</name>
+    <message>
+      <source>User home</source>
+      <translation>home do usu&#xE1;rio</translation>
+    </message>
+    <message>
+      <source>Welcome. Here you can:</source>
+      <translation>Seja bem-vindo. Aqui voc&#xEA; pode:</translation>
+    </message>
+    <message>
+      <source>Edit personal settings</source>
+      <translation>Editar configura&#xE7;&#xF5;es pessoais</translation>
+    </message>
+    <message>
+      <source>Manage personal albums</source>
+      <translation>Gerenciar &#xE1;lbuns pessoais</translation>
+    </message>
+    <message>
+      <source>My account</source>
+      <translation>A minha conta</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/remindpassword</name>
+    <message>
+      <source>New password</source>
+      <translation>Nova senha</translation>
+    </message>
+    <message>
+      <source>Hash not found or was used already</source>
+      <translation>Hash n&#xE3;o encontrado ou j&#xE1; foi utilizado</translation>
+    </message>
+    <message>
+      <source>Password remind - new password</source>
+      <translation>Senha lembrar - uma nova senha</translation>
+    </message>
+    <message>
+      <source>New password:</source>
+      <translation>Nova senha:</translation>
+    </message>
+    <message>
+      <source>New password has beend send to your email.</source>
+      <translation>Nova senha tem beend enviar para o seu e-mail.</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/basket</name>
+    <message>
+      <source>Basket</source>
+      <translation>Cesta</translation>
+    </message>
+    <message>
+      <source>Image name</source>
+      <translation>nome da imagem</translation>
+    </message>
+    <message>
+      <source>Version</source>
+      <translation>Vers&#xE3;o</translation>
+    </message>
+    <message>
+      <source>Image size</source>
+      <translation>Tamanho da imagem</translation>
+    </message>
+    <message>
+      <source>Format</source>
+      <translation>Formato</translation>
+    </message>
+    <message>
+      <source>Price</source>
+      <translation>Pre&#xE7;o</translation>
+    </message>
+    <message>
+      <source>Credits</source>
+      <translation>Cr&#xE9;ditos</translation>
+    </message>
+    <message>
+      <source>Remove from basket</source>
+      <translation>Remover da cesta</translation>
+    </message>
+    <message>
+      <source>Choose payment option</source>
+      <translation>Escolha a op&#xE7;&#xE3;o de pagamento</translation>
+    </message>
+    <message>
+      <source>In order to checkout atlest one item have to be selected.</source>
+      <translation>A fim de checkout atlest um item tem que ser selecionado.</translation>
+    </message>
+    <message>
+      <source>In order to checkout you have to</source>
+      <translation>A fim de checkout &#xE9; preciso</translation>
+    </message>
+    <message>
+      <source>sign in</source>
+      <translation>Inscreva-se no</translation>
+    </message>
+    <message>
+      <source>or</source>
+      <translation>ou</translation>
+    </message>
+    <message>
+      <source>login</source>
+      <translation>login</translation>
+    </message>
+    <message>
+      <source>if you have already created an account</source>
+      <translation>Se voc&#xEA; j&#xE1; tiver criado uma conta</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/buycredits</name>
+    <message>
+      <source>Buy credits</source>
+      <translation>Comprar cr&#xE9;ditos</translation>
+    </message>
+    <message>
+      <source>How many credits do want to buy?</source>
+      <translation>Quantos cr&#xE9;ditos quiser comprar?</translation>
+    </message>
+    <message>
+      <source>Choose payment method</source>
+      <translation>Escolha a forma de pagamento</translation>
+    </message>
+  </context>
+  <context>
+    <name>credits_handler/accept</name>
+    <message>
+      <source>Order succesfull</source>
+      <translation>succesfull Ordem</translation>
+    </message>
+    <message>
+      <source>Payment was succesfull</source>
+      <translation>O pagamento foi exitosa</translation>
+    </message>
+  </context>
+  <context>
+    <name>credits_handler/process</name>
+    <message>
+      <source>Checkout</source>
+      <translation>Sa&#xED;da</translation>
+    </message>
+    <message>
+      <source>Confirm payment</source>
+      <translation>Confirme o pagamento</translation>
+    </message>
+    <message>
+      <source>Not enouth credits to checkout</source>
+      <translation>Cr&#xE9;ditos n&#xE3;o enouth para checkout</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/cancel</name>
+    <message>
+      <source>Payment canceled</source>
+      <translation>Pagamento cancelado</translation>
+    </message>
+    <message>
+      <source>Paypal payment was canceled.</source>
+      <translation>pagamento Paypal foi cancelada.</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/error</name>
+    <message>
+      <source>Error</source>
+      <translation>Erro</translation>
+    </message>
+    <message>
+      <source>Execution was terminated unexpectedly.</source>
+      <translation>A execu&#xE7;&#xE3;o foi encerrado inesperadamente.</translation>
+    </message>
+  </context>
+  <context>
+    <name>paypal_handler/process</name>
+    <message>
+      <source>Checkout using Paypal</source>
+      <translation>Checkout atrav&#xE9;s do Paypal</translation>
+    </message>
+    <message>
+      <source>Buyer\'s Email</source>
+      <translation>Comprador \ &amp;#39;s de e-mail</translation>
+    </message>
+    <message>
+      <source>Amount</source>
+      <translation>Montante</translation>
+    </message>
+    <message>
+      <source>Currency</source>
+      <translation>Moeda</translation>
+    </message>
+    <message>
+      <source>Credits</source>
+      <translation>Cr&#xE9;ditos</translation>
+    </message>
+  </context>
+  <context>
+    <name>paypal_handler/review</name>
+    <message>
+      <source>Order payment confirmation</source>
+      <translation>Ordem confirma&#xE7;&#xE3;o do pagamento</translation>
+    </message>
+    <message>
+      <source>Order amount</source>
+      <translation>quantidade da ordem</translation>
+    </message>
+    <message>
+      <source>Confirm payment</source>
+      <translation>Confirme o pagamento</translation>
+    </message>
+    <message>
+      <source>Thank you for your payment!</source>
+      <translation>Obrigado por seu pagamento!</translation>
+    </message>
+    <message>
+      <source>credits</source>
+      <translation>cr&#xE9;ditos</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/mycredits</name>
+    <message>
+      <source>My credits balanse</source>
+      <translation>Meus cr&#xE9;ditos balanse</translation>
+    </message>
+    <message>
+      <source>You have</source>
+      <translation>Voc&#xEA; tem</translation>
+    </message>
+    <message>
+      <source>in your account</source>
+      <translation>na sua conta</translation>
+    </message>
+    <message>
+      <source>Buy credits</source>
+      <translation>Comprar cr&#xE9;ditos</translation>
+    </message>
+    <message>
+      <source>My credits</source>
+      <translation>Meus cr&#xE9;ditos</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/myorders</name>
+    <message>
+      <source>My credits orders</source>
+      <translation>Minhas ordens cr&#xE9;ditos</translation>
+    </message>
+    <message>
+      <source>Date</source>
+      <translation>Data</translation>
+    </message>
+    <message>
+      <source>Order price</source>
+      <translation>pre&#xE7;o da oferta</translation>
+    </message>
+    <message>
+      <source>Order credits</source>
+      <translation>cr&#xE9;ditos de Ordem</translation>
+    </message>
+    <message>
+      <source>Order status</source>
+      <translation>status Ordem</translation>
+    </message>
+    <message>
+      <source>Payed</source>
+      <translation>Pago</translation>
+    </message>
+    <message>
+      <source>Confirmed</source>
+      <translation>Confirmada</translation>
+    </message>
+    <message>
+      <source>My orders</source>
+      <translation>Minhas ordens</translation>
+    </message>
+    <message>
+      <source>Order view</source>
+      <translation>Ordem vista</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/orderview</name>
+    <message>
+      <source>Order view</source>
+      <translation>Ordem vista</translation>
+    </message>
+    <message>
+      <source>Order time</source>
+      <translation>tempo Ordem</translation>
+    </message>
+    <message>
+      <source>Order price</source>
+      <translation>pre&#xE7;o da oferta</translation>
+    </message>
+    <message>
+      <source>Order credits</source>
+      <translation>cr&#xE9;ditos de Ordem</translation>
+    </message>
+    <message>
+      <source>Order status</source>
+      <translation>status Ordem</translation>
+    </message>
+    <message>
+      <source>Payed</source>
+      <translation>Pago</translation>
+    </message>
+    <message>
+      <source>Confirmed</source>
+      <translation>Confirmada</translation>
+    </message>
+    <message>
+      <source>Ordered items</source>
+      <translation>itens ordenados</translation>
+    </message>
+    <message>
+      <source>Image name</source>
+      <translation>nome da imagem</translation>
+    </message>
+    <message>
+      <source>Version</source>
+      <translation>Vers&#xE3;o</translation>
+    </message>
+    <message>
+      <source>Image size</source>
+      <translation>Tamanho da imagem</translation>
+    </message>
+    <message>
+      <source>Format</source>
+      <translation>Formato</translation>
+    </message>
+    <message>
+      <source>Price</source>
+      <translation>Pre&#xE7;o</translation>
+    </message>
+    <message>
+      <source>Download count</source>
+      <translation>contagem Download</translation>
+    </message>
+    <message>
+      <source>Downloads left</source>
+      <translation>Downloads esquerda</translation>
+    </message>
+    <message>
+      <source>Credits</source>
+      <translation>Cr&#xE9;ditos</translation>
+    </message>
+    <message>
+      <source>Download image</source>
+      <translation>Download da imagem</translation>
+    </message>
+    <message>
+      <source>downloads left</source>
+      <translation>Download de esquerda</translation>
+    </message>
+    <message>
+      <source>No downloads available</source>
+      <translation>N&#xE3;o h&#xE1; downloads dispon&#xED;veis</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/paymentoption</name>
+    <message>
+      <source>Payment option</source>
+      <translation>op&#xE7;&#xE3;o de pagamento</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Choose payment method</source>
+      <translation>Escolha a forma de pagamento</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/paymentoptioncredit</name>
+    <message>
+      <source>Payment option</source>
+      <translation>op&#xE7;&#xE3;o de pagamento</translation>
+    </message>
+    <message>
+      <source>Continue</source>
+      <translation>Continue</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/addvote</name>
+    <message>
+      <source>Thank you for your vote</source>
+      <translation>Obrigado pelo seu voto</translation>
+    </message>
+    <message>
+      <source>You are not allowed to vote!</source>
+      <translation>Voc&#xEA; n&#xE3;o tem permiss&#xE3;o para votar!</translation>
+    </message>
+    <message>
+      <source>You have already voted!</source>
+      <translation>Voc&#xEA; j&#xE1; votou!</translation>
+    </message>
+    <message>
+      <source>Vote deducted!</source>
+      <translation>Vote deduzido!</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/albumrss</name>
+    <message>
+      <source>Last uploaded images to album</source>
+      <translation>&#xDA;ltima imagens enviadas para o &#xE1;lbum</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>imagem</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lasthitsrss</name>
+    <message>
+      <source>watched</source>
+      <translation>assisti</translation>
+    </message>
+    <message>
+      <source>Last viewed images</source>
+      <translation>&#xDA;ltimas imagens visualizadas</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>imagem</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/category</name>
+    <message>
+      <source>Root category</source>
+      <translation>Categoria raiz</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>P&#xE1;gina</translation>
+    </message>
+    <message>
+      <source>Forum</source>
+      <translation>F&#xF3;rum</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastcommentedrss</name>
+    <message>
+      <source>Last commented images</source>
+      <translation>&#xDA;ltima comentou imagens</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>imagem</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastratedrss</name>
+    <message>
+      <source>Last rated images</source>
+      <translation>&#xDA;ltimas imagens nominal</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>imagem</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastuploadsrss</name>
+    <message>
+      <source>Last uploaded images</source>
+      <translation>&#xDA;ltimas imagens carregado</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>imagem</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/popularrecent</name>
+    <message>
+      <source>Most popular images in 24 hours</source>
+      <translation>Imagens mais populares em 24 horas</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>P&#xE1;gina</translation>
+    </message>
+    <message>
+      <source>Most popular images in last 24 hours.</source>
+      <translation type="unfinished">Imagens mais populares nas &#xFA;ltimas 24 horas.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/popularrss</name>
+    <message>
+      <source>Most popular images</source>
+      <translation>Imagens mais populares</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/searchrss</name>
+    <message>
+      <source>Search results</source>
+      <translation>Resultados da pesquisa</translation>
+    </message>
+    <message>
+      <source>Search</source>
+      <translation>Pesquisa</translation>
+    </message>
+    <message>
+      <source>Search RSS by keyword</source>
+      <translation>Busca por palavra-chave RSS</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>imagem</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/tagphoto</name>
+    <message>
+      <source>Thank you a lot :)</source>
+      <translation>Obrigado a lot:)</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/topratedrss</name>
+    <message>
+      <source>Top rated images</source>
+      <translation>Top imagens nominal</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>imagem</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/updateimage</name>
+    <message>
+      <source>Image updated</source>
+      <translation>Imagem atualizada</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/imagevariation</name>
+    <message>
+      <source>Basket</source>
+      <translation>Cesta</translation>
+    </message>
+    <message>
+      <source>Payment option</source>
+      <translation>op&#xE7;&#xE3;o de pagamento</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/imagevariationform</name>
+    <message>
+      <source>Credits amount must be greater than 0!</source>
+      <translation>montante de cr&#xE9;ditos deve ser maior que 0!</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/settingedit</name>
+    <message>
+      <source>Edit</source>
+      <translation>Editar</translation>
+    </message>
+  </context>
+  <context>
+    <name>system/index</name>
+    <message>
+      <source>System administration panel</source>
+      <translation>Sistema do painel de administra&#xE7;&#xE3;o</translation>
+    </message>
+  </context>
+  <context>
+    <name>core/paginator</name>
+    <message>
+      <source>Page</source>
+      <translation>P&#xE1;gina</translation>
+    </message>
+    <message>
+      <source>of</source>
+      <translation>de</translation>
+    </message>
+    <message>
+      <source>Found</source>
+      <translation>Total</translation>
+    </message>
+    <message>
+      <source>Previous</source>
+      <translation>Anterior</translation>
+    </message>
+    <message>
+      <source>Next</source>
+      <translation>Seguinte</translation>
+    </message>
+    <message>
+      <source>Go to page</source>
+      <translation>Ir para p&#xE1;gina</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/color</name>
+    <message>
+      <source>Exclude color</source>
+      <translation>Excluir da cor</translation>
+    </message>
+    <message>
+      <source>Maximum</source>
+      <translation>M&#xE1;ximo</translation>
+    </message>
+    <message>
+      <source>filters</source>
+      <translation>filtros</translation>
+    </message>
+    <message>
+      <source>Include color</source>
+      <translation>Incluem cor</translation>
+    </message>
+    <message>
+      <source>Remove color</source>
+      <translation>Remover a cor</translation>
+    </message>
+    <message>
+      <source>Excluded colors in search</source>
+      <translation>Cores exclu&#xED;dos em busca</translation>
+    </message>
+    <message>
+      <source>colors</source>
+      <translation>cores</translation>
+    </message>
+    <message>
+      <source>More color</source>
+      <translation>Mais cor</translation>
+    </message>
+    <message>
+      <source>Return to pallete</source>
+      <translation>Return to pallete</translation>
+    </message>
+    <message>
+      <source>Images by color</source>
+      <translation>Imagens pela cor</translation>
+    </message>
+    <message>
+      <source>Choose color</source>
+      <translation>Escolha a cor</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>N&#xE3;o h&#xE1; registros.</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>P&#xE1;gina</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/admincategorys</name>
+    <message>
+      <source>Category</source>
+      <translation>Categoria</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>T&#xED;tulo</translation>
+    </message>
+    <message>
+      <source>Owner</source>
+      <translation>Propriet&#xE1;rio</translation>
+    </message>
+    <message>
+      <source>Topics</source>
+      <translation>T&#xF3;picos</translation>
+    </message>
+    <message>
+      <source>Messages</source>
+      <translation>Mensagens</translation>
+    </message>
+    <message>
+      <source>Edit category</source>
+      <translation>Editar categoria</translation>
+    </message>
+    <message>
+      <source>Delete category</source>
+      <translation>Excluir categoria</translation>
+    </message>
+    <message>
+      <source>Create a category</source>
+      <translation>Criar uma categoria</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>Casa</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/editcategory</name>
+    <message>
+      <source>Category edit</source>
+      <translation>Edi&#xE7;&#xE3;o da categoria</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Atualizar</translation>
+    </message>
+    <message>
+      <source>Please enter category name!</source>
+      <translation>Por favor, insira o nome da categoria!</translation>
+    </message>
+  </context>
+  <context>
+    <name>lhad/orderitemdetails/orderitemdetails_display_ad_magazine</name>
+    <message>
+      <source>Please enable JavaScript to upload image</source>
+      <translation>Por favor habilite JavaScript para fazer o upload de imagens</translation>
+    </message>
+  </context>
+  <context>
+    <name>lhad/uploadadorderitem_content</name>
+    <message>
+      <source>Cancel</source>
+      <translation>Cancelar</translation>
+    </message>
+    <message>
+      <source>Failed</source>
+      <translation>Fracassado</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/ratebanlist</name>
+    <message>
+      <source>Baned IP for rating</source>
+      <translation>IP Baned por avaliar</translation>
+    </message>
+    <message>
+      <source>Are you sure?</source>
+      <translation>Voc&#xEA; tem certeza?</translation>
+    </message>
+    <message>
+      <source>Delete ip</source>
+      <translation>Excluir ip</translation>
+    </message>
+    <message>
+      <source>New IP BAN</source>
+      <translation>BAN IP novo</translation>
+    </message>
+    <message>
+      <source>IP</source>
+      <translation>IP</translation>
+    </message>
+    <message>
+      <source>Add</source>
+      <translation>Adicionar</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Configura&#xE7;&#xE3;o do sistema</translation>
+    </message>
+    <message>
+      <source>Comment ban IP</source>
+      <translation>Coment&#xE1;rio IP interdi&#xE7;&#xE3;o</translation>
+    </message>
+    <message>
+      <source>Rate ban IP</source>
+      <translation>IP interdi&#xE7;&#xE3;o taxa</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/movealbumphotos</name>
+    <message>
+      <source>Search album</source>
+      <translation>Album pesquisa</translation>
+    </message>
+    <message>
+      <source>Move photos</source>
+      <translation>Mova fotos</translation>
+    </message>
+    <message>
+      <source>We moved</source>
+      <translation>N&#xF3;s nos mudamos</translation>
+    </message>
+    <message>
+      <source>images</source>
+      <translation>imagens</translation>
+    </message>
+    <message>
+      <source>Move album photos</source>
+      <translation>Mover fotos album</translation>
+    </message>
+  </context>
+  <context>
+    <name>fb/album</name>
+    <message>
+      <source>Check photo to import</source>
+      <translation>Confira foto para importa&#xE7;&#xE3;o</translation>
+    </message>
+    <message>
+      <source>Import selected images to</source>
+      <translation>Importar imagens selecionadas para</translation>
+    </message>
+    <message>
+      <source>To what album you want to import images, start typing album name and click search</source>
+      <translation>Para o &#xE1;lbum que deseja importar imagens, comece a digitar o nome do &#xE1;lbum e clique em pesquisar</translation>
+    </message>
+    <message>
+      <source>Search for album</source>
+      <translation>Busca por &#xE1;lbum</translation>
+    </message>
+    <message>
+      <source>Check all</source>
+      <translation>Verifique todas as</translation>
+    </message>
+    <message>
+      <source>Click to see target, new window will open</source>
+      <translation>Clique para ver alvo, nova janela ser&#xE1; aberta</translation>
+    </message>
+    <message>
+      <source>Import selected images</source>
+      <translation>Importar imagens selecionadas</translation>
+    </message>
+    <message>
+      <source>Please choose atleast one image!</source>
+      <translation>Por favor, escolha pelo menos uma imagem!</translation>
+    </message>
+    <message>
+      <source>images to import</source>
+      <translation>imagens para importar</translation>
+    </message>
+    <message>
+      <source>All images were imported</source>
+      <translation>Todas as imagens foram importadas</translation>
+    </message>
+    <message>
+      <source>Please choose album</source>
+      <translation>Por favor, escolha &#xE1;lbum</translation>
+    </message>
+    <message>
+      <source>Preview version</source>
+      <translation>Vers&#xE3;o preview</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastsearches</name>
+    <message>
+      <source>Last searches</source>
+      <translation>&#xDA;ltimas pesquisas</translation>
+    </message>
+    <message>
+      <source>No records</source>
+      <translation>N&#xE3;o h&#xE1; registros</translation>
+    </message>
+  </context>
+  <context>
+    <name>similar/similar</name>
+    <message>
+      <source>Visualy similar images to</source>
+      <translation>Imagens visualmente semelhante ao</translation>
+    </message>
+    <message>
+      <source>Search for visualy similar images</source>
+      <translation>Procurar imagens similares visualy</translation>
+    </message>
+    <message>
+      <source>Please enable JavaScript to upload image</source>
+      <translation>Por favor habilite JavaScript para fazer o upload de imagens</translation>
+    </message>
+    <message>
+      <source>Click to choose image, you can also Drag and Drop file here (Drag and drop only for FF, Chrome).</source>
+      <translation>Clique para escolher imagem, voc&#xEA; tamb&#xE9;m pode arrastar e soltar arquivos aqui (Arraste e solte apenas para FF, Chrome).</translation>
+    </message>
+    <message>
+      <source>Cancel</source>
+      <translation>Cancelar</translation>
+    </message>
+    <message>
+      <source>Failed</source>
+      <translation>Fracassado</translation>
+    </message>
+  </context>
+  <context>
+    <name>similar/sketch</name>
+    <message>
+      <source>Search by sketch</source>
+      <translation>Busca por sketch</translation>
+    </message>
+    <message>
+      <source>Sketch and find images by your sketch</source>
+      <translation>Esbo&#xE7;o e encontrar imagens por seu esbo&#xE7;o</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/mapaccounts</name>
+    <message>
+      <source>Login with facebook</source>
+      <translation>Entrar com facebook</translation>
+    </message>
+    <message>
+      <source>Map to my account</source>
+      <translation>Mapa para a minha conta</translation>
+    </message>
+    <message>
+      <source>my account</source>
+      <translation>minha conta</translation>
+    </message>
+    <message>
+      <source>Login</source>
+      <translation>Login</translation>
+    </message>
+    <message>
+      <source>map to my account</source>
+      <translation>mapa para a minha conta</translation>
+    </message>
+    <message>
+      <source>Incorrect login or password</source>
+      <translation>De login ou senha incorretos</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Nome de Usu&#xE1;rio</translation>
+    </message>
+    <message>
+      <source>Password</source>
+      <translation>Senha</translation>
+    </message>
+    <message>
+      <source>OR</source>
+      <translation>OR</translation>
+    </message>
+    <message>
+      <source>create account</source>
+      <translation>Criar uma conta</translation>
+    </message>
+    <message>
+      <source>Next</source>
+      <translation>Pr&#xF3;ximo</translation>
+    </message>
+    <message>
+      <source>Open ID</source>
+      <translation>Open ID</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/category</name>
+    <message>
+      <source>Please enter topic name!</source>
+      <translation>Por favor, indique nome do t&#xF3;pico!</translation>
+    </message>
+    <message>
+      <source>Please enter message!</source>
+      <translation>Por favor introduza a mensagem!</translation>
+    </message>
+    <message>
+      <source>Please choose category!</source>
+      <translation>Por favor escolha categoria!</translation>
+    </message>
+    <message>
+      <source>Not parent category!</source>
+      <translation>E n&#xE3;o da categoria pai!</translation>
+    </message>
+    <message>
+      <source>Invalid category!</source>
+      <translation>Inv&#xE1;lido categoria!</translation>
+    </message>
+    <message>
+      <source>Forum</source>
+      <translation>F&#xF3;rum</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/createcategory</name>
+    <message>
+      <source>Please enter category name!</source>
+      <translation>Por favor, insira o nome da categoria!</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>Casa</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/editmessage</name>
+    <message>
+      <source>Please enter message!</source>
+      <translation>Por favor introduza a mensagem!</translation>
+    </message>
+    <message>
+      <source>Forum</source>
+      <translation>F&#xF3;rum</translation>
+    </message>
+    <message>
+      <source>Message edit</source>
+      <translation>Editar mensagem</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/edittopic</name>
+    <message>
+      <source>Please enter topic name!</source>
+      <translation>Por favor, indique nome do t&#xF3;pico!</translation>
+    </message>
+    <message>
+      <source>Please enter topic status!</source>
+      <translation>Por favor, insira status t&#xF3;pico!</translation>
+    </message>
+    <message>
+      <source>Forum</source>
+      <translation>F&#xF3;rum</translation>
+    </message>
+    <message>
+      <source>Topic edit</source>
+      <translation>Edit t&#xF3;pico</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/report</name>
+    <message>
+      <source>Please enter message!</source>
+      <translation>Por favor introduza a mensagem!</translation>
+    </message>
+    <message>
+      <source>Forum message report</source>
+      <translation>Forum relat&#xF3;rio mensagem</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/searchrss</name>
+    <message>
+      <source>Search</source>
+      <translation>Pesquisa</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/albumeditadmin</name>
+    <message>
+      <source>Root category</source>
+      <translation>Categoria raiz</translation>
+    </message>
+    <message>
+      <source>Add images</source>
+      <translation>Adicionar imagens</translation>
+    </message>
+    <message>
+      <source>Album edit</source>
+      <translation>&#xC1;lbum de edi&#xE7;&#xE3;o</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/movebyresolution</name>
+    <message>
+      <source>Move by resolution</source>
+      <translation>Movimento pela Resolu&#xE7;&#xE3;o</translation>
+    </message>
+  </context>
+  <context>
+    <name>similar/image</name>
+    <message>
+      <source>Similar images to</source>
+      <translation>Imagens semelhantes para</translation>
+    </message>
+    <message>
+      <source>Search for visualy similar images</source>
+      <translation>Procurar imagens similares visualy</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/profile</name>
+    <message>
+      <source>User profile</source>
+      <translation type="unfinished">Perfil do usu&#xE1;rio</translation>
+    </message>
+    <message>
+      <source>Name and surname</source>
+      <translation type="unfinished">Nome e sobrenome</translation>
+    </message>
+    <message>
+      <source>Website</source>
+      <translation type="unfinished">Site</translation>
+    </message>
+    <message>
+      <source>Introduction</source>
+      <translation type="unfinished">Introdu&#xE7;&#xE3;o</translation>
+    </message>
+    <message>
+      <source>Last updated albums</source>
+      <translation type="unfinished">&#xDA;ltimos &#xC1;lbuns Atualizados</translation>
+    </message>
+    <message>
+      <source>Last uploaded images</source>
+      <translation type="unfinished">&#xDA;ltima upload de imagens</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastuploadstoalbums</name>
+    <message>
+      <source>Last uploads to albums</source>
+      <translation type="unfinished">&#xDA;ltimos envios de &#xE1;lbuns</translation>
+    </message>
+    <message>
+      <source>Recently updated albums</source>
+      <translation type="unfinished">&#xC1;lbuns recentemente actualizado</translation>
+    </message>
+  </context>
+</TS>

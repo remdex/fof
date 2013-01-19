@@ -1,0 +1,4280 @@
+<?xml version="1.0"?>
+<!DOCTYPE TS>
+<TS>
+  <context>
+    <name>article/editstatic</name>
+    <message>
+      <source>Article name</source>
+      <translation>Emri artikull</translation>
+    </message>
+    <message>
+      <source>Body</source>
+      <translation>Trup</translation>
+    </message>
+    <message>
+      <source>Article edit</source>
+      <translation>Neni edit</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+  </context>
+  <context>
+    <name>article/newstatic</name>
+    <message>
+      <source>New article</source>
+      <translation>Neni t&#xEB; ri</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Ruaj</translation>
+    </message>
+  </context>
+  <context>
+    <name>article/staticlist</name>
+    <message>
+      <source>Static articles</source>
+      <translation>Artikuj Static</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Em&#xEB;r</translation>
+    </message>
+    <message>
+      <source>Edit</source>
+      <translation>Redaktoj</translation>
+    </message>
+    <message>
+      <source>New article</source>
+      <translation>Neni t&#xEB; ri</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/admincategorys</name>
+    <message>
+      <source>Category</source>
+      <translation>Kategori</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Titull</translation>
+    </message>
+    <message>
+      <source>Owner</source>
+      <translation>Pronar</translation>
+    </message>
+    <message>
+      <source>Topics</source>
+      <translation>Temat</translation>
+    </message>
+    <message>
+      <source>Messages</source>
+      <translation>Mesazhe</translation>
+    </message>
+    <message>
+      <source>Edit category</source>
+      <translation>Edit kategori</translation>
+    </message>
+    <message>
+      <source>Delete category</source>
+      <translation>Kategoria e fshini</translation>
+    </message>
+    <message>
+      <source>Create a category</source>
+      <translation>Krijo nj&#xEB; kategori</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>Sht&#xEB;pi</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/album</name>
+    <message>
+      <source>No records</source>
+      <translation>Ka t&#xEB; dh&#xEB;na</translation>
+    </message>
+    <message>
+      <source>Search by color and keyword, just try to see how fun it is!</source>
+      <translation>K&#xEB;rko nga ngjyra dhe fjalen, vet&#xEB;m p&#xEB;rpjekje p&#xEB;r t&#xEB; par&#xEB; se si &#xEB;sht&#xEB; e fun!</translation>
+    </message>
+    <message>
+      <source>Enter keyword or phrase</source>
+      <translation>Shkruani fjalen apo fraza</translation>
+    </message>
+    <message>
+      <source>Search entire gallery</source>
+      <translation>K&#xEB;rko galeri t&#xEB; t&#xEB;r&#xEB;</translation>
+    </message>
+    <message>
+      <source>Search</source>
+      <translation>K&#xEB;rkim</translation>
+    </message>
+    <message>
+      <source>enter keyword and click color, or just click color</source>
+      <translation>t&#xEB; hyj&#xEB; fjalen dhe ngjyra klikoni, apo thjesht klikoni me ngjyra</translation>
+    </message>
+    <message>
+      <source>Include color</source>
+      <translation>P&#xEB;rfshijn&#xEB; ngjyra</translation>
+    </message>
+    <message>
+      <source>Exclude color</source>
+      <translation>P&#xEB;rjashtojn&#xEB; ngjyra</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Faqe</translation>
+    </message>
+    <message>
+      <source>Last uploaded last</source>
+      <translation>Ngarkuar e fundit e fundit</translation>
+    </message>
+    <message>
+      <source>Most popular first</source>
+      <translation>M&#xEB; Populloret S&#xEB; Pari</translation>
+    </message>
+    <message>
+      <source>Most popular last</source>
+      <translation>M&#xEB; t&#xEB; njohura e fundit</translation>
+    </message>
+    <message>
+      <source>Last hits first</source>
+      <translation>Hitet e fundit e par&#xEB;</translation>
+    </message>
+    <message>
+      <source>Last hits last</source>
+      <translation>Hitet e fundit e fundit</translation>
+    </message>
+    <message>
+      <source>Last commented first</source>
+      <translation>E fundit komentoi par&#xEB;</translation>
+    </message>
+    <message>
+      <source>Last commented last</source>
+      <translation>E fundit komentoi fundit</translation>
+    </message>
+    <message>
+      <source>Last rated first</source>
+      <translation>M&#xEB; t&#xEB; vler&#xEB;suarat fundit e par&#xEB;</translation>
+    </message>
+    <message>
+      <source>Last rated last</source>
+      <translation>E fundit t&#xEB; vler&#xEB;suarat fundit</translation>
+    </message>
+    <message>
+      <source>Top rated first</source>
+      <translation>M&#xEB; t&#xEB; vler&#xEB;suarat par&#xEB;</translation>
+    </message>
+    <message>
+      <source>Top rated last Last</source>
+      <translation>M&#xEB; t&#xEB; vler&#xEB;suarat fundit i Fundit</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Zgjidhje</translation>
+    </message>
+    <message>
+      <source>Last uploaded images to album</source>
+      <translation>Imazhe i ngarkuar s&#xEB; fundi n&#xEB; Album</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/createcategory</name>
+    <message>
+      <source>New category</source>
+      <translation>Kategori e re</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Ruaj</translation>
+    </message>
+    <message>
+      <source>back</source>
+      <translation>prapa</translation>
+    </message>
+    <message>
+      <source>Please enter message!</source>
+      <translation>Ju lutemi shkruani mesazh!</translation>
+    </message>
+    <message>
+      <source>Please enter category name!</source>
+      <translation>Ju lutemi shkruani emrin kategori!</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>Sht&#xEB;pi</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/editcategory</name>
+    <message>
+      <source>Category edit</source>
+      <translation>Kategoria edit</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+    <message>
+      <source>Please enter category name!</source>
+      <translation>Ju lutemi shkruani emrin kategori!</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/editcategory</name>
+    <message>
+      <source>back</source>
+      <translation>prapa</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Em&#xEB;r</translation>
+    </message>
+    <message>
+      <source>Description</source>
+      <translation>P&#xEB;rshkrim</translation>
+    </message>
+    <message>
+      <source>Owner</source>
+      <translation>Pronar</translation>
+    </message>
+    <message>
+      <source>Category edit</source>
+      <translation>Kategoria edit</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+    <message>
+      <source>Hide subcategorys in frontpage</source>
+      <translation>Hide subcategorys ne FrontPage</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/albumedit</name>
+    <message>
+      <source>Edit topic</source>
+      <translation>Edit tem&#xEB;</translation>
+    </message>
+    <message>
+      <source>Topic name</source>
+      <translation>Emri tem&#xEB;</translation>
+    </message>
+    <message>
+      <source>Topic status</source>
+      <translation>Topic statusit</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+    <message>
+      <source>Album edit</source>
+      <translation>Album edit</translation>
+    </message>
+    <message>
+      <source>Album name</source>
+      <translation>Emri i albumit</translation>
+    </message>
+    <message>
+      <source>Album category</source>
+      <translation>Kategoria e albumeve</translation>
+    </message>
+    <message>
+      <source>Album owner</source>
+      <translation>Pronari Album</translation>
+    </message>
+    <message>
+      <source>Description</source>
+      <translation>P&#xEB;rshkrim</translation>
+    </message>
+    <message>
+      <source>Keywords</source>
+      <translation>Keywords</translation>
+    </message>
+    <message>
+      <source>Public</source>
+      <translation>Publik</translation>
+    </message>
+    <message>
+      <source>All users can uploads images to this album</source>
+      <translation>T&#xEB; gjith&#xEB; p&#xEB;rdoruesit mund Ngarkimet imazhet n&#xEB; k&#xEB;t&#xEB; album</translation>
+    </message>
+    <message>
+      <source>Hidden</source>
+      <translation>I fshehur</translation>
+    </message>
+    <message>
+      <source>Hide album from users</source>
+      <translation>Hide album nga p&#xEB;rdoruesit</translation>
+    </message>
+    <message>
+      <source>Album thumbnail</source>
+      <translation>Thumbnail Album</translation>
+    </message>
+    <message>
+      <source>Newest album image</source>
+      <translation>Image M&#xEB; e reja album</translation>
+    </message>
+    <message>
+      <source>Revert to newest album image display mode</source>
+      <translation>T&#xEB; kthehet n&#xEB; m&#xEB;nyr&#xEB; m&#xEB; t&#xEB; rinj t&#xEB; shfaqur imazhin e albumit</translation>
+    </message>
+    <message>
+      <source>Remove</source>
+      <translation>Heq</translation>
+    </message>
+    <message>
+      <source>Edit message</source>
+      <translation>Edit mesazh</translation>
+    </message>
+    <message>
+      <source>Message</source>
+      <translation>Mesazh</translation>
+    </message>
+    <message>
+      <source>File</source>
+      <translation>Skedar</translation>
+    </message>
+    <message>
+      <source>New message</source>
+      <translation>Mesazh t&#xEB; ri</translation>
+    </message>
+    <message>
+      <source>Publish</source>
+      <translation>Publikoj</translation>
+    </message>
+    <message>
+      <source>New topic</source>
+      <translation>Tem&#xEB; t&#xEB; re</translation>
+    </message>
+    <message>
+      <source>Choose topic category</source>
+      <translation>Zgjidhni kategori tem&#xEB;</translation>
+    </message>
+    <message>
+      <source>Please enter album name!</source>
+      <translation>Ju lutemi shkruani emrin e albumit!</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/album_list_admin</name>
+    <message>
+      <source>Are you sure?</source>
+      <translation>A jeni i sigurt?</translation>
+    </message>
+    <message>
+      <source>Add images</source>
+      <translation>Shtoni imazhe</translation>
+    </message>
+    <message>
+      <source>Edit album</source>
+      <translation>Edit album</translation>
+    </message>
+    <message>
+      <source>Move all album photos to another album</source>
+      <translation>Leviz t&#xEB; gjitha fotot album n&#xEB; nj&#xEB; tjet&#xEB;r album</translation>
+    </message>
+    <message>
+      <source>Move photos by resolution</source>
+      <translation>Leviz fotot nga rezoluta</translation>
+    </message>
+    <message>
+      <source>Delete album</source>
+      <translation>Fshij album</translation>
+    </message>
+    <message>
+      <source>Approve all images</source>
+      <translation>Miratoj&#xEB; t&#xEB; gjitha imazhet</translation>
+    </message>
+    <message>
+      <source>Disapprove all images</source>
+      <translation>Miratoj t&#xEB; gjitha imazhet</translation>
+    </message>
+    <message>
+      <source>View on site</source>
+      <translation>Shiko n&#xEB; faqen</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/userlist</name>
+    <message>
+      <source>Report list</source>
+      <translation>Raporti lista</translation>
+    </message>
+    <message>
+      <source>Report</source>
+      <translation>Raport</translation>
+    </message>
+    <message>
+      <source>Topic</source>
+      <translation>Tem&#xEB;</translation>
+    </message>
+    <message>
+      <source>Topic message</source>
+      <translation>Topic mesazh</translation>
+    </message>
+    <message>
+      <source>Date</source>
+      <translation>Data</translation>
+    </message>
+    <message>
+      <source>Edit topic</source>
+      <translation>Edit tem&#xEB;</translation>
+    </message>
+    <message>
+      <source>Delete topic</source>
+      <translation>Fshij tem&#xEB;</translation>
+    </message>
+    <message>
+      <source>IP</source>
+      <translation>IP</translation>
+    </message>
+    <message>
+      <source>Users</source>
+      <translation>P&#xEB;rdoruesit</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Username</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Edit user</source>
+      <translation>Edit p&#xEB;rdorues</translation>
+    </message>
+    <message>
+      <source>Delete user</source>
+      <translation>Fshije p&#xEB;rdorues</translation>
+    </message>
+    <message>
+      <source>New user</source>
+      <translation>P&#xEB;rdorues i ri</translation>
+    </message>
+    <message>
+      <source>Replace image</source>
+      <translation>Replace image</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Konfigurimit t&#xEB; sistemit</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/subcategory_list</name>
+    <message>
+      <source>images</source>
+      <translation>imazhe</translation>
+    </message>
+    <message>
+      <source>albums</source>
+      <translation>albume</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/addimages</name>
+    <message>
+      <source>Add images to album</source>
+      <translation>Shtoni imazhe n&#xEB; Album</translation>
+    </message>
+    <message>
+      <source>Move album images to another album</source>
+      <translation>L&#xEB;vizin imazhet album n&#xEB; nj&#xEB; tjet&#xEB;r album</translation>
+    </message>
+    <message>
+      <source>Move image to another album</source>
+      <translation>Leviz imazhin p&#xEB;r nj&#xEB; tjet&#xEB;r album</translation>
+    </message>
+  </context>
+  <context>
+    <name>lhad/orderitemdetails/orderitemdetails_display_ad_magazine</name>
+    <message>
+      <source>Please enable JavaScript to upload image</source>
+      <translation>Ju lutem aktivizoni JavaScript p&#xEB;r t&#xEB; ngarkoni imazhin</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/publicupload</name>
+    <message>
+      <source>Upload</source>
+      <translation>Ngarko</translation>
+    </message>
+    <message>
+      <source>Click to choose images to upload, you can also drop files here.</source>
+      <translation>Klikoni p&#xEB;r t&#xEB; zgjedhur t&#xEB; ngarkoni imazhe, ju gjithashtu mund t&#xEB; bjer&#xEB; fotografi k&#xEB;tu.</translation>
+    </message>
+    <message>
+      <source>Click to choose images to upload, you can also Drag and Drop files here (Darg and drop only for FF, Chrome).</source>
+      <translation>Klikoni p&#xEB;r t&#xEB; zgjedhur imazhe p&#xEB;r upload, ju gjithashtu mund t&#xEB; drag dhe drop fotografi k&#xEB;tu (Darg and drop vet&#xEB;m p&#xEB;r FF, Chrome).</translation>
+    </message>
+    <message>
+      <source>Public images archive upload</source>
+      <translation>Imazhe arkivore publike upload</translation>
+    </message>
+    <message>
+      <source>Click to choose zip to upload, you can also drop files here (Darg and drop only for FF, Chrome).</source>
+      <translation>Klikoni p&#xEB;r t&#xEB; zgjedhur zip t&#xEB; ngarkoni, ju gjithashtu mund t&#xEB; heq&#xEB; files ketu (Darg dhe r&#xEB;nie vet&#xEB;m p&#xEB;r FF, Chrome).</translation>
+    </message>
+    <message>
+      <source>Public images upload</source>
+      <translation>Imazhe publike t&#xEB; ngarkoni</translation>
+    </message>
+    <message>
+      <source>Max file size </source>
+      <translation type="unfinished">Madh&#xEB;sia Max fotografi</translation>
+    </message>
+  </context>
+  <context>
+    <name>lhad/uploadadorderitem_content</name>
+    <message>
+      <source>Cancel</source>
+      <translation>Anuloj</translation>
+    </message>
+    <message>
+      <source>Failed</source>
+      <translation>Failed</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/fileuploadcontainer</name>
+    <message>
+      <source>Title</source>
+      <translation>Titull</translation>
+    </message>
+    <message>
+      <source>Keywords</source>
+      <translation>Keywords</translation>
+    </message>
+    <message>
+      <source>Cross eye image</source>
+      <translation>Image Kryqi i sy</translation>
+    </message>
+    <message>
+      <source>Caption</source>
+      <translation>Titull</translation>
+    </message>
+    <message>
+      <source>Enter new album name or choose public album</source>
+      <translation>Fusni emrin e reja album ose zgjidhni album publik</translation>
+    </message>
+    <message>
+      <source>description</source>
+      <translation>p&#xEB;rshkrim</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/admincategorys</name>
+    <message>
+      <source>Category</source>
+      <translation>Kategori</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Titull</translation>
+    </message>
+    <message>
+      <source>Owner</source>
+      <translation>Pronar</translation>
+    </message>
+    <message>
+      <source>Edit category</source>
+      <translation>Edit kategori</translation>
+    </message>
+    <message>
+      <source>Delete category</source>
+      <translation>Kategoria e fshini</translation>
+    </message>
+    <message>
+      <source>Create a category</source>
+      <translation>Krijo nj&#xEB; kategori</translation>
+    </message>
+    <message>
+      <source>Category albums</source>
+      <translation>Albume Category</translation>
+    </message>
+    <message>
+      <source>This category does not have an album.</source>
+      <translation>Kjo kategori nuk ka nj&#xEB; album.</translation>
+    </message>
+    <message>
+      <source>Create an album</source>
+      <translation>Krijo nj&#xEB; album</translation>
+    </message>
+    <message>
+      <source>Batch album create</source>
+      <translation>Batch album t&#xEB; krijuar</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>Sht&#xEB;pi</translation>
+    </message>
+    <message>
+      <source>Root category</source>
+      <translation>Root kategori</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/album_list</name>
+    <message>
+      <source>files</source>
+      <translation>fotografi</translation>
+    </message>
+    <message>
+      <source>Album priority</source>
+      <translation>Prioritet e albumeve</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/batchadd</name>
+    <message>
+      <source>I cannot write this directory</source>
+      <translation>Un&#xEB; nuk mund t&#xEB; shkruaj k&#xEB;t&#xEB; directory</translation>
+    </message>
+    <message>
+      <source>No image were found!</source>
+      <translation>Nuk ka imazhe u gjet!</translation>
+    </message>
+    <message>
+      <source>Import</source>
+      <translation>Import</translation>
+    </message>
+    <message>
+      <source>Import recursive this directory</source>
+      <translation>Import rekursive directory k&#xEB;t&#xEB;</translation>
+    </message>
+    <message>
+      <source>Search</source>
+      <translation>K&#xEB;rkim</translation>
+    </message>
+    <message>
+      <source>Please enter album name and click search</source>
+      <translation>Ju lutemi shkruani emrin e album dhe klikoni k&#xEB;rko</translation>
+    </message>
+    <message>
+      <source>List images</source>
+      <translation>Imazhe lista</translation>
+    </message>
+    <message>
+      <source>List images recursive</source>
+      <translation>Lista images rekursive</translation>
+    </message>
+    <message>
+      <source>Import images</source>
+      <translation>Imazhet e importit</translation>
+    </message>
+    <message>
+      <source>Click list images or list images recursive</source>
+      <translation>Kliko images list&#xEB; ose imazhe lista rekursive</translation>
+    </message>
+    <message>
+      <source>Add images</source>
+      <translation>Shtoni imazhe</translation>
+    </message>
+    <message>
+      <source>Please choose album first!</source>
+      <translation>Ju lutem zgjidhni albumi i par&#xEB;!</translation>
+    </message>
+    <message>
+      <source>Mass image upload</source>
+      <translation>Image upload Mass</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/ratebanlist</name>
+    <message>
+      <source>Baned IP for rating</source>
+      <translation>IP Baned p&#xEB;r vler&#xEB;sim</translation>
+    </message>
+    <message>
+      <source>Are you sure?</source>
+      <translation>A jeni i sigurt?</translation>
+    </message>
+    <message>
+      <source>Delete ip</source>
+      <translation>Fshij ip</translation>
+    </message>
+    <message>
+      <source>New IP BAN</source>
+      <translation>BAN IP reja</translation>
+    </message>
+    <message>
+      <source>IP</source>
+      <translation>IP</translation>
+    </message>
+    <message>
+      <source>Add</source>
+      <translation>Shto</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Konfigurimit t&#xEB; sistemit</translation>
+    </message>
+    <message>
+      <source>Comment ban IP</source>
+      <translation>Koment IP ndalimin</translation>
+    </message>
+    <message>
+      <source>Rate ban IP</source>
+      <translation>Ndalimin Rate IP</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/grouplist</name>
+    <message>
+      <source>Delete comment</source>
+      <translation>Fshij koment</translation>
+    </message>
+    <message>
+      <source>Edit comment</source>
+      <translation>Edit koment</translation>
+    </message>
+    <message>
+      <source>Delete image</source>
+      <translation>Delete image</translation>
+    </message>
+    <message>
+      <source>Groups</source>
+      <translation>Grupet</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Em&#xEB;r</translation>
+    </message>
+    <message>
+      <source>Edit group</source>
+      <translation>Edit grup</translation>
+    </message>
+    <message>
+      <source>Delete group</source>
+      <translation>Fshij grupin</translation>
+    </message>
+    <message>
+      <source>New group</source>
+      <translation>Grup i ri</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Konfigurimit t&#xEB; sistemit</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/my_image_list</name>
+    <message>
+      <source>Delete comment</source>
+      <translation>Fshij koment</translation>
+    </message>
+    <message>
+      <source>Edit comment</source>
+      <translation>Edit koment</translation>
+    </message>
+    <message>
+      <source>Delete image</source>
+      <translation>Delete image</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>Image view</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Titull</translation>
+    </message>
+    <message>
+      <source>Keywords</source>
+      <translation>Keywords</translation>
+    </message>
+    <message>
+      <source>Caption</source>
+      <translation>Titull</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+    <message>
+      <source>Message author</source>
+      <translation>Autori Mesazh</translation>
+    </message>
+    <message>
+      <source>Message</source>
+      <translation>Mesazh</translation>
+    </message>
+    <message>
+      <source>Rotate image clockwise</source>
+      <translation>Rotate Image akrepave t&#xEB; sahatit</translation>
+    </message>
+    <message>
+      <source>Flip horizontaly</source>
+      <translation>Flip horizontaly</translation>
+    </message>
+    <message>
+      <source>Flip verticaly</source>
+      <translation>Flip verticaly</translation>
+    </message>
+    <message>
+      <source>Upload new image</source>
+      <translation>Ngarko imazh t&#xEB; ri</translation>
+    </message>
+    <message>
+      <source>Set as folder thumbnail</source>
+      <translation>Vendosur si dosje thumbnail</translation>
+    </message>
+    <message>
+      <source>Move image to another album</source>
+      <translation>Leviz imazhin p&#xEB;r nj&#xEB; tjet&#xEB;r album</translation>
+    </message>
+    <message>
+      <source>Anaglyph</source>
+      <translation>Anaglyph</translation>
+    </message>
+    <message>
+      <source>Approved</source>
+      <translation>I miratuar</translation>
+    </message>
+    <message>
+      <source>Select image</source>
+      <translation>Zgjidh image</translation>
+    </message>
+    <message>
+      <source>File</source>
+      <translation>Skedar</translation>
+    </message>
+    <message>
+      <source>Upload</source>
+      <translation>Ngarko</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/createalbumadmin</name>
+    <message>
+      <source>New album</source>
+      <translation>Albumi i ri</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Ruaj</translation>
+    </message>
+    <message>
+      <source>New batch album create</source>
+      <translation>Albumi i ri grumbull t&#xEB; krijuar</translation>
+    </message>
+    <message>
+      <source>Paste album names separated by new line</source>
+      <translation>Emrat Paste album t&#xEB; ndara me linj&#xEB; t&#xEB; re</translation>
+    </message>
+    <message>
+      <source>Public</source>
+      <translation>Publik</translation>
+    </message>
+    <message>
+      <source>All users can uploads images to this album</source>
+      <translation>T&#xEB; gjith&#xEB; p&#xEB;rdoruesit mund Ngarkimet imazhet n&#xEB; k&#xEB;t&#xEB; album</translation>
+    </message>
+    <message>
+      <source>Please enter album name!</source>
+      <translation>Ju lutemi shkruani emrin e albumit!</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/duplicates</name>
+    <message>
+      <source>Similar images number</source>
+      <translation>Imazhe t&#xEB; ngjashme numri i</translation>
+    </message>
+    <message>
+      <source>Details</source>
+      <translation>Details</translation>
+    </message>
+    <message>
+      <source>More</source>
+      <translation>M&#xEB; shum&#xEB;</translation>
+    </message>
+    <message>
+      <source>Delete duplicate session</source>
+      <translation>Fshije kopjuar seanc&#xEB;n</translation>
+    </message>
+    <message>
+      <source>No duplicates pending...</source>
+      <translation>Asnj&#xEB; kopje identike n&#xEB; pritje ...</translation>
+    </message>
+    <message>
+      <source>Duplicates</source>
+      <translation>Kopje identike</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/image</name>
+    <message>
+      <source>Picture comments</source>
+      <translation>Foto komente</translation>
+    </message>
+    <message>
+      <source>No comments</source>
+      <translation>Nuk ka komente</translation>
+    </message>
+    <message>
+      <source>Comment stored</source>
+      <translation>Koment ruajtur</translation>
+    </message>
+    <message>
+      <source>Leave a reply</source>
+      <translation>Lini nj&#xEB; p&#xEB;rgjigje</translation>
+    </message>
+    <message>
+      <source>Nick</source>
+      <translation>Qok</translation>
+    </message>
+    <message>
+      <source>Max 25 characters</source>
+      <translation>Max 25 karaktere</translation>
+    </message>
+    <message>
+      <source>Message</source>
+      <translation>Mesazh</translation>
+    </message>
+    <message>
+      <source>Send</source>
+      <translation>D&#xEB;rgoj</translation>
+    </message>
+    <message>
+      <source>Image edit</source>
+      <translation>Image edit</translation>
+    </message>
+    <message>
+      <source>Rate this picture</source>
+      <translation>Votoje kete foto</translation>
+    </message>
+    <message>
+      <source>star</source>
+      <translation>yll</translation>
+    </message>
+    <message>
+      <source>stars</source>
+      <translation>yje t&#xEB; mundsh&#xEB;m</translation>
+    </message>
+    <message>
+      <source>Vote!</source>
+      <translation>Voto!</translation>
+    </message>
+    <message>
+      <source>Deduct vote!</source>
+      <translation>Zbres votuar!</translation>
+    </message>
+    <message>
+      <source>next image</source>
+      <translation>Foto Tjet&#xEB;r</translation>
+    </message>
+    <message>
+      <source>previous image</source>
+      <translation>image m&#xEB;parshme</translation>
+    </message>
+    <message>
+      <source>return to thumbnails</source>
+      <translation>kthehen n&#xEB; thumbnails</translation>
+    </message>
+    <message>
+      <source>Click to see fullsize</source>
+      <translation>Klikoni p&#xEB;r t&#xEB; par&#xEB; fullsize</translation>
+    </message>
+    <message>
+      <source>Supported BB Code style tags: [b] [i] [u] [quote] :) :D :( :o :p ;)</source>
+      <translation>P&#xEB;rkrahur stil BB Code tags: [b] [i] [u] [quote]:): D: (: o: p;)</translation>
+    </message>
+    <message>
+      <source>Add to favorites</source>
+      <translation>Shtoni n&#xEB; t&#xEB; preferuarat</translation>
+    </message>
+    <message>
+      <source>Share this page HTML code</source>
+      <translation>Share k&#xEB;t&#xEB; faqe HTML kod</translation>
+    </message>
+    <message>
+      <source>Share PHPBB code</source>
+      <translation>Kodi Share phpBB</translation>
+    </message>
+    <message>
+      <source>Anaglyph version</source>
+      <translation>Version Anaglyph</translation>
+    </message>
+    <message>
+      <source>Enter tags separated by space</source>
+      <translation>Shkruani tags ndara nga hap&#xEB;sira</translation>
+    </message>
+    <message>
+      <source>Picture details</source>
+      <translation>Picture detaje</translation>
+    </message>
+    <message>
+      <source>Filename</source>
+      <translation>Emri</translation>
+    </message>
+    <message>
+      <source>File size</source>
+      <translation>File size</translation>
+    </message>
+    <message>
+      <source>Image rating</source>
+      <translation>Vler&#xEB;simi Image</translation>
+    </message>
+    <message>
+      <source>Date added</source>
+      <translation>Data e shtimit</translation>
+    </message>
+    <message>
+      <source>Dimensions</source>
+      <translation>P&#xEB;rmasat</translation>
+    </message>
+    <message>
+      <source>Displayed</source>
+      <translation>Shfaqet</translation>
+    </message>
+    <message>
+      <source>times</source>
+      <translation>koh&#xEB;t</translation>
+    </message>
+    <message>
+      <source>Album</source>
+      <translation>Album</translation>
+    </message>
+    <message>
+      <source>URL</source>
+      <translation>URL</translation>
+    </message>
+    <message>
+      <source>Owner</source>
+      <translation>Pronar</translation>
+    </message>
+    <message>
+      <source>About user</source>
+      <translation>Rreth an&#xEB;tarit</translation>
+    </message>
+    <message>
+      <source>votes</source>
+      <translation>vota</translation>
+    </message>
+    <message>
+      <source>Search for similar colors images</source>
+      <translation>K&#xEB;rko p&#xEB;r imazhet ngjyra t&#xEB; ngjashme</translation>
+    </message>
+    <message>
+      <source>Search for visualy similar images</source>
+      <translation>K&#xEB;rko p&#xEB;r imazhe visualy t&#xEB; ngjashme</translation>
+    </message>
+    <message>
+      <source>More user images</source>
+      <translation>Imazhe m&#xEB; shum&#xEB; p&#xEB;rdorues</translation>
+    </message>
+    <message>
+      <source>Version</source>
+      <translation>Version</translation>
+    </message>
+    <message>
+      <source>Image size</source>
+      <translation>Madh&#xEB;sia Image</translation>
+    </message>
+    <message>
+      <source>Format</source>
+      <translation>Format</translation>
+    </message>
+    <message>
+      <source>Price</source>
+      <translation>&#xC7;mim</translation>
+    </message>
+    <message>
+      <source>credits</source>
+      <translation>kredi</translation>
+    </message>
+    <message>
+      <source>Remove from basket</source>
+      <translation>Hiq nga shporta</translation>
+    </message>
+    <message>
+      <source>Add to basket</source>
+      <translation>Shtoni n&#xEB; t&#xEB; Shporta</translation>
+    </message>
+    <message>
+      <source>Wrong captcha code!</source>
+      <translation>Captcha kodin e gabuar!</translation>
+    </message>
+    <message>
+      <source>Please enter nick!</source>
+      <translation>Ju lutemi shkruani nick!</translation>
+    </message>
+    <message>
+      <source>Please enter comment!</source>
+      <translation>Ju lutemi shkruani koment!</translation>
+    </message>
+    <message>
+      <source>You are not allowed to leave a comments!</source>
+      <translation>Ju nuk jeni i lejuar p&#xEB;r t&#xEB; l&#xEB;n&#xEB; nj&#xEB; koment!</translation>
+    </message>
+    <message>
+      <source>Guest_</source>
+      <translation>Guest_</translation>
+    </message>
+    <message>
+      <source>Last uploaded images</source>
+      <translation>Images i ngarkuar s&#xEB; fundi</translation>
+    </message>
+    <message>
+      <source>Last additions</source>
+      <translation>Futjet m&#xEB; t&#xEB; fundit</translation>
+    </message>
+    <message>
+      <source>Last viewed images</source>
+      <translation>Imazhet e fundit t&#xEB; shikuarat</translation>
+    </message>
+    <message>
+      <source>Last commented images</source>
+      <translation>E fundit komentoi images</translation>
+    </message>
+    <message>
+      <source>Last rated images</source>
+      <translation>Imazhet e fundit t&#xEB; vler&#xEB;suarat</translation>
+    </message>
+    <message>
+      <source>Top rated images</source>
+      <translation>Images M&#xEB; t&#xEB; vler&#xEB;suarat</translation>
+    </message>
+    <message>
+      <source>Search by color</source>
+      <translation>Kerko me ngjyra</translation>
+    </message>
+    <message>
+      <source>Most popular images</source>
+      <translation>Imazhe m&#xEB; t&#xEB; popullarizuara</translation>
+    </message>
+    <message>
+      <source>Search rss by keyword</source>
+      <translation>K&#xEB;rko rss me fjalen</translation>
+    </message>
+    <message>
+      <source>Last uploaded first</source>
+      <translation>Ngarkuar fundit e par&#xEB;</translation>
+    </message>
+    <message>
+      <source>Last uploaded last</source>
+      <translation>Ngarkuar e fundit e fundit</translation>
+    </message>
+    <message>
+      <source>Most popular first</source>
+      <translation>M&#xEB; Populloret S&#xEB; Pari</translation>
+    </message>
+    <message>
+      <source>Most popular last</source>
+      <translation>M&#xEB; t&#xEB; njohura e fundit</translation>
+    </message>
+    <message>
+      <source>Last hits first</source>
+      <translation>Hitet e fundit e par&#xEB;</translation>
+    </message>
+    <message>
+      <source>Last hits last</source>
+      <translation>Hitet e fundit e fundit</translation>
+    </message>
+    <message>
+      <source>Last commented first</source>
+      <translation>E fundit komentoi par&#xEB;</translation>
+    </message>
+    <message>
+      <source>Last commented last</source>
+      <translation>E fundit komentoi fundit</translation>
+    </message>
+    <message>
+      <source>Top rated first</source>
+      <translation>M&#xEB; t&#xEB; vler&#xEB;suarat par&#xEB;</translation>
+    </message>
+    <message>
+      <source>Top rated last Last</source>
+      <translation>M&#xEB; t&#xEB; vler&#xEB;suarat fundit i Fundit</translation>
+    </message>
+    <message>
+      <source>Last rated first</source>
+      <translation>M&#xEB; t&#xEB; vler&#xEB;suarat fundit e par&#xEB;</translation>
+    </message>
+    <message>
+      <source>Last rated last</source>
+      <translation>E fundit t&#xEB; vler&#xEB;suarat fundit</translation>
+    </message>
+    <message>
+      <source>Most relevance images last</source>
+      <translation>Imazhet m&#xEB; Rilevimit fundit</translation>
+    </message>
+    <message>
+      <source>search results</source>
+      <translation>rezultatet e k&#xEB;rkimit</translation>
+    </message>
+    <message>
+      <source>Last uploaded images to album</source>
+      <translation>Imazhe i ngarkuar s&#xEB; fundi n&#xEB; Album</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/managealbum</name>
+    <message>
+      <source>No records.</source>
+      <translation>Asnj&#xEB; procesverbal.</translation>
+    </message>
+    <message>
+      <source>Category</source>
+      <translation>Kategori</translation>
+    </message>
+    <message>
+      <source>Create an album</source>
+      <translation>Krijo nj&#xEB; album</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>Sht&#xEB;pi</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/managealbumimages</name>
+    <message>
+      <source>Move selected images to</source>
+      <translation>L&#xEB;vizin imazhet e zgjedhura t&#xEB;</translation>
+    </message>
+    <message>
+      <source>Check all</source>
+      <translation>Kontrollo t&#xEB; gjitha</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>Asnj&#xEB; procesverbal.</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>Sht&#xEB;pi</translation>
+    </message>
+    <message>
+      <source>Root category</source>
+      <translation>Root kategori</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/movealbumphotos</name>
+    <message>
+      <source>Search album</source>
+      <translation>Album K&#xEB;rko</translation>
+    </message>
+    <message>
+      <source>Move photos</source>
+      <translation>Fotot l&#xEB;vizin</translation>
+    </message>
+    <message>
+      <source>We moved</source>
+      <translation>Ne kemi l&#xEB;vizur</translation>
+    </message>
+    <message>
+      <source>images</source>
+      <translation>imazhe</translation>
+    </message>
+    <message>
+      <source>Move album photos</source>
+      <translation>Leviz foto album</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/image_list</name>
+    <message>
+      <source>preview version</source>
+      <translation>version preview</translation>
+    </message>
+    <message>
+      <source>See full size</source>
+      <translation>Shih me permasa t&#xEB; plota</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/search</name>
+    <message>
+      <source>Last uploaded</source>
+      <translation>Ngarkuar fundit</translation>
+    </message>
+    <message>
+      <source>Most popular</source>
+      <translation>M&#xEB; popullore</translation>
+    </message>
+    <message>
+      <source>Last hits</source>
+      <translation>Hitet e fundit</translation>
+    </message>
+    <message>
+      <source>Top rated</source>
+      <translation>M&#xEB; t&#xEB; vler&#xEB;suarat</translation>
+    </message>
+    <message>
+      <source>Last rated</source>
+      <translation>M&#xEB; t&#xEB; vler&#xEB;suarat fundit</translation>
+    </message>
+    <message>
+      <source>Last commented</source>
+      <translation>E fundit komentoi</translation>
+    </message>
+    <message>
+      <source>Filename</source>
+      <translation>Emri</translation>
+    </message>
+    <message>
+      <source>Search results</source>
+      <translation>Rezultatet e k&#xEB;rkimit</translation>
+    </message>
+    <message>
+      <source>Nothing found</source>
+      <translation>Asgj&#xEB; p&#xEB;r t&#xEB; gjetur</translation>
+    </message>
+    <message>
+      <source>Any resolution</source>
+      <translation>&#xC7;do zgjidhje</translation>
+    </message>
+    <message>
+      <source>Relevance</source>
+      <translation>Rilevimit</translation>
+    </message>
+    <message>
+      <source>Any keyword</source>
+      <translation>&#xC7;do fjalen</translation>
+    </message>
+    <message>
+      <source>All keywords</source>
+      <translation>T&#xEB; gjitha fjal&#xEB; ky&#xE7;e</translation>
+    </message>
+    <message>
+      <source>search results</source>
+      <translation>rezultatet e k&#xEB;rkimit</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Faqe</translation>
+    </message>
+    <message>
+      <source>Last uploaded first</source>
+      <translation>Ngarkuar fundit e par&#xEB;</translation>
+    </message>
+    <message>
+      <source>Last uploaded last</source>
+      <translation>Ngarkuar e fundit e fundit</translation>
+    </message>
+    <message>
+      <source>Most popular first</source>
+      <translation>M&#xEB; Populloret S&#xEB; Pari</translation>
+    </message>
+    <message>
+      <source>Most popular last</source>
+      <translation>M&#xEB; t&#xEB; njohura e fundit</translation>
+    </message>
+    <message>
+      <source>Last hits first</source>
+      <translation>Hitet e fundit e par&#xEB;</translation>
+    </message>
+    <message>
+      <source>Last hits last</source>
+      <translation>Hitet e fundit e fundit</translation>
+    </message>
+    <message>
+      <source>Last commented first</source>
+      <translation>E fundit komentoi par&#xEB;</translation>
+    </message>
+    <message>
+      <source>Last commented last</source>
+      <translation>E fundit komentoi fundit</translation>
+    </message>
+    <message>
+      <source>Last rated first</source>
+      <translation>M&#xEB; t&#xEB; vler&#xEB;suarat fundit e par&#xEB;</translation>
+    </message>
+    <message>
+      <source>Last rated last</source>
+      <translation>E fundit t&#xEB; vler&#xEB;suarat fundit</translation>
+    </message>
+    <message>
+      <source>Top rated first</source>
+      <translation>M&#xEB; t&#xEB; vler&#xEB;suarat par&#xEB;</translation>
+    </message>
+    <message>
+      <source>Top rated last</source>
+      <translation>M&#xEB; t&#xEB; vler&#xEB;suarat fundit</translation>
+    </message>
+    <message>
+      <source>Most relevance images last</source>
+      <translation>Imazhet m&#xEB; Rilevimit fundit</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Zgjidhje</translation>
+    </message>
+    <message>
+      <source>Search RSS by keyword</source>
+      <translation>K&#xEB;rko RSS me fjalen</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/editrole</name>
+    <message>
+      <source>Role edit</source>
+      <translation>Roli edit</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Titull</translation>
+    </message>
+    <message>
+      <source>Assigned functions</source>
+      <translation>Funksioneve t&#xEB; dh&#xEB;na</translation>
+    </message>
+    <message>
+      <source>Module</source>
+      <translation>Modul</translation>
+    </message>
+    <message>
+      <source>Function</source>
+      <translation>Funksion</translation>
+    </message>
+    <message>
+      <source>Remove selected</source>
+      <translation>Hiq e zgjedhur</translation>
+    </message>
+    <message>
+      <source>New policy</source>
+      <translation>Politikave t&#xEB; reja</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+    <message>
+      <source>Cancel</source>
+      <translation>Anuloj</translation>
+    </message>
+    <message>
+      <source>Role assigned groups</source>
+      <translation>Roli grupe t&#xEB; caktuara</translation>
+    </message>
+    <message>
+      <source>Group assignement to role</source>
+      <translation>Assignement grup me rolin e</translation>
+    </message>
+    <message>
+      <source>Assign group</source>
+      <translation>Cakto grupin</translation>
+    </message>
+    <message>
+      <source>Please enter role name</source>
+      <translation>Ju lutemi shkruani emrin e rolit</translation>
+    </message>
+    <message>
+      <source>Please choose module</source>
+      <translation>Ju lutem zgjidhni modul</translation>
+    </message>
+    <message>
+      <source>Please choose module function</source>
+      <translation>Ju lutem zgjidhni funksion moduli</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Konfigurimit t&#xEB; sistemit</translation>
+    </message>
+    <message>
+      <source>List of roles</source>
+      <translation>Lista e roleve</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/groupassignrole</name>
+    <message>
+      <source>Title</source>
+      <translation>Titull</translation>
+    </message>
+    <message>
+      <source>Assign</source>
+      <translation>Caktoj</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/modulefunctions</name>
+    <message>
+      <source>All functions</source>
+      <translation>T&#xEB; gjitha funksionet</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/newpolicy</name>
+    <message>
+      <source>New policy</source>
+      <translation>Politikave t&#xEB; reja</translation>
+    </message>
+    <message>
+      <source>Assigned functions</source>
+      <translation>Funksioneve t&#xEB; dh&#xEB;na</translation>
+    </message>
+    <message>
+      <source>Choose module</source>
+      <translation>Zgjidhni modul</translation>
+    </message>
+    <message>
+      <source>All modules</source>
+      <translation>T&#xEB; gjitha modulet</translation>
+    </message>
+    <message>
+      <source>Choose module function</source>
+      <translation>Zgjidhni funksion moduli</translation>
+    </message>
+    <message>
+      <source>All functions</source>
+      <translation>T&#xEB; gjitha funksionet</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Ruaj</translation>
+    </message>
+    <message>
+      <source>Cancel</source>
+      <translation>Anuloj</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/newrole</name>
+    <message>
+      <source>New role</source>
+      <translation>Rol t&#xEB; ri</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Titull</translation>
+    </message>
+    <message>
+      <source>Policy list</source>
+      <translation>Lista e politik&#xEB;s</translation>
+    </message>
+    <message>
+      <source>Module</source>
+      <translation>Modul</translation>
+    </message>
+    <message>
+      <source>Function</source>
+      <translation>Funksion</translation>
+    </message>
+    <message>
+      <source>New policy</source>
+      <translation>Politikave t&#xEB; reja</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Ruaj</translation>
+    </message>
+    <message>
+      <source>Cancel</source>
+      <translation>Anuloj</translation>
+    </message>
+    <message>
+      <source>Please enter role name</source>
+      <translation>Ju lutemi shkruani emrin e rolit</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Konfigurimit t&#xEB; sistemit</translation>
+    </message>
+    <message>
+      <source>List of roles</source>
+      <translation>Lista e roleve</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/roleassigngroup</name>
+    <message>
+      <source>Title</source>
+      <translation>Titull</translation>
+    </message>
+    <message>
+      <source>Assign</source>
+      <translation>Caktoj</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/roles</name>
+    <message>
+      <source>List of roles</source>
+      <translation>Lista e roleve</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Titull</translation>
+    </message>
+    <message>
+      <source>Edit role</source>
+      <translation>Edit rol</translation>
+    </message>
+    <message>
+      <source>Delete role</source>
+      <translation>Fshij rol</translation>
+    </message>
+    <message>
+      <source>New role</source>
+      <translation>Rol t&#xEB; ri</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Konfigurimit t&#xEB; sistemit</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/index</name>
+    <message>
+      <source>Shop configuration</source>
+      <translation>Shop konfigurimit</translation>
+    </message>
+    <message>
+      <source>Images variations sizes</source>
+      <translation>Images variacione madh&#xEB;sive</translation>
+    </message>
+    <message>
+      <source>List payment options</source>
+      <translation>Mund&#xEB;sit&#xEB; e pages&#xEB;s lista</translation>
+    </message>
+    <message>
+      <source>Settings list</source>
+      <translation>Settings lista</translation>
+    </message>
+    <message>
+      <source>Orders list</source>
+      <translation>Urdh&#xEB;ron lista</translation>
+    </message>
+    <message>
+      <source>Credits orders list</source>
+      <translation>Kredite urdh&#xEB;rat lista</translation>
+    </message>
+    <message>
+      <source>Shop</source>
+      <translation>Dyqan</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/listpaymentoptions</name>
+    <message>
+      <source>Payment options</source>
+      <translation>Mund&#xEB;sit&#xEB; e pages&#xEB;s</translation>
+    </message>
+    <message>
+      <source>Identifier</source>
+      <translation>Identifier</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Em&#xEB;r</translation>
+    </message>
+    <message>
+      <source>Active</source>
+      <translation>Aktiv</translation>
+    </message>
+    <message>
+      <source>Author</source>
+      <translation>Autor</translation>
+    </message>
+    <message>
+      <source>Edit</source>
+      <translation>Redaktoj</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/orderedit</name>
+    <message>
+      <source>Order view</source>
+      <translation>Shiko Rendit</translation>
+    </message>
+    <message>
+      <source>Order time</source>
+      <translation>Ora Rendit</translation>
+    </message>
+    <message>
+      <source>Order price</source>
+      <translation>&#xC7;mimi Rendit</translation>
+    </message>
+    <message>
+      <source>Order credits</source>
+      <translation>Kredit&#xEB; e Rendit</translation>
+    </message>
+    <message>
+      <source>Order status</source>
+      <translation>Statusin e Rendit</translation>
+    </message>
+    <message>
+      <source>Payed.</source>
+      <translation>Payed.</translation>
+    </message>
+    <message>
+      <source>Confirmed</source>
+      <translation>Konfirmuar</translation>
+    </message>
+    <message>
+      <source>Ordered items</source>
+      <translation>Urdh&#xEB;rohet artikuj</translation>
+    </message>
+    <message>
+      <source>Image name</source>
+      <translation>Emri Image</translation>
+    </message>
+    <message>
+      <source>Version</source>
+      <translation>Version</translation>
+    </message>
+    <message>
+      <source>Image size</source>
+      <translation>Madh&#xEB;sia Image</translation>
+    </message>
+    <message>
+      <source>Format</source>
+      <translation>Format</translation>
+    </message>
+    <message>
+      <source>Price</source>
+      <translation>&#xC7;mim</translation>
+    </message>
+    <message>
+      <source>Download count</source>
+      <translation>Shkarko num&#xEB;rimin</translation>
+    </message>
+    <message>
+      <source>Downloads left</source>
+      <translation>Downloads majt&#xEB;</translation>
+    </message>
+    <message>
+      <source>Credits</source>
+      <translation>Kredite</translation>
+    </message>
+  </context>
+  <context>
+    <name>systemconfig/list</name>
+    <message>
+      <source>Delete order item</source>
+      <translation>Fshije k&#xEB;t&#xEB; gj&#xEB; me q&#xEB;llim</translation>
+    </message>
+    <message>
+      <source>Delete order</source>
+      <translation>Fshij m&#xEB;nyr&#xEB;</translation>
+    </message>
+    <message>
+      <source>Config list</source>
+      <translation>Lista e config</translation>
+    </message>
+    <message>
+      <source>Identifier</source>
+      <translation>Identifier</translation>
+    </message>
+    <message>
+      <source>Explain</source>
+      <translation>Shpjegoj</translation>
+    </message>
+    <message>
+      <source>Edit value</source>
+      <translation>Edit Vlera</translation>
+    </message>
+    <message>
+      <source>System config options</source>
+      <translation>Config options sistemit</translation>
+    </message>
+    <message>
+      <source>List</source>
+      <translation>List&#xEB;</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/orderslist</name>
+    <message>
+      <source>Orders credits list</source>
+      <translation>Urdh&#xEB;ron kredi lista</translation>
+    </message>
+    <message>
+      <source>ID</source>
+      <translation>ID</translation>
+    </message>
+    <message>
+      <source>Date</source>
+      <translation>Data</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Order price</source>
+      <translation>&#xC7;mimi Rendit</translation>
+    </message>
+    <message>
+      <source>Order credits</source>
+      <translation>Kredit&#xEB; e Rendit</translation>
+    </message>
+    <message>
+      <source>Order status</source>
+      <translation>Statusin e Rendit</translation>
+    </message>
+    <message>
+      <source>Payed.</source>
+      <translation>Payed.</translation>
+    </message>
+    <message>
+      <source>Confirmed</source>
+      <translation>Konfirmuar</translation>
+    </message>
+    <message>
+      <source>No orders...</source>
+      <translation>Asnj&#xEB; urdh&#xEB;r ...</translation>
+    </message>
+    <message>
+      <source>Orders list</source>
+      <translation>Urdh&#xEB;ron lista</translation>
+    </message>
+    <message>
+      <source>Order view</source>
+      <translation>Shiko Rendit</translation>
+    </message>
+    <message>
+      <source>User orders list</source>
+      <translation>Urdhra p&#xEB;rdoruesi lista</translation>
+    </message>
+    <message>
+      <source>User credits orders list</source>
+      <translation>Kredi User urdh&#xEB;rat lista</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/paymentoptionedit</name>
+    <message>
+      <source>Payment option edit</source>
+      <translation>Edit pages&#xEB; opsion</translation>
+    </message>
+    <message>
+      <source>Identifier</source>
+      <translation>Identifier</translation>
+    </message>
+    <message>
+      <source>Active</source>
+      <translation>Aktiv</translation>
+    </message>
+    <message>
+      <source>Payment settings</source>
+      <translation>Settings Pagesa</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+  </context>
+  <context>
+    <name>systemconfig/edit</name>
+    <message>
+      <source>Edit</source>
+      <translation>Redaktoj</translation>
+    </message>
+    <message>
+      <source>Data updated</source>
+      <translation>Dh&#xEB;nave t&#xEB; azhornuara</translation>
+    </message>
+    <message>
+      <source>Identifier</source>
+      <translation>Identifier</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+    <message>
+      <source>Values applies to</source>
+      <translation>Vlerat vlen edhe p&#xEB;r</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/settinglist</name>
+    <message>
+      <source>Shop config list</source>
+      <translation>Lista Shop config</translation>
+    </message>
+    <message>
+      <source>Identifier</source>
+      <translation>Identifier</translation>
+    </message>
+    <message>
+      <source>Explain</source>
+      <translation>Shpjegoj</translation>
+    </message>
+    <message>
+      <source>Value</source>
+      <translation>Vler&#xEB;</translation>
+    </message>
+    <message>
+      <source>Edit value</source>
+      <translation>Edit Vlera</translation>
+    </message>
+  </context>
+  <context>
+    <name>statistic/choosesite</name>
+    <message>
+      <source>Choose site you want to show statistic</source>
+      <translation>Zgjidhni faqe ju doni t&#xEB; tregojn&#xEB; statistik&#xEB;</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Ruaj</translation>
+    </message>
+  </context>
+  <context>
+    <name>statistic/index</name>
+    <message>
+      <source>Google analytics statistic</source>
+      <translation>Google analytics statistik&#xEB;</translation>
+    </message>
+    <message>
+      <source>Grant access application to access google analytics API</source>
+      <translation>Aplikimit t&#xEB; jap&#xEB; qasje p&#xEB;r t&#xEB; hyr&#xEB; n&#xEB; Google Analytics API</translation>
+    </message>
+    <message>
+      <source>Site choose</source>
+      <translation>Site t&#xEB; zgjidhni</translation>
+    </message>
+    <message>
+      <source>View statistic</source>
+      <translation>Shiko statistik&#xEB;</translation>
+    </message>
+    <message>
+      <source>Statistic</source>
+      <translation>Statistikor</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>Sht&#xEB;pi</translation>
+    </message>
+  </context>
+  <context>
+    <name>system/configuration</name>
+    <message>
+      <source>System configuration</source>
+      <translation>Konfigurimit t&#xEB; sistemit</translation>
+    </message>
+    <message>
+      <source>Users</source>
+      <translation>P&#xEB;rdoruesit</translation>
+    </message>
+    <message>
+      <source>List of groups</source>
+      <translation>Lista e grupeve t&#xEB;</translation>
+    </message>
+    <message>
+      <source>List of roles</source>
+      <translation>Lista e roleve</translation>
+    </message>
+    <message>
+      <source>System configuration values</source>
+      <translation>Vlerat e konfigurimit t&#xEB; sistemit</translation>
+    </message>
+    <message>
+      <source>Watermark protection</source>
+      <translation>Mbrojtjen uj&#xEB;ra</translation>
+    </message>
+    <message>
+      <source>Banned rating IP list</source>
+      <translation>Banned IP Vler&#xEB;simi lista</translation>
+    </message>
+    <message>
+      <source>Banned commenting IP list</source>
+      <translation>Lista e IP ndaluar komentuar</translation>
+    </message>
+  </context>
+  <context>
+    <name>systemconfig/watermark</name>
+    <message>
+      <source>Watermark configuration</source>
+      <translation>Konfigurimit uj&#xEB;ra</translation>
+    </message>
+    <message>
+      <source>Settings updated</source>
+      <translation>Settings updated</translation>
+    </message>
+    <message>
+      <source>Delete watermark</source>
+      <translation>Fshij uj&#xEB;ra</translation>
+    </message>
+    <message>
+      <source>Image, it is recommended PNG type image</source>
+      <translation>Image, rekomandohet imazh PNG lloji</translation>
+    </message>
+    <message>
+      <source>Settings</source>
+      <translation>Cil&#xEB;simet</translation>
+    </message>
+    <message>
+      <source>Watermark disabled</source>
+      <translation>Uj&#xEB;ra me aft&#xEB;si t&#xEB; kufizuara</translation>
+    </message>
+    <message>
+      <source>Watermark enabled for normal size thumbnails</source>
+      <translation>Uj&#xEB;ra t&#xEB; aktivizuara p&#xEB;r thumbnails madh&#xEB;si normale</translation>
+    </message>
+    <message>
+      <source>Watermark enabled for all images</source>
+      <translation>Uj&#xEB;ra aktivizuar p&#xEB;r t&#xEB; gjitha imazhet</translation>
+    </message>
+    <message>
+      <source>Watermark position</source>
+      <translation>Pozicion uj&#xEB;ra</translation>
+    </message>
+    <message>
+      <source>Top left</source>
+      <translation>La Top</translation>
+    </message>
+    <message>
+      <source>Top right</source>
+      <translation>Drejt&#xEB; Top</translation>
+    </message>
+    <message>
+      <source>Bottom left</source>
+      <translation>Fund majtas</translation>
+    </message>
+    <message>
+      <source>Bottom right</source>
+      <translation>Drejta Bottom</translation>
+    </message>
+    <message>
+      <source>Center</source>
+      <translation>Qend&#xEB;r</translation>
+    </message>
+    <message>
+      <source>Watermark padding from borders</source>
+      <translation>Mbushje uj&#xEB;ra nga kufijt&#xEB;</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+    <message>
+      <source>Watermark</source>
+      <translation>B&#xEB;j uj&#xEB;ra n&#xEB; let&#xEB;r</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/account</name>
+    <message>
+      <source>Logged user</source>
+      <translation>P&#xEB;rdorues Logged</translation>
+    </message>
+    <message>
+      <source>Account updated</source>
+      <translation>Llogaria updated</translation>
+    </message>
+    <message>
+      <source>Do not enter password unless you want to change it</source>
+      <translation>Mos shkruani fjal&#xEB;kalimin n&#xEB;se nuk doni ta ndryshoni at&#xEB;</translation>
+    </message>
+    <message>
+      <source>Login information</source>
+      <translation>Login informacion</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Username</translation>
+    </message>
+    <message>
+      <source>Password</source>
+      <translation>Fjal&#xEB;kalim</translation>
+    </message>
+    <message>
+      <source>Repeat password</source>
+      <translation>P&#xEB;rs&#xEB;riteni fjal&#xEB;kalimin</translation>
+    </message>
+    <message>
+      <source>Contact information</source>
+      <translation>Informacioni i kontaktit</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+    <message>
+      <source>Message send</source>
+      <translation>Mesazh Send</translation>
+    </message>
+    <message>
+      <source>Add google account</source>
+      <translation>Shto Llogari Google</translation>
+    </message>
+    <message>
+      <source>Working</source>
+      <translation>Pune</translation>
+    </message>
+    <message>
+      <source>Profile page settings</source>
+      <translation>Faqe settings</translation>
+    </message>
+    <message>
+      <source>Profile settings updated</source>
+      <translation>Cil&#xEB;simet e profilit updated</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Em&#xEB;r</translation>
+    </message>
+    <message>
+      <source>Surname</source>
+      <translation>Mbiem&#xEB;r</translation>
+    </message>
+    <message>
+      <source>Website</source>
+      <translation>Website</translation>
+    </message>
+    <message>
+      <source>Information about you</source>
+      <translation>Informacione p&#xEB;r ju</translation>
+    </message>
+    <message>
+      <source>Profile photo</source>
+      <translation>Profili photo</translation>
+    </message>
+    <message>
+      <source>See how your profile looks to users</source>
+      <translation>Shih se si duket profilin tuaj t&#xEB; p&#xEB;rdoruesit</translation>
+    </message>
+    <message>
+      <source>View profile</source>
+      <translation>Shiko profilin</translation>
+    </message>
+    <message>
+      <source>Wrong email address</source>
+      <translation>Adresa email e gabuar</translation>
+    </message>
+    <message>
+      <source>Passwords mismatch</source>
+      <translation>Passwords mosp&#xEB;rputhje</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/edit</name>
+    <message>
+      <source>User edit</source>
+      <translation>Edit p&#xEB;rdorues</translation>
+    </message>
+    <message>
+      <source>Do not enter password unless you want to change it</source>
+      <translation>Mos shkruani fjal&#xEB;kalimin n&#xEB;se nuk doni ta ndryshoni at&#xEB;</translation>
+    </message>
+    <message>
+      <source>Login information</source>
+      <translation>Login informacion</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Username</translation>
+    </message>
+    <message>
+      <source>Password</source>
+      <translation>Fjal&#xEB;kalim</translation>
+    </message>
+    <message>
+      <source>Repeat password</source>
+      <translation>P&#xEB;rs&#xEB;riteni fjal&#xEB;kalimin</translation>
+    </message>
+    <message>
+      <source>Contact information</source>
+      <translation>Informacioni i kontaktit</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+    <message>
+      <source>User prifle</source>
+      <translation>Prifle p&#xEB;rdorues</translation>
+    </message>
+    <message>
+      <source>My account</source>
+      <translation>Llogaria ime</translation>
+    </message>
+    <message>
+      <source>Facebook albums</source>
+      <translation>Albume facebook</translation>
+    </message>
+    <message>
+      <source>Facebook session has expired, please login</source>
+      <translation>Sesioni Facebook ka skaduar, lutemi hyrje me emrin</translation>
+    </message>
+    <message>
+      <source>Account</source>
+      <translation>Llogari</translation>
+    </message>
+    <message>
+      <source>Albums</source>
+      <translation>Albumet</translation>
+    </message>
+    <message>
+      <source>My albums</source>
+      <translation>Albumet e mia</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Konfigurimit t&#xEB; sistemit</translation>
+    </message>
+    <message>
+      <source>Account data</source>
+      <translation>T&#xEB; dh&#xEB;nat e llogaris&#xEB;</translation>
+    </message>
+    <message>
+      <source>Wrong email address</source>
+      <translation>Adresa email e gabuar</translation>
+    </message>
+    <message>
+      <source>Passwords mismatch</source>
+      <translation>Passwords mosp&#xEB;rputhje</translation>
+    </message>
+    <message>
+      <source>Users</source>
+      <translation>P&#xEB;rdoruesit</translation>
+    </message>
+    <message>
+      <source>Authentifion with google</source>
+      <translation>Authentifion me google</translation>
+    </message>
+    <message>
+      <source>Profile settings</source>
+      <translation>Settings profilin</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/editgroup</name>
+    <message>
+      <source>Group edit</source>
+      <translation>Grupi i edit</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Titull</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+    <message>
+      <source>Assigned users</source>
+      <translation>P&#xEB;rdorues t&#xEB; caktuar</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Username</translation>
+    </message>
+    <message>
+      <source>Remove user from group</source>
+      <translation>Hiq p&#xEB;rdoruesit nga grupi</translation>
+    </message>
+    <message>
+      <source>Assign user</source>
+      <translation>Cakto p&#xEB;rdorues</translation>
+    </message>
+    <message>
+      <source>User assignment</source>
+      <translation>Detyra p&#xEB;rdorues</translation>
+    </message>
+    <message>
+      <source>Assigned roles</source>
+      <translation>Role t&#xEB; caktuara</translation>
+    </message>
+    <message>
+      <source>Remove role from group</source>
+      <translation>Hiq rol nga grupi</translation>
+    </message>
+    <message>
+      <source>Assign role</source>
+      <translation>Cakto rol</translation>
+    </message>
+    <message>
+      <source>Role assignment</source>
+      <translation>Roli detyr&#xEB;</translation>
+    </message>
+    <message>
+      <source>Please enter group name</source>
+      <translation>Ju lutemi shkruani emrin e grupit</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Konfigurimit t&#xEB; sistemit</translation>
+    </message>
+    <message>
+      <source>Groups</source>
+      <translation>Grupet</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/groupassignuser</name>
+    <message>
+      <source>User</source>
+      <translation>P&#xEB;rdorues</translation>
+    </message>
+    <message>
+      <source>Assign</source>
+      <translation>Caktoj</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/login</name>
+    <message>
+      <source>Please login</source>
+      <translation>Ju lutemi identifikohuni</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Username</translation>
+    </message>
+    <message>
+      <source>Password</source>
+      <translation>Fjal&#xEB;kalim</translation>
+    </message>
+    <message>
+      <source>Login</source>
+      <translation>Hyrje</translation>
+    </message>
+    <message>
+      <source>Password remind</source>
+      <translation>Password kujtoj</translation>
+    </message>
+    <message>
+      <source>Please login with your facebook account</source>
+      <translation>Ju lutemi t&#xEB; identifikoheni me llogarin&#xEB; tuaj facebook</translation>
+    </message>
+    <message>
+      <source>Report abuse</source>
+      <translation>Raporto abuzim</translation>
+    </message>
+    <message>
+      <source>Please write whats wrong within a post</source>
+      <translation>Ju lutemi shkruani whats e gabuar n&#xEB; nj&#xEB; post</translation>
+    </message>
+    <message>
+      <source>Send</source>
+      <translation>D&#xEB;rgoj</translation>
+    </message>
+    <message>
+      <source>Registration is complete</source>
+      <translation>Regjistrimi &#xEB;sht&#xEB; i plot&#xEB;</translation>
+    </message>
+    <message>
+      <source>Registration is complete please login.</source>
+      <translation>Regjistrimi &#xEB;sht&#xEB; i plot&#xEB; lutemi hyrje me emrin.</translation>
+    </message>
+    <message>
+      <source>Checkout</source>
+      <translation>Ark&#xEB;</translation>
+    </message>
+    <message>
+      <source>Incorrect username or password</source>
+      <translation>Emrin e p&#xEB;rdoruesit apo fjal&#xEB;kalimin pasakt&#xEB;</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/new</name>
+    <message>
+      <source>New user</source>
+      <translation>P&#xEB;rdorues i ri</translation>
+    </message>
+    <message>
+      <source>Login information</source>
+      <translation>Login informacion</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Username</translation>
+    </message>
+    <message>
+      <source>Password</source>
+      <translation>Fjal&#xEB;kalim</translation>
+    </message>
+    <message>
+      <source>Repeat password</source>
+      <translation>P&#xEB;rs&#xEB;riteni fjal&#xEB;kalimin</translation>
+    </message>
+    <message>
+      <source>Contact information</source>
+      <translation>Informacioni i kontaktit</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Ruaj</translation>
+    </message>
+    <message>
+      <source>OR login with</source>
+      <translation>Apo hyrje me</translation>
+    </message>
+    <message>
+      <source>Login with google account</source>
+      <translation>Identifikohuni me llogari google</translation>
+    </message>
+    <message>
+      <source>Working</source>
+      <translation>Pune</translation>
+    </message>
+    <message>
+      <source>Working...</source>
+      <translation>Duke punuar ...</translation>
+    </message>
+    <message>
+      <source>Registration</source>
+      <translation>Regjistrim</translation>
+    </message>
+    <message>
+      <source>Safe code</source>
+      <translation>Kodi i sigurt</translation>
+    </message>
+    <message>
+      <source>Register</source>
+      <translation>Regjist&#xEB;r</translation>
+    </message>
+    <message>
+      <source>Sutch username is already taken!</source>
+      <translation>Sutch emrin eshte i zene!</translation>
+    </message>
+    <message>
+      <source>Please enter album name!</source>
+      <translation>Ju lutemi shkruani emrin e albumit!</translation>
+    </message>
+    <message>
+      <source>Please enter category name!</source>
+      <translation>Ju lutemi shkruani emrin kategori!</translation>
+    </message>
+    <message>
+      <source>User exists</source>
+      <translation>User ekziston</translation>
+    </message>
+    <message>
+      <source>Wrong email address</source>
+      <translation>Adresa email e gabuar</translation>
+    </message>
+    <message>
+      <source>Please enter username</source>
+      <translation>Ju lutemi shkruani emrin e p&#xEB;rdoruesit</translation>
+    </message>
+    <message>
+      <source>Passwords mismatch</source>
+      <translation>Passwords mosp&#xEB;rputhje</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Konfigurimit t&#xEB; sistemit</translation>
+    </message>
+    <message>
+      <source>Users</source>
+      <translation>P&#xEB;rdoruesit</translation>
+    </message>
+    <message>
+      <source>Please enter group name</source>
+      <translation>Ju lutemi shkruani emrin e grupit</translation>
+    </message>
+    <message>
+      <source>E-mail taken!</source>
+      <translation>E-mail t&#xEB; marra!</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/newgroup</name>
+    <message>
+      <source>New group</source>
+      <translation>Grup i ri</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Titull</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Ruaj</translation>
+    </message>
+    <message>
+      <source>Save and assign user</source>
+      <translation>Ruaj dhe t&#xEB; caktoj&#xEB; p&#xEB;rdorues</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Konfigurimit t&#xEB; sistemit</translation>
+    </message>
+    <message>
+      <source>Groups</source>
+      <translation>Grupet</translation>
+    </message>
+  </context>
+  <context>
+    <name>pagelayout/pagelayout</name>
+    <message>
+      <source>Home</source>
+      <translation>Sht&#xEB;pi</translation>
+    </message>
+    <message>
+      <source>Configuration</source>
+      <translation>Konfiguracion</translation>
+    </message>
+    <message>
+      <source>Gallery categorys</source>
+      <translation>Galeria categorys</translation>
+    </message>
+    <message>
+      <source>Last uploads to albums</source>
+      <translation>Ngarkimet m&#xEB; t&#xEB; fundit n&#xEB; albume</translation>
+    </message>
+    <message>
+      <source>Batch images add</source>
+      <translation>Batch shtoni imazhe</translation>
+    </message>
+    <message>
+      <source>Duplicates</source>
+      <translation>Kopje identike</translation>
+    </message>
+    <message>
+      <source>Static articles</source>
+      <translation>Artikuj Static</translation>
+    </message>
+    <message>
+      <source>Statistic</source>
+      <translation>Statistikor</translation>
+    </message>
+    <message>
+      <source>Shop</source>
+      <translation>Dyqan</translation>
+    </message>
+    <message>
+      <source>Forum</source>
+      <translation>Forum</translation>
+    </message>
+    <message>
+      <source>Delete photo by ID</source>
+      <translation>Fshij photo nga ID</translation>
+    </message>
+    <message>
+      <source>Photo was deleted</source>
+      <translation>Foto u fshi</translation>
+    </message>
+    <message>
+      <source>Go to album</source>
+      <translation>Shko tek Albumi</translation>
+    </message>
+    <message>
+      <source>Go to forum topic</source>
+      <translation>Go to topic forum</translation>
+    </message>
+    <message>
+      <source>Go to forum category</source>
+      <translation>Go to forum kategori</translation>
+    </message>
+    <message>
+      <source>Go to image</source>
+      <translation>Go to image</translation>
+    </message>
+    <message>
+      <source>Root category</source>
+      <translation>Root kategori</translation>
+    </message>
+    <message>
+      <source>Open</source>
+      <translation>Hapur</translation>
+    </message>
+    <message>
+      <source>Edit</source>
+      <translation>Redaktoj</translation>
+    </message>
+    <message>
+      <source>New album</source>
+      <translation>Albumi i ri</translation>
+    </message>
+    <message>
+      <source>New batch albums</source>
+      <translation>Albume t&#xEB; reja grumbull</translation>
+    </message>
+    <message>
+      <source>New category</source>
+      <translation>Kategori e re</translation>
+    </message>
+    <message>
+      <source>Delete album</source>
+      <translation>Fshij album</translation>
+    </message>
+    <message>
+      <source>Delete category</source>
+      <translation>Kategoria e fshini</translation>
+    </message>
+    <message>
+      <source>Add images</source>
+      <translation>Shtoni imazhe</translation>
+    </message>
+    <message>
+      <source>Move images</source>
+      <translation>Imazhe l&#xEB;vizin</translation>
+    </message>
+    <message>
+      <source>It\'s NOT fake!</source>
+      <translation>Kjo nuk \ &amp;#39;s rreme!</translation>
+    </message>
+    <message>
+      <source>Rendered in</source>
+      <translation>Dh&#xEB;n&#xEB; n&#xEB;</translation>
+    </message>
+    <message>
+      <source>Logged user</source>
+      <translation>P&#xEB;rdorues Logged</translation>
+    </message>
+    <message>
+      <source>Account</source>
+      <translation>Llogari</translation>
+    </message>
+    <message>
+      <source>Logout</source>
+      <translation>Logout</translation>
+    </message>
+    <message>
+      <source>Login</source>
+      <translation>Hyrje</translation>
+    </message>
+    <message>
+      <source>Enter keyword or phrase</source>
+      <translation>Shkruani fjalen apo fraza</translation>
+    </message>
+    <message>
+      <source>Search entire forum</source>
+      <translation>K&#xEB;rko forum t&#xEB; t&#xEB;r&#xEB;</translation>
+    </message>
+    <message>
+      <source>Search</source>
+      <translation>K&#xEB;rkim</translation>
+    </message>
+    <message>
+      <source>Last uploads</source>
+      <translation>Ngarkimet m&#xEB; t&#xEB; fundit</translation>
+    </message>
+    <message>
+      <source>Last commented</source>
+      <translation>E fundit komentoi</translation>
+    </message>
+    <message>
+      <source>Last hits</source>
+      <translation>Hitet e fundit</translation>
+    </message>
+    <message>
+      <source>Last rated</source>
+      <translation>M&#xEB; t&#xEB; vler&#xEB;suarat fundit</translation>
+    </message>
+    <message>
+      <source>Last 24 h.</source>
+      <translation>Fundit 24 h.</translation>
+    </message>
+    <message>
+      <source>Most popular</source>
+      <translation>M&#xEB; popullore</translation>
+    </message>
+    <message>
+      <source>Top rated</source>
+      <translation>M&#xEB; t&#xEB; vler&#xEB;suarat</translation>
+    </message>
+    <message>
+      <source>Search entire gallery</source>
+      <translation>K&#xEB;rko galeri t&#xEB; t&#xEB;r&#xEB;</translation>
+    </message>
+    <message>
+      <source>Last uploaded images</source>
+      <translation>Images i ngarkuar s&#xEB; fundi</translation>
+    </message>
+    <message>
+      <source>View all categorys</source>
+      <translation>Shiko t&#xEB; gjitha categorys</translation>
+    </message>
+    <message>
+      <source>All time</source>
+      <translation>T&#xEB; gjith&#xEB; koh&#xEB;s</translation>
+    </message>
+    <message>
+      <source>Interactive</source>
+      <translation>Interaktiv</translation>
+    </message>
+    <message>
+      <source>Search by keyword</source>
+      <translation>Kerko me fjalen</translation>
+    </message>
+    <message>
+      <source>Search by color</source>
+      <translation>Kerko me ngjyra</translation>
+    </message>
+    <message>
+      <source>Search by similarity</source>
+      <translation>K&#xEB;rko sipas ngjashm&#xEB;ris&#xEB;</translation>
+    </message>
+    <message>
+      <source>Search by sketch</source>
+      <translation>K&#xEB;rko sipas sketch</translation>
+    </message>
+    <message>
+      <source>Last viewed images</source>
+      <translation>Imazhet e fundit t&#xEB; shikuarat</translation>
+    </message>
+    <message>
+      <source>Last searches</source>
+      <translation>Kerkimet e fundit</translation>
+    </message>
+    <message>
+      <source>My account</source>
+      <translation>Llogaria ime</translation>
+    </message>
+    <message>
+      <source>Profile page</source>
+      <translation>Faqja e profilit</translation>
+    </message>
+    <message>
+      <source>Manage albums</source>
+      <translation>Manage albume</translation>
+    </message>
+    <message>
+      <source>Credits</source>
+      <translation>Kredite</translation>
+    </message>
+    <message>
+      <source>My orders</source>
+      <translation>Urdh&#xEB;rat e mia</translation>
+    </message>
+    <message>
+      <source>My credits orders</source>
+      <translation>Urdh&#xEB;rat kredit&#xEB; e mia</translation>
+    </message>
+    <message>
+      <source>Import images from facebook</source>
+      <translation>Imazhe importit nga facebook</translation>
+    </message>
+    <message>
+      <source>Register</source>
+      <translation>Regjist&#xEB;r</translation>
+    </message>
+    <message>
+      <source>My favorites</source>
+      <translation>Preferuarat e mia</translation>
+    </message>
+    <message>
+      <source>Basket</source>
+      <translation>Shport&#xEB;</translation>
+    </message>
+    <message>
+      <source>Upload</source>
+      <translation>Ngarko</translation>
+    </message>
+    <message>
+      <source>Upload zip</source>
+      <translation>Ngarko zip</translation>
+    </message>
+    <message>
+      <source>Search...</source>
+      <translation>K&#xEB;rko ...</translation>
+    </message>
+  </context>
+  <context>
+    <name>fb/album</name>
+    <message>
+      <source>Check photo to import</source>
+      <translation>Kontrollo foto p&#xEB;r t&#xEB; importuar</translation>
+    </message>
+    <message>
+      <source>Import selected images to</source>
+      <translation>Imazhet e importit zgjedhur p&#xEB;r t&#xEB;</translation>
+    </message>
+    <message>
+      <source>To what album you want to import images, start typing album name and click search</source>
+      <translation>Deri n&#xEB; &#xE7;far&#xEB; album ju doni t&#xEB; importoj&#xEB; imazhe, filloni t&#xEB; shtypni emrin e albumit dhe klikoni k&#xEB;rko</translation>
+    </message>
+    <message>
+      <source>Search for album</source>
+      <translation>K&#xEB;rko p&#xEB;r album</translation>
+    </message>
+    <message>
+      <source>Check all</source>
+      <translation>Kontrollo t&#xEB; gjitha</translation>
+    </message>
+    <message>
+      <source>Click to see target, new window will open</source>
+      <translation>Klikoni p&#xEB;r t&#xEB; par&#xEB; t&#xEB; synuar, dritare t&#xEB; re do t&#xEB; hapet</translation>
+    </message>
+    <message>
+      <source>Import selected images</source>
+      <translation>Import imazhe t&#xEB; zgjedhura</translation>
+    </message>
+    <message>
+      <source>Please choose atleast one image!</source>
+      <translation>Ju lutem zgjidhni atleast image nj&#xEB;!</translation>
+    </message>
+    <message>
+      <source>images to import</source>
+      <translation>imazhet p&#xEB;r t&#xEB; importuar</translation>
+    </message>
+    <message>
+      <source>All images were imported</source>
+      <translation>T&#xEB; gjitha imazhet jan&#xEB; importuar</translation>
+    </message>
+    <message>
+      <source>Please choose album</source>
+      <translation>Ju lutem zgjidhni album</translation>
+    </message>
+    <message>
+      <source>Preview version</source>
+      <translation>Version preview</translation>
+    </message>
+  </context>
+  <context>
+    <name>feedback/form</name>
+    <message>
+      <source>Feedback</source>
+      <translation>Reagim</translation>
+    </message>
+    <message>
+      <source>Feedback was send</source>
+      <translation>Feedback ishte d&#xEB;rguar</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Em&#xEB;r</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Text</source>
+      <translation>Tekst</translation>
+    </message>
+    <message>
+      <source>Captcha image</source>
+      <translation>Image Captcha</translation>
+    </message>
+    <message>
+      <source>Captcha code</source>
+      <translation>Kodi Captcha</translation>
+    </message>
+    <message>
+      <source>Required fields</source>
+      <translation>Fusha e k&#xEB;rkuar</translation>
+    </message>
+    <message>
+      <source>Send</source>
+      <translation>D&#xEB;rgoj</translation>
+    </message>
+    <message>
+      <source>Please enter name!</source>
+      <translation>Ju lutemi shkruani emrin!</translation>
+    </message>
+    <message>
+      <source>Invalid e-mail address!</source>
+      <translation>Invalid adres&#xEB; e-mail!</translation>
+    </message>
+    <message>
+      <source>Please enter text!</source>
+      <translation>Ju lutemi shkruani tekstin!</translation>
+    </message>
+    <message>
+      <source>Please enter captcha code!</source>
+      <translation>Ju lutemi shkruani kodin captcha!</translation>
+    </message>
+  </context>
+  <context>
+    <name>feedback/formsend</name>
+    <message>
+      <source>Feedback</source>
+      <translation>Reagim</translation>
+    </message>
+    <message>
+      <source>Your feedback was succesfuly send</source>
+      <translation>Your feedback &#xEB;sht&#xEB; sukses d&#xEB;rgoni</translation>
+    </message>
+    <message>
+      <source>Home page</source>
+      <translation>Faqja e pare</translation>
+    </message>
+  </context>
+  <context>
+    <name>feedback/mail</name>
+    <message>
+      <source>Hello</source>
+      <translation>P&#xEB;rsh&#xEB;ndetje</translation>
+    </message>
+    <message>
+      <source>Feedback data</source>
+      <translation>Feedback dh&#xEB;nat</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Em&#xEB;r</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Text</source>
+      <translation>Tekst</translation>
+    </message>
+    <message>
+      <source>Bye</source>
+      <translation>Mirupafshim</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/anaglyph</name>
+    <message>
+      <source>Original</source>
+      <translation>Origjinal</translation>
+    </message>
+    <message>
+      <source>Anaglyph</source>
+      <translation>Anaglyph</translation>
+    </message>
+    <message>
+      <source>Animating</source>
+      <translation>Animating</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/color</name>
+    <message>
+      <source>Exclude color</source>
+      <translation>P&#xEB;rjashtojn&#xEB; ngjyra</translation>
+    </message>
+    <message>
+      <source>Maximum</source>
+      <translation>Maksimal</translation>
+    </message>
+    <message>
+      <source>filters</source>
+      <translation>filtra</translation>
+    </message>
+    <message>
+      <source>Include color</source>
+      <translation>P&#xEB;rfshijn&#xEB; ngjyra</translation>
+    </message>
+    <message>
+      <source>Remove color</source>
+      <translation>Hiq ngjyra</translation>
+    </message>
+    <message>
+      <source>Excluded colors in search</source>
+      <translation>Ngjyra e p&#xEB;rjashtuara n&#xEB; k&#xEB;rkim</translation>
+    </message>
+    <message>
+      <source>colors</source>
+      <translation>ngjyra</translation>
+    </message>
+    <message>
+      <source>More color</source>
+      <translation>M&#xEB; shum&#xEB; ngjyra</translation>
+    </message>
+    <message>
+      <source>Return to pallete</source>
+      <translation>Kthehu tek pallete</translation>
+    </message>
+    <message>
+      <source>Images by color</source>
+      <translation>Images me ngjyra</translation>
+    </message>
+    <message>
+      <source>Choose color</source>
+      <translation>Zgjidhni ngjyra</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>Asnj&#xEB; procesverbal.</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Faqe</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/createalbum</name>
+    <message>
+      <source>New album</source>
+      <translation>Albumi i ri</translation>
+    </message>
+    <message>
+      <source>Album name</source>
+      <translation>Emri i albumit</translation>
+    </message>
+    <message>
+      <source>Description</source>
+      <translation>P&#xEB;rshkrim</translation>
+    </message>
+    <message>
+      <source>Keywords</source>
+      <translation>Keywords</translation>
+    </message>
+    <message>
+      <source>Create</source>
+      <translation>Krijo</translation>
+    </message>
+    <message>
+      <source>Create and upload photos</source>
+      <translation>Krijo dhe ngarkoni fotografi</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/myfavorites</name>
+    <message>
+      <source>Remove from favorites</source>
+      <translation>Hiq nga preferuarat</translation>
+    </message>
+    <message>
+      <source>My favorite images</source>
+      <translation>Imazhet e mia favorite</translation>
+    </message>
+    <message>
+      <source>Remove</source>
+      <translation>Heq</translation>
+    </message>
+    <message>
+      <source>Remove Open ID</source>
+      <translation>Hiq ID Hapur</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastcommented</name>
+    <message>
+      <source>Last commented images</source>
+      <translation>E fundit komentoi images</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>Asnj&#xEB; procesverbal.</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Zgjidhje</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Faqe</translation>
+    </message>
+    <message>
+      <source>Last commented gallery images.</source>
+      <translation>Komentet e fundit gallery images.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lasthits</name>
+    <message>
+      <source>Last viewed images</source>
+      <translation>Imazhet e fundit t&#xEB; shikuarat</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>Asnj&#xEB; procesverbal.</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Zgjidhje</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Faqe</translation>
+    </message>
+    <message>
+      <source>Last viewed gallery images.</source>
+      <translation>Fundi gallery images.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastrated</name>
+    <message>
+      <source>Last rated images</source>
+      <translation>Imazhet e fundit t&#xEB; vler&#xEB;suarat</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>Asnj&#xEB; procesverbal.</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Zgjidhje</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Faqe</translation>
+    </message>
+    <message>
+      <source>Recently rated images.</source>
+      <translation>Koh&#xEB;t e fundit t&#xEB; vler&#xEB;suarat images.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastsearches</name>
+    <message>
+      <source>Last searches</source>
+      <translation>Kerkimet e fundit</translation>
+    </message>
+    <message>
+      <source>No records</source>
+      <translation>Ka t&#xEB; dh&#xEB;na</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastuploads</name>
+    <message>
+      <source>Last uploaded images</source>
+      <translation>Images i ngarkuar s&#xEB; fundi</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>Asnj&#xEB; procesverbal.</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Zgjidhje</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Faqe</translation>
+    </message>
+    <message>
+      <source>Latest additions to gallery.</source>
+      <translation>Futjet m&#xEB; t&#xEB; fundit n&#xEB; galeri.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/my_albums_list</name>
+    <message>
+      <source>Edit album</source>
+      <translation>Edit album</translation>
+    </message>
+    <message>
+      <source>Are you sure?</source>
+      <translation>A jeni i sigurt?</translation>
+    </message>
+    <message>
+      <source>Delete album</source>
+      <translation>Fshij album</translation>
+    </message>
+    <message>
+      <source>Add images</source>
+      <translation>Shtoni imazhe</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/myalbums</name>
+    <message>
+      <source>My albums</source>
+      <translation>Albumet e mia</translation>
+    </message>
+    <message>
+      <source>New album</source>
+      <translation>Albumi i ri</translation>
+    </message>
+    <message>
+      <source>Update priority</source>
+      <translation>Update prioritet</translation>
+    </message>
+    <message>
+      <source>You do not have any album.</source>
+      <translation>Ju nuk keni asnj&#xEB; album.</translation>
+    </message>
+    <message>
+      <source>Create a new album.</source>
+      <translation>Krijo nj&#xEB; album t&#xEB; ri.</translation>
+    </message>
+    <message>
+      <source>Account</source>
+      <translation>Llogari</translation>
+    </message>
+    <message>
+      <source>Albums</source>
+      <translation>Albumet</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/mylistalbum</name>
+    <message>
+      <source>No records.</source>
+      <translation>Asnj&#xEB; procesverbal.</translation>
+    </message>
+    <message>
+      <source>Account</source>
+      <translation>Llogari</translation>
+    </message>
+    <message>
+      <source>Albums</source>
+      <translation>Albumet</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/popular</name>
+    <message>
+      <source>Most popular images</source>
+      <translation>Imazhe m&#xEB; t&#xEB; popullarizuara</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>Asnj&#xEB; procesverbal.</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Zgjidhje</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Faqe</translation>
+    </message>
+    <message>
+      <source>All time most popular images.</source>
+      <translation>Gjat&#xEB; gjith&#xEB; koh&#xEB;s m&#xEB; t&#xEB; njohura images.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/popularrecect</name>
+    <message>
+      <source>Most popular images in 24 hours.</source>
+      <translation>Imazhet m&#xEB; t&#xEB; njohura n&#xEB; 24 or&#xEB;.</translation>
+    </message>
+    <message>
+      <source>There are no images.</source>
+      <translation>Nuk ka imazhe.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/ratedrecent</name>
+    <message>
+      <source>Top rated images in 24 hours.</source>
+      <translation type="unfinished">M&#xEB; t&#xEB; vler&#xEB;suarat imazhe n&#xEB; 24 or&#xEB;.</translation>
+    </message>
+    <message>
+      <source>Top rated images in 24 hours</source>
+      <translation type="unfinished">Imazhet m&#xEB; t&#xEB; vler&#xEB;suarat n&#xEB; 24 or&#xEB;</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation type="unfinished">Faqe</translation>
+    </message>
+    <message>
+      <source>Top rated images in last 24 hours.</source>
+      <translation type="unfinished">Imazhet m&#xEB; t&#xEB; vler&#xEB;suarat n&#xEB; 24 or&#xEB;t e fundit.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/sharehtml</name>
+    <message>
+      <source>Link to image</source>
+      <translation type="unfinished">Link to image</translation>
+    </message>
+    <message>
+      <source>Link to image with thumbnail</source>
+      <translation type="unfinished">Link to image thumbnail me</translation>
+    </message>
+    <message>
+      <source>Link to image with medium size thumbnail</source>
+      <translation type="unfinished">Link to image thumbnail me madh&#xEB;si t&#xEB; mesme</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/sharephpbb</name>
+    <message>
+      <source>Link to image</source>
+      <translation type="unfinished">Link to image</translation>
+    </message>
+    <message>
+      <source>Link to image with thumbnail</source>
+      <translation type="unfinished">Link to image thumbnail me</translation>
+    </message>
+    <message>
+      <source>Link to image with medium size thumbnail</source>
+      <translation type="unfinished">Link to image thumbnail me madh&#xEB;si t&#xEB; mesme</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/subcategory_list_full</name>
+    <message>
+      <source>albums</source>
+      <translation type="unfinished">albume</translation>
+    </message>
+    <message>
+      <source>images</source>
+      <translation type="unfinished">imazhe</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/toprated</name>
+    <message>
+      <source>Top rated images</source>
+      <translation type="unfinished">Images M&#xEB; t&#xEB; vler&#xEB;suarat</translation>
+    </message>
+    <message>
+      <source>No records</source>
+      <translation type="unfinished">Ka t&#xEB; dh&#xEB;na</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation type="unfinished">Zgjidhje</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation type="unfinished">Faqe</translation>
+    </message>
+    <message>
+      <source>All time top rated images.</source>
+      <translation type="unfinished">T&#xEB; gjitha top koha t&#xEB; vler&#xEB;suarat images.</translation>
+    </message>
+  </context>
+  <context>
+    <name>kernel/nopermission</name>
+    <message>
+      <source>You do not have permission to access module</source>
+      <translation type="unfinished">Ju nuk keni leje p&#xEB;r t&#xEB; hyr&#xEB; n&#xEB; modul</translation>
+    </message>
+    <message>
+      <source>and use</source>
+      <translation type="unfinished">dhe p&#xEB;rdorimin e</translation>
+    </message>
+    <message>
+      <source>function</source>
+      <translation type="unfinished">funksion</translation>
+    </message>
+    <message>
+      <source>You do not have permission to access current object</source>
+      <translation type="unfinished">Ju nuk keni leje p&#xEB;r t&#xEB; hyr&#xEB; n&#xEB; objektin aktual</translation>
+    </message>
+  </context>
+  <context>
+    <name>core/paginator</name>
+    <message>
+      <source>Page</source>
+      <translation type="unfinished">Faqe</translation>
+    </message>
+    <message>
+      <source>of</source>
+      <translation type="unfinished">t&#xEB;</translation>
+    </message>
+    <message>
+      <source>Found</source>
+      <translation type="unfinished">Gjetur</translation>
+    </message>
+    <message>
+      <source>Previous</source>
+      <translation type="unfinished">Previous</translation>
+    </message>
+    <message>
+      <source>Go to page</source>
+      <translation type="unfinished">Shko tek faqja</translation>
+    </message>
+    <message>
+      <source>Next</source>
+      <translation type="unfinished">Tjet&#xEB;r</translation>
+    </message>
+  </context>
+  <context>
+    <name>similar/similar</name>
+    <message>
+      <source>Visualy similar images to</source>
+      <translation type="unfinished">Imazhe Visualy t&#xEB; ngjashme me</translation>
+    </message>
+    <message>
+      <source>Search for visualy similar images</source>
+      <translation type="unfinished">K&#xEB;rko p&#xEB;r imazhe visualy t&#xEB; ngjashme</translation>
+    </message>
+    <message>
+      <source>Please enable JavaScript to upload image</source>
+      <translation type="unfinished">Ju lutem aktivizoni JavaScript p&#xEB;r t&#xEB; ngarkoni imazhin</translation>
+    </message>
+    <message>
+      <source>Click to choose image, you can also Drag and Drop file here (Drag and drop only for FF, Chrome).</source>
+      <translation type="unfinished">Kliko p&#xEB;r t&#xEB; zgjedhur imazhin, ju gjithashtu mund t&#xEB; drag dhe drop fotografi k&#xEB;tu (Drag dhe r&#xEB;nie vet&#xEB;m p&#xEB;r FF, Chrome).</translation>
+    </message>
+    <message>
+      <source>Cancel</source>
+      <translation type="unfinished">Anuloj</translation>
+    </message>
+    <message>
+      <source>Failed</source>
+      <translation type="unfinished">Failed</translation>
+    </message>
+  </context>
+  <context>
+    <name>similar/sketch</name>
+    <message>
+      <source>Search by sketch</source>
+      <translation type="unfinished">K&#xEB;rko sipas sketch</translation>
+    </message>
+    <message>
+      <source>Sketch and find images by your sketch</source>
+      <translation type="unfinished">Skem&#xEB; dhe p&#xEB;r t&#xEB; gjetur imazhe nga skem&#xEB; tuaj</translation>
+    </message>
+  </context>
+  <context>
+    <name>statistic/view</name>
+    <message>
+      <source>hours</source>
+      <translation type="unfinished">or&#xEB;</translation>
+    </message>
+    <message>
+      <source>Total pageviews</source>
+      <translation type="unfinished">Pageviews Totali</translation>
+    </message>
+    <message>
+      <source>Total visits</source>
+      <translation type="unfinished">Totali i vizitave</translation>
+    </message>
+    <message>
+      <source>Time spent</source>
+      <translation type="unfinished">Koha e kaluar</translation>
+    </message>
+    <message>
+      <source>Last 31 days statistic, data resource - google analytics API</source>
+      <translation type="unfinished">Fundit 31 dit&#xEB; statistikore, t&#xEB; dh&#xEB;nat e burimeve - Google Analytics API</translation>
+    </message>
+    <message>
+      <source>Legend</source>
+      <translation type="unfinished">Legjend&#xEB;</translation>
+    </message>
+    <message>
+      <source>Pageviews</source>
+      <translation type="unfinished">Pageviews</translation>
+    </message>
+    <message>
+      <source>Visits</source>
+      <translation type="unfinished">Vizita</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/mapaccounts</name>
+    <message>
+      <source>Login with facebook</source>
+      <translation type="unfinished">Identifikohuni me facebook</translation>
+    </message>
+    <message>
+      <source>Map to my account</source>
+      <translation type="unfinished">Harta n&#xEB; llogarin&#xEB; time</translation>
+    </message>
+    <message>
+      <source>my account</source>
+      <translation type="unfinished">llogaria ime</translation>
+    </message>
+    <message>
+      <source>Login</source>
+      <translation type="unfinished">Hyrje</translation>
+    </message>
+    <message>
+      <source>map to my account</source>
+      <translation type="unfinished">Harta n&#xEB; llogarin&#xEB; time</translation>
+    </message>
+    <message>
+      <source>Incorrect login or password</source>
+      <translation type="unfinished">Login pasakta apo fjal&#xEB;kalimin</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation type="unfinished">Username</translation>
+    </message>
+    <message>
+      <source>Password</source>
+      <translation type="unfinished">Fjal&#xEB;kalim</translation>
+    </message>
+    <message>
+      <source>OR</source>
+      <translation type="unfinished">OSE</translation>
+    </message>
+    <message>
+      <source>create account</source>
+      <translation type="unfinished">hapni nj&#xEB; llogari</translation>
+    </message>
+    <message>
+      <source>Next</source>
+      <translation type="unfinished">Tjet&#xEB;r</translation>
+    </message>
+    <message>
+      <source>Open ID</source>
+      <translation type="unfinished">ID e hapur</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/forgotpassword</name>
+    <message>
+      <source>Password remind</source>
+      <translation type="unfinished">Password kujtoj</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation type="unfinished">E-mail</translation>
+    </message>
+    <message>
+      <source>Restore password</source>
+      <translation type="unfinished">Rikthe fjalekalimin</translation>
+    </message>
+    <message>
+      <source>Order confirmed</source>
+      <translation type="unfinished">Rendit konfirmuar</translation>
+    </message>
+    <message>
+      <source>Credits order confirmed</source>
+      <translation type="unfinished">Kredite m&#xEB;nyr&#xEB; konfirmuar</translation>
+    </message>
+    <message>
+      <source>Wrong e-mail address!</source>
+      <translation type="unfinished">Gabuar adres&#xEB; e-mail!</translation>
+    </message>
+    <message>
+      <source>Click this link and to You will be send new password</source>
+      <translation type="unfinished">Klikoni k&#xEB;t&#xEB; link dhe te Ti do t&#xEB; d&#xEB;rgoj&#xEB; fjal&#xEB;kalim t&#xEB; ri</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/forgotpasswordsent</name>
+    <message>
+      <source>Password remind</source>
+      <translation type="unfinished">Password kujtoj</translation>
+    </message>
+    <message>
+      <source>E-mail send. Click link in email and to You will be send out new password.</source>
+      <translation type="unfinished">E-mail d&#xEB;rguar. Kliko lidhjen n&#xEB; email dhe te Ti do t&#xEB; d&#xEB;rgoj&#xEB; fjal&#xEB;kalim t&#xEB; ri.</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/index</name>
+    <message>
+      <source>User home</source>
+      <translation type="unfinished">N&#xEB; sht&#xEB;pi p&#xEB;rdorues</translation>
+    </message>
+    <message>
+      <source>Welcome. Here you can:</source>
+      <translation type="unfinished">Mir&#xEB; se vini. K&#xEB;tu ju mund t&#xEB;:</translation>
+    </message>
+    <message>
+      <source>Edit personal settings</source>
+      <translation type="unfinished">Edit cil&#xEB;simet personale</translation>
+    </message>
+    <message>
+      <source>Manage personal albums</source>
+      <translation type="unfinished">Manage albume personale</translation>
+    </message>
+    <message>
+      <source>My account</source>
+      <translation type="unfinished">Llogaria ime</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/profile</name>
+    <message>
+      <source>User profile</source>
+      <translation type="unfinished">Shiko profilin e an&#xEB;tarit</translation>
+    </message>
+    <message>
+      <source>Name and surname</source>
+      <translation type="unfinished">Emri dhe mbiemri</translation>
+    </message>
+    <message>
+      <source>Website</source>
+      <translation type="unfinished">Website</translation>
+    </message>
+    <message>
+      <source>Introduction</source>
+      <translation type="unfinished">Hyrje</translation>
+    </message>
+    <message>
+      <source>Last updated albums</source>
+      <translation type="unfinished">Albumet m&#xEB; t&#xEB; fundit</translation>
+    </message>
+    <message>
+      <source>Last uploaded images</source>
+      <translation type="unfinished">Images i ngarkuar s&#xEB; fundi</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/remindpassword</name>
+    <message>
+      <source>New password</source>
+      <translation type="unfinished">Fjal&#xEB;kalim t&#xEB; ri</translation>
+    </message>
+    <message>
+      <source>Hash not found or was used already</source>
+      <translation type="unfinished">Hash nuk u gjet ose &#xEB;sht&#xEB; p&#xEB;rdorur tashm&#xEB;</translation>
+    </message>
+    <message>
+      <source>Password remind - new password</source>
+      <translation type="unfinished">Password kujtoj - fjal&#xEB;kalim t&#xEB; ri</translation>
+    </message>
+    <message>
+      <source>New password:</source>
+      <translation type="unfinished">Fjal&#xEB;kalim t&#xEB; ri:</translation>
+    </message>
+    <message>
+      <source>New password has beend send to your email.</source>
+      <translation type="unfinished">Fjal&#xEB;kalim t&#xEB; ri ka beend d&#xEB;rguar n&#xEB; email-it tuaj.</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/basket</name>
+    <message>
+      <source>Basket</source>
+      <translation type="unfinished">Shport&#xEB;</translation>
+    </message>
+    <message>
+      <source>Image name</source>
+      <translation type="unfinished">Emri Image</translation>
+    </message>
+    <message>
+      <source>Version</source>
+      <translation type="unfinished">Version</translation>
+    </message>
+    <message>
+      <source>Image size</source>
+      <translation type="unfinished">Madh&#xEB;sia Image</translation>
+    </message>
+    <message>
+      <source>Format</source>
+      <translation type="unfinished">Format</translation>
+    </message>
+    <message>
+      <source>Price</source>
+      <translation type="unfinished">&#xC7;mim</translation>
+    </message>
+    <message>
+      <source>Credits</source>
+      <translation type="unfinished">Kredite</translation>
+    </message>
+    <message>
+      <source>Remove from basket</source>
+      <translation type="unfinished">Hiq nga shporta</translation>
+    </message>
+    <message>
+      <source>Choose payment option</source>
+      <translation type="unfinished">Zgjidhni opsionin e pages&#xEB;s</translation>
+    </message>
+    <message>
+      <source>In order to checkout atlest one item have to be selected.</source>
+      <translation type="unfinished">N&#xEB; m&#xEB;nyr&#xEB; q&#xEB; arka atlest nj&#xEB; artikull duhet t&#xEB; jen&#xEB; t&#xEB; zgjedhur.</translation>
+    </message>
+    <message>
+      <source>In order to checkout you have to</source>
+      <translation type="unfinished">N&#xEB; m&#xEB;nyr&#xEB; q&#xEB; arka ju duhet t&#xEB;</translation>
+    </message>
+    <message>
+      <source>sign in</source>
+      <translation type="unfinished">shenj&#xEB; n&#xEB;</translation>
+    </message>
+    <message>
+      <source>or</source>
+      <translation type="unfinished">ose</translation>
+    </message>
+    <message>
+      <source>login</source>
+      <translation type="unfinished">hyrje</translation>
+    </message>
+    <message>
+      <source>if you have already created an account</source>
+      <translation type="unfinished">N&#xEB;se keni krijuar tashm&#xEB; nj&#xEB; llogari</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/buycredits</name>
+    <message>
+      <source>Buy credits</source>
+      <translation type="unfinished">Blej kredi</translation>
+    </message>
+    <message>
+      <source>How many credits do want to buy?</source>
+      <translation type="unfinished">Sa kredite do d&#xEB;shironi t&#xEB; blini?</translation>
+    </message>
+    <message>
+      <source>Choose payment method</source>
+      <translation type="unfinished">Zgjidh metod&#xEB;n e pages&#xEB;s</translation>
+    </message>
+  </context>
+  <context>
+    <name>credits_handler/accept</name>
+    <message>
+      <source>Order succesfull</source>
+      <translation type="unfinished">Rendit suksessh&#xEB;m</translation>
+    </message>
+    <message>
+      <source>Payment was succesfull</source>
+      <translation type="unfinished">Pagesa ishte i suksessh&#xEB;m</translation>
+    </message>
+  </context>
+  <context>
+    <name>credits_handler/process</name>
+    <message>
+      <source>Checkout</source>
+      <translation type="unfinished">Ark&#xEB;</translation>
+    </message>
+    <message>
+      <source>Confirm payment</source>
+      <translation type="unfinished">Konfirmo pages&#xEB;</translation>
+    </message>
+    <message>
+      <source>Not enouth credits to checkout</source>
+      <translation type="unfinished">Jo enouth kredi p&#xEB;r ark&#xEB;</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/cancel</name>
+    <message>
+      <source>Payment canceled</source>
+      <translation type="unfinished">Pagesa anuluar</translation>
+    </message>
+    <message>
+      <source>Paypal payment was canceled.</source>
+      <translation type="unfinished">Pages&#xEB;n Paypal u anulua.</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/error</name>
+    <message>
+      <source>Error</source>
+      <translation type="unfinished">Gabim</translation>
+    </message>
+    <message>
+      <source>Execution was terminated unexpectedly.</source>
+      <translation type="unfinished">Ekzekutimi ishte nd&#xEB;rprer&#xEB; papritur.</translation>
+    </message>
+  </context>
+  <context>
+    <name>paypal_handler/process</name>
+    <message>
+      <source>Checkout using Paypal</source>
+      <translation type="unfinished">Arka duke p&#xEB;rdorur Paypal</translation>
+    </message>
+    <message>
+      <source>Buyer\'s Email</source>
+      <translation type="unfinished">Bler&#xEB;si \ &amp;#39;s Email</translation>
+    </message>
+    <message>
+      <source>Amount</source>
+      <translation type="unfinished">Shum&#xEB;</translation>
+    </message>
+    <message>
+      <source>Currency</source>
+      <translation type="unfinished">Monedh&#xEB;</translation>
+    </message>
+    <message>
+      <source>Credits</source>
+      <translation type="unfinished">Kredite</translation>
+    </message>
+  </context>
+  <context>
+    <name>paypal_handler/review</name>
+    <message>
+      <source>Order payment confirmation</source>
+      <translation type="unfinished">Urdh&#xEB;rpages&#xEB;s konfirmim</translation>
+    </message>
+    <message>
+      <source>Order amount</source>
+      <translation type="unfinished">Shuma Rendit</translation>
+    </message>
+    <message>
+      <source>Confirm payment</source>
+      <translation type="unfinished">Konfirmo pages&#xEB;</translation>
+    </message>
+    <message>
+      <source>Thank you for your payment!</source>
+      <translation type="unfinished">Faleminderit p&#xEB;r pages&#xEB;n tuaj!</translation>
+    </message>
+    <message>
+      <source>credits</source>
+      <translation type="unfinished">kredi</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/mycredits</name>
+    <message>
+      <source>My credits balanse</source>
+      <translation type="unfinished">Balanse kredit&#xEB; e mia</translation>
+    </message>
+    <message>
+      <source>You have</source>
+      <translation type="unfinished">Ju keni</translation>
+    </message>
+    <message>
+      <source>in your account</source>
+      <translation type="unfinished">n&#xEB; llogarin&#xEB; tuaj</translation>
+    </message>
+    <message>
+      <source>Buy credits</source>
+      <translation type="unfinished">Blej kredi</translation>
+    </message>
+    <message>
+      <source>My credits</source>
+      <translation type="unfinished">Kredit&#xEB; e mia</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/myorders</name>
+    <message>
+      <source>My credits orders</source>
+      <translation type="unfinished">Urdh&#xEB;rat kredit&#xEB; e mia</translation>
+    </message>
+    <message>
+      <source>Date</source>
+      <translation type="unfinished">Data</translation>
+    </message>
+    <message>
+      <source>Order price</source>
+      <translation type="unfinished">&#xC7;mimi Rendit</translation>
+    </message>
+    <message>
+      <source>Order credits</source>
+      <translation type="unfinished">Kredit&#xEB; e Rendit</translation>
+    </message>
+    <message>
+      <source>Order status</source>
+      <translation type="unfinished">Statusin e Rendit</translation>
+    </message>
+    <message>
+      <source>Payed</source>
+      <translation type="unfinished">Paguara</translation>
+    </message>
+    <message>
+      <source>Confirmed</source>
+      <translation type="unfinished">Konfirmuar</translation>
+    </message>
+    <message>
+      <source>My orders</source>
+      <translation type="unfinished">Urdh&#xEB;rat e mia</translation>
+    </message>
+    <message>
+      <source>Order view</source>
+      <translation type="unfinished">Shiko Rendit</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/orderview</name>
+    <message>
+      <source>Order view</source>
+      <translation type="unfinished">Shiko Rendit</translation>
+    </message>
+    <message>
+      <source>Order time</source>
+      <translation type="unfinished">Ora Rendit</translation>
+    </message>
+    <message>
+      <source>Order price</source>
+      <translation type="unfinished">&#xC7;mimi Rendit</translation>
+    </message>
+    <message>
+      <source>Order credits</source>
+      <translation type="unfinished">Kredit&#xEB; e Rendit</translation>
+    </message>
+    <message>
+      <source>Order status</source>
+      <translation type="unfinished">Statusin e Rendit</translation>
+    </message>
+    <message>
+      <source>Payed</source>
+      <translation type="unfinished">Paguara</translation>
+    </message>
+    <message>
+      <source>Confirmed</source>
+      <translation type="unfinished">Konfirmuar</translation>
+    </message>
+    <message>
+      <source>Ordered items</source>
+      <translation type="unfinished">Urdh&#xEB;rohet artikuj</translation>
+    </message>
+    <message>
+      <source>Image name</source>
+      <translation type="unfinished">Emri Image</translation>
+    </message>
+    <message>
+      <source>Version</source>
+      <translation type="unfinished">Version</translation>
+    </message>
+    <message>
+      <source>Image size</source>
+      <translation type="unfinished">Madh&#xEB;sia Image</translation>
+    </message>
+    <message>
+      <source>Format</source>
+      <translation type="unfinished">Format</translation>
+    </message>
+    <message>
+      <source>Price</source>
+      <translation type="unfinished">&#xC7;mim</translation>
+    </message>
+    <message>
+      <source>Download count</source>
+      <translation type="unfinished">Shkarko num&#xEB;rimin</translation>
+    </message>
+    <message>
+      <source>Downloads left</source>
+      <translation type="unfinished">Downloads majt&#xEB;</translation>
+    </message>
+    <message>
+      <source>Credits</source>
+      <translation type="unfinished">Kredite</translation>
+    </message>
+    <message>
+      <source>Download image</source>
+      <translation type="unfinished">Image Shkarko</translation>
+    </message>
+    <message>
+      <source>downloads left</source>
+      <translation type="unfinished">shkarkime t&#xEB; majt&#xEB;</translation>
+    </message>
+    <message>
+      <source>No downloads available</source>
+      <translation type="unfinished">No downloads dispozicion</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/paymentoption</name>
+    <message>
+      <source>Payment option</source>
+      <translation type="unfinished">Opsionin e pages&#xEB;s</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation type="unfinished">E-mail</translation>
+    </message>
+    <message>
+      <source>Choose payment method</source>
+      <translation type="unfinished">Zgjidh metod&#xEB;n e pages&#xEB;s</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/paymentoptioncredit</name>
+    <message>
+      <source>Payment option</source>
+      <translation type="unfinished">Opsionin e pages&#xEB;s</translation>
+    </message>
+    <message>
+      <source>Continue</source>
+      <translation type="unfinished">Vazhdoj</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/category</name>
+    <message>
+      <source>Root category</source>
+      <translation type="unfinished">Root kategori</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation type="unfinished">Faqe</translation>
+    </message>
+    <message>
+      <source>Forum</source>
+      <translation type="unfinished">Forum</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/category</name>
+    <message>
+      <source>Please enter topic name!</source>
+      <translation type="unfinished">Ju lutemi shkruani emrin topic!</translation>
+    </message>
+    <message>
+      <source>Please enter message!</source>
+      <translation type="unfinished">Ju lutemi shkruani mesazh!</translation>
+    </message>
+    <message>
+      <source>Please choose category!</source>
+      <translation type="unfinished">Ju lutem zgjidhni kategorin&#xEB;!</translation>
+    </message>
+    <message>
+      <source>Not parent category!</source>
+      <translation type="unfinished">Jo kategori prind!</translation>
+    </message>
+    <message>
+      <source>Invalid category!</source>
+      <translation type="unfinished">Invalid kategori!</translation>
+    </message>
+    <message>
+      <source>Forum</source>
+      <translation type="unfinished">Forum</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/createcategory</name>
+    <message>
+      <source>Please enter category name!</source>
+      <translation type="unfinished">Ju lutemi shkruani emrin kategori!</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation type="unfinished">Sht&#xEB;pi</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/editmessage</name>
+    <message>
+      <source>Please enter message!</source>
+      <translation type="unfinished">Ju lutemi shkruani mesazh!</translation>
+    </message>
+    <message>
+      <source>Forum</source>
+      <translation type="unfinished">Forum</translation>
+    </message>
+    <message>
+      <source>Message edit</source>
+      <translation type="unfinished">Edit Mesazh</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/edittopic</name>
+    <message>
+      <source>Please enter topic name!</source>
+      <translation type="unfinished">Ju lutemi shkruani emrin topic!</translation>
+    </message>
+    <message>
+      <source>Please enter topic status!</source>
+      <translation type="unfinished">Ju lutemi shkruani status tem&#xEB;!</translation>
+    </message>
+    <message>
+      <source>Forum</source>
+      <translation type="unfinished">Forum</translation>
+    </message>
+    <message>
+      <source>Topic edit</source>
+      <translation type="unfinished">Edit tem&#xEB;</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/report</name>
+    <message>
+      <source>Please enter message!</source>
+      <translation type="unfinished">Ju lutemi shkruani mesazh!</translation>
+    </message>
+    <message>
+      <source>Forum message report</source>
+      <translation type="unfinished">Raporti i Forumit mesazhin</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/searchrss</name>
+    <message>
+      <source>Search results</source>
+      <translation type="unfinished">Rezultatet e k&#xEB;rkimit</translation>
+    </message>
+    <message>
+      <source>Search</source>
+      <translation type="unfinished">K&#xEB;rkim</translation>
+    </message>
+    <message>
+      <source>Search RSS by keyword</source>
+      <translation type="unfinished">K&#xEB;rko RSS me fjalen</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation type="unfinished">Image view</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/searchrss</name>
+    <message>
+      <source>Search</source>
+      <translation type="unfinished">K&#xEB;rkim</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/albumeditadmin</name>
+    <message>
+      <source>Root category</source>
+      <translation type="unfinished">Root kategori</translation>
+    </message>
+    <message>
+      <source>Add images</source>
+      <translation type="unfinished">Shtoni imazhe</translation>
+    </message>
+    <message>
+      <source>Album edit</source>
+      <translation type="unfinished">Album edit</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/addvote</name>
+    <message>
+      <source>Thank you for your vote</source>
+      <translation type="unfinished">Faleminderit p&#xEB;r vot&#xEB;n tuaj</translation>
+    </message>
+    <message>
+      <source>You are not allowed to vote!</source>
+      <translation type="unfinished">Ju nuk jeni i lejuar t&#xEB; votojn&#xEB;!</translation>
+    </message>
+    <message>
+      <source>You have already voted!</source>
+      <translation type="unfinished">Ju keni votuar!</translation>
+    </message>
+    <message>
+      <source>Vote deducted!</source>
+      <translation type="unfinished">Voto zbritur!</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/albumrss</name>
+    <message>
+      <source>Last uploaded images to album</source>
+      <translation type="unfinished">Imazhe i ngarkuar s&#xEB; fundi n&#xEB; Album</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation type="unfinished">Image view</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lasthitsrss</name>
+    <message>
+      <source>watched</source>
+      <translation type="unfinished">shiquarat</translation>
+    </message>
+    <message>
+      <source>Last viewed images</source>
+      <translation type="unfinished">Imazhet e fundit t&#xEB; shikuarat</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation type="unfinished">Image view</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastcommentedrss</name>
+    <message>
+      <source>Last commented images</source>
+      <translation type="unfinished">E fundit komentoi images</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation type="unfinished">Image view</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastratedrss</name>
+    <message>
+      <source>Last rated images</source>
+      <translation type="unfinished">Imazhet e fundit t&#xEB; vler&#xEB;suarat</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation type="unfinished">Image view</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastuploadsrss</name>
+    <message>
+      <source>Last uploaded images</source>
+      <translation type="unfinished">Images i ngarkuar s&#xEB; fundi</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation type="unfinished">Image view</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastuploadstoalbums</name>
+    <message>
+      <source>Last uploads to albums</source>
+      <translation type="unfinished">Ngarkimet m&#xEB; t&#xEB; fundit n&#xEB; albume</translation>
+    </message>
+    <message>
+      <source>Recently updated albums</source>
+      <translation type="unfinished">Albumet m&#xEB; t&#xEB; koh&#xEB;ve t&#xEB; fundit</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/movebyresolution</name>
+    <message>
+      <source>Move by resolution</source>
+      <translation type="unfinished">Leviz nga rezoluta</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/popularrecent</name>
+    <message>
+      <source>Most popular images in 24 hours</source>
+      <translation type="unfinished">Imazhet m&#xEB; t&#xEB; njohura n&#xEB; 24 or&#xEB;</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation type="unfinished">Faqe</translation>
+    </message>
+    <message>
+      <source>Most popular images in last 24 hours.</source>
+      <translation type="unfinished">Imazhet m&#xEB; t&#xEB; popullarizuar n&#xEB; 24 or&#xEB;t e fundit.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/popularrss</name>
+    <message>
+      <source>Most popular images</source>
+      <translation type="unfinished">Imazhe m&#xEB; t&#xEB; popullarizuara</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/tagphoto</name>
+    <message>
+      <source>Thank you a lot :)</source>
+      <translation type="unfinished">Faleminderit shum&#xEB;:)</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/topratedrss</name>
+    <message>
+      <source>Top rated images</source>
+      <translation type="unfinished">Images M&#xEB; t&#xEB; vler&#xEB;suarat</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation type="unfinished">Image view</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/updateimage</name>
+    <message>
+      <source>Image updated</source>
+      <translation type="unfinished">Image updated</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/imagevariation</name>
+    <message>
+      <source>Basket</source>
+      <translation type="unfinished">Shport&#xEB;</translation>
+    </message>
+    <message>
+      <source>Payment option</source>
+      <translation type="unfinished">Opsionin e pages&#xEB;s</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/imagevariationform</name>
+    <message>
+      <source>Credits amount must be greater than 0!</source>
+      <translation type="unfinished">Shuma e kredive duhet t&#xEB; jet&#xEB; m&#xEB; e madhe se 0!</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/settingedit</name>
+    <message>
+      <source>Edit</source>
+      <translation type="unfinished">Redaktoj</translation>
+    </message>
+  </context>
+  <context>
+    <name>similar/image</name>
+    <message>
+      <source>Similar images to</source>
+      <translation type="unfinished">Imazhe t&#xEB; ngjashme me</translation>
+    </message>
+    <message>
+      <source>Search for visualy similar images</source>
+      <translation type="unfinished">K&#xEB;rko p&#xEB;r imazhe visualy t&#xEB; ngjashme</translation>
+    </message>
+  </context>
+  <context>
+    <name>system/index</name>
+    <message>
+      <source>System administration panel</source>
+      <translation type="unfinished">Panel sistemit t&#xEB; administrimit t&#xEB;</translation>
+    </message>
+  </context>
+</TS>

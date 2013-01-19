@@ -1,0 +1,265 @@
+{
+  // $Date: 2009-11-16 18:13:48 +0200 $
+
+  "errorInitBufferCanvas": "Error: adding the new buffer canvas element failed.",
+  "errorInitContext": "Error while initializing the canvas context.",
+  "errorElementNotFound": "Error: the following element was not found: {id}.",
+  "noComputedStyle": "Error: window.getComputedStyle is not available.",
+  "noXMLHttpRequest": "Error: window.XMLHttpRequest is not available.",
+  "errorInitCanvas": "Error: Canvas initialization failed.",
+  "noCanvasSupport": "Error: Your browser does not support Canvas.",
+  "failedConfigLoad": "Error: Failed loading the configuration.",
+  "failedLangLoad": "Error: Failed loading the language file.",
+  "failedMarkupLoad": "Error: Failed loading the interface markup file.",
+  "errorInitCommands": "Error: failed to initialize the PaintWeb commands!",
+  "noToolConfigured": "Error: you have no drawing tool configured to load!",
+  "imageLoadDifferentHost": "Warning: the configured image cannot be loaded because it is from a different domain.",
+  "toolRegisterFailed": "Error: failed to register tool '{id}'!",
+  "extensionRegisterFailed": "Error: failed to register extension '{id}'!",
+  "errorToolActivate": "Error: the tool you want could not be properly activated!",
+  "errorInitGUI": "Error: the interface failed to initialize!",
+  "failedSelectionCopy": "Error: failed to copy the selected pixels into memory.",
+  "noMainTabPanel": "Error: the interface layout has no tabbed panel with ID = main.",
+  "guiMarkupImportFailed": "Error: the interface markup code could not be imported into the main document.",
+  "guiMarkupParseFailed": "Error: the interface markup code could not be properly parsed.",
+  "missingViewport": "Error: the interface markup does not have the image viewport element.",
+  "missingViewportResizer": "Error: the interface markup does not have the image viewport resize handle.",
+  "missingCanvasResizer": "Error: the interface markup does not have the Canvas resize handle.",
+  "missingCanvasContainer": "Error: the interface markup does not have the Canvas container.",
+  "errorCpickerUnsupported": "Error: your browser does not implement the get/putImageData methods! The color picker tool cannot be used.",
+  "errorCbucketUnsupported": "Error: your browser does not implement the get/putImageData methods! The color bucket tool cannot be used.",
+  "errorClipboardUnsupported": "Error: your browser does not support get/putImageData! Clipboard operations like cut/copy/paste cannot be used.",
+  "errorTextUnsupported": "Error: your browser does not implement the Canvas Text API! The text tool cannot be used.",
+  "errorInsertimg": "The image could not be inserted. Maybe the address does not point to an image.",
+  "errorInsertimgHost": "The URL you provided points to a different host. The image cannot be added for security reasons.",
+  "errorInsertimgNotLoaded": "The image did not load yet, or the URL you provided does not point to an image.",
+  "promptInsertimg": "Type the address of the image you want to insert:",
+  "promptImageDimensions": "Please input the new image dimensions you want.",
+  "promptTextFont": "Type the name of the font you want:",
+  "errorImageSave": "The image cannot be saved!",
+
+  "guiCanvasResizer": "Resize the image canvas.",
+  "guiViewportResizer": "Resize the image viewport.",
+  "imageZoomTitle": "Zoom image",
+  "imageZoomLabel": "Zoom:",
+
+  "tabs": {
+    "main": {
+      "bcurve": "Bézier curve",
+      "ellipse": "Ellipse",
+      "eraser": "Eraser",
+      "line": "Line",
+      "main": "Main",
+      "pencil": "Pencil",
+      "polygon": "Polygon",
+      "rectangle": "Rectangle",
+      "selection": "Selection",
+      "shadow": "Shadow",
+      "text": "Text",
+      "textBorder": "Border"
+    },
+    "colormixer_inputs": {
+      "rgb": "RGB",
+      "rgbTitle": "sRGB: Standard Red, Green and Blue",
+      "hsv": "HSV",
+      "hsvTitle": "Hue, Saturation and Value",
+      "lab": "Lab",
+      "labTitle": "CIE Lab: Standard observer 2° D65",
+      "cmyk": "CMYK",
+      "cmykTitle": "Cyan, Magenta, Yellow and Key (Black)"
+    },
+    "colormixer_selector": {
+      "mixer": "Mixer",
+      "mixerTitle": "Color space visualisation",
+      "cpalettes": "Palettes",
+      "cpalettesTitle": "Predefined color palettes"
+    }
+  },
+
+  "floatingPanelMinimize": "Minimize",
+  "floatingPanelRestore": "Restore",
+  "floatingPanelClose": "Close",
+  "floatingPanels": {
+    "about": "About PaintWeb",
+    "colormixer": "Color mixer"
+  },
+
+  "tools": {
+    "cbucket": "Color bucket",
+    "cpicker": "Color picker",
+    "bcurve": "Bézier curve",
+    "hand": "Viewport drag",
+    "ellipse": "Ellipse",
+    "eraser": "Eraser",
+    "insertimg": "Insert image",
+    "line": "Line",
+    "pencil": "Pencil",
+    "polygon": "Polygon",
+    "rectangle": "Rectangle",
+    "selection": "Rectangle selection",
+    "text": "Text",
+    "textUnsupported": "The text tool is not supported by your browser."
+  },
+
+  "commands": {
+    "about": "About PaintWeb",
+    "clipboardPaste": "Paste clipboard",
+    "historyRedo": "Redo",
+    "historyUndo": "Undo",
+    "imageClear": "Clear image",
+    "imageSave": "Save image",
+    "selectionCopy": "Copy selection",
+    "selectionCrop": "Crop selection",
+    "selectionCut": "Cut selection",
+    "selectionDelete": "Delete selection",
+    "selectionFill": "Fill the selection"
+  },
+
+  "inputs": {
+    "line": {
+      "lineCap": "Line cap",
+      "lineCap_butt": "Butt",
+      "lineCap_round": "Round",
+      "lineCap_square": "Square",
+      "lineJoin": "Line join",
+      "lineJoin_bevel": "Bevel",
+      "lineJoin_miter": "Miter",
+      "lineJoin_round": "Round",
+      "lineWidth": "Line width:",
+      "miterLimit": "Miter limit:"
+    },
+    "shadow": {
+      "enable": "Enable shadows",
+      "enableTitle": "If checked, a shadow will render after each drawing operation you do.",
+      "shadowBlur": "Blur:",
+      "shadowOffsetX": "Distance X:",
+      "shadowOffsetY": "Distance Y:",
+      "shadowColor": "Color: ",
+      "shadowColorTitle": "Shadow color"
+    },
+    "selection": {
+      "transform": "Image manipulation",
+      "transformTitle": "If checked, the selected pixels will also be dragged/resized when you make changes to the selection. If unchecked, only the selection marquee will be dragged/resized - pixels will remain unaffected by any such changes.",
+      "transparent": "Transparent selection",
+      "transparentTitle": "If checked, the background will remain transparent. If unchecked, the background will be filled with the current fill color."
+    },
+    "text": {
+      "bold": "Bold",
+      "italic": "Italic",
+      "fontFamily": "Font family:",
+      "fontFamily_add": "Another font...",
+      "fontSize": "Font size:",
+      "textAlign": "Text alignment",
+      "textAlign_left": "Left",
+      "textAlign_center": "Center",
+      "textAlign_right": "Right",
+      "textString_value": "Hello world!"
+    },
+    "shapeType": "Shape type",
+    "shapeType_both": "Both",
+    "shapeType_fill": "Fill",
+    "shapeType_stroke": "Stroke",
+    "pencilSize": "Pencil size:",
+    "eraserSize": "Eraser size:",
+    "borderWidth": "Border width:",
+    "fillStyle": "Fill ",
+    "fillStyleTitle": "Fill color",
+    "strokeStyle": "Stroke ",
+    "strokeStyleTitle": "Stroke color",
+    "colorInputAnchorContent": "Click to pick color"
+  },
+
+  "colormixer": {
+    "failedColorPaletteLoad": "Error: failed to load the color palette.",
+    "colorPalettes": {
+      "_saved": "Saved colors",
+      "anpa": "ANPA",
+      "dic": "DIC Color Guide",
+      "macos": "Mac OS",
+      "pantone-solid-coated": "PANTONE solid coated",
+      "toyo94": "TOYO 94 color finder",
+      "trumatch": "TRUMATCH colors",
+      "web": "Web safe",
+      "windows": "Windows"
+    },
+    "inputs": {
+      "hex": "Hex",
+      "alpha": "Alpha",
+      "hsv_hue": "Hue",
+      "hsv_sat": "Saturation",
+      "hsv_val": "Value",
+      "rgb_red": "Red",
+      "rgb_green": "Green",
+      "rgb_blue": "Blue",
+      "lab_cie_l": "Lightness",
+      "lab_cie_a": "a*",
+      "lab_cie_b": "b*",
+      "cmyk_cyan": "Cyan",
+      "cmyk_magenta": "Magenta",
+      "cmyk_yellow": "Yellow",
+      "cmyk_black": "Key / Black"
+    },
+    "buttons": {
+      "accept": "Accept",
+      "cancel": "Cancel",
+      "saveColor": "Save color",
+      "pickColor": "Pick color"
+    }
+  },
+
+  "status": {
+    "cbucketActive": "Click to start flood filling with the current fill color. Right click to use the stroke color for filling.",
+    "cpickerNormal": "Click to change the fill color, or Shift+Click to change the stroke color.",
+    "cpicker_fillStyle": "Click to pick the fill color.",
+    "cpicker_strokeStyle": "Click to pick the stroke color.",
+    "cpicker_shadow_shadowColor": "Click to pick the shadow color.",
+    "bcurveActive": "Click to start drawing the curve. You need four points: start, end and two control points.",
+    "bcurveControlPoint1": "Click to draw the first control point.",
+    "bcurveControlPoint2": "Click to draw the second control point. This will also end the drawing operation.",
+    "bcurveSnapping": "Hold the Shift key down for vertical/horizontal snapping.",
+    "handActive": "Click and drag the image to scroll.",
+    "ellipseActive": "Click and drag to draw an ellipse.",
+    "ellipseMousedown": "Hold the Shift key down to draw a circle.",
+    "eraserActive": "Click and drag to erase.",
+    "insertimgActive": "Waiting for the image to load...",
+    "insertimgLoaded": "Pick where you want to place the image. Click and drag to resize the image.",
+    "insertimgResize": "Hold the Shift key down to preserve the aspect ratio.",
+    "lineActive": "Click anywhere to start drawing a line.",
+    "lineMousedown": "Hold the Shift key down for vertical/horizontal snapping.",
+    "pencilActive": "Click and drag to draw.",
+    "polygonActive": "Click anywhere to start drawing a polygon.",
+    "polygonAddPoint": "Click to add another point to the polygon.",
+    "polygonEnd": "To end drawing the polygon simply click in the same place as the last point.",
+    "polygonMousedown": "Hold the Shift key down for vertical/horizontal snapping.",
+    "rectangleActive": "Click and drag to draw a rectangle.", 
+    "rectangleMousedown": "Hold the Shift key down to draw a square.",
+    "selectionActive": "Click and drag to draw a selection.",
+    "selectionAvailable": "Drag or resize the selection. Hold the Control key down to toggle the transformation mode.",
+    "selectionDrag": "Hold the Shift key down for vertical/horizontal snapping.",
+    "selectionDraw": "Hold the Shift key down to draw a square selection.",
+    "selectionResize": "Hold the Shift key down to preserve the aspect ratio.",
+    "textActive": "Pick where you want to place the text. Make sure you adjust the properties as desired.",
+    "guiCanvasResizerActive": "Move the mouse to resize the image canvas."
+  },
+
+  // Moodle-related language strings
+  "moodle": {
+    "xhrRequestFailed": "The image save request failed.",
+    "jsonParseFailed": "Parsing the JSON result from the server failed!",
+    "imageSaveFailed": "The image save operation failed.",
+    "urlMismatch": "Image address mismatch!\nThe current image is {url}.\nThe server replied a successful save for {urlServer}.",
+    "errorSubmitUnsaved": "This image is not saved!"
+  },
+  "moodleServer": {
+    "permissionDenied": "Permission denied.",
+    "saveEmptyDataUrl": "Your request has no data URL.",
+    "proxyNotFound": "Could not find the PaintWeb image file proxy script.",
+    "malformedDataUrl": "The data URL is malformed.",
+    "failedMkdir": "Failed to create the PaintWeb images folder inside the Moodle data folder.",
+    "saveFailed": "Saving the image failed.",
+    "backingupImages": "Backing-up images saved with PaintWeb...",
+    "backupFailed": "An error occurred while copying images saved by PaintWeb."
+  }
+
+  // vim:set spell spl=en fo=wan1croql tw=80 ts=2 sw=2 sts=2 sta et ai cin fenc=utf-8 ff=unix ft=javascript:
+}

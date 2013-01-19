@@ -1,0 +1,4428 @@
+<?xml version="1.0"?>
+<!DOCTYPE TS>
+<TS>
+  <context>
+    <name>article/editstatic</name>
+    <message>
+      <source>Article name</source>
+      <translation>Artikel navn</translation>
+    </message>
+    <message>
+      <source>Body</source>
+      <translation>Body</translation>
+    </message>
+    <message>
+      <source>Article edit</source>
+      <translation>Artikel redigere</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+  </context>
+  <context>
+    <name>article/newstatic</name>
+    <message>
+      <source>New article</source>
+      <translation>Ny artikel</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Gem</translation>
+    </message>
+  </context>
+  <context>
+    <name>article/staticlist</name>
+    <message>
+      <source>Static articles</source>
+      <translation>Statisk artikler</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Navn</translation>
+    </message>
+    <message>
+      <source>Edit</source>
+      <translation>Rediger</translation>
+    </message>
+    <message>
+      <source>New article</source>
+      <translation>Ny artikel</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/addimages</name>
+    <message>
+      <source>All files were uploaded. See album.</source>
+      <translation type="unfinished">Alle filer blev uploadet. Se album.</translation>
+    </message>
+    <message>
+      <source>Uploading</source>
+      <translation type="unfinished">Upload</translation>
+    </message>
+    <message>
+      <source>Complete</source>
+      <translation type="unfinished">Komplet</translation>
+    </message>
+    <message>
+      <source>Choose images for upload first.</source>
+      <translation type="unfinished">V&#xE6;lge billeder til upload f&#xF8;rst.</translation>
+    </message>
+    <message>
+      <source>File is too big.</source>
+      <translation type="unfinished">Filen er for stor.</translation>
+    </message>
+    <message>
+      <source>Choose one of</source>
+      <translation type="unfinished">V&#xE6;lg &#xE9;n af</translation>
+    </message>
+    <message>
+      <source>Browse</source>
+      <translation type="unfinished">Gennemse</translation>
+    </message>
+    <message>
+      <source>Attatch local images</source>
+      <translation type="unfinished">Attatch lokale billeder</translation>
+    </message>
+    <message>
+      <source>Max file size </source>
+      <translation type="unfinished">Max filst&#xF8;rrelse</translation>
+    </message>
+    <message>
+      <source>Images to upload</source>
+      <translation type="unfinished">Billeder til upload</translation>
+    </message>
+    <message>
+      <source>Choose images for upload</source>
+      <translation type="unfinished">V&#xE6;lg billeder til upload</translation>
+    </message>
+    <message>
+      <source>Upload</source>
+      <translation type="unfinished">Upload</translation>
+    </message>
+    <message>
+      <source>SWFUpload is loading. Please wait a moment...</source>
+      <translation type="unfinished">SWFUpload er indl&#xE6;st. Vent et &#xF8;jeblik ...</translation>
+    </message>
+    <message>
+      <source>SWFUpload is taking a long time to load or the load has failed.  Please make sure that the Flash Plugin is enabled and that a working version of the Adobe Flash Player is installed.</source>
+      <translation type="unfinished">SWFUpload tager lang tid at indl&#xE6;se eller last er sl&#xE5;et fejl. S&#xF8;rg for, at Flash Plugin er aktiveret, og at en arbejdsgruppe version af Adobe Flash Player er installeret.</translation>
+    </message>
+    <message>
+      <source>Attachment of local images</source>
+      <translation type="unfinished">Udl&#xE6;g af lokale billeder</translation>
+    </message>
+    <message>
+      <source>Max file size 5mb.</source>
+      <translation type="unfinished">Max filst&#xF8;rrelse 5MB.</translation>
+    </message>
+    <message>
+      <source>Choose images for upload.</source>
+      <translation type="unfinished">V&#xE6;lg billeder til upload.</translation>
+    </message>
+    <message>
+      <source>Add images to album</source>
+      <translation>Tilf&#xF8;je billeder til album</translation>
+    </message>
+    <message>
+      <source>Move album images to another album</source>
+      <translation>Flyt album billeder til et andet album</translation>
+    </message>
+    <message>
+      <source>Move image to another album</source>
+      <translation>Flyt billede til et andet album</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/admincategorys</name>
+    <message>
+      <source>Category</source>
+      <translation>Kategori</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Titel</translation>
+    </message>
+    <message>
+      <source>Owner</source>
+      <translation>Ejer</translation>
+    </message>
+    <message>
+      <source>Edit category</source>
+      <translation>Rediger kategori</translation>
+    </message>
+    <message>
+      <source>Delete category</source>
+      <translation>Slet kategori</translation>
+    </message>
+    <message>
+      <source>Create a category</source>
+      <translation>Oprette en kategori</translation>
+    </message>
+    <message>
+      <source>Category albums</source>
+      <translation>Kategori album</translation>
+    </message>
+    <message>
+      <source>This category does not have an album.</source>
+      <translation>Denne kategori har ikke et album.</translation>
+    </message>
+    <message>
+      <source>Create an album</source>
+      <translation>Opret et album</translation>
+    </message>
+    <message>
+      <source>Batch album create</source>
+      <translation>Batch album skabe</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>Home</translation>
+    </message>
+    <message>
+      <source>Root category</source>
+      <translation>Root kategori</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/grouplist</name>
+    <message>
+      <source>Title</source>
+      <translation type="unfinished">Titel</translation>
+    </message>
+    <message>
+      <source>Delete comment</source>
+      <translation>Slet kommentar</translation>
+    </message>
+    <message>
+      <source>Edit comment</source>
+      <translation>Rediger kommentar</translation>
+    </message>
+    <message>
+      <source>Delete image</source>
+      <translation>Slet billede</translation>
+    </message>
+    <message>
+      <source>Groups</source>
+      <translation>Grupper</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Navn</translation>
+    </message>
+    <message>
+      <source>Edit group</source>
+      <translation>Rediger gruppe</translation>
+    </message>
+    <message>
+      <source>Delete group</source>
+      <translation>Slet gruppe</translation>
+    </message>
+    <message>
+      <source>New group</source>
+      <translation>Ny gruppe</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Systemkonfiguration</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/album_list_admin</name>
+    <message>
+      <source>Are you sure?</source>
+      <translation>Er du sikker?</translation>
+    </message>
+    <message>
+      <source>Add images</source>
+      <translation>Tilf&#xF8;j billeder</translation>
+    </message>
+    <message>
+      <source>Edit album</source>
+      <translation>Rediger album</translation>
+    </message>
+    <message>
+      <source>Move all album photos to another album</source>
+      <translation>Flyt alle album billeder til et andet album</translation>
+    </message>
+    <message>
+      <source>Move photos by resolution</source>
+      <translation>Flyt billeder ved resolution</translation>
+    </message>
+    <message>
+      <source>Delete album</source>
+      <translation>Slet album</translation>
+    </message>
+    <message>
+      <source>Approve all images</source>
+      <translation>Godkende alle billeder</translation>
+    </message>
+    <message>
+      <source>Disapprove all images</source>
+      <translation>Misbilliger alle billeder</translation>
+    </message>
+    <message>
+      <source>View on site</source>
+      <translation>Vis p&#xE5; stedet</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/albumedit</name>
+    <message>
+      <source>Edit topic</source>
+      <translation>Rediger emne</translation>
+    </message>
+    <message>
+      <source>Topic name</source>
+      <translation>Emnenavnet</translation>
+    </message>
+    <message>
+      <source>Topic status</source>
+      <translation>Emne status</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+    <message>
+      <source>Album edit</source>
+      <translation>Album redigere</translation>
+    </message>
+    <message>
+      <source>Album name</source>
+      <translation>Album navn</translation>
+    </message>
+    <message>
+      <source>Album category</source>
+      <translation>Album kategori</translation>
+    </message>
+    <message>
+      <source>Album owner</source>
+      <translation>Album ejer</translation>
+    </message>
+    <message>
+      <source>Description</source>
+      <translation>Beskrivelse</translation>
+    </message>
+    <message>
+      <source>Keywords</source>
+      <translation>S&#xF8;geord</translation>
+    </message>
+    <message>
+      <source>Public</source>
+      <translation>Offentlige</translation>
+    </message>
+    <message>
+      <source>All users can uploads images to this album</source>
+      <translation>Alle brugere kan uploads billeder til dette album</translation>
+    </message>
+    <message>
+      <source>Hidden</source>
+      <translation>Skjulte</translation>
+    </message>
+    <message>
+      <source>Hide album from users</source>
+      <translation>Skjul album fra brugere</translation>
+    </message>
+    <message>
+      <source>Album thumbnail</source>
+      <translation>Album thumbnail</translation>
+    </message>
+    <message>
+      <source>Newest album image</source>
+      <translation>Nyeste album billede</translation>
+    </message>
+    <message>
+      <source>Revert to newest album image display mode</source>
+      <translation>Vend tilbage til nyeste album billedvisning tilstand</translation>
+    </message>
+    <message>
+      <source>Remove</source>
+      <translation>Fjern</translation>
+    </message>
+    <message>
+      <source>Edit message</source>
+      <translation>Rediger besked</translation>
+    </message>
+    <message>
+      <source>Message</source>
+      <translation>Besked</translation>
+    </message>
+    <message>
+      <source>File</source>
+      <translation>File</translation>
+    </message>
+    <message>
+      <source>New message</source>
+      <translation>Ny besked</translation>
+    </message>
+    <message>
+      <source>Publish</source>
+      <translation>Publish</translation>
+    </message>
+    <message>
+      <source>New topic</source>
+      <translation>Nyt emne</translation>
+    </message>
+    <message>
+      <source>Choose topic category</source>
+      <translation>V&#xE6;lg emne kategori</translation>
+    </message>
+    <message>
+      <source>Please enter album name!</source>
+      <translation>Indtast venligst albummets navn!</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/batchadd</name>
+    <message>
+      <source>I cannot write this directory</source>
+      <translation>Jeg kan ikke skrive denne mappe</translation>
+    </message>
+    <message>
+      <source>No image were found!</source>
+      <translation>Intet billede blev fundet!</translation>
+    </message>
+    <message>
+      <source>Import</source>
+      <translation>Import</translation>
+    </message>
+    <message>
+      <source>Import recursive this directory</source>
+      <translation>Import rekursive denne mappe</translation>
+    </message>
+    <message>
+      <source>Search</source>
+      <translation>S&#xF8;g</translation>
+    </message>
+    <message>
+      <source>Please enter album name and click search</source>
+      <translation>Angiv album navn og klik s&#xF8;g</translation>
+    </message>
+    <message>
+      <source>List images</source>
+      <translation>List billeder</translation>
+    </message>
+    <message>
+      <source>List images recursive</source>
+      <translation>List billeder rekursive</translation>
+    </message>
+    <message>
+      <source>Import images</source>
+      <translation>Importere billeder</translation>
+    </message>
+    <message>
+      <source>Click list images or list images recursive</source>
+      <translation>Klik liste billeder eller liste billeder rekursive</translation>
+    </message>
+    <message>
+      <source>Add images</source>
+      <translation>Tilf&#xF8;j billeder</translation>
+    </message>
+    <message>
+      <source>Please choose album first!</source>
+      <translation>V&#xE6;lg venligst album f&#xF8;rst!</translation>
+    </message>
+    <message>
+      <source>Mass image upload</source>
+      <translation>Masse billedupload</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/createalbumadmin</name>
+    <message>
+      <source>New album</source>
+      <translation>Nyt album</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Gem</translation>
+    </message>
+    <message>
+      <source>New batch album create</source>
+      <translation>Nyt parti album skabe</translation>
+    </message>
+    <message>
+      <source>Paste album names separated by new line</source>
+      <translation>Inds&#xE6;tte album navne adskilt af ny linje</translation>
+    </message>
+    <message>
+      <source>Public</source>
+      <translation>Offentlige</translation>
+    </message>
+    <message>
+      <source>All users can uploads images to this album</source>
+      <translation>Alle brugere kan uploads billeder til dette album</translation>
+    </message>
+    <message>
+      <source>Please enter album name!</source>
+      <translation>Indtast venligst albummets navn!</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/createcategory</name>
+    <message>
+      <source>New category</source>
+      <translation>Ny kategori</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Gem</translation>
+    </message>
+    <message>
+      <source>back</source>
+      <translation>tilbage</translation>
+    </message>
+    <message>
+      <source>Please enter message!</source>
+      <translation>Indtast venligst besked!</translation>
+    </message>
+    <message>
+      <source>Please enter category name!</source>
+      <translation>Angiv venligst kategorien navn!</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>Home</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/duplicates</name>
+    <message>
+      <source>Similar images number</source>
+      <translation>Lignende billeder nummer</translation>
+    </message>
+    <message>
+      <source>Details</source>
+      <translation>Detaljer</translation>
+    </message>
+    <message>
+      <source>More</source>
+      <translation>Mere</translation>
+    </message>
+    <message>
+      <source>Delete duplicate session</source>
+      <translation>Slet duplikateksemplaret session</translation>
+    </message>
+    <message>
+      <source>No duplicates pending...</source>
+      <translation>Ingen dubletter indtil ...</translation>
+    </message>
+    <message>
+      <source>Duplicates</source>
+      <translation>Dubletter</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/my_image_list</name>
+    <message>
+      <source>Cross eye image</source>
+      <translation type="unfinished">Cross &#xF8;jet billede</translation>
+    </message>
+    <message>
+      <source>Delete comment</source>
+      <translation>Slet kommentar</translation>
+    </message>
+    <message>
+      <source>Edit comment</source>
+      <translation>Rediger kommentar</translation>
+    </message>
+    <message>
+      <source>Delete image</source>
+      <translation>Slet billede</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>Se billede</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Titel</translation>
+    </message>
+    <message>
+      <source>Keywords</source>
+      <translation>S&#xF8;geord</translation>
+    </message>
+    <message>
+      <source>Caption</source>
+      <translation>Billedtekst</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+    <message>
+      <source>Message author</source>
+      <translation>Besked forfatter</translation>
+    </message>
+    <message>
+      <source>Message</source>
+      <translation>Besked</translation>
+    </message>
+    <message>
+      <source>Rotate image clockwise</source>
+      <translation>Rotere billedet med uret</translation>
+    </message>
+    <message>
+      <source>Flip horizontaly</source>
+      <translation>Flip horizontaly</translation>
+    </message>
+    <message>
+      <source>Flip verticaly</source>
+      <translation>Flip verticaly</translation>
+    </message>
+    <message>
+      <source>Upload new image</source>
+      <translation>Upload nyt billede</translation>
+    </message>
+    <message>
+      <source>Set as folder thumbnail</source>
+      <translation>S&#xE6;t som mappe thumbnail</translation>
+    </message>
+    <message>
+      <source>Move image to another album</source>
+      <translation>Flyt billede til et andet album</translation>
+    </message>
+    <message>
+      <source>Anaglyph</source>
+      <translation>Anaglyph</translation>
+    </message>
+    <message>
+      <source>Approved</source>
+      <translation>Godkendt</translation>
+    </message>
+    <message>
+      <source>Select image</source>
+      <translation>V&#xE6;lg billede</translation>
+    </message>
+    <message>
+      <source>File</source>
+      <translation>File</translation>
+    </message>
+    <message>
+      <source>Upload</source>
+      <translation>Upload</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/editcategory</name>
+    <message>
+      <source>back</source>
+      <translation>tilbage</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Navn</translation>
+    </message>
+    <message>
+      <source>Description</source>
+      <translation>Beskrivelse</translation>
+    </message>
+    <message>
+      <source>Owner</source>
+      <translation>Ejer</translation>
+    </message>
+    <message>
+      <source>Category edit</source>
+      <translation>Kategori redigere</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+    <message>
+      <source>Hide subcategorys in frontpage</source>
+      <translation>Skjul subcategorys i FrontPage</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/managealbum</name>
+    <message>
+      <source>No records.</source>
+      <translation>Ingen optegnelser.</translation>
+    </message>
+    <message>
+      <source>Category</source>
+      <translation>Kategori</translation>
+    </message>
+    <message>
+      <source>Create an album</source>
+      <translation>Opret et album</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>Home</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/managealbumimages</name>
+    <message>
+      <source>Move selected images to</source>
+      <translation>Flyt valgte billeder til</translation>
+    </message>
+    <message>
+      <source>Check all</source>
+      <translation>Check alle</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>Ingen optegnelser.</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>Home</translation>
+    </message>
+    <message>
+      <source>Root category</source>
+      <translation>Root kategori</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/editrole</name>
+    <message>
+      <source>Role edit</source>
+      <translation>Rolle redigere</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Titel</translation>
+    </message>
+    <message>
+      <source>Assigned functions</source>
+      <translation>Tildelt funktioner</translation>
+    </message>
+    <message>
+      <source>Module</source>
+      <translation>Modul</translation>
+    </message>
+    <message>
+      <source>Function</source>
+      <translation>Funktion</translation>
+    </message>
+    <message>
+      <source>Remove selected</source>
+      <translation>Fjern valgte</translation>
+    </message>
+    <message>
+      <source>New policy</source>
+      <translation>Nye politiske</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+    <message>
+      <source>Cancel</source>
+      <translation>Annuller</translation>
+    </message>
+    <message>
+      <source>Role assigned groups</source>
+      <translation>Rolle, som tildeles grupper</translation>
+    </message>
+    <message>
+      <source>Group assignement to role</source>
+      <translation>Gruppe assignement til rolle</translation>
+    </message>
+    <message>
+      <source>Assign group</source>
+      <translation>Tildel gruppe</translation>
+    </message>
+    <message>
+      <source>Please enter role name</source>
+      <translation>Indtast venligst rolle navn</translation>
+    </message>
+    <message>
+      <source>Please choose module</source>
+      <translation>V&#xE6;lg venligst modul</translation>
+    </message>
+    <message>
+      <source>Please choose module function</source>
+      <translation>V&#xE6;lg venligst modul funktion</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Systemkonfiguration</translation>
+    </message>
+    <message>
+      <source>List of roles</source>
+      <translation>Liste over roller</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/groupassignrole</name>
+    <message>
+      <source>Title</source>
+      <translation>Titel</translation>
+    </message>
+    <message>
+      <source>Assign</source>
+      <translation>Tildel</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/modulefunctions</name>
+    <message>
+      <source>All functions</source>
+      <translation>Alle funktioner</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/newpolicy</name>
+    <message>
+      <source>New policy</source>
+      <translation>Nye politiske</translation>
+    </message>
+    <message>
+      <source>Assigned functions</source>
+      <translation>Tildelt funktioner</translation>
+    </message>
+    <message>
+      <source>Choose module</source>
+      <translation>V&#xE6;lg modul</translation>
+    </message>
+    <message>
+      <source>All modules</source>
+      <translation>Alle moduler</translation>
+    </message>
+    <message>
+      <source>Choose module function</source>
+      <translation>V&#xE6;lg modul funktion</translation>
+    </message>
+    <message>
+      <source>All functions</source>
+      <translation>Alle funktioner</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Gem</translation>
+    </message>
+    <message>
+      <source>Cancel</source>
+      <translation>Annuller</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/newrole</name>
+    <message>
+      <source>New role</source>
+      <translation>Ny rolle</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Titel</translation>
+    </message>
+    <message>
+      <source>Policy list</source>
+      <translation>Politik liste</translation>
+    </message>
+    <message>
+      <source>Module</source>
+      <translation>Modul</translation>
+    </message>
+    <message>
+      <source>Function</source>
+      <translation>Funktion</translation>
+    </message>
+    <message>
+      <source>New policy</source>
+      <translation>Nye politiske</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Gem</translation>
+    </message>
+    <message>
+      <source>Cancel</source>
+      <translation>Annuller</translation>
+    </message>
+    <message>
+      <source>Please enter role name</source>
+      <translation>Indtast venligst rolle navn</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Systemkonfiguration</translation>
+    </message>
+    <message>
+      <source>List of roles</source>
+      <translation>Liste over roller</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/roleassigngroup</name>
+    <message>
+      <source>Title</source>
+      <translation>Titel</translation>
+    </message>
+    <message>
+      <source>Assign</source>
+      <translation>Tildel</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/roles</name>
+    <message>
+      <source>List of roles</source>
+      <translation>Liste over roller</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Titel</translation>
+    </message>
+    <message>
+      <source>Edit role</source>
+      <translation>Rediger rolle</translation>
+    </message>
+    <message>
+      <source>Delete role</source>
+      <translation>Slet rolle</translation>
+    </message>
+    <message>
+      <source>New role</source>
+      <translation>Ny rolle</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Systemkonfiguration</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/index</name>
+    <message>
+      <source>Shop configuration</source>
+      <translation>Shop konfiguration</translation>
+    </message>
+    <message>
+      <source>Images variations sizes</source>
+      <translation>Billeder variationer st&#xF8;rrelser</translation>
+    </message>
+    <message>
+      <source>List payment options</source>
+      <translation>Listen betalingsmuligheder</translation>
+    </message>
+    <message>
+      <source>Settings list</source>
+      <translation>Indstillinger liste</translation>
+    </message>
+    <message>
+      <source>Orders list</source>
+      <translation>Ordrer liste</translation>
+    </message>
+    <message>
+      <source>Credits orders list</source>
+      <translation>Medvirkende ordrer liste</translation>
+    </message>
+    <message>
+      <source>Shop</source>
+      <translation>Shop</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/listpaymentoptions</name>
+    <message>
+      <source>Payment options</source>
+      <translation>Betalingsmuligheder</translation>
+    </message>
+    <message>
+      <source>Identifier</source>
+      <translation>Identifikator</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Navn</translation>
+    </message>
+    <message>
+      <source>Active</source>
+      <translation>Aktive</translation>
+    </message>
+    <message>
+      <source>Author</source>
+      <translation>Forfatter</translation>
+    </message>
+    <message>
+      <source>Edit</source>
+      <translation>Rediger</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/orderedit</name>
+    <message>
+      <source>Order view</source>
+      <translation>Bestil udsigt</translation>
+    </message>
+    <message>
+      <source>Order time</source>
+      <translation>Bestil tid</translation>
+    </message>
+    <message>
+      <source>Order price</source>
+      <translation>Bestil pris</translation>
+    </message>
+    <message>
+      <source>Order credits</source>
+      <translation>Bestil kreditter</translation>
+    </message>
+    <message>
+      <source>Order status</source>
+      <translation>Ordrestatus</translation>
+    </message>
+    <message>
+      <source>Payed.</source>
+      <translation>Betales.</translation>
+    </message>
+    <message>
+      <source>Confirmed</source>
+      <translation>Bekr&#xE6;ftet</translation>
+    </message>
+    <message>
+      <source>Ordered items</source>
+      <translation>Bestilte varer</translation>
+    </message>
+    <message>
+      <source>Image name</source>
+      <translation>Billede navn</translation>
+    </message>
+    <message>
+      <source>Version</source>
+      <translation>Version</translation>
+    </message>
+    <message>
+      <source>Image size</source>
+      <translation>Billedst&#xF8;rrelse</translation>
+    </message>
+    <message>
+      <source>Format</source>
+      <translation>Format</translation>
+    </message>
+    <message>
+      <source>Price</source>
+      <translation>Pris</translation>
+    </message>
+    <message>
+      <source>Download count</source>
+      <translation>Download t&#xE6;ller</translation>
+    </message>
+    <message>
+      <source>Downloads left</source>
+      <translation>Downloads til venstre</translation>
+    </message>
+    <message>
+      <source>Credits</source>
+      <translation>Medvirkende</translation>
+    </message>
+  </context>
+  <context>
+    <name>systemconfig/list</name>
+    <message>
+      <source>Delete order item</source>
+      <translation>Slet ordre emne</translation>
+    </message>
+    <message>
+      <source>Delete order</source>
+      <translation>Slet ordre</translation>
+    </message>
+    <message>
+      <source>Config list</source>
+      <translation>Config liste</translation>
+    </message>
+    <message>
+      <source>Identifier</source>
+      <translation>Identifikator</translation>
+    </message>
+    <message>
+      <source>Explain</source>
+      <translation>Forklar</translation>
+    </message>
+    <message>
+      <source>Edit value</source>
+      <translation>Rediger v&#xE6;rdi</translation>
+    </message>
+    <message>
+      <source>System config options</source>
+      <translation>System config indstillinger</translation>
+    </message>
+    <message>
+      <source>List</source>
+      <translation>Liste</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/orderslist</name>
+    <message>
+      <source>Orders credits list</source>
+      <translation>Ordrer kreditter liste</translation>
+    </message>
+    <message>
+      <source>ID</source>
+      <translation>ID</translation>
+    </message>
+    <message>
+      <source>Date</source>
+      <translation>Dato</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Order price</source>
+      <translation>Bestil pris</translation>
+    </message>
+    <message>
+      <source>Order credits</source>
+      <translation>Bestil kreditter</translation>
+    </message>
+    <message>
+      <source>Order status</source>
+      <translation>Ordrestatus</translation>
+    </message>
+    <message>
+      <source>Payed.</source>
+      <translation>Betales.</translation>
+    </message>
+    <message>
+      <source>Confirmed</source>
+      <translation>Bekr&#xE6;ftet</translation>
+    </message>
+    <message>
+      <source>No orders...</source>
+      <translation>Ingen ordrer ...</translation>
+    </message>
+    <message>
+      <source>Orders list</source>
+      <translation>Ordrer liste</translation>
+    </message>
+    <message>
+      <source>Order view</source>
+      <translation>Bestil udsigt</translation>
+    </message>
+    <message>
+      <source>User orders list</source>
+      <translation>Bruger ordrer liste</translation>
+    </message>
+    <message>
+      <source>User credits orders list</source>
+      <translation>Bruger kreditter ordrer liste</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/paymentoptionedit</name>
+    <message>
+      <source>Payment option edit</source>
+      <translation>Betalingsmulighed redigere</translation>
+    </message>
+    <message>
+      <source>Identifier</source>
+      <translation>Identifikator</translation>
+    </message>
+    <message>
+      <source>Active</source>
+      <translation>Aktive</translation>
+    </message>
+    <message>
+      <source>Payment settings</source>
+      <translation>Betaling indstillinger</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+  </context>
+  <context>
+    <name>systemconfig/edit</name>
+    <message>
+      <source>Edit</source>
+      <translation>Rediger</translation>
+    </message>
+    <message>
+      <source>Data updated</source>
+      <translation>Data opdateret</translation>
+    </message>
+    <message>
+      <source>Identifier</source>
+      <translation>Identifikator</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+    <message>
+      <source>Values applies to</source>
+      <translation>V&#xE6;rdier g&#xE6;lder for</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/settinglist</name>
+    <message>
+      <source>Shop config list</source>
+      <translation>Shop config liste</translation>
+    </message>
+    <message>
+      <source>Identifier</source>
+      <translation>Identifikator</translation>
+    </message>
+    <message>
+      <source>Explain</source>
+      <translation>Forklar</translation>
+    </message>
+    <message>
+      <source>Value</source>
+      <translation>V&#xE6;rdi</translation>
+    </message>
+    <message>
+      <source>Edit value</source>
+      <translation>Rediger v&#xE6;rdi</translation>
+    </message>
+  </context>
+  <context>
+    <name>statistic/choosesite</name>
+    <message>
+      <source>Choose site you want to show statistic</source>
+      <translation>V&#xE6;lg site du &#xF8;nsker at vise statistik</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Gem</translation>
+    </message>
+  </context>
+  <context>
+    <name>statistic/index</name>
+    <message>
+      <source>Google analytics statistic</source>
+      <translation>Google Analytics statistik</translation>
+    </message>
+    <message>
+      <source>Grant access application to access google analytics API</source>
+      <translation>Grant adgang beg&#xE6;ring adgang til Google Analytics API</translation>
+    </message>
+    <message>
+      <source>Site choose</source>
+      <translation>Site v&#xE6;lge</translation>
+    </message>
+    <message>
+      <source>View statistic</source>
+      <translation>Vis statistik</translation>
+    </message>
+    <message>
+      <source>Statistic</source>
+      <translation>Statistik</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>Home</translation>
+    </message>
+  </context>
+  <context>
+    <name>system/configuration</name>
+    <message>
+      <source>System configuration</source>
+      <translation>Systemkonfiguration</translation>
+    </message>
+    <message>
+      <source>Users</source>
+      <translation>Brugere</translation>
+    </message>
+    <message>
+      <source>List of groups</source>
+      <translation>Liste over grupper</translation>
+    </message>
+    <message>
+      <source>List of roles</source>
+      <translation>Liste over roller</translation>
+    </message>
+    <message>
+      <source>System configuration values</source>
+      <translation>Systemkonfiguration v&#xE6;rdier</translation>
+    </message>
+    <message>
+      <source>Watermark protection</source>
+      <translation>Vandm&#xE6;rke beskyttelse</translation>
+    </message>
+    <message>
+      <source>Banned rating IP list</source>
+      <translation>Banned bed&#xF8;mmelse IP liste</translation>
+    </message>
+    <message>
+      <source>Banned commenting IP list</source>
+      <translation>Banned kommentere IP liste</translation>
+    </message>
+  </context>
+  <context>
+    <name>systemconfig/watermark</name>
+    <message>
+      <source>Watermark configuration</source>
+      <translation>Vandm&#xE6;rke konfiguration</translation>
+    </message>
+    <message>
+      <source>Settings updated</source>
+      <translation>opdateret Indstillinger</translation>
+    </message>
+    <message>
+      <source>Delete watermark</source>
+      <translation>Slet vandm&#xE6;rke</translation>
+    </message>
+    <message>
+      <source>Image, it is recommended PNG type image</source>
+      <translation>Billede, anbefales det PNG type billede</translation>
+    </message>
+    <message>
+      <source>Settings</source>
+      <translation>Indstillinger</translation>
+    </message>
+    <message>
+      <source>Watermark disabled</source>
+      <translation>Vandm&#xE6;rke handicappede</translation>
+    </message>
+    <message>
+      <source>Watermark enabled for normal size thumbnails</source>
+      <translation>Vandm&#xE6;rke aktiveret til normal st&#xF8;rrelse thumbnails</translation>
+    </message>
+    <message>
+      <source>Watermark enabled for all images</source>
+      <translation>Vandm&#xE6;rke aktiveret for alle billeder</translation>
+    </message>
+    <message>
+      <source>Watermark position</source>
+      <translation>Vandm&#xE6;rke position</translation>
+    </message>
+    <message>
+      <source>Top left</source>
+      <translation>&#xD8;verst til venstre</translation>
+    </message>
+    <message>
+      <source>Top right</source>
+      <translation>&#xD8;verst til h&#xF8;jre</translation>
+    </message>
+    <message>
+      <source>Bottom left</source>
+      <translation>Nederst til venstre</translation>
+    </message>
+    <message>
+      <source>Bottom right</source>
+      <translation>Nederst til h&#xF8;jre</translation>
+    </message>
+    <message>
+      <source>Center</source>
+      <translation>Center</translation>
+    </message>
+    <message>
+      <source>Watermark padding from borders</source>
+      <translation>Vandm&#xE6;rke polstring fra gr&#xE6;nserne</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+    <message>
+      <source>Watermark</source>
+      <translation>Vandm&#xE6;rke</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/account</name>
+    <message>
+      <source>Logged user</source>
+      <translation>Logget bruger</translation>
+    </message>
+    <message>
+      <source>Account updated</source>
+      <translation>Account opdateret</translation>
+    </message>
+    <message>
+      <source>Do not enter password unless you want to change it</source>
+      <translation>M&#xE5; ikke indtaste password, medmindre du &#xF8;nsker at &#xE6;ndre det</translation>
+    </message>
+    <message>
+      <source>Login information</source>
+      <translation>Login-oplysninger</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Brugernavn</translation>
+    </message>
+    <message>
+      <source>Password</source>
+      <translation>Adgangskode</translation>
+    </message>
+    <message>
+      <source>Repeat password</source>
+      <translation>Gentag kodeord</translation>
+    </message>
+    <message>
+      <source>Contact information</source>
+      <translation>Kontaktinformation</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+    <message>
+      <source>Message send</source>
+      <translation>Besked Send</translation>
+    </message>
+    <message>
+      <source>Add google account</source>
+      <translation>Tilf&#xF8;j Google-konto</translation>
+    </message>
+    <message>
+      <source>Working</source>
+      <translation>Arbejde</translation>
+    </message>
+    <message>
+      <source>Profile page settings</source>
+      <translation type="unfinished">Profil sideindstillingerne</translation>
+    </message>
+    <message>
+      <source>Profile settings updated</source>
+      <translation type="unfinished">Profilindstillinger opdateret</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation type="unfinished">Navn</translation>
+    </message>
+    <message>
+      <source>Surname</source>
+      <translation type="unfinished">Efternavn</translation>
+    </message>
+    <message>
+      <source>Website</source>
+      <translation type="unfinished">Hjemmeside</translation>
+    </message>
+    <message>
+      <source>Information about you</source>
+      <translation type="unfinished">Oplysninger om dig</translation>
+    </message>
+    <message>
+      <source>Profile photo</source>
+      <translation type="unfinished">Profilfoto</translation>
+    </message>
+    <message>
+      <source>See how your profile looks to users</source>
+      <translation type="unfinished">Se hvordan din profil ser ud til brugerne</translation>
+    </message>
+    <message>
+      <source>View profile</source>
+      <translation type="unfinished">Vis profil</translation>
+    </message>
+    <message>
+      <source>Wrong email address</source>
+      <translation>Forkert e-mail-adresse</translation>
+    </message>
+    <message>
+      <source>Passwords mismatch</source>
+      <translation>Adgangskoder mismatch</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/edit</name>
+    <message>
+      <source>User edit</source>
+      <translation>Bruger redigere</translation>
+    </message>
+    <message>
+      <source>Do not enter password unless you want to change it</source>
+      <translation>M&#xE5; ikke indtaste password, medmindre du &#xF8;nsker at &#xE6;ndre det</translation>
+    </message>
+    <message>
+      <source>Login information</source>
+      <translation>Login-oplysninger</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Brugernavn</translation>
+    </message>
+    <message>
+      <source>Password</source>
+      <translation>Adgangskode</translation>
+    </message>
+    <message>
+      <source>Repeat password</source>
+      <translation>Gentag kodeord</translation>
+    </message>
+    <message>
+      <source>Contact information</source>
+      <translation>Kontaktinformation</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+    <message>
+      <source>User prifle</source>
+      <translation>Bruger prifle</translation>
+    </message>
+    <message>
+      <source>My account</source>
+      <translation>Min konto</translation>
+    </message>
+    <message>
+      <source>Facebook albums</source>
+      <translation>Facebook albums</translation>
+    </message>
+    <message>
+      <source>Facebook session has expired, please login</source>
+      <translation>Facebook session er udl&#xF8;bet, skal du login</translation>
+    </message>
+    <message>
+      <source>Account</source>
+      <translation>Konto</translation>
+    </message>
+    <message>
+      <source>Albums</source>
+      <translation>Albums</translation>
+    </message>
+    <message>
+      <source>My albums</source>
+      <translation>Mine albums</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Systemkonfiguration</translation>
+    </message>
+    <message>
+      <source>Account data</source>
+      <translation>Kontodata</translation>
+    </message>
+    <message>
+      <source>Wrong email address</source>
+      <translation>Forkert e-mail-adresse</translation>
+    </message>
+    <message>
+      <source>Passwords mismatch</source>
+      <translation>Adgangskoder mismatch</translation>
+    </message>
+    <message>
+      <source>Users</source>
+      <translation>Brugere</translation>
+    </message>
+    <message>
+      <source>Authentifion with google</source>
+      <translation>Authentifion med Google</translation>
+    </message>
+    <message>
+      <source>Profile settings</source>
+      <translation type="unfinished">Profilindstillinger</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/editgroup</name>
+    <message>
+      <source>Group edit</source>
+      <translation>Gruppe redigere</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Titel</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+    <message>
+      <source>Assigned users</source>
+      <translation>Tildelt brugere</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Brugernavn</translation>
+    </message>
+    <message>
+      <source>Remove user from group</source>
+      <translation>Fjern bruger fra gruppe</translation>
+    </message>
+    <message>
+      <source>Assign user</source>
+      <translation>Tildel bruger</translation>
+    </message>
+    <message>
+      <source>User assignment</source>
+      <translation>Bruger opgave</translation>
+    </message>
+    <message>
+      <source>Assigned roles</source>
+      <translation>Tildelt roller</translation>
+    </message>
+    <message>
+      <source>Remove role from group</source>
+      <translation>Fjern rolle fra gruppe</translation>
+    </message>
+    <message>
+      <source>Assign role</source>
+      <translation>Tildel rolle</translation>
+    </message>
+    <message>
+      <source>Role assignment</source>
+      <translation>Rolletildeling</translation>
+    </message>
+    <message>
+      <source>Please enter group name</source>
+      <translation>Indtast venligst gruppenavn</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Systemkonfiguration</translation>
+    </message>
+    <message>
+      <source>Groups</source>
+      <translation>Grupper</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/groupassignuser</name>
+    <message>
+      <source>Username</source>
+      <translation type="unfinished">Brugernavn</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation type="unfinished">E-mail</translation>
+    </message>
+    <message>
+      <source>User</source>
+      <translation>Bruger</translation>
+    </message>
+    <message>
+      <source>Assign</source>
+      <translation>Tildel</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/login</name>
+    <message>
+      <source>Please login</source>
+      <translation>Venligst login</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Brugernavn</translation>
+    </message>
+    <message>
+      <source>Password</source>
+      <translation>Adgangskode</translation>
+    </message>
+    <message>
+      <source>Login</source>
+      <translation>Log ind</translation>
+    </message>
+    <message>
+      <source>Password remind</source>
+      <translation>Adgangskode minde</translation>
+    </message>
+    <message>
+      <source>Please login with your facebook account</source>
+      <translation>Log ind med din Facebook-konto</translation>
+    </message>
+    <message>
+      <source>Report abuse</source>
+      <translation>Anmeld misbrug</translation>
+    </message>
+    <message>
+      <source>Please write whats wrong within a post</source>
+      <translation>Skriv venligst hvad der forkert i et indl&#xE6;g</translation>
+    </message>
+    <message>
+      <source>Send</source>
+      <translation>Send</translation>
+    </message>
+    <message>
+      <source>Registration is complete</source>
+      <translation>Registrering er f&#xE6;rdig</translation>
+    </message>
+    <message>
+      <source>Registration is complete please login.</source>
+      <translation>Registrering er f&#xE6;rdig skal du logge ind.</translation>
+    </message>
+    <message>
+      <source>Checkout</source>
+      <translation>Kassen</translation>
+    </message>
+    <message>
+      <source>Incorrect username or password</source>
+      <translation>Forkert brugernavn eller password</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/new</name>
+    <message>
+      <source>New user</source>
+      <translation>Ny bruger</translation>
+    </message>
+    <message>
+      <source>Login information</source>
+      <translation>Login-oplysninger</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Brugernavn</translation>
+    </message>
+    <message>
+      <source>Password</source>
+      <translation>Adgangskode</translation>
+    </message>
+    <message>
+      <source>Repeat password</source>
+      <translation>Gentag kodeord</translation>
+    </message>
+    <message>
+      <source>Contact information</source>
+      <translation>Kontaktinformation</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Gem</translation>
+    </message>
+    <message>
+      <source>OR login with</source>
+      <translation>Eller login med</translation>
+    </message>
+    <message>
+      <source>Login with google account</source>
+      <translation>Log ind med Google-konto</translation>
+    </message>
+    <message>
+      <source>Working</source>
+      <translation>Arbejde</translation>
+    </message>
+    <message>
+      <source>Working...</source>
+      <translation>Arbejder ...</translation>
+    </message>
+    <message>
+      <source>Registration</source>
+      <translation>Registrering</translation>
+    </message>
+    <message>
+      <source>Safe code</source>
+      <translation>Sikker kode</translation>
+    </message>
+    <message>
+      <source>Register</source>
+      <translation>Tilmeld</translation>
+    </message>
+    <message>
+      <source>Sutch username is already taken!</source>
+      <translation>Sutch brugernavn er allerede taget!</translation>
+    </message>
+    <message>
+      <source>Please enter album name!</source>
+      <translation>Indtast venligst albummets navn!</translation>
+    </message>
+    <message>
+      <source>Please enter category name!</source>
+      <translation>Angiv venligst kategorien navn!</translation>
+    </message>
+    <message>
+      <source>User exists</source>
+      <translation>Bruger eksisterer</translation>
+    </message>
+    <message>
+      <source>Wrong email address</source>
+      <translation>Forkert e-mail-adresse</translation>
+    </message>
+    <message>
+      <source>Please enter username</source>
+      <translation>Indtast venligst brugernavn</translation>
+    </message>
+    <message>
+      <source>Passwords mismatch</source>
+      <translation>Adgangskoder mismatch</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Systemkonfiguration</translation>
+    </message>
+    <message>
+      <source>Users</source>
+      <translation>Brugere</translation>
+    </message>
+    <message>
+      <source>Please enter group name</source>
+      <translation>Indtast venligst gruppenavn</translation>
+    </message>
+    <message>
+      <source>E-mail taken!</source>
+      <translation>E-mail taget!</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/newgroup</name>
+    <message>
+      <source>New group</source>
+      <translation>Ny gruppe</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Titel</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Gem</translation>
+    </message>
+    <message>
+      <source>Save and assign user</source>
+      <translation>Gem og tildele bruger</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Systemkonfiguration</translation>
+    </message>
+    <message>
+      <source>Groups</source>
+      <translation>Grupper</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/userlist</name>
+    <message>
+      <source>Report list</source>
+      <translation>Rapport liste</translation>
+    </message>
+    <message>
+      <source>Report</source>
+      <translation>Rapport</translation>
+    </message>
+    <message>
+      <source>Topic</source>
+      <translation>Emne</translation>
+    </message>
+    <message>
+      <source>Topic message</source>
+      <translation>Emne besked</translation>
+    </message>
+    <message>
+      <source>Date</source>
+      <translation>Dato</translation>
+    </message>
+    <message>
+      <source>Edit topic</source>
+      <translation>Rediger emne</translation>
+    </message>
+    <message>
+      <source>Delete topic</source>
+      <translation>Slet emne</translation>
+    </message>
+    <message>
+      <source>IP</source>
+      <translation>IP</translation>
+    </message>
+    <message>
+      <source>Users</source>
+      <translation>Brugere</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Brugernavn</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Edit user</source>
+      <translation>Rediger bruger</translation>
+    </message>
+    <message>
+      <source>Delete user</source>
+      <translation>Slet bruger</translation>
+    </message>
+    <message>
+      <source>New user</source>
+      <translation>Ny bruger</translation>
+    </message>
+    <message>
+      <source>Replace image</source>
+      <translation>Udskift billedet</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Systemkonfiguration</translation>
+    </message>
+  </context>
+  <context>
+    <name>pagelayout/pagelayout</name>
+    <message>
+      <source>Home</source>
+      <translation>Home</translation>
+    </message>
+    <message>
+      <source>Configuration</source>
+      <translation>Konfiguration</translation>
+    </message>
+    <message>
+      <source>Gallery categorys</source>
+      <translation>Galleri categorys</translation>
+    </message>
+    <message>
+      <source>Last uploads to albums</source>
+      <translation>Nyeste kommentar til album</translation>
+    </message>
+    <message>
+      <source>Batch images add</source>
+      <translation>Batch billeder tilf&#xF8;j</translation>
+    </message>
+    <message>
+      <source>Duplicates</source>
+      <translation>Dubletter</translation>
+    </message>
+    <message>
+      <source>Static articles</source>
+      <translation>Statisk artikler</translation>
+    </message>
+    <message>
+      <source>Statistic</source>
+      <translation>Statistik</translation>
+    </message>
+    <message>
+      <source>Shop</source>
+      <translation>Shop</translation>
+    </message>
+    <message>
+      <source>Forum</source>
+      <translation>Forum</translation>
+    </message>
+    <message>
+      <source>Delete photo by ID</source>
+      <translation>Slet foto ved ID</translation>
+    </message>
+    <message>
+      <source>Photo was deleted</source>
+      <translation>Foto blev slettet</translation>
+    </message>
+    <message>
+      <source>Go to album</source>
+      <translation>G&#xE5; til album</translation>
+    </message>
+    <message>
+      <source>Go to forum topic</source>
+      <translation>G&#xE5; til forum emne</translation>
+    </message>
+    <message>
+      <source>Go to forum category</source>
+      <translation>G&#xE5; til forum kategori</translation>
+    </message>
+    <message>
+      <source>Go to image</source>
+      <translation>G&#xE5; til billede</translation>
+    </message>
+    <message>
+      <source>Root category</source>
+      <translation>Root kategori</translation>
+    </message>
+    <message>
+      <source>Open</source>
+      <translation>&#xC5;ben</translation>
+    </message>
+    <message>
+      <source>Edit</source>
+      <translation>Rediger</translation>
+    </message>
+    <message>
+      <source>New album</source>
+      <translation>Nyt album</translation>
+    </message>
+    <message>
+      <source>New batch albums</source>
+      <translation>Nyt parti album</translation>
+    </message>
+    <message>
+      <source>New category</source>
+      <translation>Ny kategori</translation>
+    </message>
+    <message>
+      <source>Delete album</source>
+      <translation>Slet album</translation>
+    </message>
+    <message>
+      <source>Delete category</source>
+      <translation>Slet kategori</translation>
+    </message>
+    <message>
+      <source>Add images</source>
+      <translation>Tilf&#xF8;j billeder</translation>
+    </message>
+    <message>
+      <source>Move images</source>
+      <translation>Flyt billeder</translation>
+    </message>
+    <message>
+      <source>It\'s NOT fake!</source>
+      <translation>Det \ &amp;#39;s IKKE fake!</translation>
+    </message>
+    <message>
+      <source>Rendered in</source>
+      <translation>Afsagt i</translation>
+    </message>
+    <message>
+      <source>Logged user</source>
+      <translation>Logget bruger</translation>
+    </message>
+    <message>
+      <source>Account</source>
+      <translation>Konto</translation>
+    </message>
+    <message>
+      <source>Logout</source>
+      <translation>Logout</translation>
+    </message>
+    <message>
+      <source>Login</source>
+      <translation>Log ind</translation>
+    </message>
+    <message>
+      <source>Enter keyword or phrase</source>
+      <translation>Indtast s&#xF8;geord eller s&#xE6;tning</translation>
+    </message>
+    <message>
+      <source>Search entire forum</source>
+      <translation>S&#xF8;g i hele forummet</translation>
+    </message>
+    <message>
+      <source>Search</source>
+      <translation>S&#xF8;g</translation>
+    </message>
+    <message>
+      <source>Last uploads</source>
+      <translation>Nyeste uploads</translation>
+    </message>
+    <message>
+      <source>Last commented</source>
+      <translation>Sidste kommenterede</translation>
+    </message>
+    <message>
+      <source>Last hits</source>
+      <translation>Sidste hits</translation>
+    </message>
+    <message>
+      <source>Last rated</source>
+      <translation>Sidste bed&#xF8;mte</translation>
+    </message>
+    <message>
+      <source>Last 24 h.</source>
+      <translation>Sidste 24 timer</translation>
+    </message>
+    <message>
+      <source>Most popular</source>
+      <translation>Mest popul&#xE6;re</translation>
+    </message>
+    <message>
+      <source>Top rated</source>
+      <translation>Bedst bed&#xF8;mte</translation>
+    </message>
+    <message>
+      <source>Search entire gallery</source>
+      <translation>S&#xF8;g hele galleriet</translation>
+    </message>
+    <message>
+      <source>Last uploaded images</source>
+      <translation>Sidst uploadet billeder</translation>
+    </message>
+    <message>
+      <source>View all categorys</source>
+      <translation>Se alle categorys</translation>
+    </message>
+    <message>
+      <source>All time</source>
+      <translation>Al tid</translation>
+    </message>
+    <message>
+      <source>Interactive</source>
+      <translation>Interaktiv</translation>
+    </message>
+    <message>
+      <source>Search by keyword</source>
+      <translation>S&#xF8;g efter n&#xF8;gleord</translation>
+    </message>
+    <message>
+      <source>Search by color</source>
+      <translation>S&#xF8;g efter farve</translation>
+    </message>
+    <message>
+      <source>Search by similarity</source>
+      <translation>S&#xF8;g efter lighed</translation>
+    </message>
+    <message>
+      <source>Search by sketch</source>
+      <translation>S&#xF8;g efter sketch</translation>
+    </message>
+    <message>
+      <source>Last viewed images</source>
+      <translation>Sidst viste billeder</translation>
+    </message>
+    <message>
+      <source>Last searches</source>
+      <translation>Sidste s&#xF8;gninger</translation>
+    </message>
+    <message>
+      <source>My account</source>
+      <translation>Min konto</translation>
+    </message>
+    <message>
+      <source>Profile page</source>
+      <translation type="unfinished">Profil side</translation>
+    </message>
+    <message>
+      <source>Manage albums</source>
+      <translation>Administrer album</translation>
+    </message>
+    <message>
+      <source>Credits</source>
+      <translation>Medvirkende</translation>
+    </message>
+    <message>
+      <source>My orders</source>
+      <translation>Mine ordrer</translation>
+    </message>
+    <message>
+      <source>My credits orders</source>
+      <translation>Min kreditter ordrer</translation>
+    </message>
+    <message>
+      <source>Import images from facebook</source>
+      <translation>Importere billeder fra Facebook</translation>
+    </message>
+    <message>
+      <source>Register</source>
+      <translation>Registrer</translation>
+    </message>
+    <message>
+      <source>My favorites</source>
+      <translation>Mine favoritter</translation>
+    </message>
+    <message>
+      <source>Basket</source>
+      <translation>Kurv</translation>
+    </message>
+    <message>
+      <source>Upload</source>
+      <translation>Upload</translation>
+    </message>
+    <message>
+      <source>Upload zip</source>
+      <translation>Upload zip</translation>
+    </message>
+    <message>
+      <source>Search...</source>
+      <translation>S&#xF8;g ...</translation>
+    </message>
+  </context>
+  <context>
+    <name>feedback/form</name>
+    <message>
+      <source>Feedback</source>
+      <translation>Feedback</translation>
+    </message>
+    <message>
+      <source>Feedback was send</source>
+      <translation>Feedback blev sendt</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Navn</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Text</source>
+      <translation>Tekst</translation>
+    </message>
+    <message>
+      <source>Captcha image</source>
+      <translation>Captcha billede</translation>
+    </message>
+    <message>
+      <source>Captcha code</source>
+      <translation>Captcha kode</translation>
+    </message>
+    <message>
+      <source>Required fields</source>
+      <translation>Kr&#xE6;vede felter</translation>
+    </message>
+    <message>
+      <source>Send</source>
+      <translation>Send</translation>
+    </message>
+    <message>
+      <source>Please enter name!</source>
+      <translation>Angiv venligst navn!</translation>
+    </message>
+    <message>
+      <source>Invalid e-mail address!</source>
+      <translation>Ugyldig e-mail-adresse!</translation>
+    </message>
+    <message>
+      <source>Please enter text!</source>
+      <translation>V&#xE6;r venlig at indtaste tekst!</translation>
+    </message>
+    <message>
+      <source>Please enter captcha code!</source>
+      <translation>Indtast venligst captcha kode!</translation>
+    </message>
+  </context>
+  <context>
+    <name>feedback/formsend</name>
+    <message>
+      <source>Feedback</source>
+      <translation>Feedback</translation>
+    </message>
+    <message>
+      <source>Your feedback was succesfuly send</source>
+      <translation>Din feedback blev succesfuldt sende</translation>
+    </message>
+    <message>
+      <source>Home page</source>
+      <translation>Hjemmeside</translation>
+    </message>
+  </context>
+  <context>
+    <name>feedback/mail</name>
+    <message>
+      <source>Hellow</source>
+      <translation type="unfinished">Hellow</translation>
+    </message>
+    <message>
+      <source>Hello</source>
+      <translation>Hej</translation>
+    </message>
+    <message>
+      <source>Feedback data</source>
+      <translation>Feedback-data</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Navn</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Text</source>
+      <translation>Tekst</translation>
+    </message>
+    <message>
+      <source>Bye</source>
+      <translation>Bye</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/image_list</name>
+    <message>
+      <source>preview version</source>
+      <translation>preview version</translation>
+    </message>
+    <message>
+      <source>See full size</source>
+      <translation>Se fuld st&#xF8;rrelse</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/album</name>
+    <message>
+      <source>No records</source>
+      <translation>Ingen optegnelser</translation>
+    </message>
+    <message>
+      <source>Search by color and keyword, just try to see how fun it is!</source>
+      <translation>S&#xF8;g efter farve og s&#xF8;geord, bare pr&#xF8;ve at se, hvor sjovt det er!</translation>
+    </message>
+    <message>
+      <source>Enter keyword or phrase</source>
+      <translation>Indtast s&#xF8;geord eller s&#xE6;tning</translation>
+    </message>
+    <message>
+      <source>Search entire gallery</source>
+      <translation>S&#xF8;g hele galleriet</translation>
+    </message>
+    <message>
+      <source>Search</source>
+      <translation>S&#xF8;g</translation>
+    </message>
+    <message>
+      <source>enter keyword and click color, or just click color</source>
+      <translation>Indtast s&#xF8;geord og klik p&#xE5; farve, eller du blot klikke farve</translation>
+    </message>
+    <message>
+      <source>Include color</source>
+      <translation>Medtag farve</translation>
+    </message>
+    <message>
+      <source>Exclude color</source>
+      <translation>Udelad farve</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Side</translation>
+    </message>
+    <message>
+      <source>Last uploaded last</source>
+      <translation>Sidst uploadet sidste</translation>
+    </message>
+    <message>
+      <source>Most popular first</source>
+      <translation>Mest popul&#xE6;re f&#xF8;rst</translation>
+    </message>
+    <message>
+      <source>Most popular last</source>
+      <translation>Mest popul&#xE6;re sidste</translation>
+    </message>
+    <message>
+      <source>Last hits first</source>
+      <translation>Sidste hits f&#xF8;rste</translation>
+    </message>
+    <message>
+      <source>Last hits last</source>
+      <translation>Sidste hits sidste</translation>
+    </message>
+    <message>
+      <source>Last commented first</source>
+      <translation>Sidste kommenterede f&#xF8;rste</translation>
+    </message>
+    <message>
+      <source>Last commented last</source>
+      <translation>Sidste kommenterede sidste</translation>
+    </message>
+    <message>
+      <source>Last rated first</source>
+      <translation>Sidste bed&#xF8;mte f&#xF8;rst</translation>
+    </message>
+    <message>
+      <source>Last rated last</source>
+      <translation>Sidste bed&#xF8;mte sidste</translation>
+    </message>
+    <message>
+      <source>Top rated first</source>
+      <translation>Bedst bed&#xF8;mte f&#xF8;rst</translation>
+    </message>
+    <message>
+      <source>Top rated last Last</source>
+      <translation>Bedst bed&#xF8;mte sidste Seneste</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Opl&#xF8;sning</translation>
+    </message>
+    <message>
+      <source>Last uploaded images to album</source>
+      <translation>Sidst uploadet billeder til album</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/album_list</name>
+    <message>
+      <source>files</source>
+      <translation>filer</translation>
+    </message>
+    <message>
+      <source>Album priority</source>
+      <translation>Album prioritet</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/anaglyph</name>
+    <message>
+      <source>Original</source>
+      <translation>Original</translation>
+    </message>
+    <message>
+      <source>Anaglyph</source>
+      <translation>Anaglyph</translation>
+    </message>
+    <message>
+      <source>Animating</source>
+      <translation>Animere</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/createalbum</name>
+    <message>
+      <source>New album</source>
+      <translation>Nyt album</translation>
+    </message>
+    <message>
+      <source>Album name</source>
+      <translation>Album navn</translation>
+    </message>
+    <message>
+      <source>Description</source>
+      <translation>Beskrivelse</translation>
+    </message>
+    <message>
+      <source>Keywords</source>
+      <translation>S&#xF8;geord</translation>
+    </message>
+    <message>
+      <source>Create</source>
+      <translation>Opret</translation>
+    </message>
+    <message>
+      <source>Create and upload photos</source>
+      <translation>Oprette og uploade billeder</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/fileuploadcontainer</name>
+    <message>
+      <source>Waiting</source>
+      <translation type="unfinished">Venter</translation>
+    </message>
+    <message>
+      <source>Sutch file already exists</source>
+      <translation type="unfinished">Sutch filen allerede eksisterer</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Titel</translation>
+    </message>
+    <message>
+      <source>Keywords</source>
+      <translation>S&#xF8;geord</translation>
+    </message>
+    <message>
+      <source>Cross eye image</source>
+      <translation>Cross &#xF8;jet billede</translation>
+    </message>
+    <message>
+      <source>Caption</source>
+      <translation>Billedtekst</translation>
+    </message>
+    <message>
+      <source>Enter new album name or choose public album</source>
+      <translation>Indtast nye album navn eller v&#xE6;lge offentligt album</translation>
+    </message>
+    <message>
+      <source>description</source>
+      <translation>beskrivelse</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/image</name>
+    <message>
+      <source>Picture comments</source>
+      <translation>Billede kommentarer</translation>
+    </message>
+    <message>
+      <source>No comments</source>
+      <translation>Ingen kommentarer</translation>
+    </message>
+    <message>
+      <source>Comment stored</source>
+      <translation>gemt Kommentar</translation>
+    </message>
+    <message>
+      <source>Leave a reply</source>
+      <translation>Efterlad et svar</translation>
+    </message>
+    <message>
+      <source>Nick</source>
+      <translation>Nick</translation>
+    </message>
+    <message>
+      <source>Max 25 characters</source>
+      <translation>Max 25 tegn</translation>
+    </message>
+    <message>
+      <source>Message</source>
+      <translation>Besked</translation>
+    </message>
+    <message>
+      <source>Send</source>
+      <translation>Send</translation>
+    </message>
+    <message>
+      <source>Image edit</source>
+      <translation>Billedredigering</translation>
+    </message>
+    <message>
+      <source>Rate this picture</source>
+      <translation>Bed&#xF8;m dette billede</translation>
+    </message>
+    <message>
+      <source>star</source>
+      <translation>star</translation>
+    </message>
+    <message>
+      <source>stars</source>
+      <translation>stjerner</translation>
+    </message>
+    <message>
+      <source>Vote!</source>
+      <translation>Stem!</translation>
+    </message>
+    <message>
+      <source>Deduct vote!</source>
+      <translation>Fratr&#xE6;k stemme!</translation>
+    </message>
+    <message>
+      <source>next image</source>
+      <translation>n&#xE6;ste billede</translation>
+    </message>
+    <message>
+      <source>previous image</source>
+      <translation>forrige billede</translation>
+    </message>
+    <message>
+      <source>return to thumbnails</source>
+      <translation>tilbage til thumbnails</translation>
+    </message>
+    <message>
+      <source>Click to see fullsize</source>
+      <translation>Klik for at se fuld st&#xF8;rrelse</translation>
+    </message>
+    <message>
+      <source>Supported BB Code style tags: [b] [i] [u] [quote] :) :D :( :o :p ;)</source>
+      <translation>Underst&#xF8;ttet BB Code style tags: [b] [i] [u] [quote]:): D: (: o: p;)</translation>
+    </message>
+    <message>
+      <source>Add to favorites</source>
+      <translation>Tilf&#xF8;j til favoritter</translation>
+    </message>
+    <message>
+      <source>Share this page HTML code</source>
+      <translation>Del denne side HTML-kode</translation>
+    </message>
+    <message>
+      <source>Share PHPBB code</source>
+      <translation>Del PhpBB kode</translation>
+    </message>
+    <message>
+      <source>Anaglyph version</source>
+      <translation>Anaglyph version</translation>
+    </message>
+    <message>
+      <source>Enter tags separated by space</source>
+      <translation>Indtast tags adskilt af mellemrum</translation>
+    </message>
+    <message>
+      <source>Picture details</source>
+      <translation>Billeddetaljer</translation>
+    </message>
+    <message>
+      <source>Filename</source>
+      <translation>Filnavn</translation>
+    </message>
+    <message>
+      <source>File size</source>
+      <translation>Filst&#xF8;rrelse</translation>
+    </message>
+    <message>
+      <source>Image rating</source>
+      <translation>Billede rating</translation>
+    </message>
+    <message>
+      <source>Date added</source>
+      <translation>Dato tilf&#xF8;jet</translation>
+    </message>
+    <message>
+      <source>Dimensions</source>
+      <translation>Dimensioner</translation>
+    </message>
+    <message>
+      <source>Displayed</source>
+      <translation>Vist</translation>
+    </message>
+    <message>
+      <source>times</source>
+      <translation>gange</translation>
+    </message>
+    <message>
+      <source>Album</source>
+      <translation>Album</translation>
+    </message>
+    <message>
+      <source>URL</source>
+      <translation>URL</translation>
+    </message>
+    <message>
+      <source>Owner</source>
+      <translation>Ejer</translation>
+    </message>
+    <message>
+      <source>About user</source>
+      <translation type="unfinished">Om brugeren</translation>
+    </message>
+    <message>
+      <source>votes</source>
+      <translation>stemmer</translation>
+    </message>
+    <message>
+      <source>Search for similar colors images</source>
+      <translation>S&#xF8;g efter lignende farver billeder</translation>
+    </message>
+    <message>
+      <source>Search for visualy similar images</source>
+      <translation>S&#xF8;g efter visualy lignende billeder</translation>
+    </message>
+    <message>
+      <source>More user images</source>
+      <translation>Mere brugervenlig billeder</translation>
+    </message>
+    <message>
+      <source>Version</source>
+      <translation>Version</translation>
+    </message>
+    <message>
+      <source>Image size</source>
+      <translation>Billedst&#xF8;rrelse</translation>
+    </message>
+    <message>
+      <source>Format</source>
+      <translation>Format</translation>
+    </message>
+    <message>
+      <source>Price</source>
+      <translation>Pris</translation>
+    </message>
+    <message>
+      <source>credits</source>
+      <translation>kreditter</translation>
+    </message>
+    <message>
+      <source>Remove from basket</source>
+      <translation>Fjern fra kurv</translation>
+    </message>
+    <message>
+      <source>Add to basket</source>
+      <translation>Tilf&#xF8;j til kurv</translation>
+    </message>
+    <message>
+      <source>Wrong captcha code!</source>
+      <translation>Forkert captcha kode!</translation>
+    </message>
+    <message>
+      <source>Please enter nick!</source>
+      <translation>Indtast venligst nick!</translation>
+    </message>
+    <message>
+      <source>Please enter comment!</source>
+      <translation>Indtast venligst kommentar!</translation>
+    </message>
+    <message>
+      <source>You are not allowed to leave a comments!</source>
+      <translation>Det er ikke tilladt at efterlade en kommentar!</translation>
+    </message>
+    <message>
+      <source>Guest_</source>
+      <translation>Guest_</translation>
+    </message>
+    <message>
+      <source>Last uploaded images</source>
+      <translation>Sidst uploadet billeder</translation>
+    </message>
+    <message>
+      <source>Last additions</source>
+      <translation>Sidste tilf&#xF8;jelser</translation>
+    </message>
+    <message>
+      <source>Last viewed images</source>
+      <translation>Sidst viste billeder</translation>
+    </message>
+    <message>
+      <source>Last commented images</source>
+      <translation>Senest kommenterede billeder</translation>
+    </message>
+    <message>
+      <source>Last rated images</source>
+      <translation>Sidste bed&#xF8;mte billeder</translation>
+    </message>
+    <message>
+      <source>Top rated images</source>
+      <translation>Bedst bed&#xF8;mte billeder</translation>
+    </message>
+    <message>
+      <source>Search by color</source>
+      <translation>S&#xF8;g efter farve</translation>
+    </message>
+    <message>
+      <source>Most popular images</source>
+      <translation>Mest popul&#xE6;re billeder</translation>
+    </message>
+    <message>
+      <source>Search rss by keyword</source>
+      <translation>S&#xF8;g rss efter s&#xF8;geord</translation>
+    </message>
+    <message>
+      <source>Last uploaded first</source>
+      <translation>Sidst uploadet f&#xF8;rste</translation>
+    </message>
+    <message>
+      <source>Last uploaded last</source>
+      <translation>Sidst uploadet sidste</translation>
+    </message>
+    <message>
+      <source>Most popular first</source>
+      <translation>Mest popul&#xE6;re f&#xF8;rst</translation>
+    </message>
+    <message>
+      <source>Most popular last</source>
+      <translation>Mest popul&#xE6;re sidste</translation>
+    </message>
+    <message>
+      <source>Last hits first</source>
+      <translation>Sidste hits f&#xF8;rste</translation>
+    </message>
+    <message>
+      <source>Last hits last</source>
+      <translation>Sidste hits sidste</translation>
+    </message>
+    <message>
+      <source>Last commented first</source>
+      <translation>Sidste kommenterede f&#xF8;rste</translation>
+    </message>
+    <message>
+      <source>Last commented last</source>
+      <translation>Sidste kommenterede sidste</translation>
+    </message>
+    <message>
+      <source>Top rated first</source>
+      <translation>Bedst bed&#xF8;mte f&#xF8;rst</translation>
+    </message>
+    <message>
+      <source>Top rated last Last</source>
+      <translation>Bedst bed&#xF8;mte sidste Seneste</translation>
+    </message>
+    <message>
+      <source>Last rated first</source>
+      <translation>Sidste bed&#xF8;mte f&#xF8;rst</translation>
+    </message>
+    <message>
+      <source>Last rated last</source>
+      <translation>Sidste bed&#xF8;mte sidste</translation>
+    </message>
+    <message>
+      <source>Most relevance images last</source>
+      <translation>St&#xF8;rst relevans billeder sidste</translation>
+    </message>
+    <message>
+      <source>search results</source>
+      <translation>s&#xF8;geresultater</translation>
+    </message>
+    <message>
+      <source>Last uploaded images to album</source>
+      <translation>Sidst uploadet billeder til album</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/myfavorites</name>
+    <message>
+      <source>Remove from favorites</source>
+      <translation>Fjern fra favoritter</translation>
+    </message>
+    <message>
+      <source>My favorite images</source>
+      <translation>Min favorit billeder</translation>
+    </message>
+    <message>
+      <source>Remove</source>
+      <translation>Fjern</translation>
+    </message>
+    <message>
+      <source>Remove Open ID</source>
+      <translation>Fjern Open ID</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastcommented</name>
+    <message>
+      <source>Last commented images</source>
+      <translation>Senest kommenterede billeder</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>Ingen optegnelser.</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Opl&#xF8;sning</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Side</translation>
+    </message>
+    <message>
+      <source>Last commented gallery images.</source>
+      <translation type="unfinished">Sidste kommenterede galleribilleder.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lasthits</name>
+    <message>
+      <source>Last viewed images</source>
+      <translation>Sidst viste billeder</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>Ingen optegnelser.</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Opl&#xF8;sning</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Side</translation>
+    </message>
+    <message>
+      <source>Last viewed gallery images.</source>
+      <translation type="unfinished">Sidst viste galleribilleder.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastrated</name>
+    <message>
+      <source>Last rated images</source>
+      <translation>Sidste bed&#xF8;mte billeder</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>Ingen optegnelser.</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Opl&#xF8;sning</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Side</translation>
+    </message>
+    <message>
+      <source>Recently rated images.</source>
+      <translation type="unfinished">De nyeste billeder.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastuploads</name>
+    <message>
+      <source>Last uploaded images</source>
+      <translation>Sidst uploadet billeder</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>Ingen optegnelser.</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Opl&#xF8;sning</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Side</translation>
+    </message>
+    <message>
+      <source>Latest additions to gallery.</source>
+      <translation type="unfinished">Nyeste tilf&#xF8;jelser til galleriet.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/my_albums_list</name>
+    <message>
+      <source>Edit album</source>
+      <translation>Rediger album</translation>
+    </message>
+    <message>
+      <source>Are you sure?</source>
+      <translation>Er du sikker?</translation>
+    </message>
+    <message>
+      <source>Delete album</source>
+      <translation>Slet album</translation>
+    </message>
+    <message>
+      <source>Add images</source>
+      <translation>Tilf&#xF8;j billeder</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/myalbums</name>
+    <message>
+      <source>My albums</source>
+      <translation>Mine albums</translation>
+    </message>
+    <message>
+      <source>New album</source>
+      <translation>Nyt album</translation>
+    </message>
+    <message>
+      <source>Update priority</source>
+      <translation>Opdater prioritet</translation>
+    </message>
+    <message>
+      <source>You do not have any album.</source>
+      <translation>Du har ikke nogen album.</translation>
+    </message>
+    <message>
+      <source>Create a new album.</source>
+      <translation>Oprette et nyt album.</translation>
+    </message>
+    <message>
+      <source>Account</source>
+      <translation>Konto</translation>
+    </message>
+    <message>
+      <source>Albums</source>
+      <translation>Albums</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/mylistalbum</name>
+    <message>
+      <source>My albums</source>
+      <translation type="unfinished">Mine albums</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>Ingen optegnelser.</translation>
+    </message>
+    <message>
+      <source>Account</source>
+      <translation>Konto</translation>
+    </message>
+    <message>
+      <source>Albums</source>
+      <translation>Albums</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/search</name>
+    <message>
+      <source>Last uploaded</source>
+      <translation>uploaded Sidste</translation>
+    </message>
+    <message>
+      <source>Most popular</source>
+      <translation>Mest popul&#xE6;re</translation>
+    </message>
+    <message>
+      <source>Last hits</source>
+      <translation>Sidste hits</translation>
+    </message>
+    <message>
+      <source>Top rated</source>
+      <translation>Bedst bed&#xF8;mte</translation>
+    </message>
+    <message>
+      <source>Last rated</source>
+      <translation>Sidste bed&#xF8;mte</translation>
+    </message>
+    <message>
+      <source>Last commented</source>
+      <translation>Sidste kommenterede</translation>
+    </message>
+    <message>
+      <source>Filename</source>
+      <translation>Filnavn</translation>
+    </message>
+    <message>
+      <source>Search results</source>
+      <translation>S&#xF8;geresultater</translation>
+    </message>
+    <message>
+      <source>Nothing found</source>
+      <translation>Intet fundet</translation>
+    </message>
+    <message>
+      <source>Any resolution</source>
+      <translation>Enhver beslutning</translation>
+    </message>
+    <message>
+      <source>Relevance</source>
+      <translation>Relevans</translation>
+    </message>
+    <message>
+      <source>Any keyword</source>
+      <translation>Alle s&#xF8;geord</translation>
+    </message>
+    <message>
+      <source>All keywords</source>
+      <translation>Alle n&#xF8;gleord</translation>
+    </message>
+    <message>
+      <source>search results</source>
+      <translation>s&#xF8;geresultater</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Side</translation>
+    </message>
+    <message>
+      <source>Last uploaded first</source>
+      <translation>Sidst uploadet f&#xF8;rste</translation>
+    </message>
+    <message>
+      <source>Last uploaded last</source>
+      <translation>Sidst uploadet sidste</translation>
+    </message>
+    <message>
+      <source>Most popular first</source>
+      <translation>Mest popul&#xE6;re f&#xF8;rst</translation>
+    </message>
+    <message>
+      <source>Most popular last</source>
+      <translation>Mest popul&#xE6;re sidste</translation>
+    </message>
+    <message>
+      <source>Last hits first</source>
+      <translation>Sidste hits f&#xF8;rste</translation>
+    </message>
+    <message>
+      <source>Last hits last</source>
+      <translation>Sidste hits sidste</translation>
+    </message>
+    <message>
+      <source>Last commented first</source>
+      <translation>Sidste kommenterede f&#xF8;rste</translation>
+    </message>
+    <message>
+      <source>Last commented last</source>
+      <translation>Sidste kommenterede sidste</translation>
+    </message>
+    <message>
+      <source>Last rated first</source>
+      <translation>Sidste bed&#xF8;mte f&#xF8;rst</translation>
+    </message>
+    <message>
+      <source>Last rated last</source>
+      <translation>Sidste bed&#xF8;mte sidste</translation>
+    </message>
+    <message>
+      <source>Top rated first</source>
+      <translation>Bedst bed&#xF8;mte f&#xF8;rst</translation>
+    </message>
+    <message>
+      <source>Top rated last</source>
+      <translation>Bedst bed&#xF8;mte sidste</translation>
+    </message>
+    <message>
+      <source>Most relevance images last</source>
+      <translation>St&#xF8;rst relevans billeder sidste</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Opl&#xF8;sning</translation>
+    </message>
+    <message>
+      <source>Search RSS by keyword</source>
+      <translation>S&#xF8;g RSS efter s&#xF8;geord</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/popular</name>
+    <message>
+      <source>Most popular images</source>
+      <translation>Mest popul&#xE6;re billeder</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>Ingen optegnelser.</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Opl&#xF8;sning</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Side</translation>
+    </message>
+    <message>
+      <source>All time most popular images.</source>
+      <translation type="unfinished">Al tid mest popul&#xE6;re billeder.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/popularrecect</name>
+    <message>
+      <source>Most popular images in 24 hours.</source>
+      <translation>Mest popul&#xE6;re billeder i 24 timer.</translation>
+    </message>
+    <message>
+      <source>There are no images.</source>
+      <translation>Der er ingen billeder.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/publicupload</name>
+    <message>
+      <source>All files were uploaded. See album.</source>
+      <translation type="unfinished">Alle filer blev uploadet. Se album.</translation>
+    </message>
+    <message>
+      <source>Uploading</source>
+      <translation type="unfinished">Upload</translation>
+    </message>
+    <message>
+      <source>Complete</source>
+      <translation type="unfinished">Komplet</translation>
+    </message>
+    <message>
+      <source>Choose images for upload first.</source>
+      <translation type="unfinished">V&#xE6;lge billeder til upload f&#xF8;rst.</translation>
+    </message>
+    <message>
+      <source>File is too big.</source>
+      <translation type="unfinished">Filen er for stor.</translation>
+    </message>
+    <message>
+      <source>Choose one of</source>
+      <translation type="unfinished">V&#xE6;lg &#xE9;n af</translation>
+    </message>
+    <message>
+      <source>Browse</source>
+      <translation type="unfinished">Gennemse</translation>
+    </message>
+    <message>
+      <source>Images to upload</source>
+      <translation type="unfinished">Billeder til upload</translation>
+    </message>
+    <message>
+      <source>Choose images for upload.</source>
+      <translation type="unfinished">V&#xE6;lg billeder til upload.</translation>
+    </message>
+    <message>
+      <source>Image upload is in progress. Please wait a moment...</source>
+      <translation type="unfinished">Billedupload er i gang. Vent et &#xF8;jeblik ...</translation>
+    </message>
+    <message>
+      <source>Image upload is taking a long time to load or the load has failed.  Please make sure that the Flash Plugin is enabled and that a working version of the Adobe Flash Player is installed.</source>
+      <translation type="unfinished">Billedupload tager lang tid at indl&#xE6;se eller last er sl&#xE5;et fejl. S&#xF8;rg for, at Flash Plugin er aktiveret, og at en arbejdsgruppe version af Adobe Flash Player er installeret.</translation>
+    </message>
+    <message>
+      <source>Attatch local images</source>
+      <translation type="unfinished">Attatch lokale billeder</translation>
+    </message>
+    <message>
+      <source>Upload</source>
+      <translation>Upload</translation>
+    </message>
+    <message>
+      <source>Click to choose images to upload, you can also drop files here.</source>
+      <translation>Klik for at v&#xE6;lge billeder til upload, kan du ogs&#xE5; slippe filer her.</translation>
+    </message>
+    <message>
+      <source>Click to choose images to upload, you can also Drag and Drop files here (Darg and drop only for FF, Chrome).</source>
+      <translation>Klik for at v&#xE6;lge billeder til upload, kan du ogs&#xE5; tr&#xE6;kke og slippe filer her (Darg og slip kun for FF, Chrome).</translation>
+    </message>
+    <message>
+      <source>Public images archive upload</source>
+      <translation>Offentlige billeder arkiv upload</translation>
+    </message>
+    <message>
+      <source>Click to choose zip to upload, you can also drop files here (Darg and drop only for FF, Chrome).</source>
+      <translation>Klik for at v&#xE6;lge zip at uploade, kan du ogs&#xE5; slippe filer her (Darg og slip kun for FF, Chrome).</translation>
+    </message>
+    <message>
+      <source>Public images upload</source>
+      <translation>Offentlige billeder upload</translation>
+    </message>
+    <message>
+      <source>Max file size </source>
+      <translation type="unfinished">Max filst&#xF8;rrelse</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/ratedrecent</name>
+    <message>
+      <source>Top rated images in 24 hours.</source>
+      <translation>Bedst bed&#xF8;mte billeder i 24 timer.</translation>
+    </message>
+    <message>
+      <source>Top rated images in 24 hours</source>
+      <translation>Bedst bed&#xF8;mte billeder i 24 timer</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Side</translation>
+    </message>
+    <message>
+      <source>Top rated images in last 24 hours.</source>
+      <translation type="unfinished">Topkarakter billeder i de sidste 24 timer.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/sharehtml</name>
+    <message>
+      <source>Link to image</source>
+      <translation>Link til billede</translation>
+    </message>
+    <message>
+      <source>Link to image with thumbnail</source>
+      <translation>Link til billede med thumbnail</translation>
+    </message>
+    <message>
+      <source>Link to image with medium size thumbnail</source>
+      <translation>Link til billede med medium st&#xF8;rrelse thumbnail</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/sharephpbb</name>
+    <message>
+      <source>Link to image</source>
+      <translation>Link til billede</translation>
+    </message>
+    <message>
+      <source>Link to image with thumbnail</source>
+      <translation>Link til billede med thumbnail</translation>
+    </message>
+    <message>
+      <source>Link to image with medium size thumbnail</source>
+      <translation>Link til billede med medium st&#xF8;rrelse thumbnail</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/subcategory_list</name>
+    <message>
+      <source>images</source>
+      <translation>billeder</translation>
+    </message>
+    <message>
+      <source>albums</source>
+      <translation>album</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/subcategory_list_full</name>
+    <message>
+      <source>albums</source>
+      <translation>album</translation>
+    </message>
+    <message>
+      <source>images</source>
+      <translation>billeder</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/toprated</name>
+    <message>
+      <source>Top rated images</source>
+      <translation>Bedst bed&#xF8;mte billeder</translation>
+    </message>
+    <message>
+      <source>No records</source>
+      <translation>Ingen optegnelser</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Opl&#xF8;sning</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Side</translation>
+    </message>
+    <message>
+      <source>All time top rated images.</source>
+      <translation type="unfinished">All time top bed&#xF8;mte billeder.</translation>
+    </message>
+  </context>
+  <context>
+    <name>kernel/nopermission</name>
+    <message>
+      <source>You do not have permission to access module</source>
+      <translation>Du har ikke tilladelse til at benytte modulet</translation>
+    </message>
+    <message>
+      <source>and use</source>
+      <translation>og brug</translation>
+    </message>
+    <message>
+      <source>function</source>
+      <translation>funktion</translation>
+    </message>
+    <message>
+      <source>You do not have permission to access current object</source>
+      <translation>Du har ikke tilladelse til at f&#xE5; adgang til aktuelle objekt</translation>
+    </message>
+  </context>
+  <context>
+    <name>core/paginator</name>
+    <message>
+      <source>Page</source>
+      <translation>Side</translation>
+    </message>
+    <message>
+      <source>of</source>
+      <translation>af</translation>
+    </message>
+    <message>
+      <source>Found</source>
+      <translation>Fundet</translation>
+    </message>
+    <message>
+      <source>Previous</source>
+      <translation>Forrige</translation>
+    </message>
+    <message>
+      <source>Go to page</source>
+      <translation>G&#xE5; til side</translation>
+    </message>
+    <message>
+      <source>Next</source>
+      <translation>N&#xE6;ste</translation>
+    </message>
+  </context>
+  <context>
+    <name>statistic/view</name>
+    <message>
+      <source>hours</source>
+      <translation>time</translation>
+    </message>
+    <message>
+      <source>Total pageviews</source>
+      <translation>Total sidevisninger</translation>
+    </message>
+    <message>
+      <source>Total visits</source>
+      <translation>Total bes&#xF8;g</translation>
+    </message>
+    <message>
+      <source>Time spent</source>
+      <translation>Tid brugt</translation>
+    </message>
+    <message>
+      <source>Last 31 days statistic, data resource - google analytics API</source>
+      <translation>Sidste 31 dage statistik, data ressource - Google Analytics API</translation>
+    </message>
+    <message>
+      <source>Legend</source>
+      <translation>Legend</translation>
+    </message>
+    <message>
+      <source>Pageviews</source>
+      <translation>Sidevisninger</translation>
+    </message>
+    <message>
+      <source>Visits</source>
+      <translation>Bes&#xF8;g</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/forgotpassword</name>
+    <message>
+      <source>Password remind</source>
+      <translation>Adgangskode minde</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Restore password</source>
+      <translation>Gendan password</translation>
+    </message>
+    <message>
+      <source>Order confirmed</source>
+      <translation>Bestil bekr&#xE6;ftet</translation>
+    </message>
+    <message>
+      <source>Credits order confirmed</source>
+      <translation>Medvirkende orden bekr&#xE6;ftet</translation>
+    </message>
+    <message>
+      <source>Wrong e-mail address!</source>
+      <translation>Forkert e-mail-adresse!</translation>
+    </message>
+    <message>
+      <source>Click this link and to You will be send new password</source>
+      <translation>Klik p&#xE5; dette link og at Du vil blive sendt nyt password</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/forgotpasswordsent</name>
+    <message>
+      <source>Password remind</source>
+      <translation>Adgangskode minde</translation>
+    </message>
+    <message>
+      <source>E-mail send. Click link in email and to You will be send out new password.</source>
+      <translation>E-mail sender. Klik p&#xE5; linket i e-mail og at Du vil blive sendt ud ny adgangskode.</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/index</name>
+    <message>
+      <source>User home</source>
+      <translation>Bruger hjem</translation>
+    </message>
+    <message>
+      <source>Welcome. Here you can:</source>
+      <translation>Velkommen. Her kan du:</translation>
+    </message>
+    <message>
+      <source>Edit personal settings</source>
+      <translation>Rediger personlige indstillinger</translation>
+    </message>
+    <message>
+      <source>Manage personal albums</source>
+      <translation>H&#xE5;ndtere personlige album</translation>
+    </message>
+    <message>
+      <source>My account</source>
+      <translation>Min konto</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/remindpassword</name>
+    <message>
+      <source>New password</source>
+      <translation>Nyt kodeord</translation>
+    </message>
+    <message>
+      <source>Hash not found or was used already</source>
+      <translation>Hash ikke fundet eller blev brugt allerede</translation>
+    </message>
+    <message>
+      <source>Password remind - new password</source>
+      <translation>Password minde - ny adgangskode</translation>
+    </message>
+    <message>
+      <source>New password:</source>
+      <translation>Ny adgangskode:</translation>
+    </message>
+    <message>
+      <source>New password has beend send to your email.</source>
+      <translation>Ny adgangskode er beend sendt til din e-mail.</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/basket</name>
+    <message>
+      <source>Basket</source>
+      <translation>Kurv</translation>
+    </message>
+    <message>
+      <source>Image name</source>
+      <translation>Billede navn</translation>
+    </message>
+    <message>
+      <source>Version</source>
+      <translation>Version</translation>
+    </message>
+    <message>
+      <source>Image size</source>
+      <translation>Billedst&#xF8;rrelse</translation>
+    </message>
+    <message>
+      <source>Format</source>
+      <translation>Format</translation>
+    </message>
+    <message>
+      <source>Price</source>
+      <translation>Pris</translation>
+    </message>
+    <message>
+      <source>Credits</source>
+      <translation>Medvirkende</translation>
+    </message>
+    <message>
+      <source>Remove from basket</source>
+      <translation>Fjern fra kurv</translation>
+    </message>
+    <message>
+      <source>Choose payment option</source>
+      <translation>V&#xE6;lg betalingsm&#xE5;de</translation>
+    </message>
+    <message>
+      <source>In order to checkout atlest one item have to be selected.</source>
+      <translation>For at kassen atlest et emne der skal v&#xE6;lges.</translation>
+    </message>
+    <message>
+      <source>In order to checkout you have to</source>
+      <translation>For at kassen skal du</translation>
+    </message>
+    <message>
+      <source>sign in</source>
+      <translation>log ind</translation>
+    </message>
+    <message>
+      <source>or</source>
+      <translation>eller</translation>
+    </message>
+    <message>
+      <source>login</source>
+      <translation>login</translation>
+    </message>
+    <message>
+      <source>if you have already created an account</source>
+      <translation>Hvis du allerede har oprettet en konto</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/buycredits</name>
+    <message>
+      <source>Buy credits</source>
+      <translation>K&#xF8;be kreditter</translation>
+    </message>
+    <message>
+      <source>How many credits do want to buy?</source>
+      <translation>Hvor mange credits &#xF8;nsker at k&#xF8;be?</translation>
+    </message>
+    <message>
+      <source>Choose payment method</source>
+      <translation>V&#xE6;lg betalingsm&#xE5;de</translation>
+    </message>
+  </context>
+  <context>
+    <name>credits_handler/accept</name>
+    <message>
+      <source>Order succesfull</source>
+      <translation>Bestil succesfulde</translation>
+    </message>
+    <message>
+      <source>Payment was succesfull</source>
+      <translation>Betaling blev succesfulde</translation>
+    </message>
+  </context>
+  <context>
+    <name>credits_handler/process</name>
+    <message>
+      <source>Checkout</source>
+      <translation>Kassen</translation>
+    </message>
+    <message>
+      <source>Confirm payment</source>
+      <translation>Bekr&#xE6;ft betaling</translation>
+    </message>
+    <message>
+      <source>Not enouth credits to checkout</source>
+      <translation>Ikke enouth kreditter til kassen</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/cancel</name>
+    <message>
+      <source>Payment canceled</source>
+      <translation>Betaling annulleret</translation>
+    </message>
+    <message>
+      <source>Paypal payment was canceled.</source>
+      <translation>Paypal betaling blev annulleret.</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/error</name>
+    <message>
+      <source>Error</source>
+      <translation>Fejl</translation>
+    </message>
+    <message>
+      <source>Execution was terminated unexpectedly.</source>
+      <translation>Henrettelse var afsluttede uventet.</translation>
+    </message>
+  </context>
+  <context>
+    <name>paypal_handler/process</name>
+    <message>
+      <source>Checkout using Paypal</source>
+      <translation>Checkout ved hj&#xE6;lp af Paypal</translation>
+    </message>
+    <message>
+      <source>Buyer\'s Email</source>
+      <translation>K&#xF8;ber \ &amp;#39;s E-mail</translation>
+    </message>
+    <message>
+      <source>Amount</source>
+      <translation>Bel&#xF8;b</translation>
+    </message>
+    <message>
+      <source>Currency</source>
+      <translation>Valuta</translation>
+    </message>
+    <message>
+      <source>Credits</source>
+      <translation>Medvirkende</translation>
+    </message>
+  </context>
+  <context>
+    <name>paypal_handler/review</name>
+    <message>
+      <source>Order payment confirmation</source>
+      <translation>Bestil bekr&#xE6;ftelse af betaling</translation>
+    </message>
+    <message>
+      <source>Order amount</source>
+      <translation>Ordrebel&#xF8;b</translation>
+    </message>
+    <message>
+      <source>Confirm payment</source>
+      <translation>Bekr&#xE6;ft betaling</translation>
+    </message>
+    <message>
+      <source>Thank you for your payment!</source>
+      <translation>Tak for din betaling!</translation>
+    </message>
+    <message>
+      <source>credits</source>
+      <translation>kreditter</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/mycredits</name>
+    <message>
+      <source>My credits balanse</source>
+      <translation>Min kreditter balanse</translation>
+    </message>
+    <message>
+      <source>You have</source>
+      <translation>Du har</translation>
+    </message>
+    <message>
+      <source>in your account</source>
+      <translation>i din konto</translation>
+    </message>
+    <message>
+      <source>Buy credits</source>
+      <translation>K&#xF8;be kreditter</translation>
+    </message>
+    <message>
+      <source>My credits</source>
+      <translation>Min kreditter</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/myorders</name>
+    <message>
+      <source>My credits orders</source>
+      <translation>Min kreditter ordrer</translation>
+    </message>
+    <message>
+      <source>Date</source>
+      <translation>Dato</translation>
+    </message>
+    <message>
+      <source>Order price</source>
+      <translation>Bestil pris</translation>
+    </message>
+    <message>
+      <source>Order credits</source>
+      <translation>Bestil kreditter</translation>
+    </message>
+    <message>
+      <source>Order status</source>
+      <translation>Ordrestatus</translation>
+    </message>
+    <message>
+      <source>Payed</source>
+      <translation>Betales</translation>
+    </message>
+    <message>
+      <source>Confirmed</source>
+      <translation>Bekr&#xE6;ftet</translation>
+    </message>
+    <message>
+      <source>My orders</source>
+      <translation>Mine ordrer</translation>
+    </message>
+    <message>
+      <source>Order view</source>
+      <translation>Bestil udsigt</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/orderview</name>
+    <message>
+      <source>Order view</source>
+      <translation>Bestil udsigt</translation>
+    </message>
+    <message>
+      <source>Order time</source>
+      <translation>Bestil tid</translation>
+    </message>
+    <message>
+      <source>Order price</source>
+      <translation>Bestil pris</translation>
+    </message>
+    <message>
+      <source>Order credits</source>
+      <translation>Bestil kreditter</translation>
+    </message>
+    <message>
+      <source>Order status</source>
+      <translation>Ordrestatus</translation>
+    </message>
+    <message>
+      <source>Payed</source>
+      <translation>Betales</translation>
+    </message>
+    <message>
+      <source>Confirmed</source>
+      <translation>Bekr&#xE6;ftet</translation>
+    </message>
+    <message>
+      <source>Ordered items</source>
+      <translation>Bestilte varer</translation>
+    </message>
+    <message>
+      <source>Image name</source>
+      <translation>Billede navn</translation>
+    </message>
+    <message>
+      <source>Version</source>
+      <translation>Version</translation>
+    </message>
+    <message>
+      <source>Image size</source>
+      <translation>Billedst&#xF8;rrelse</translation>
+    </message>
+    <message>
+      <source>Format</source>
+      <translation>Format</translation>
+    </message>
+    <message>
+      <source>Price</source>
+      <translation>Pris</translation>
+    </message>
+    <message>
+      <source>Download count</source>
+      <translation>Download t&#xE6;ller</translation>
+    </message>
+    <message>
+      <source>Downloads left</source>
+      <translation>Downloads til venstre</translation>
+    </message>
+    <message>
+      <source>Credits</source>
+      <translation>Medvirkende</translation>
+    </message>
+    <message>
+      <source>Download image</source>
+      <translation>Download billede</translation>
+    </message>
+    <message>
+      <source>downloads left</source>
+      <translation>downloads venstre</translation>
+    </message>
+    <message>
+      <source>No downloads available</source>
+      <translation>Ingen downloads til r&#xE5;dighed</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/paymentoption</name>
+    <message>
+      <source>Payment option</source>
+      <translation>Betalingsmulighed</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Choose payment method</source>
+      <translation>V&#xE6;lg betalingsm&#xE5;de</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/paymentoptioncredit</name>
+    <message>
+      <source>Payment option</source>
+      <translation>Betalingsmulighed</translation>
+    </message>
+    <message>
+      <source>Continue</source>
+      <translation>Forts&#xE6;t</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/addvote</name>
+    <message>
+      <source>Thank you for your vote</source>
+      <translation>Tak for din stemme</translation>
+    </message>
+    <message>
+      <source>You are not allowed to vote!</source>
+      <translation>Du har ikke lov til at stemme!</translation>
+    </message>
+    <message>
+      <source>You have already voted!</source>
+      <translation>Du har allerede stemt!</translation>
+    </message>
+    <message>
+      <source>Vote deducted!</source>
+      <translation>Stem fratrukket!</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/albumrss</name>
+    <message>
+      <source>Last uploaded images to album</source>
+      <translation>Sidst uploadet billeder til album</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>Se billede</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lasthitsrss</name>
+    <message>
+      <source>watched</source>
+      <translation>set</translation>
+    </message>
+    <message>
+      <source>Last viewed images</source>
+      <translation>Sidst viste billeder</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>Se billede</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/category</name>
+    <message>
+      <source>Root category</source>
+      <translation>Root kategori</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Side</translation>
+    </message>
+    <message>
+      <source>Forum</source>
+      <translation>Forum</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastcommentedrss</name>
+    <message>
+      <source>Last commented images</source>
+      <translation>Senest kommenterede billeder</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>Se billede</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastratedrss</name>
+    <message>
+      <source>Last rated images</source>
+      <translation>Sidste bed&#xF8;mte billeder</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>Se billede</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastuploadsrss</name>
+    <message>
+      <source>Last uploaded images</source>
+      <translation>Sidst uploadet billeder</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>Se billede</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/popularrecent</name>
+    <message>
+      <source>Most popular images in 24 hours</source>
+      <translation>Mest popul&#xE6;re billeder i 24 timer</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Side</translation>
+    </message>
+    <message>
+      <source>Most popular images in last 24 hours.</source>
+      <translation type="unfinished">Mest popul&#xE6;re billeder i de sidste 24 timer.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/popularrss</name>
+    <message>
+      <source>Most popular images</source>
+      <translation>Mest popul&#xE6;re billeder</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/searchrss</name>
+    <message>
+      <source>Search results</source>
+      <translation>S&#xF8;geresultater</translation>
+    </message>
+    <message>
+      <source>Search</source>
+      <translation>S&#xF8;g</translation>
+    </message>
+    <message>
+      <source>Search RSS by keyword</source>
+      <translation>S&#xF8;g RSS efter s&#xF8;geord</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>Se billede</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/tagphoto</name>
+    <message>
+      <source>Thank you a lot :)</source>
+      <translation>Tak en masse:)</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/topratedrss</name>
+    <message>
+      <source>Top rated images</source>
+      <translation>Bedst bed&#xF8;mte billeder</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>Se billede</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/updateimage</name>
+    <message>
+      <source>Image updated</source>
+      <translation>Billede opdateret</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/imagevariation</name>
+    <message>
+      <source>Basket</source>
+      <translation>Kurv</translation>
+    </message>
+    <message>
+      <source>Payment option</source>
+      <translation>Betalingsmulighed</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/imagevariationform</name>
+    <message>
+      <source>Credits amount must be greater than 0!</source>
+      <translation>Credits bel&#xF8;b skal v&#xE6;re st&#xF8;rre end 0!</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/settingedit</name>
+    <message>
+      <source>Edit</source>
+      <translation>Rediger</translation>
+    </message>
+  </context>
+  <context>
+    <name>system/index</name>
+    <message>
+      <source>System administration panel</source>
+      <translation>Systemadministration panel</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/color</name>
+    <message>
+      <source>Exclude color</source>
+      <translation>Udelad farve</translation>
+    </message>
+    <message>
+      <source>Maximum</source>
+      <translation>Maksimal</translation>
+    </message>
+    <message>
+      <source>filters</source>
+      <translation>filtre</translation>
+    </message>
+    <message>
+      <source>Include color</source>
+      <translation>Medtag farve</translation>
+    </message>
+    <message>
+      <source>Remove color</source>
+      <translation>Fjern farve</translation>
+    </message>
+    <message>
+      <source>Excluded colors in search</source>
+      <translation>Udelukket farver i s&#xF8;gningen</translation>
+    </message>
+    <message>
+      <source>colors</source>
+      <translation>farver</translation>
+    </message>
+    <message>
+      <source>More color</source>
+      <translation>Mere farve</translation>
+    </message>
+    <message>
+      <source>Return to pallete</source>
+      <translation>Retur til Pallete</translation>
+    </message>
+    <message>
+      <source>Images by color</source>
+      <translation>Billeder af farve</translation>
+    </message>
+    <message>
+      <source>Choose color</source>
+      <translation>V&#xE6;lg farve</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>Ingen optegnelser.</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Side</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/admincategorys</name>
+    <message>
+      <source>Category</source>
+      <translation>Kategori</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Titel</translation>
+    </message>
+    <message>
+      <source>Owner</source>
+      <translation>Ejer</translation>
+    </message>
+    <message>
+      <source>Topics</source>
+      <translation>Emner</translation>
+    </message>
+    <message>
+      <source>Messages</source>
+      <translation>Meddelelser</translation>
+    </message>
+    <message>
+      <source>Edit category</source>
+      <translation>Rediger kategori</translation>
+    </message>
+    <message>
+      <source>Delete category</source>
+      <translation>Slet kategori</translation>
+    </message>
+    <message>
+      <source>Create a category</source>
+      <translation>Opret en kategori</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>Hjem</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/editcategory</name>
+    <message>
+      <source>Category edit</source>
+      <translation>Kategori redigere</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Opdater</translation>
+    </message>
+    <message>
+      <source>Please enter category name!</source>
+      <translation>Indtast venligst kategorien navn!</translation>
+    </message>
+  </context>
+  <context>
+    <name>lhad/orderitemdetails/orderitemdetails_display_ad_magazine</name>
+    <message>
+      <source>Please enable JavaScript to upload image</source>
+      <translation>Sl&#xE5; JavaScript til for at uploade billede</translation>
+    </message>
+  </context>
+  <context>
+    <name>lhad/uploadadorderitem_content</name>
+    <message>
+      <source>Cancel</source>
+      <translation>Annuller</translation>
+    </message>
+    <message>
+      <source>Failed</source>
+      <translation>Mislykket</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/ratebanlist</name>
+    <message>
+      <source>Baned IP for rating</source>
+      <translation>Baned IP til bed&#xF8;mmelse</translation>
+    </message>
+    <message>
+      <source>Are you sure?</source>
+      <translation>Er du sikker?</translation>
+    </message>
+    <message>
+      <source>Delete ip</source>
+      <translation>Slet ip</translation>
+    </message>
+    <message>
+      <source>New IP BAN</source>
+      <translation>Ny IP-BAN</translation>
+    </message>
+    <message>
+      <source>IP</source>
+      <translation>IP</translation>
+    </message>
+    <message>
+      <source>Add</source>
+      <translation>Tilf&#xF8;j</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Systemkonfiguration</translation>
+    </message>
+    <message>
+      <source>Comment ban IP</source>
+      <translation>Kommentar forbud IP</translation>
+    </message>
+    <message>
+      <source>Rate ban IP</source>
+      <translation>Bed&#xF8;m forbud IP</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/movealbumphotos</name>
+    <message>
+      <source>Search album</source>
+      <translation>S&#xF8;g album</translation>
+    </message>
+    <message>
+      <source>Move photos</source>
+      <translation>Flyt billeder</translation>
+    </message>
+    <message>
+      <source>We moved</source>
+      <translation>Vi flyttede</translation>
+    </message>
+    <message>
+      <source>images</source>
+      <translation>billeder</translation>
+    </message>
+    <message>
+      <source>Move album photos</source>
+      <translation>Flyt album fotos</translation>
+    </message>
+  </context>
+  <context>
+    <name>fb/album</name>
+    <message>
+      <source>Check photo to import</source>
+      <translation>Check foto for at importere</translation>
+    </message>
+    <message>
+      <source>Import selected images to</source>
+      <translation>Importer valgte billeder til</translation>
+    </message>
+    <message>
+      <source>To what album you want to import images, start typing album name and click search</source>
+      <translation>I hvilket album du &#xF8;nsker at importere billeder, begynde at skrive albummets navn og klik p&#xE5; s&#xF8;g</translation>
+    </message>
+    <message>
+      <source>Search for album</source>
+      <translation>S&#xF8;g efter album</translation>
+    </message>
+    <message>
+      <source>Check all</source>
+      <translation>Check alle</translation>
+    </message>
+    <message>
+      <source>Click to see target, new window will open</source>
+      <translation>Klik for at se m&#xE5;let, vil nye vindue &#xE5;bent</translation>
+    </message>
+    <message>
+      <source>Import selected images</source>
+      <translation>Importer markerede billeder</translation>
+    </message>
+    <message>
+      <source>Please choose atleast one image!</source>
+      <translation>V&#xE6;lg atleast et billede!</translation>
+    </message>
+    <message>
+      <source>images to import</source>
+      <translation>billeder til at importere</translation>
+    </message>
+    <message>
+      <source>All images were imported</source>
+      <translation>Alle billeder blev importeret</translation>
+    </message>
+    <message>
+      <source>Please choose album</source>
+      <translation>V&#xE6;lg album</translation>
+    </message>
+    <message>
+      <source>Preview version</source>
+      <translation>Preview-version</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastsearches</name>
+    <message>
+      <source>Last searches</source>
+      <translation>Seneste s&#xF8;gninger</translation>
+    </message>
+    <message>
+      <source>No records</source>
+      <translation>Ingen optegnelser</translation>
+    </message>
+  </context>
+  <context>
+    <name>similar/similar</name>
+    <message>
+      <source>Visualy similar images to</source>
+      <translation>Visualy lignende billeder til</translation>
+    </message>
+    <message>
+      <source>Search for visualy similar images</source>
+      <translation>S&#xF8;g efter visualy lignende billeder</translation>
+    </message>
+    <message>
+      <source>Please enable JavaScript to upload image</source>
+      <translation>Sl&#xE5; JavaScript til for at uploade billede</translation>
+    </message>
+    <message>
+      <source>Click to choose image, you can also Drag and Drop file here (Drag and drop only for FF, Chrome).</source>
+      <translation>Klik for at v&#xE6;lge billedet, kan du ogs&#xE5; tr&#xE6;kke og slippe filer her (Tr&#xE6;k og slip kun for FF, Chrome).</translation>
+    </message>
+    <message>
+      <source>Cancel</source>
+      <translation>Annuller</translation>
+    </message>
+    <message>
+      <source>Failed</source>
+      <translation>Mislykket</translation>
+    </message>
+  </context>
+  <context>
+    <name>similar/sketch</name>
+    <message>
+      <source>Search by sketch</source>
+      <translation>S&#xF8;g efter sketch</translation>
+    </message>
+    <message>
+      <source>Sketch and find images by your sketch</source>
+      <translation>Skitse og finde billeder ved din tegning</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/mapaccounts</name>
+    <message>
+      <source>Login with facebook</source>
+      <translation>Log ind med Facebook</translation>
+    </message>
+    <message>
+      <source>Map to my account</source>
+      <translation>Kort til min konto</translation>
+    </message>
+    <message>
+      <source>my account</source>
+      <translation>min konto</translation>
+    </message>
+    <message>
+      <source>Login</source>
+      <translation>Log ind</translation>
+    </message>
+    <message>
+      <source>map to my account</source>
+      <translation>kort til min konto</translation>
+    </message>
+    <message>
+      <source>Incorrect login or password</source>
+      <translation>Forkert login eller password</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Brugernavn</translation>
+    </message>
+    <message>
+      <source>Password</source>
+      <translation>Password</translation>
+    </message>
+    <message>
+      <source>OR</source>
+      <translation>ELLER</translation>
+    </message>
+    <message>
+      <source>create account</source>
+      <translation>Opret en konto</translation>
+    </message>
+    <message>
+      <source>Next</source>
+      <translation>N&#xE6;ste</translation>
+    </message>
+    <message>
+      <source>Open ID</source>
+      <translation>Open ID</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/category</name>
+    <message>
+      <source>Please enter topic name!</source>
+      <translation>Indtast venligst emne navn!</translation>
+    </message>
+    <message>
+      <source>Please enter message!</source>
+      <translation>Indtast venligst besked!</translation>
+    </message>
+    <message>
+      <source>Please choose category!</source>
+      <translation>V&#xE6;lg venligst kategori!</translation>
+    </message>
+    <message>
+      <source>Not parent category!</source>
+      <translation>Ikke for&#xE6;lder kategori!</translation>
+    </message>
+    <message>
+      <source>Invalid category!</source>
+      <translation>Ugyldig kategori!</translation>
+    </message>
+    <message>
+      <source>Forum</source>
+      <translation>Forum</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/createcategory</name>
+    <message>
+      <source>Please enter category name!</source>
+      <translation>Indtast venligst kategorien navn!</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>Hjem</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/editmessage</name>
+    <message>
+      <source>Please enter message!</source>
+      <translation>Indtast venligst besked!</translation>
+    </message>
+    <message>
+      <source>Forum</source>
+      <translation>Forum</translation>
+    </message>
+    <message>
+      <source>Message edit</source>
+      <translation>Besked redigere</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/edittopic</name>
+    <message>
+      <source>Please enter topic name!</source>
+      <translation>Indtast venligst emne navn!</translation>
+    </message>
+    <message>
+      <source>Please enter topic status!</source>
+      <translation>Indtast venligst emne status!</translation>
+    </message>
+    <message>
+      <source>Forum</source>
+      <translation>Forum</translation>
+    </message>
+    <message>
+      <source>Topic edit</source>
+      <translation>Emne redigere</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/report</name>
+    <message>
+      <source>Please enter message!</source>
+      <translation>Indtast venligst besked!</translation>
+    </message>
+    <message>
+      <source>Forum message report</source>
+      <translation>Forum besked rapport</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/searchrss</name>
+    <message>
+      <source>Search</source>
+      <translation>S&#xF8;g</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/albumeditadmin</name>
+    <message>
+      <source>Root category</source>
+      <translation>Root kategori</translation>
+    </message>
+    <message>
+      <source>Add images</source>
+      <translation>Tilf&#xF8;j billeder</translation>
+    </message>
+    <message>
+      <source>Album edit</source>
+      <translation>Album redigere</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/movebyresolution</name>
+    <message>
+      <source>Move by resolution</source>
+      <translation>Flyt ved resolution</translation>
+    </message>
+  </context>
+  <context>
+    <name>similar/image</name>
+    <message>
+      <source>Similar images to</source>
+      <translation>Lignende billeder til</translation>
+    </message>
+    <message>
+      <source>Search for visualy similar images</source>
+      <translation>S&#xF8;g efter visualy lignende billeder</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/profile</name>
+    <message>
+      <source>User profile</source>
+      <translation type="unfinished">Bruger profil</translation>
+    </message>
+    <message>
+      <source>Name and surname</source>
+      <translation type="unfinished">Navn og efternavn</translation>
+    </message>
+    <message>
+      <source>Website</source>
+      <translation type="unfinished">Hjemmeside</translation>
+    </message>
+    <message>
+      <source>Introduction</source>
+      <translation type="unfinished">Indledning</translation>
+    </message>
+    <message>
+      <source>Last updated albums</source>
+      <translation type="unfinished">Sidst opdaterede albums</translation>
+    </message>
+    <message>
+      <source>Last uploaded images</source>
+      <translation type="unfinished">Sidste uploadede billeder</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastuploadstoalbums</name>
+    <message>
+      <source>Last uploads to albums</source>
+      <translation type="unfinished">Nyeste uploads til album</translation>
+    </message>
+    <message>
+      <source>Recently updated albums</source>
+      <translation type="unfinished">For nylig opdaterede albums</translation>
+    </message>
+  </context>
+</TS>

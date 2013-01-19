@@ -1,0 +1,4280 @@
+<?xml version="1.0"?>
+<!DOCTYPE TS>
+<TS>
+  <context>
+    <name>article/editstatic</name>
+    <message>
+      <source>Article name</source>
+      <translation>Articolul nume</translation>
+    </message>
+    <message>
+      <source>Body</source>
+      <translation>Corp</translation>
+    </message>
+    <message>
+      <source>Article edit</source>
+      <translation>Articolul edita</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Actualizare</translation>
+    </message>
+  </context>
+  <context>
+    <name>article/newstatic</name>
+    <message>
+      <source>New article</source>
+      <translation>Nou articol</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Salva</translation>
+    </message>
+  </context>
+  <context>
+    <name>article/staticlist</name>
+    <message>
+      <source>Static articles</source>
+      <translation>Articole static</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Nume</translation>
+    </message>
+    <message>
+      <source>Edit</source>
+      <translation>Edita</translation>
+    </message>
+    <message>
+      <source>New article</source>
+      <translation>Nou articol</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/admincategorys</name>
+    <message>
+      <source>Category</source>
+      <translation>Categorie</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Titlu</translation>
+    </message>
+    <message>
+      <source>Owner</source>
+      <translation>Proprietar</translation>
+    </message>
+    <message>
+      <source>Topics</source>
+      <translation>Subiecte</translation>
+    </message>
+    <message>
+      <source>Messages</source>
+      <translation>Mesaje</translation>
+    </message>
+    <message>
+      <source>Edit category</source>
+      <translation>Editare categorie</translation>
+    </message>
+    <message>
+      <source>Delete category</source>
+      <translation>&#x15E;tergere categorie</translation>
+    </message>
+    <message>
+      <source>Create a category</source>
+      <translation>Crearea unei categorii</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>Acas&#x103;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/album</name>
+    <message>
+      <source>No records</source>
+      <translation>Nici o inregistrare</translation>
+    </message>
+    <message>
+      <source>Search by color and keyword, just try to see how fun it is!</source>
+      <translation>Cautati cu ajutorul culoare &#x15F;i cuvinte cheie, &#xEE;ncerca&#x163;i doar pentru a vedea cat de distractiv este!</translation>
+    </message>
+    <message>
+      <source>Enter keyword or phrase</source>
+      <translation>Introduce&#x163;i cuvinte cheie sau o expresie</translation>
+    </message>
+    <message>
+      <source>Search entire gallery</source>
+      <translation>C&#x103;utare &#xEE;ntreaga galerie</translation>
+    </message>
+    <message>
+      <source>Search</source>
+      <translation>C&#x103;utare</translation>
+    </message>
+    <message>
+      <source>enter keyword and click color, or just click color</source>
+      <translation>introduce&#x163;i cuv&#xE2;ntul cheie &#x15F;i face&#x163;i clic pe culoare, sau doar face&#x163;i clic pe culoarea</translation>
+    </message>
+    <message>
+      <source>Include color</source>
+      <translation>Include&#x163;i culoare</translation>
+    </message>
+    <message>
+      <source>Exclude color</source>
+      <translation>Exclude&#x163;i culoare</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Pagin&#x103;</translation>
+    </message>
+    <message>
+      <source>Last uploaded last</source>
+      <translation>Ultima &#xEE;nc&#x103;rcat ultima</translation>
+    </message>
+    <message>
+      <source>Most popular first</source>
+      <translation>Cele mai populare prima</translation>
+    </message>
+    <message>
+      <source>Most popular last</source>
+      <translation>Cele mai populare ultima</translation>
+    </message>
+    <message>
+      <source>Last hits first</source>
+      <translation>Ultima afisari prima</translation>
+    </message>
+    <message>
+      <source>Last hits last</source>
+      <translation>Ultima ultimele hit-uri</translation>
+    </message>
+    <message>
+      <source>Last commented first</source>
+      <translation>Ultima comentat prima</translation>
+    </message>
+    <message>
+      <source>Last commented last</source>
+      <translation>Ultima comentat ultimele</translation>
+    </message>
+    <message>
+      <source>Last rated first</source>
+      <translation>Ultima evaluat prima</translation>
+    </message>
+    <message>
+      <source>Last rated last</source>
+      <translation>Ultima evaluat ultima</translation>
+    </message>
+    <message>
+      <source>Top rated first</source>
+      <translation>Cele mai bine cotate prima</translation>
+    </message>
+    <message>
+      <source>Top rated last Last</source>
+      <translation>Cele mai bine cotate Ultimul Ultimul</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Rezolu&#x163;ie</translation>
+    </message>
+    <message>
+      <source>Last uploaded images to album</source>
+      <translation>Ultimele imagini &#xEE;nc&#x103;rcate &#xEE;n album</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/createcategory</name>
+    <message>
+      <source>New category</source>
+      <translation>Noua categorie</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Salva</translation>
+    </message>
+    <message>
+      <source>back</source>
+      <translation>&#xEE;napoi</translation>
+    </message>
+    <message>
+      <source>Please enter message!</source>
+      <translation>Va rugam introduceti mesajul!</translation>
+    </message>
+    <message>
+      <source>Please enter category name!</source>
+      <translation>Va rugam introduceti numele categorie!</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>Acas&#x103;</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/editcategory</name>
+    <message>
+      <source>Category edit</source>
+      <translation>Categorie edita</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Actualizare</translation>
+    </message>
+    <message>
+      <source>Please enter category name!</source>
+      <translation>Va rugam introduceti numele categorie!</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/editcategory</name>
+    <message>
+      <source>back</source>
+      <translation>&#xEE;napoi</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Nume</translation>
+    </message>
+    <message>
+      <source>Description</source>
+      <translation>Descriere</translation>
+    </message>
+    <message>
+      <source>Owner</source>
+      <translation>Proprietar</translation>
+    </message>
+    <message>
+      <source>Category edit</source>
+      <translation>Categorie edita</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Actualizare</translation>
+    </message>
+    <message>
+      <source>Hide subcategorys in frontpage</source>
+      <translation>Ascunde subcategorys &#xEE;n FrontPage</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/albumedit</name>
+    <message>
+      <source>Edit topic</source>
+      <translation>Editare subiect</translation>
+    </message>
+    <message>
+      <source>Topic name</source>
+      <translation>Subiect nume</translation>
+    </message>
+    <message>
+      <source>Topic status</source>
+      <translation>Subiect de stare</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Actualizare</translation>
+    </message>
+    <message>
+      <source>Album edit</source>
+      <translation>Album edita</translation>
+    </message>
+    <message>
+      <source>Album name</source>
+      <translation>Nume album</translation>
+    </message>
+    <message>
+      <source>Album category</source>
+      <translation>Album categorie</translation>
+    </message>
+    <message>
+      <source>Album owner</source>
+      <translation>Album proprietarului,</translation>
+    </message>
+    <message>
+      <source>Description</source>
+      <translation>Descriere</translation>
+    </message>
+    <message>
+      <source>Keywords</source>
+      <translation>Cuvinte cheie</translation>
+    </message>
+    <message>
+      <source>Public</source>
+      <translation>Public</translation>
+    </message>
+    <message>
+      <source>All users can uploads images to this album</source>
+      <translation>To&#x163;i utilizatorii pot imagini incarcate la acest album</translation>
+    </message>
+    <message>
+      <source>Hidden</source>
+      <translation>Ascuns</translation>
+    </message>
+    <message>
+      <source>Hide album from users</source>
+      <translation>Ascunde album de la utilizatori</translation>
+    </message>
+    <message>
+      <source>Album thumbnail</source>
+      <translation>Album miniatur&#x103;</translation>
+    </message>
+    <message>
+      <source>Newest album image</source>
+      <translation>Cele mai noi album imagini</translation>
+    </message>
+    <message>
+      <source>Revert to newest album image display mode</source>
+      <translation>Reveni&#x163;i la modul cel mai nou album afi&#x15F;are imagini</translation>
+    </message>
+    <message>
+      <source>Remove</source>
+      <translation>&#xCE;ndep&#x103;rta</translation>
+    </message>
+    <message>
+      <source>Edit message</source>
+      <translation>Editare mesaj</translation>
+    </message>
+    <message>
+      <source>Message</source>
+      <translation>Mesaj</translation>
+    </message>
+    <message>
+      <source>File</source>
+      <translation>Fi&#x15F;ier</translation>
+    </message>
+    <message>
+      <source>New message</source>
+      <translation>Mesaj nou</translation>
+    </message>
+    <message>
+      <source>Publish</source>
+      <translation>Publica</translation>
+    </message>
+    <message>
+      <source>New topic</source>
+      <translation>Subiect nou</translation>
+    </message>
+    <message>
+      <source>Choose topic category</source>
+      <translation>Alege categorie subiect</translation>
+    </message>
+    <message>
+      <source>Please enter album name!</source>
+      <translation>Va rugam introduceti numele albumului!</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/album_list_admin</name>
+    <message>
+      <source>Are you sure?</source>
+      <translation>Sunte&#x163;i sigur?</translation>
+    </message>
+    <message>
+      <source>Add images</source>
+      <translation>Adauga imagini</translation>
+    </message>
+    <message>
+      <source>Edit album</source>
+      <translation>Editare album</translation>
+    </message>
+    <message>
+      <source>Move all album photos to another album</source>
+      <translation>Mutare toate fotografiile album &#xEE;n alt album</translation>
+    </message>
+    <message>
+      <source>Move photos by resolution</source>
+      <translation>Muta&#x163;i fotografii de rezolu&#x163;ie</translation>
+    </message>
+    <message>
+      <source>Delete album</source>
+      <translation>&#x15E;tergere album</translation>
+    </message>
+    <message>
+      <source>Approve all images</source>
+      <translation>Aproba toate imaginile</translation>
+    </message>
+    <message>
+      <source>Disapprove all images</source>
+      <translation>Dezaproba toate imaginile</translation>
+    </message>
+    <message>
+      <source>View on site</source>
+      <translation>Vezi pe site-ul</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/userlist</name>
+    <message>
+      <source>Report list</source>
+      <translation>Raport list&#x103;</translation>
+    </message>
+    <message>
+      <source>Report</source>
+      <translation>Raport</translation>
+    </message>
+    <message>
+      <source>Topic</source>
+      <translation>Subiect</translation>
+    </message>
+    <message>
+      <source>Topic message</source>
+      <translation>Subiect mesaj</translation>
+    </message>
+    <message>
+      <source>Date</source>
+      <translation>Data</translation>
+    </message>
+    <message>
+      <source>Edit topic</source>
+      <translation>Editare subiect</translation>
+    </message>
+    <message>
+      <source>Delete topic</source>
+      <translation>&#x15E;tergere subiect</translation>
+    </message>
+    <message>
+      <source>IP</source>
+      <translation>IP</translation>
+    </message>
+    <message>
+      <source>Users</source>
+      <translation>Utilizatori</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Nume de utilizator</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Edit user</source>
+      <translation>Edita un utilizator de</translation>
+    </message>
+    <message>
+      <source>Delete user</source>
+      <translation>&#x15E;tergere utilizator</translation>
+    </message>
+    <message>
+      <source>New user</source>
+      <translation>Utilizator nou</translation>
+    </message>
+    <message>
+      <source>Replace image</source>
+      <translation>&#xCE;nlocui&#x163;i imaginea</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Sistem de configurare</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/subcategory_list</name>
+    <message>
+      <source>images</source>
+      <translation>imagini</translation>
+    </message>
+    <message>
+      <source>albums</source>
+      <translation>albume</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/addimages</name>
+    <message>
+      <source>Add images to album</source>
+      <translation>Adaug&#x103; imagini pentru a le album</translation>
+    </message>
+    <message>
+      <source>Move album images to another album</source>
+      <translation>Mutare imagini album &#xEE;n alt album</translation>
+    </message>
+    <message>
+      <source>Move image to another album</source>
+      <translation>Mut&#x103; &#x200B;&#x200B;imaginea &#xEE;n alt album</translation>
+    </message>
+  </context>
+  <context>
+    <name>lhad/orderitemdetails/orderitemdetails_display_ad_magazine</name>
+    <message>
+      <source>Please enable JavaScript to upload image</source>
+      <translation>V&#x103; rug&#x103;m s&#x103; activa&#x163;i JavaScript pentru a &#xEE;nc&#x103;rca imagini</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/publicupload</name>
+    <message>
+      <source>Upload</source>
+      <translation>&#xCE;ncarc&#x103;</translation>
+    </message>
+    <message>
+      <source>Click to choose images to upload, you can also drop files here.</source>
+      <translation>Click aici pentru a alege imagini pentru a le &#xEE;nc&#x103;rca, pute&#x163;i plasa, de asemenea, fi&#x15F;iere aici.</translation>
+    </message>
+    <message>
+      <source>Click to choose images to upload, you can also Drag and Drop files here (Darg and drop only for FF, Chrome).</source>
+      <translation>Click aici pentru a alege imagini pentru a le &#xEE;nc&#x103;rca, de asemenea, ave&#x163;i posibilitatea s&#x103; glisa&#x163;i &#x15F;i fixa&#x163;i fi&#x15F;ierele aici (Darg &#x15F;i meniurile numai pentru FF, Chrome).</translation>
+    </message>
+    <message>
+      <source>Public images archive upload</source>
+      <translation>Imagini de arhiv&#x103; public&#x103; de &#xEE;nc&#x103;rcare</translation>
+    </message>
+    <message>
+      <source>Click to choose zip to upload, you can also drop files here (Darg and drop only for FF, Chrome).</source>
+      <translation>Click aici pentru a alege zip pentru a &#xEE;nc&#x103;rca, pute&#x163;i plasa, de asemenea, fi&#x15F;iere de aici (Darg &#x15F;i meniurile numai pentru FF, Chrome).</translation>
+    </message>
+    <message>
+      <source>Public images upload</source>
+      <translation>Imagini publice &#xEE;nc&#x103;rca&#x163;i</translation>
+    </message>
+    <message>
+      <source>Max file size </source>
+      <translation type="unfinished">Max Dimensiune</translation>
+    </message>
+  </context>
+  <context>
+    <name>lhad/uploadadorderitem_content</name>
+    <message>
+      <source>Cancel</source>
+      <translation>Anula</translation>
+    </message>
+    <message>
+      <source>Failed</source>
+      <translation>A e&#x15F;uat</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/fileuploadcontainer</name>
+    <message>
+      <source>Title</source>
+      <translation>Titlu</translation>
+    </message>
+    <message>
+      <source>Keywords</source>
+      <translation>Cuvinte cheie</translation>
+    </message>
+    <message>
+      <source>Cross eye image</source>
+      <translation>Crucea ochi imagini</translation>
+    </message>
+    <message>
+      <source>Caption</source>
+      <translation>Legend&#x103;</translation>
+    </message>
+    <message>
+      <source>Enter new album name or choose public album</source>
+      <translation>Introduce&#x163;i numele albumului nou sau pute&#x163;i alege album public</translation>
+    </message>
+    <message>
+      <source>description</source>
+      <translation>descriere</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/admincategorys</name>
+    <message>
+      <source>Category</source>
+      <translation>Categorie</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Titlu</translation>
+    </message>
+    <message>
+      <source>Owner</source>
+      <translation>Proprietar</translation>
+    </message>
+    <message>
+      <source>Edit category</source>
+      <translation>Editare categorie</translation>
+    </message>
+    <message>
+      <source>Delete category</source>
+      <translation>&#x15E;tergere categorie</translation>
+    </message>
+    <message>
+      <source>Create a category</source>
+      <translation>Crearea unei categorii</translation>
+    </message>
+    <message>
+      <source>Category albums</source>
+      <translation>Categorie albume</translation>
+    </message>
+    <message>
+      <source>This category does not have an album.</source>
+      <translation>Aceast&#x103; categorie nu are un album.</translation>
+    </message>
+    <message>
+      <source>Create an album</source>
+      <translation>Crea&#x163;i un album</translation>
+    </message>
+    <message>
+      <source>Batch album create</source>
+      <translation>Albumul a crea lot</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>Acas&#x103;</translation>
+    </message>
+    <message>
+      <source>Root category</source>
+      <translation>Root categorie</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/album_list</name>
+    <message>
+      <source>files</source>
+      <translation>fi&#x15F;iere</translation>
+    </message>
+    <message>
+      <source>Album priority</source>
+      <translation>Album prioritate</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/batchadd</name>
+    <message>
+      <source>I cannot write this directory</source>
+      <translation>Eu nu pot scrie acest director</translation>
+    </message>
+    <message>
+      <source>No image were found!</source>
+      <translation>Nici o imagine nu s-au g&#x103;sit!</translation>
+    </message>
+    <message>
+      <source>Import</source>
+      <translation>Import</translation>
+    </message>
+    <message>
+      <source>Import recursive this directory</source>
+      <translation>Import recursive acest director</translation>
+    </message>
+    <message>
+      <source>Search</source>
+      <translation>C&#x103;utare</translation>
+    </message>
+    <message>
+      <source>Please enter album name and click search</source>
+      <translation>Te rug&#x103;m s&#x103; introduci numele albumului &#x15F;i face&#x163;i clic pe c&#x103;utare</translation>
+    </message>
+    <message>
+      <source>List images</source>
+      <translation>Lista imagini</translation>
+    </message>
+    <message>
+      <source>List images recursive</source>
+      <translation>Imagini recursive list&#x103;</translation>
+    </message>
+    <message>
+      <source>Import images</source>
+      <translation>Import imagini</translation>
+    </message>
+    <message>
+      <source>Click list images or list images recursive</source>
+      <translation>Dati click pe imagini list&#x103; sau imagini list&#x103; recursive</translation>
+    </message>
+    <message>
+      <source>Add images</source>
+      <translation>Adauga imagini</translation>
+    </message>
+    <message>
+      <source>Please choose album first!</source>
+      <translation>V&#x103; rug&#x103;m s&#x103; alege&#x163;i primul album!</translation>
+    </message>
+    <message>
+      <source>Mass image upload</source>
+      <translation>Masa de &#xEE;nc&#x103;rcare a imaginilor</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/ratebanlist</name>
+    <message>
+      <source>Baned IP for rating</source>
+      <translation>IP Baned pentru evaluare</translation>
+    </message>
+    <message>
+      <source>Are you sure?</source>
+      <translation>Sunte&#x163;i sigur?</translation>
+    </message>
+    <message>
+      <source>Delete ip</source>
+      <translation>&#x15E;tergere ip</translation>
+    </message>
+    <message>
+      <source>New IP BAN</source>
+      <translation>Noi IP BAN</translation>
+    </message>
+    <message>
+      <source>IP</source>
+      <translation>IP</translation>
+    </message>
+    <message>
+      <source>Add</source>
+      <translation>Ad&#x103;uga</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Sistem de configurare</translation>
+    </message>
+    <message>
+      <source>Comment ban IP</source>
+      <translation>Comentariu IP ban</translation>
+    </message>
+    <message>
+      <source>Rate ban IP</source>
+      <translation>Rata de IP ban</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/grouplist</name>
+    <message>
+      <source>Delete comment</source>
+      <translation>&#x15E;tergere comentariu</translation>
+    </message>
+    <message>
+      <source>Edit comment</source>
+      <translation>Editare &#xEE;n comentariu</translation>
+    </message>
+    <message>
+      <source>Delete image</source>
+      <translation>&#x15E;terge&#x163;i imaginea</translation>
+    </message>
+    <message>
+      <source>Groups</source>
+      <translation>Grupuri</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Nume</translation>
+    </message>
+    <message>
+      <source>Edit group</source>
+      <translation>Editare grup</translation>
+    </message>
+    <message>
+      <source>Delete group</source>
+      <translation>&#x15E;tergere grup</translation>
+    </message>
+    <message>
+      <source>New group</source>
+      <translation>Grup nou</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Sistem de configurare</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/my_image_list</name>
+    <message>
+      <source>Delete comment</source>
+      <translation>&#x15E;tergere comentariu</translation>
+    </message>
+    <message>
+      <source>Edit comment</source>
+      <translation>Editare &#xEE;n comentariu</translation>
+    </message>
+    <message>
+      <source>Delete image</source>
+      <translation>&#x15E;terge&#x163;i imaginea</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>Vizualizare imagine</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Titlu</translation>
+    </message>
+    <message>
+      <source>Keywords</source>
+      <translation>Cuvinte cheie</translation>
+    </message>
+    <message>
+      <source>Caption</source>
+      <translation>Legend&#x103;</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Actualizare</translation>
+    </message>
+    <message>
+      <source>Message author</source>
+      <translation>Mesaj de autor</translation>
+    </message>
+    <message>
+      <source>Message</source>
+      <translation>Mesaj</translation>
+    </message>
+    <message>
+      <source>Rotate image clockwise</source>
+      <translation>Rotire imagine sensul acelor de ceasornic</translation>
+    </message>
+    <message>
+      <source>Flip horizontaly</source>
+      <translation>Flip horizontaly</translation>
+    </message>
+    <message>
+      <source>Flip verticaly</source>
+      <translation>Flip verticaly</translation>
+    </message>
+    <message>
+      <source>Upload new image</source>
+      <translation>&#xCE;nc&#x103;rca&#x163;i imagine nou&#x103;</translation>
+    </message>
+    <message>
+      <source>Set as folder thumbnail</source>
+      <translation>Seta&#x163;i ca miniatur&#x103; dosar</translation>
+    </message>
+    <message>
+      <source>Move image to another album</source>
+      <translation>Mut&#x103; &#x200B;&#x200B;imaginea &#xEE;n alt album</translation>
+    </message>
+    <message>
+      <source>Anaglyph</source>
+      <translation>Anaglif&#x103;</translation>
+    </message>
+    <message>
+      <source>Approved</source>
+      <translation>Aprobat</translation>
+    </message>
+    <message>
+      <source>Select image</source>
+      <translation>Selecta&#x163;i imaginea</translation>
+    </message>
+    <message>
+      <source>File</source>
+      <translation>Fi&#x15F;ier</translation>
+    </message>
+    <message>
+      <source>Upload</source>
+      <translation>&#xCE;ncarc&#x103;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/createalbumadmin</name>
+    <message>
+      <source>New album</source>
+      <translation>Nou album</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Salva</translation>
+    </message>
+    <message>
+      <source>New batch album create</source>
+      <translation>Album nou lot a crea</translation>
+    </message>
+    <message>
+      <source>Paste album names separated by new line</source>
+      <translation>Nume de past&#x103; album separate prin noua linie</translation>
+    </message>
+    <message>
+      <source>Public</source>
+      <translation>Public</translation>
+    </message>
+    <message>
+      <source>All users can uploads images to this album</source>
+      <translation>To&#x163;i utilizatorii pot imagini incarcate la acest album</translation>
+    </message>
+    <message>
+      <source>Please enter album name!</source>
+      <translation>Va rugam introduceti numele albumului!</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/duplicates</name>
+    <message>
+      <source>Similar images number</source>
+      <translation>Imagini similare num&#x103;r</translation>
+    </message>
+    <message>
+      <source>Details</source>
+      <translation>Detalii</translation>
+    </message>
+    <message>
+      <source>More</source>
+      <translation>Mai mult</translation>
+    </message>
+    <message>
+      <source>Delete duplicate session</source>
+      <translation>&#x15E;tergere dublur&#x103; sesiune</translation>
+    </message>
+    <message>
+      <source>No duplicates pending...</source>
+      <translation>Nr duplicate &#xEE;n a&#x15F;teptarea ...</translation>
+    </message>
+    <message>
+      <source>Duplicates</source>
+      <translation>Dubluri</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/image</name>
+    <message>
+      <source>Picture comments</source>
+      <translation>Poza comentarii</translation>
+    </message>
+    <message>
+      <source>No comments</source>
+      <translation>Nici un comentariu</translation>
+    </message>
+    <message>
+      <source>Comment stored</source>
+      <translation>Comentariu stocate</translation>
+    </message>
+    <message>
+      <source>Leave a reply</source>
+      <translation>Las&#x103; un r&#x103;spuns</translation>
+    </message>
+    <message>
+      <source>Nick</source>
+      <translation>Nick</translation>
+    </message>
+    <message>
+      <source>Max 25 characters</source>
+      <translation>Max 25 de caractere</translation>
+    </message>
+    <message>
+      <source>Message</source>
+      <translation>Mesaj</translation>
+    </message>
+    <message>
+      <source>Send</source>
+      <translation>Trimite</translation>
+    </message>
+    <message>
+      <source>Image edit</source>
+      <translation>Image Edit</translation>
+    </message>
+    <message>
+      <source>Rate this picture</source>
+      <translation>Apreciaza aceasta imagine</translation>
+    </message>
+    <message>
+      <source>star</source>
+      <translation>stea</translation>
+    </message>
+    <message>
+      <source>stars</source>
+      <translation>Stele</translation>
+    </message>
+    <message>
+      <source>Vote!</source>
+      <translation>Voteaza!</translation>
+    </message>
+    <message>
+      <source>Deduct vote!</source>
+      <translation>Deducere vot!</translation>
+    </message>
+    <message>
+      <source>next image</source>
+      <translation>Imaginea urm&#x103;toare</translation>
+    </message>
+    <message>
+      <source>previous image</source>
+      <translation>Imaginea anterioar&#x103;</translation>
+    </message>
+    <message>
+      <source>return to thumbnails</source>
+      <translation>a reveni la miniaturile</translation>
+    </message>
+    <message>
+      <source>Click to see fullsize</source>
+      <translation>Click pentru a vedea fullsize</translation>
+    </message>
+    <message>
+      <source>Supported BB Code style tags: [b] [i] [u] [quote] :) :D :( :o :p ;)</source>
+      <translation>Suportat BB tags stil Code: [b] [i] [u] [quote]:): D: (: o: p;)</translation>
+    </message>
+    <message>
+      <source>Add to favorites</source>
+      <translation>Adauga la favorite</translation>
+    </message>
+    <message>
+      <source>Share this page HTML code</source>
+      <translation>Permite accesul la aceast&#x103; pagin&#x103; HTML code</translation>
+    </message>
+    <message>
+      <source>Share PHPBB code</source>
+      <translation>&#xCE;mp&#x103;rt&#x103;&#x15F;e&#x15F;te PHPBB Cod</translation>
+    </message>
+    <message>
+      <source>Anaglyph version</source>
+      <translation>Anaglif&#x103; versiune</translation>
+    </message>
+    <message>
+      <source>Enter tags separated by space</source>
+      <translation>Introduce tag-uri separate prin spa&#x163;iu</translation>
+    </message>
+    <message>
+      <source>Picture details</source>
+      <translation>Poza detalii</translation>
+    </message>
+    <message>
+      <source>Filename</source>
+      <translation>Filename</translation>
+    </message>
+    <message>
+      <source>File size</source>
+      <translation>M&#x103;rime fi&#x15F;ier</translation>
+    </message>
+    <message>
+      <source>Image rating</source>
+      <translation>Imagini de rating</translation>
+    </message>
+    <message>
+      <source>Date added</source>
+      <translation>Data ad&#x103;ug&#x103;rii</translation>
+    </message>
+    <message>
+      <source>Dimensions</source>
+      <translation>Dimensiuni</translation>
+    </message>
+    <message>
+      <source>Displayed</source>
+      <translation>Afi&#x15F;at</translation>
+    </message>
+    <message>
+      <source>times</source>
+      <translation>ori</translation>
+    </message>
+    <message>
+      <source>Album</source>
+      <translation>Album</translation>
+    </message>
+    <message>
+      <source>URL</source>
+      <translation>URL-ul</translation>
+    </message>
+    <message>
+      <source>Owner</source>
+      <translation>Proprietar</translation>
+    </message>
+    <message>
+      <source>About user</source>
+      <translation type="unfinished">Despre ghidul de</translation>
+    </message>
+    <message>
+      <source>votes</source>
+      <translation>voturi</translation>
+    </message>
+    <message>
+      <source>Search for similar colors images</source>
+      <translation>Caut&#x103; imagini similare culori</translation>
+    </message>
+    <message>
+      <source>Search for visualy similar images</source>
+      <translation>C&#x103;utare pentru imagini visualy similare</translation>
+    </message>
+    <message>
+      <source>More user images</source>
+      <translation>Mai multe fotografii sau ghidul</translation>
+    </message>
+    <message>
+      <source>Version</source>
+      <translation>Versiune</translation>
+    </message>
+    <message>
+      <source>Image size</source>
+      <translation>Dimensiune imagine</translation>
+    </message>
+    <message>
+      <source>Format</source>
+      <translation>Format</translation>
+    </message>
+    <message>
+      <source>Price</source>
+      <translation>Pre&#x163;</translation>
+    </message>
+    <message>
+      <source>credits</source>
+      <translation>credite</translation>
+    </message>
+    <message>
+      <source>Remove from basket</source>
+      <translation>Elimina&#x163;i din co&#x15F;</translation>
+    </message>
+    <message>
+      <source>Add to basket</source>
+      <translation>Adaug&#x103; la co&#x15F;</translation>
+    </message>
+    <message>
+      <source>Wrong captcha code!</source>
+      <translation>Codul de securitate gresit!</translation>
+    </message>
+    <message>
+      <source>Please enter nick!</source>
+      <translation>Te rug&#x103;m s&#x103; introduci nick!</translation>
+    </message>
+    <message>
+      <source>Please enter comment!</source>
+      <translation>Te rug&#x103;m s&#x103; introduci comentariu!</translation>
+    </message>
+    <message>
+      <source>You are not allowed to leave a comments!</source>
+      <translation>Nu vi se permite s&#x103; p&#x103;r&#x103;seasc&#x103; un comentariu!</translation>
+    </message>
+    <message>
+      <source>Guest_</source>
+      <translation>Guest_</translation>
+    </message>
+    <message>
+      <source>Last uploaded images</source>
+      <translation>Ultimele imagini &#xEE;nc&#x103;rcate</translation>
+    </message>
+    <message>
+      <source>Last additions</source>
+      <translation>Ultimele ad&#x103;ugate</translation>
+    </message>
+    <message>
+      <source>Last viewed images</source>
+      <translation>Ultimele imagini vizualizate</translation>
+    </message>
+    <message>
+      <source>Last commented images</source>
+      <translation>Ultimele comentate imagini</translation>
+    </message>
+    <message>
+      <source>Last rated images</source>
+      <translation>Ultimele imagini evaluat</translation>
+    </message>
+    <message>
+      <source>Top rated images</source>
+      <translation>Top imagini evaluat</translation>
+    </message>
+    <message>
+      <source>Search by color</source>
+      <translation>Cautati cu ajutorul culorilor</translation>
+    </message>
+    <message>
+      <source>Most popular images</source>
+      <translation>Cele mai populare imagini</translation>
+    </message>
+    <message>
+      <source>Search rss by keyword</source>
+      <translation>C&#x103;utare dup&#x103; cuv&#xE2;nt cheie RSS</translation>
+    </message>
+    <message>
+      <source>Last uploaded first</source>
+      <translation>Ultima &#xEE;nc&#x103;rcat prima</translation>
+    </message>
+    <message>
+      <source>Last uploaded last</source>
+      <translation>Ultima &#xEE;nc&#x103;rcat ultima</translation>
+    </message>
+    <message>
+      <source>Most popular first</source>
+      <translation>Cele mai populare prima</translation>
+    </message>
+    <message>
+      <source>Most popular last</source>
+      <translation>Cele mai populare ultima</translation>
+    </message>
+    <message>
+      <source>Last hits first</source>
+      <translation>Ultima afisari prima</translation>
+    </message>
+    <message>
+      <source>Last hits last</source>
+      <translation>Ultima ultimele hit-uri</translation>
+    </message>
+    <message>
+      <source>Last commented first</source>
+      <translation>Ultima comentat prima</translation>
+    </message>
+    <message>
+      <source>Last commented last</source>
+      <translation>Ultima comentat ultimele</translation>
+    </message>
+    <message>
+      <source>Top rated first</source>
+      <translation>Cele mai bine cotate prima</translation>
+    </message>
+    <message>
+      <source>Top rated last Last</source>
+      <translation>Cele mai bine cotate Ultimul Ultimul</translation>
+    </message>
+    <message>
+      <source>Last rated first</source>
+      <translation>Ultima evaluat prima</translation>
+    </message>
+    <message>
+      <source>Last rated last</source>
+      <translation>Ultima evaluat ultima</translation>
+    </message>
+    <message>
+      <source>Most relevance images last</source>
+      <translation>Majoritatea imaginilor relevan&#x163;&#x103; pentru ultima</translation>
+    </message>
+    <message>
+      <source>search results</source>
+      <translation>rezultatele c&#x103;ut&#x103;rii</translation>
+    </message>
+    <message>
+      <source>Last uploaded images to album</source>
+      <translation>Ultimele imagini &#xEE;nc&#x103;rcate &#xEE;n album</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/managealbum</name>
+    <message>
+      <source>No records.</source>
+      <translation>Nici o inregistrare.</translation>
+    </message>
+    <message>
+      <source>Category</source>
+      <translation>Categorie</translation>
+    </message>
+    <message>
+      <source>Create an album</source>
+      <translation>Crea&#x163;i un album</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>Acas&#x103;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/managealbumimages</name>
+    <message>
+      <source>Move selected images to</source>
+      <translation>A muta imagini selectate pentru a</translation>
+    </message>
+    <message>
+      <source>Check all</source>
+      <translation>Verific&#x103; toate</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>Nici o inregistrare.</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>Acas&#x103;</translation>
+    </message>
+    <message>
+      <source>Root category</source>
+      <translation>Root categorie</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/movealbumphotos</name>
+    <message>
+      <source>Search album</source>
+      <translation>Caut&#x103; album</translation>
+    </message>
+    <message>
+      <source>Move photos</source>
+      <translation>Mutare fotografii</translation>
+    </message>
+    <message>
+      <source>We moved</source>
+      <translation>Ne-am mutat</translation>
+    </message>
+    <message>
+      <source>images</source>
+      <translation>imagini</translation>
+    </message>
+    <message>
+      <source>Move album photos</source>
+      <translation>Mutare Albumul de fotografii</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/image_list</name>
+    <message>
+      <source>preview version</source>
+      <translation>Anun&#x163; versiune</translation>
+    </message>
+    <message>
+      <source>See full size</source>
+      <translation>A se vedea full size</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/search</name>
+    <message>
+      <source>Last uploaded</source>
+      <translation>Ultima &#xEE;nc&#x103;rcat</translation>
+    </message>
+    <message>
+      <source>Most popular</source>
+      <translation>Cele mai populare</translation>
+    </message>
+    <message>
+      <source>Last hits</source>
+      <translation>Ultimele afi&#x15F;&#x103;ri</translation>
+    </message>
+    <message>
+      <source>Top rated</source>
+      <translation>Cele mai bine cotate</translation>
+    </message>
+    <message>
+      <source>Last rated</source>
+      <translation>Ultima evaluat</translation>
+    </message>
+    <message>
+      <source>Last commented</source>
+      <translation>Ultimul comentat</translation>
+    </message>
+    <message>
+      <source>Filename</source>
+      <translation>Filename</translation>
+    </message>
+    <message>
+      <source>Search results</source>
+      <translation>Rezultate c&#x103;utare</translation>
+    </message>
+    <message>
+      <source>Nothing found</source>
+      <translation>Nimic g&#x103;sit</translation>
+    </message>
+    <message>
+      <source>Any resolution</source>
+      <translation>Orice rezolu&#x163;ie</translation>
+    </message>
+    <message>
+      <source>Relevance</source>
+      <translation>Relevan&#x163;&#x103;</translation>
+    </message>
+    <message>
+      <source>Any keyword</source>
+      <translation>Un cuv&#xE2;nt cheie</translation>
+    </message>
+    <message>
+      <source>All keywords</source>
+      <translation>Toate cuvintele cheie</translation>
+    </message>
+    <message>
+      <source>search results</source>
+      <translation>rezultatele c&#x103;ut&#x103;rii</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Pagin&#x103;</translation>
+    </message>
+    <message>
+      <source>Last uploaded first</source>
+      <translation>Ultima &#xEE;nc&#x103;rcat prima</translation>
+    </message>
+    <message>
+      <source>Last uploaded last</source>
+      <translation>Ultima &#xEE;nc&#x103;rcat ultima</translation>
+    </message>
+    <message>
+      <source>Most popular first</source>
+      <translation>Cele mai populare prima</translation>
+    </message>
+    <message>
+      <source>Most popular last</source>
+      <translation>Cele mai populare ultima</translation>
+    </message>
+    <message>
+      <source>Last hits first</source>
+      <translation>Ultima afisari prima</translation>
+    </message>
+    <message>
+      <source>Last hits last</source>
+      <translation>Ultima ultimele hit-uri</translation>
+    </message>
+    <message>
+      <source>Last commented first</source>
+      <translation>Ultima comentat prima</translation>
+    </message>
+    <message>
+      <source>Last commented last</source>
+      <translation>Ultima comentat ultimele</translation>
+    </message>
+    <message>
+      <source>Last rated first</source>
+      <translation>Ultima evaluat prima</translation>
+    </message>
+    <message>
+      <source>Last rated last</source>
+      <translation>Ultima evaluat ultima</translation>
+    </message>
+    <message>
+      <source>Top rated first</source>
+      <translation>Cele mai bine cotate prima</translation>
+    </message>
+    <message>
+      <source>Top rated last</source>
+      <translation>Cele mai bine cotate ultima</translation>
+    </message>
+    <message>
+      <source>Most relevance images last</source>
+      <translation>Majoritatea imaginilor relevan&#x163;&#x103; pentru ultima</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Rezolu&#x163;ie</translation>
+    </message>
+    <message>
+      <source>Search RSS by keyword</source>
+      <translation>C&#x103;utare dup&#x103; cuv&#xE2;nt cheie RSS</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/editrole</name>
+    <message>
+      <source>Role edit</source>
+      <translation>Rolul edita</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Titlu</translation>
+    </message>
+    <message>
+      <source>Assigned functions</source>
+      <translation>Func&#x163;iile alocate</translation>
+    </message>
+    <message>
+      <source>Module</source>
+      <translation>Modul</translation>
+    </message>
+    <message>
+      <source>Function</source>
+      <translation>Func&#x163;ie</translation>
+    </message>
+    <message>
+      <source>Remove selected</source>
+      <translation>Elimina&#x163;i selectate</translation>
+    </message>
+    <message>
+      <source>New policy</source>
+      <translation>Nou&#x103; politic&#x103;</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Actualizare</translation>
+    </message>
+    <message>
+      <source>Cancel</source>
+      <translation>Anula</translation>
+    </message>
+    <message>
+      <source>Role assigned groups</source>
+      <translation>Grupuri alocate rol</translation>
+    </message>
+    <message>
+      <source>Group assignement to role</source>
+      <translation>Assignement grup de rol</translation>
+    </message>
+    <message>
+      <source>Assign group</source>
+      <translation>Aloca&#x163;i grup</translation>
+    </message>
+    <message>
+      <source>Please enter role name</source>
+      <translation>Va rugam introduceti numele rol</translation>
+    </message>
+    <message>
+      <source>Please choose module</source>
+      <translation>V&#x103; rug&#x103;m s&#x103; alege&#x163;i modul</translation>
+    </message>
+    <message>
+      <source>Please choose module function</source>
+      <translation>V&#x103; rug&#x103;m s&#x103; alege&#x163;i modulului de func&#x163;ii</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Sistem de configurare</translation>
+    </message>
+    <message>
+      <source>List of roles</source>
+      <translation>Lista de roluri</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/groupassignrole</name>
+    <message>
+      <source>Title</source>
+      <translation>Titlu</translation>
+    </message>
+    <message>
+      <source>Assign</source>
+      <translation>Atribui</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/modulefunctions</name>
+    <message>
+      <source>All functions</source>
+      <translation>Toate func&#x163;iile</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/newpolicy</name>
+    <message>
+      <source>New policy</source>
+      <translation>Nou&#x103; politic&#x103;</translation>
+    </message>
+    <message>
+      <source>Assigned functions</source>
+      <translation>Func&#x163;iile alocate</translation>
+    </message>
+    <message>
+      <source>Choose module</source>
+      <translation>Alege&#x163;i modul</translation>
+    </message>
+    <message>
+      <source>All modules</source>
+      <translation>Toate modulele</translation>
+    </message>
+    <message>
+      <source>Choose module function</source>
+      <translation>Alege modulului de func&#x163;ii</translation>
+    </message>
+    <message>
+      <source>All functions</source>
+      <translation>Toate func&#x163;iile</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Salva</translation>
+    </message>
+    <message>
+      <source>Cancel</source>
+      <translation>Anula</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/newrole</name>
+    <message>
+      <source>New role</source>
+      <translation>Nou rol</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Titlu</translation>
+    </message>
+    <message>
+      <source>Policy list</source>
+      <translation>Politica de list&#x103;</translation>
+    </message>
+    <message>
+      <source>Module</source>
+      <translation>Modul</translation>
+    </message>
+    <message>
+      <source>Function</source>
+      <translation>Func&#x163;ie</translation>
+    </message>
+    <message>
+      <source>New policy</source>
+      <translation>Nou&#x103; politic&#x103;</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Salva</translation>
+    </message>
+    <message>
+      <source>Cancel</source>
+      <translation>Anula</translation>
+    </message>
+    <message>
+      <source>Please enter role name</source>
+      <translation>Va rugam introduceti numele rol</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Sistem de configurare</translation>
+    </message>
+    <message>
+      <source>List of roles</source>
+      <translation>Lista de roluri</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/roleassigngroup</name>
+    <message>
+      <source>Title</source>
+      <translation>Titlu</translation>
+    </message>
+    <message>
+      <source>Assign</source>
+      <translation>Atribui</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/roles</name>
+    <message>
+      <source>List of roles</source>
+      <translation>Lista de roluri</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Titlu</translation>
+    </message>
+    <message>
+      <source>Edit role</source>
+      <translation>Editare rol</translation>
+    </message>
+    <message>
+      <source>Delete role</source>
+      <translation>&#x15E;tergere rol</translation>
+    </message>
+    <message>
+      <source>New role</source>
+      <translation>Nou rol</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Sistem de configurare</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/index</name>
+    <message>
+      <source>Shop configuration</source>
+      <translation>Magazin de configurare</translation>
+    </message>
+    <message>
+      <source>Images variations sizes</source>
+      <translation>Imagini varia&#x163;ii dimensiuni</translation>
+    </message>
+    <message>
+      <source>List payment options</source>
+      <translation>List&#x103; de op&#x163;iuni de plat&#x103;</translation>
+    </message>
+    <message>
+      <source>Settings list</source>
+      <translation>Set&#x103;ri list&#x103;</translation>
+    </message>
+    <message>
+      <source>Orders list</source>
+      <translation>Oblig&#x103; list&#x103;</translation>
+    </message>
+    <message>
+      <source>Credits orders list</source>
+      <translation>Credite Comenzi list&#x103;</translation>
+    </message>
+    <message>
+      <source>Shop</source>
+      <translation>Magazin</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/listpaymentoptions</name>
+    <message>
+      <source>Payment options</source>
+      <translation>Op&#x163;iuni de plat&#x103;</translation>
+    </message>
+    <message>
+      <source>Identifier</source>
+      <translation>Identifier</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Nume</translation>
+    </message>
+    <message>
+      <source>Active</source>
+      <translation>Activ</translation>
+    </message>
+    <message>
+      <source>Author</source>
+      <translation>Autor</translation>
+    </message>
+    <message>
+      <source>Edit</source>
+      <translation>Edita</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/orderedit</name>
+    <message>
+      <source>Order view</source>
+      <translation>Comanda vedere</translation>
+    </message>
+    <message>
+      <source>Order time</source>
+      <translation>Ordonan&#x163;a de timp</translation>
+    </message>
+    <message>
+      <source>Order price</source>
+      <translation>Comanda pre&#x163;</translation>
+    </message>
+    <message>
+      <source>Order credits</source>
+      <translation>Ordonan&#x163;a de credite</translation>
+    </message>
+    <message>
+      <source>Order status</source>
+      <translation>Starea comenzii</translation>
+    </message>
+    <message>
+      <source>Payed.</source>
+      <translation>Platite.</translation>
+    </message>
+    <message>
+      <source>Confirmed</source>
+      <translation>Confirmat</translation>
+    </message>
+    <message>
+      <source>Ordered items</source>
+      <translation>Articole ordonate</translation>
+    </message>
+    <message>
+      <source>Image name</source>
+      <translation>Imagine nume</translation>
+    </message>
+    <message>
+      <source>Version</source>
+      <translation>Versiune</translation>
+    </message>
+    <message>
+      <source>Image size</source>
+      <translation>Dimensiune imagine</translation>
+    </message>
+    <message>
+      <source>Format</source>
+      <translation>Format</translation>
+    </message>
+    <message>
+      <source>Price</source>
+      <translation>Pre&#x163;</translation>
+    </message>
+    <message>
+      <source>Download count</source>
+      <translation>Desc&#x103;rca&#x163;i conta</translation>
+    </message>
+    <message>
+      <source>Downloads left</source>
+      <translation>Desc&#x103;rc&#x103;ri st&#xE2;nga</translation>
+    </message>
+    <message>
+      <source>Credits</source>
+      <translation>Credite</translation>
+    </message>
+  </context>
+  <context>
+    <name>systemconfig/list</name>
+    <message>
+      <source>Delete order item</source>
+      <translation>&#x15E;terge&#x163;i elementul comand&#x103;</translation>
+    </message>
+    <message>
+      <source>Delete order</source>
+      <translation>&#x15E;tergere comand&#x103;</translation>
+    </message>
+    <message>
+      <source>Config list</source>
+      <translation>Config list&#x103;</translation>
+    </message>
+    <message>
+      <source>Identifier</source>
+      <translation>Identifier</translation>
+    </message>
+    <message>
+      <source>Explain</source>
+      <translation>Explica</translation>
+    </message>
+    <message>
+      <source>Edit value</source>
+      <translation>Edita&#x163;i valoarea</translation>
+    </message>
+    <message>
+      <source>System config options</source>
+      <translation>Config sistem de op&#x163;iuni</translation>
+    </message>
+    <message>
+      <source>List</source>
+      <translation>List&#x103;</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/orderslist</name>
+    <message>
+      <source>Orders credits list</source>
+      <translation>Oblig&#x103; credite list&#x103;</translation>
+    </message>
+    <message>
+      <source>ID</source>
+      <translation>ID-ul</translation>
+    </message>
+    <message>
+      <source>Date</source>
+      <translation>Data</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Order price</source>
+      <translation>Comanda pre&#x163;</translation>
+    </message>
+    <message>
+      <source>Order credits</source>
+      <translation>Ordonan&#x163;a de credite</translation>
+    </message>
+    <message>
+      <source>Order status</source>
+      <translation>Starea comenzii</translation>
+    </message>
+    <message>
+      <source>Payed.</source>
+      <translation>Platite.</translation>
+    </message>
+    <message>
+      <source>Confirmed</source>
+      <translation>Confirmat</translation>
+    </message>
+    <message>
+      <source>No orders...</source>
+      <translation>Nr ordinelor de ...</translation>
+    </message>
+    <message>
+      <source>Orders list</source>
+      <translation>Oblig&#x103; list&#x103;</translation>
+    </message>
+    <message>
+      <source>Order view</source>
+      <translation>Comanda vedere</translation>
+    </message>
+    <message>
+      <source>User orders list</source>
+      <translation>Comenzi ghidul de list&#x103;</translation>
+    </message>
+    <message>
+      <source>User credits orders list</source>
+      <translation>Ghid de credite Comenzi list&#x103;</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/paymentoptionedit</name>
+    <message>
+      <source>Payment option edit</source>
+      <translation>Op&#x163;iune de plat&#x103; edita</translation>
+    </message>
+    <message>
+      <source>Identifier</source>
+      <translation>Identifier</translation>
+    </message>
+    <message>
+      <source>Active</source>
+      <translation>Activ</translation>
+    </message>
+    <message>
+      <source>Payment settings</source>
+      <translation>Set&#x103;ri de plat&#x103;</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Actualizare</translation>
+    </message>
+  </context>
+  <context>
+    <name>systemconfig/edit</name>
+    <message>
+      <source>Edit</source>
+      <translation>Edita</translation>
+    </message>
+    <message>
+      <source>Data updated</source>
+      <translation>Datele actualizate</translation>
+    </message>
+    <message>
+      <source>Identifier</source>
+      <translation>Identifier</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Actualizare</translation>
+    </message>
+    <message>
+      <source>Values applies to</source>
+      <translation>Valorile se aplic&#x103;</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/settinglist</name>
+    <message>
+      <source>Shop config list</source>
+      <translation>Magazin config list&#x103;</translation>
+    </message>
+    <message>
+      <source>Identifier</source>
+      <translation>Identifier</translation>
+    </message>
+    <message>
+      <source>Explain</source>
+      <translation>Explica</translation>
+    </message>
+    <message>
+      <source>Value</source>
+      <translation>Valoare</translation>
+    </message>
+    <message>
+      <source>Edit value</source>
+      <translation>Edita&#x163;i valoarea</translation>
+    </message>
+  </context>
+  <context>
+    <name>statistic/choosesite</name>
+    <message>
+      <source>Choose site you want to show statistic</source>
+      <translation>Alege&#x163;i site-ul pe care dori&#x163;i s&#x103; arate statistice</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Salva</translation>
+    </message>
+  </context>
+  <context>
+    <name>statistic/index</name>
+    <message>
+      <source>Google analytics statistic</source>
+      <translation>Google Analytics statistici</translation>
+    </message>
+    <message>
+      <source>Grant access application to access google analytics API</source>
+      <translation>Grant cerere de acces pentru a accesa Google Analytics API</translation>
+    </message>
+    <message>
+      <source>Site choose</source>
+      <translation>Site-ul alege</translation>
+    </message>
+    <message>
+      <source>View statistic</source>
+      <translation>Vezi statistica</translation>
+    </message>
+    <message>
+      <source>Statistic</source>
+      <translation>Statistic</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>Acas&#x103;</translation>
+    </message>
+  </context>
+  <context>
+    <name>system/configuration</name>
+    <message>
+      <source>System configuration</source>
+      <translation>Sistem de configurare</translation>
+    </message>
+    <message>
+      <source>Users</source>
+      <translation>Utilizatori</translation>
+    </message>
+    <message>
+      <source>List of groups</source>
+      <translation>Lista de grupuri</translation>
+    </message>
+    <message>
+      <source>List of roles</source>
+      <translation>Lista de roluri</translation>
+    </message>
+    <message>
+      <source>System configuration values</source>
+      <translation>De configurare sistem de valori</translation>
+    </message>
+    <message>
+      <source>Watermark protection</source>
+      <translation>Filigran de protec&#x163;ie</translation>
+    </message>
+    <message>
+      <source>Banned rating IP list</source>
+      <translation>Interzise evaluare IP list&#x103;</translation>
+    </message>
+    <message>
+      <source>Banned commenting IP list</source>
+      <translation>Interzise coment&#xE2;nd IP list&#x103;</translation>
+    </message>
+  </context>
+  <context>
+    <name>systemconfig/watermark</name>
+    <message>
+      <source>Watermark configuration</source>
+      <translation>Filigran de configurare</translation>
+    </message>
+    <message>
+      <source>Settings updated</source>
+      <translation>Set&#x103;ri actualizate</translation>
+    </message>
+    <message>
+      <source>Delete watermark</source>
+      <translation>&#x15E;tergere filigran</translation>
+    </message>
+    <message>
+      <source>Image, it is recommended PNG type image</source>
+      <translation>Imagine, este recomandat PNG tip de imagine</translation>
+    </message>
+    <message>
+      <source>Settings</source>
+      <translation>Set&#x103;ri</translation>
+    </message>
+    <message>
+      <source>Watermark disabled</source>
+      <translation>Filigran cu handicap</translation>
+    </message>
+    <message>
+      <source>Watermark enabled for normal size thumbnails</source>
+      <translation>Filigran activat pentru miniaturi de dimensiuni normale</translation>
+    </message>
+    <message>
+      <source>Watermark enabled for all images</source>
+      <translation>Filigran activat pentru toate imaginile</translation>
+    </message>
+    <message>
+      <source>Watermark position</source>
+      <translation>Filigran pozi&#x163;ie</translation>
+    </message>
+    <message>
+      <source>Top left</source>
+      <translation>Partea stanga sus</translation>
+    </message>
+    <message>
+      <source>Top right</source>
+      <translation>De sus din dreapta</translation>
+    </message>
+    <message>
+      <source>Bottom left</source>
+      <translation>Stanga jos</translation>
+    </message>
+    <message>
+      <source>Bottom right</source>
+      <translation>Dreapta jos</translation>
+    </message>
+    <message>
+      <source>Center</source>
+      <translation>Centru</translation>
+    </message>
+    <message>
+      <source>Watermark padding from borders</source>
+      <translation>Padding filigran de la frontiere</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Actualizare</translation>
+    </message>
+    <message>
+      <source>Watermark</source>
+      <translation>Filigran</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/account</name>
+    <message>
+      <source>Logged user</source>
+      <translation>Conectat ghidul de</translation>
+    </message>
+    <message>
+      <source>Account updated</source>
+      <translation>Cont actualizat</translation>
+    </message>
+    <message>
+      <source>Do not enter password unless you want to change it</source>
+      <translation>Nu introduce&#x163;i parola cu excep&#x163;ia cazului &#xEE;n care dori&#x163;i s&#x103; o schimba&#x163;i</translation>
+    </message>
+    <message>
+      <source>Login information</source>
+      <translation>Intra informa&#x163;ii</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Nume de utilizator</translation>
+    </message>
+    <message>
+      <source>Password</source>
+      <translation>Parol&#x103;</translation>
+    </message>
+    <message>
+      <source>Repeat password</source>
+      <translation>Repeta&#x163;i parola</translation>
+    </message>
+    <message>
+      <source>Contact information</source>
+      <translation>Date de contact</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Actualizare</translation>
+    </message>
+    <message>
+      <source>Message send</source>
+      <translation>Trimite mesaj</translation>
+    </message>
+    <message>
+      <source>Add google account</source>
+      <translation>Ad&#x103;uga&#x163;i Cont Google</translation>
+    </message>
+    <message>
+      <source>Working</source>
+      <translation>De lucru</translation>
+    </message>
+    <message>
+      <source>Profile page settings</source>
+      <translation type="unfinished">Pagina profil a set&#x103;rilor</translation>
+    </message>
+    <message>
+      <source>Profile settings updated</source>
+      <translation type="unfinished">Set&#x103;rile profilului se actualizeaza</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation type="unfinished">Nume</translation>
+    </message>
+    <message>
+      <source>Surname</source>
+      <translation type="unfinished">Nume de familie</translation>
+    </message>
+    <message>
+      <source>Website</source>
+      <translation type="unfinished">Website</translation>
+    </message>
+    <message>
+      <source>Information about you</source>
+      <translation type="unfinished">Informatii despre tine</translation>
+    </message>
+    <message>
+      <source>Profile photo</source>
+      <translation type="unfinished">Profil de fotografie</translation>
+    </message>
+    <message>
+      <source>See how your profile looks to users</source>
+      <translation type="unfinished">Vezi cum arat&#x103; profilul utilizatorilor</translation>
+    </message>
+    <message>
+      <source>View profile</source>
+      <translation type="unfinished">Vizualizare profil</translation>
+    </message>
+    <message>
+      <source>Wrong email address</source>
+      <translation>Gre&#x15F;it adres&#x103; e-mail</translation>
+    </message>
+    <message>
+      <source>Passwords mismatch</source>
+      <translation>Parole Nepotrivire</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/edit</name>
+    <message>
+      <source>User edit</source>
+      <translation>Ghid de editare</translation>
+    </message>
+    <message>
+      <source>Do not enter password unless you want to change it</source>
+      <translation>Nu introduce&#x163;i parola cu excep&#x163;ia cazului &#xEE;n care dori&#x163;i s&#x103; o schimba&#x163;i</translation>
+    </message>
+    <message>
+      <source>Login information</source>
+      <translation>Intra informa&#x163;ii</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Nume de utilizator</translation>
+    </message>
+    <message>
+      <source>Password</source>
+      <translation>Parol&#x103;</translation>
+    </message>
+    <message>
+      <source>Repeat password</source>
+      <translation>Repeta&#x163;i parola</translation>
+    </message>
+    <message>
+      <source>Contact information</source>
+      <translation>Date de contact</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Actualizare</translation>
+    </message>
+    <message>
+      <source>User prifle</source>
+      <translation>Ghid de utilizare prifle</translation>
+    </message>
+    <message>
+      <source>My account</source>
+      <translation>Contul meu</translation>
+    </message>
+    <message>
+      <source>Facebook albums</source>
+      <translation>Facebook albume</translation>
+    </message>
+    <message>
+      <source>Facebook session has expired, please login</source>
+      <translation>Sesiunea Facebook a expirat, v&#x103; rug&#x103;m s&#x103; Login</translation>
+    </message>
+    <message>
+      <source>Account</source>
+      <translation>Cont</translation>
+    </message>
+    <message>
+      <source>Albums</source>
+      <translation>Albume</translation>
+    </message>
+    <message>
+      <source>My albums</source>
+      <translation>Mele albume</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Sistem de configurare</translation>
+    </message>
+    <message>
+      <source>Account data</source>
+      <translation>Cont de date</translation>
+    </message>
+    <message>
+      <source>Wrong email address</source>
+      <translation>Gre&#x15F;it adres&#x103; e-mail</translation>
+    </message>
+    <message>
+      <source>Passwords mismatch</source>
+      <translation>Parole Nepotrivire</translation>
+    </message>
+    <message>
+      <source>Users</source>
+      <translation>Utilizatori</translation>
+    </message>
+    <message>
+      <source>Authentifion with google</source>
+      <translation>Authentifion cu Google</translation>
+    </message>
+    <message>
+      <source>Profile settings</source>
+      <translation type="unfinished">Set&#x103;rile de profil</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/editgroup</name>
+    <message>
+      <source>Group edit</source>
+      <translation>Grupul editeaz&#x103;</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Titlu</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Actualizare</translation>
+    </message>
+    <message>
+      <source>Assigned users</source>
+      <translation>Utilizatorii alocate</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Nume de utilizator</translation>
+    </message>
+    <message>
+      <source>Remove user from group</source>
+      <translation>Elimina&#x163;i din ghidul de grup</translation>
+    </message>
+    <message>
+      <source>Assign user</source>
+      <translation>Atribuirea sau ghidul</translation>
+    </message>
+    <message>
+      <source>User assignment</source>
+      <translation>Ghid de cesiune</translation>
+    </message>
+    <message>
+      <source>Assigned roles</source>
+      <translation>Rolurile alocate</translation>
+    </message>
+    <message>
+      <source>Remove role from group</source>
+      <translation>Scoate&#x163;i rol din grup</translation>
+    </message>
+    <message>
+      <source>Assign role</source>
+      <translation>Atribuirea rol</translation>
+    </message>
+    <message>
+      <source>Role assignment</source>
+      <translation>Rolul cesiune</translation>
+    </message>
+    <message>
+      <source>Please enter group name</source>
+      <translation>Va rugam introduceti numele de grup</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Sistem de configurare</translation>
+    </message>
+    <message>
+      <source>Groups</source>
+      <translation>Grupuri</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/groupassignuser</name>
+    <message>
+      <source>User</source>
+      <translation>Utilizator</translation>
+    </message>
+    <message>
+      <source>Assign</source>
+      <translation>Atribui</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/login</name>
+    <message>
+      <source>Please login</source>
+      <translation>Rugam sa va logati</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Nume de utilizator</translation>
+    </message>
+    <message>
+      <source>Password</source>
+      <translation>Parol&#x103;</translation>
+    </message>
+    <message>
+      <source>Login</source>
+      <translation>Login</translation>
+    </message>
+    <message>
+      <source>Password remind</source>
+      <translation>Parola reaminti</translation>
+    </message>
+    <message>
+      <source>Please login with your facebook account</source>
+      <translation>Rugam sa va logati cu contul dvs. Facebook</translation>
+    </message>
+    <message>
+      <source>Report abuse</source>
+      <translation>Raport abuz</translation>
+    </message>
+    <message>
+      <source>Please write whats wrong within a post</source>
+      <translation>V&#x103; rug&#x103;m s&#x103; scrie&#x163;i ce este gre&#x15F;it &#xEE;n cadrul unui mesaj</translation>
+    </message>
+    <message>
+      <source>Send</source>
+      <translation>Trimite</translation>
+    </message>
+    <message>
+      <source>Registration is complete</source>
+      <translation>&#xCE;nregistrarea este complet</translation>
+    </message>
+    <message>
+      <source>Registration is complete please login.</source>
+      <translation>&#xCE;nregistrarea este complet rugam sa va logati.</translation>
+    </message>
+    <message>
+      <source>Checkout</source>
+      <translation>Cas&#x103;</translation>
+    </message>
+    <message>
+      <source>Incorrect username or password</source>
+      <translation>Numele de utilizator sau parola incorect&#x103;</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/new</name>
+    <message>
+      <source>New user</source>
+      <translation>Utilizator nou</translation>
+    </message>
+    <message>
+      <source>Login information</source>
+      <translation>Intra informa&#x163;ii</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Nume de utilizator</translation>
+    </message>
+    <message>
+      <source>Password</source>
+      <translation>Parol&#x103;</translation>
+    </message>
+    <message>
+      <source>Repeat password</source>
+      <translation>Repeta&#x163;i parola</translation>
+    </message>
+    <message>
+      <source>Contact information</source>
+      <translation>Date de contact</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Salva</translation>
+    </message>
+    <message>
+      <source>OR login with</source>
+      <translation>Sau autentificare cu</translation>
+    </message>
+    <message>
+      <source>Login with google account</source>
+      <translation>Intra in cont cu Google</translation>
+    </message>
+    <message>
+      <source>Working</source>
+      <translation>De lucru</translation>
+    </message>
+    <message>
+      <source>Working...</source>
+      <translation>De lucru ...</translation>
+    </message>
+    <message>
+      <source>Registration</source>
+      <translation>&#xCE;nregistrare</translation>
+    </message>
+    <message>
+      <source>Safe code</source>
+      <translation>&#xCE;n condi&#x163;ii de siguran&#x163;&#x103; Codul de</translation>
+    </message>
+    <message>
+      <source>Register</source>
+      <translation>Registru</translation>
+    </message>
+    <message>
+      <source>Sutch username is already taken!</source>
+      <translation>Sutch numele de utilizator este deja luat!</translation>
+    </message>
+    <message>
+      <source>Please enter album name!</source>
+      <translation>Va rugam introduceti numele albumului!</translation>
+    </message>
+    <message>
+      <source>Please enter category name!</source>
+      <translation>Va rugam introduceti numele categorie!</translation>
+    </message>
+    <message>
+      <source>User exists</source>
+      <translation>Ghid de utilizare exist&#x103;</translation>
+    </message>
+    <message>
+      <source>Wrong email address</source>
+      <translation>Gre&#x15F;it adres&#x103; e-mail</translation>
+    </message>
+    <message>
+      <source>Please enter username</source>
+      <translation>Te rug&#x103;m s&#x103; introduci numele de utilizator</translation>
+    </message>
+    <message>
+      <source>Passwords mismatch</source>
+      <translation>Parole Nepotrivire</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Sistem de configurare</translation>
+    </message>
+    <message>
+      <source>Users</source>
+      <translation>Utilizatori</translation>
+    </message>
+    <message>
+      <source>Please enter group name</source>
+      <translation>Va rugam introduceti numele de grup</translation>
+    </message>
+    <message>
+      <source>E-mail taken!</source>
+      <translation>E-mail luate!</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/newgroup</name>
+    <message>
+      <source>New group</source>
+      <translation>Grup nou</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Titlu</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Salva</translation>
+    </message>
+    <message>
+      <source>Save and assign user</source>
+      <translation>Salva&#x163;i &#x15F;i atribui&#x163;i de utilizare</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Sistem de configurare</translation>
+    </message>
+    <message>
+      <source>Groups</source>
+      <translation>Grupuri</translation>
+    </message>
+  </context>
+  <context>
+    <name>pagelayout/pagelayout</name>
+    <message>
+      <source>Home</source>
+      <translation>Acas&#x103;</translation>
+    </message>
+    <message>
+      <source>Configuration</source>
+      <translation>Configura&#x163;ie</translation>
+    </message>
+    <message>
+      <source>Gallery categorys</source>
+      <translation>Galerie Categoriile</translation>
+    </message>
+    <message>
+      <source>Last uploads to albums</source>
+      <translation>&#xCE;nc&#x103;rc&#x103;ri recente la albume</translation>
+    </message>
+    <message>
+      <source>Batch images add</source>
+      <translation>Imagini lot ad&#x103;uga</translation>
+    </message>
+    <message>
+      <source>Duplicates</source>
+      <translation>Dubluri</translation>
+    </message>
+    <message>
+      <source>Static articles</source>
+      <translation>Articole static</translation>
+    </message>
+    <message>
+      <source>Statistic</source>
+      <translation>Statistic</translation>
+    </message>
+    <message>
+      <source>Shop</source>
+      <translation>Magazin</translation>
+    </message>
+    <message>
+      <source>Forum</source>
+      <translation>Forum</translation>
+    </message>
+    <message>
+      <source>Delete photo by ID</source>
+      <translation>&#x15E;terge&#x163;i fotografie de ID-ul</translation>
+    </message>
+    <message>
+      <source>Photo was deleted</source>
+      <translation>Fotografie a fost &#x15F;ters</translation>
+    </message>
+    <message>
+      <source>Go to album</source>
+      <translation>Du-te la album</translation>
+    </message>
+    <message>
+      <source>Go to forum topic</source>
+      <translation>Du-te la subiect pe forum pentru</translation>
+    </message>
+    <message>
+      <source>Go to forum category</source>
+      <translation>Du-te la Forum pentru categoria</translation>
+    </message>
+    <message>
+      <source>Go to image</source>
+      <translation>Du-te la imagini</translation>
+    </message>
+    <message>
+      <source>Root category</source>
+      <translation>Root categorie</translation>
+    </message>
+    <message>
+      <source>Open</source>
+      <translation>Deschis</translation>
+    </message>
+    <message>
+      <source>Edit</source>
+      <translation>Edita</translation>
+    </message>
+    <message>
+      <source>New album</source>
+      <translation>Nou album</translation>
+    </message>
+    <message>
+      <source>New batch albums</source>
+      <translation>Albume noi lot</translation>
+    </message>
+    <message>
+      <source>New category</source>
+      <translation>Noua categorie</translation>
+    </message>
+    <message>
+      <source>Delete album</source>
+      <translation>&#x15E;tergere album</translation>
+    </message>
+    <message>
+      <source>Delete category</source>
+      <translation>&#x15E;tergere categorie</translation>
+    </message>
+    <message>
+      <source>Add images</source>
+      <translation>Adauga imagini</translation>
+    </message>
+    <message>
+      <source>Move images</source>
+      <translation>Mutare imagini</translation>
+    </message>
+    <message>
+      <source>It\'s NOT fake!</source>
+      <translation>NU \ &amp;#39;s fals!</translation>
+    </message>
+    <message>
+      <source>Rendered in</source>
+      <translation>Pronun&#x163;at&#x103; &#xEE;n</translation>
+    </message>
+    <message>
+      <source>Logged user</source>
+      <translation>Conectat ghidul de</translation>
+    </message>
+    <message>
+      <source>Account</source>
+      <translation>Cont</translation>
+    </message>
+    <message>
+      <source>Logout</source>
+      <translation>Logout</translation>
+    </message>
+    <message>
+      <source>Login</source>
+      <translation>Login</translation>
+    </message>
+    <message>
+      <source>Enter keyword or phrase</source>
+      <translation>Introduce&#x163;i cuvinte cheie sau o expresie</translation>
+    </message>
+    <message>
+      <source>Search entire forum</source>
+      <translation>Cauta pe forum pentru &#xEE;ntregul</translation>
+    </message>
+    <message>
+      <source>Search</source>
+      <translation>C&#x103;utare</translation>
+    </message>
+    <message>
+      <source>Last uploads</source>
+      <translation>&#xCE;nc&#x103;rc&#x103;ri recente</translation>
+    </message>
+    <message>
+      <source>Last commented</source>
+      <translation>Ultimul comentat</translation>
+    </message>
+    <message>
+      <source>Last hits</source>
+      <translation>Ultimele afi&#x15F;&#x103;ri</translation>
+    </message>
+    <message>
+      <source>Last rated</source>
+      <translation>Ultima evaluat</translation>
+    </message>
+    <message>
+      <source>Last 24 h.</source>
+      <translation>Ultimele 24 de ore</translation>
+    </message>
+    <message>
+      <source>Most popular</source>
+      <translation>Cele mai populare</translation>
+    </message>
+    <message>
+      <source>Top rated</source>
+      <translation>Cele mai bine cotate</translation>
+    </message>
+    <message>
+      <source>Search entire gallery</source>
+      <translation>C&#x103;utare &#xEE;ntreaga galerie</translation>
+    </message>
+    <message>
+      <source>Last uploaded images</source>
+      <translation>Ultimele imagini &#xEE;nc&#x103;rcate</translation>
+    </message>
+    <message>
+      <source>View all categorys</source>
+      <translation>Vezi toate Categoriile</translation>
+    </message>
+    <message>
+      <source>All time</source>
+      <translation>Tot timpul</translation>
+    </message>
+    <message>
+      <source>Interactive</source>
+      <translation>Interactiv</translation>
+    </message>
+    <message>
+      <source>Search by keyword</source>
+      <translation>C&#x103;utare dup&#x103; cuv&#xE2;nt cheie</translation>
+    </message>
+    <message>
+      <source>Search by color</source>
+      <translation>Cautati cu ajutorul culorilor</translation>
+    </message>
+    <message>
+      <source>Search by similarity</source>
+      <translation>C&#x103;utare de similitudine</translation>
+    </message>
+    <message>
+      <source>Search by sketch</source>
+      <translation>C&#x103;utare dup&#x103; schi&#x163;&#x103;</translation>
+    </message>
+    <message>
+      <source>Last viewed images</source>
+      <translation>Ultimele imagini vizualizate</translation>
+    </message>
+    <message>
+      <source>Last searches</source>
+      <translation>Ultimele c&#x103;ut&#x103;ri</translation>
+    </message>
+    <message>
+      <source>My account</source>
+      <translation>Contul meu</translation>
+    </message>
+    <message>
+      <source>Profile page</source>
+      <translation type="unfinished">Pagina profil</translation>
+    </message>
+    <message>
+      <source>Manage albums</source>
+      <translation>Administreaza albume</translation>
+    </message>
+    <message>
+      <source>Credits</source>
+      <translation>Credite</translation>
+    </message>
+    <message>
+      <source>My orders</source>
+      <translation>Comenzile mele</translation>
+    </message>
+    <message>
+      <source>My credits orders</source>
+      <translation>Mele de credite Comenzi</translation>
+    </message>
+    <message>
+      <source>Import images from facebook</source>
+      <translation>Importul de imagini din facebook</translation>
+    </message>
+    <message>
+      <source>Register</source>
+      <translation>Registru</translation>
+    </message>
+    <message>
+      <source>My favorites</source>
+      <translation>Favoritele mele</translation>
+    </message>
+    <message>
+      <source>Basket</source>
+      <translation>Co&#x15F;</translation>
+    </message>
+    <message>
+      <source>Upload</source>
+      <translation>&#xCE;ncarc&#x103;</translation>
+    </message>
+    <message>
+      <source>Upload zip</source>
+      <translation>Incarca zip</translation>
+    </message>
+    <message>
+      <source>Search...</source>
+      <translation>C&#x103;utare ...</translation>
+    </message>
+  </context>
+  <context>
+    <name>fb/album</name>
+    <message>
+      <source>Check photo to import</source>
+      <translation>Verifica&#x163;i fotografie de import</translation>
+    </message>
+    <message>
+      <source>Import selected images to</source>
+      <translation>Import imaginile selectate pentru a</translation>
+    </message>
+    <message>
+      <source>To what album you want to import images, start typing album name and click search</source>
+      <translation>Pentru ce album dori&#x163;i s&#x103; importa&#x163;i imagini, &#xEE;ncepe&#x163;i s&#x103; tasta&#x163;i numele albumului &#x15F;i face&#x163;i clic pe c&#x103;utare</translation>
+    </message>
+    <message>
+      <source>Search for album</source>
+      <translation>Caut&#x103; album</translation>
+    </message>
+    <message>
+      <source>Check all</source>
+      <translation>Verific&#x103; toate</translation>
+    </message>
+    <message>
+      <source>Click to see target, new window will open</source>
+      <translation>Click pentru a vedea &#x163;int&#x103;, se va deschide fereastr&#x103; nou&#x103;</translation>
+    </message>
+    <message>
+      <source>Import selected images</source>
+      <translation>Import imaginile selectate</translation>
+    </message>
+    <message>
+      <source>Please choose atleast one image!</source>
+      <translation>V&#x103; rug&#x103;m s&#x103; alege&#x163;i cel pu&#x163;in un imagine!</translation>
+    </message>
+    <message>
+      <source>images to import</source>
+      <translation>imagini pentru a le importa</translation>
+    </message>
+    <message>
+      <source>All images were imported</source>
+      <translation>Toate imaginile au fost importate</translation>
+    </message>
+    <message>
+      <source>Please choose album</source>
+      <translation>V&#x103; rug&#x103;m s&#x103; alege&#x163;i album</translation>
+    </message>
+    <message>
+      <source>Preview version</source>
+      <translation>Anun&#x163; versiune</translation>
+    </message>
+  </context>
+  <context>
+    <name>feedback/form</name>
+    <message>
+      <source>Feedback</source>
+      <translation>Feedback</translation>
+    </message>
+    <message>
+      <source>Feedback was send</source>
+      <translation>Feedback-ul a fost trimis</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Nume</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Text</source>
+      <translation>Text</translation>
+    </message>
+    <message>
+      <source>Captcha image</source>
+      <translation>Captcha image</translation>
+    </message>
+    <message>
+      <source>Captcha code</source>
+      <translation>Captcha cod</translation>
+    </message>
+    <message>
+      <source>Required fields</source>
+      <translation>C&#xE2;mpuri obligatorii</translation>
+    </message>
+    <message>
+      <source>Send</source>
+      <translation>Trimite</translation>
+    </message>
+    <message>
+      <source>Please enter name!</source>
+      <translation>Va rugam introduceti numele!</translation>
+    </message>
+    <message>
+      <source>Invalid e-mail address!</source>
+      <translation>Nevalid&#x103; adresa de e-mail!</translation>
+    </message>
+    <message>
+      <source>Please enter text!</source>
+      <translation>Te rug&#x103;m s&#x103; introduci text!</translation>
+    </message>
+    <message>
+      <source>Please enter captcha code!</source>
+      <translation>Va rugam introduceti codul CAPTCHA!</translation>
+    </message>
+  </context>
+  <context>
+    <name>feedback/formsend</name>
+    <message>
+      <source>Feedback</source>
+      <translation>Feedback</translation>
+    </message>
+    <message>
+      <source>Your feedback was succesfuly send</source>
+      <translation>Feedback-ul dvs. a fost trimis cu succes</translation>
+    </message>
+    <message>
+      <source>Home page</source>
+      <translation>Prima pagin&#x103;</translation>
+    </message>
+  </context>
+  <context>
+    <name>feedback/mail</name>
+    <message>
+      <source>Hello</source>
+      <translation>Alo</translation>
+    </message>
+    <message>
+      <source>Feedback data</source>
+      <translation>Feedback de date</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Nume</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Text</source>
+      <translation>Text</translation>
+    </message>
+    <message>
+      <source>Bye</source>
+      <translation>Pa</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/anaglyph</name>
+    <message>
+      <source>Original</source>
+      <translation>Original</translation>
+    </message>
+    <message>
+      <source>Anaglyph</source>
+      <translation>Anaglif&#x103;</translation>
+    </message>
+    <message>
+      <source>Animating</source>
+      <translation>Animator</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/color</name>
+    <message>
+      <source>Exclude color</source>
+      <translation>Exclude&#x163;i culoare</translation>
+    </message>
+    <message>
+      <source>Maximum</source>
+      <translation>Maxim</translation>
+    </message>
+    <message>
+      <source>filters</source>
+      <translation>Filtre</translation>
+    </message>
+    <message>
+      <source>Include color</source>
+      <translation>Include&#x163;i culoare</translation>
+    </message>
+    <message>
+      <source>Remove color</source>
+      <translation>Eliminare culoare</translation>
+    </message>
+    <message>
+      <source>Excluded colors in search</source>
+      <translation>Culori excluse &#xEE;n c&#x103;utare</translation>
+    </message>
+    <message>
+      <source>colors</source>
+      <translation>culori</translation>
+    </message>
+    <message>
+      <source>More color</source>
+      <translation>Mai multe culori</translation>
+    </message>
+    <message>
+      <source>Return to pallete</source>
+      <translation>Return to Palet</translation>
+    </message>
+    <message>
+      <source>Images by color</source>
+      <translation>Imagini de culoare</translation>
+    </message>
+    <message>
+      <source>Choose color</source>
+      <translation>Alege culoare</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>Nici o inregistrare.</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Pagin&#x103;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/createalbum</name>
+    <message>
+      <source>New album</source>
+      <translation>Nou album</translation>
+    </message>
+    <message>
+      <source>Album name</source>
+      <translation>Nume album</translation>
+    </message>
+    <message>
+      <source>Description</source>
+      <translation>Descriere</translation>
+    </message>
+    <message>
+      <source>Keywords</source>
+      <translation>Cuvinte cheie</translation>
+    </message>
+    <message>
+      <source>Create</source>
+      <translation>Crea</translation>
+    </message>
+    <message>
+      <source>Create and upload photos</source>
+      <translation>Crearea &#x15F;i a &#xEE;nc&#x103;rca fotografii</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/myfavorites</name>
+    <message>
+      <source>Remove from favorites</source>
+      <translation>Remove from favourites</translation>
+    </message>
+    <message>
+      <source>My favorite images</source>
+      <translation>Imaginile mele favorite</translation>
+    </message>
+    <message>
+      <source>Remove</source>
+      <translation>&#xCE;ndep&#x103;rta</translation>
+    </message>
+    <message>
+      <source>Remove Open ID</source>
+      <translation>Elimina&#x163;i ID-ul deschis</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastcommented</name>
+    <message>
+      <source>Last commented images</source>
+      <translation>Ultimele comentate imagini</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>Nici o inregistrare.</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Rezolu&#x163;ie</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Pagin&#x103;</translation>
+    </message>
+    <message>
+      <source>Last commented gallery images.</source>
+      <translation type="unfinished">Ultimele comentate imagini galerie.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lasthits</name>
+    <message>
+      <source>Last viewed images</source>
+      <translation>Ultimele imagini vizualizate</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>Nici o inregistrare.</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Rezolu&#x163;ie</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Pagin&#x103;</translation>
+    </message>
+    <message>
+      <source>Last viewed gallery images.</source>
+      <translation type="unfinished">Ultimele imagini vizualizate galerie.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastrated</name>
+    <message>
+      <source>Last rated images</source>
+      <translation>Ultimele imagini evaluat</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>Nici o inregistrare.</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Rezolu&#x163;ie</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Pagin&#x103;</translation>
+    </message>
+    <message>
+      <source>Recently rated images.</source>
+      <translation type="unfinished">Recent evaluat imagini.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastsearches</name>
+    <message>
+      <source>Last searches</source>
+      <translation>Ultimele c&#x103;ut&#x103;ri</translation>
+    </message>
+    <message>
+      <source>No records</source>
+      <translation>Nici o inregistrare</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastuploads</name>
+    <message>
+      <source>Last uploaded images</source>
+      <translation>Ultimele imagini &#xEE;nc&#x103;rcate</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>Nici o inregistrare.</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Rezolu&#x163;ie</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Pagin&#x103;</translation>
+    </message>
+    <message>
+      <source>Latest additions to gallery.</source>
+      <translation type="unfinished">Ultimele ad&#x103;ug&#x103;ri la galerie.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/my_albums_list</name>
+    <message>
+      <source>Edit album</source>
+      <translation>Editare album</translation>
+    </message>
+    <message>
+      <source>Are you sure?</source>
+      <translation>Sunte&#x163;i sigur?</translation>
+    </message>
+    <message>
+      <source>Delete album</source>
+      <translation>&#x15E;tergere album</translation>
+    </message>
+    <message>
+      <source>Add images</source>
+      <translation>Adauga imagini</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/myalbums</name>
+    <message>
+      <source>My albums</source>
+      <translation>Mele albume</translation>
+    </message>
+    <message>
+      <source>New album</source>
+      <translation>Nou album</translation>
+    </message>
+    <message>
+      <source>Update priority</source>
+      <translation>Actualizare prioritate</translation>
+    </message>
+    <message>
+      <source>You do not have any album.</source>
+      <translation>Nu ave&#x163;i nici un album.</translation>
+    </message>
+    <message>
+      <source>Create a new album.</source>
+      <translation>Crea&#x163;i un album nou.</translation>
+    </message>
+    <message>
+      <source>Account</source>
+      <translation>Cont</translation>
+    </message>
+    <message>
+      <source>Albums</source>
+      <translation>Albume</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/mylistalbum</name>
+    <message>
+      <source>No records.</source>
+      <translation>Nici o inregistrare.</translation>
+    </message>
+    <message>
+      <source>Account</source>
+      <translation>Cont</translation>
+    </message>
+    <message>
+      <source>Albums</source>
+      <translation>Albume</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/popular</name>
+    <message>
+      <source>Most popular images</source>
+      <translation>Cele mai populare imagini</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>Nici o inregistrare.</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Rezolu&#x163;ie</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Pagin&#x103;</translation>
+    </message>
+    <message>
+      <source>All time most popular images.</source>
+      <translation type="unfinished">Tot timpul cele mai populare imagini.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/popularrecect</name>
+    <message>
+      <source>Most popular images in 24 hours.</source>
+      <translation>Cele mai populare imagini &#xEE;n 24 de ore.</translation>
+    </message>
+    <message>
+      <source>There are no images.</source>
+      <translation>Nu sunt imagini.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/ratedrecent</name>
+    <message>
+      <source>Top rated images in 24 hours.</source>
+      <translation>Cele mai bine cotate imagini &#xEE;n 24 de ore.</translation>
+    </message>
+    <message>
+      <source>Top rated images in 24 hours</source>
+      <translation>Top imagini evaluat &#xEE;n 24 de ore</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Pagin&#x103;</translation>
+    </message>
+    <message>
+      <source>Top rated images in last 24 hours.</source>
+      <translation type="unfinished">Top imagini evaluat &#xEE;n ultimele 24 de ore.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/sharehtml</name>
+    <message>
+      <source>Link to image</source>
+      <translation>Leg&#x103;tur&#x103; &#xEE;ntr-imagine</translation>
+    </message>
+    <message>
+      <source>Link to image with thumbnail</source>
+      <translation>Leg&#x103;tur&#x103; &#xEE;ntr-imagini cu miniatur&#x103;</translation>
+    </message>
+    <message>
+      <source>Link to image with medium size thumbnail</source>
+      <translation>Leg&#x103;tur&#x103; &#xEE;ntr-imagini cu miniaturi de dimensiuni medii</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/sharephpbb</name>
+    <message>
+      <source>Link to image</source>
+      <translation>Leg&#x103;tur&#x103; &#xEE;ntr-imagine</translation>
+    </message>
+    <message>
+      <source>Link to image with thumbnail</source>
+      <translation>Leg&#x103;tur&#x103; &#xEE;ntr-imagini cu miniatur&#x103;</translation>
+    </message>
+    <message>
+      <source>Link to image with medium size thumbnail</source>
+      <translation>Leg&#x103;tur&#x103; &#xEE;ntr-imagini cu miniaturi de dimensiuni medii</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/subcategory_list_full</name>
+    <message>
+      <source>albums</source>
+      <translation>albume</translation>
+    </message>
+    <message>
+      <source>images</source>
+      <translation>imagini</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/toprated</name>
+    <message>
+      <source>Top rated images</source>
+      <translation>Top imagini evaluat</translation>
+    </message>
+    <message>
+      <source>No records</source>
+      <translation>Nici o inregistrare</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Rezolu&#x163;ie</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Pagin&#x103;</translation>
+    </message>
+    <message>
+      <source>All time top rated images.</source>
+      <translation type="unfinished">Toate top timp evaluat imagini.</translation>
+    </message>
+  </context>
+  <context>
+    <name>kernel/nopermission</name>
+    <message>
+      <source>You do not have permission to access module</source>
+      <translation>Nu ave&#x163;i permisiunea de a accesa modulul de</translation>
+    </message>
+    <message>
+      <source>and use</source>
+      <translation>&#x15F;i de a folosi</translation>
+    </message>
+    <message>
+      <source>function</source>
+      <translation>func&#x163;ie</translation>
+    </message>
+    <message>
+      <source>You do not have permission to access current object</source>
+      <translation>Nu ave&#x163;i permisiunea de a accesa obiectul curent</translation>
+    </message>
+  </context>
+  <context>
+    <name>core/paginator</name>
+    <message>
+      <source>Page</source>
+      <translation>Pagin&#x103;</translation>
+    </message>
+    <message>
+      <source>of</source>
+      <translation>de</translation>
+    </message>
+    <message>
+      <source>Found</source>
+      <translation>S-au g&#x103;sit</translation>
+    </message>
+    <message>
+      <source>Previous</source>
+      <translation>Precedent</translation>
+    </message>
+    <message>
+      <source>Go to page</source>
+      <translation>Du-te la pagina</translation>
+    </message>
+    <message>
+      <source>Next</source>
+      <translation>Urm&#x103;tor</translation>
+    </message>
+  </context>
+  <context>
+    <name>similar/similar</name>
+    <message>
+      <source>Visualy similar images to</source>
+      <translation>Imagini similare cu Visualy</translation>
+    </message>
+    <message>
+      <source>Search for visualy similar images</source>
+      <translation>C&#x103;utare pentru imagini visualy similare</translation>
+    </message>
+    <message>
+      <source>Please enable JavaScript to upload image</source>
+      <translation>V&#x103; rug&#x103;m s&#x103; activa&#x163;i JavaScript pentru a &#xEE;nc&#x103;rca imagini</translation>
+    </message>
+    <message>
+      <source>Click to choose image, you can also Drag and Drop file here (Drag and drop only for FF, Chrome).</source>
+      <translation>Face&#x163;i clic pe imagine pentru a alege, pute&#x163;i, de asemenea, Drag and Drop fisierul aici (Drag and drop numai pentru FF, Chrome).</translation>
+    </message>
+    <message>
+      <source>Cancel</source>
+      <translation>Anula</translation>
+    </message>
+    <message>
+      <source>Failed</source>
+      <translation>A e&#x15F;uat</translation>
+    </message>
+  </context>
+  <context>
+    <name>similar/sketch</name>
+    <message>
+      <source>Search by sketch</source>
+      <translation>C&#x103;utare dup&#x103; schi&#x163;&#x103;</translation>
+    </message>
+    <message>
+      <source>Sketch and find images by your sketch</source>
+      <translation>Schi&#x163;&#x103; &#x15F;i pentru a g&#x103;si imaginile de schi&#x163;a dumneavoastr&#x103;</translation>
+    </message>
+  </context>
+  <context>
+    <name>statistic/view</name>
+    <message>
+      <source>hours</source>
+      <translation>or&#x103;</translation>
+    </message>
+    <message>
+      <source>Total pageviews</source>
+      <translation>Med total</translation>
+    </message>
+    <message>
+      <source>Total visits</source>
+      <translation>Total vizite</translation>
+    </message>
+    <message>
+      <source>Time spent</source>
+      <translation>Timpul petrecut</translation>
+    </message>
+    <message>
+      <source>Last 31 days statistic, data resource - google analytics API</source>
+      <translation>Ultimele 31 zile statistice, date de resurse - Google Analytics API</translation>
+    </message>
+    <message>
+      <source>Legend</source>
+      <translation>Legend&#x103;</translation>
+    </message>
+    <message>
+      <source>Pageviews</source>
+      <translation>Vizualiz&#x103;ri</translation>
+    </message>
+    <message>
+      <source>Visits</source>
+      <translation>Vizite</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/mapaccounts</name>
+    <message>
+      <source>Login with facebook</source>
+      <translation>Conectare cu Facebook</translation>
+    </message>
+    <message>
+      <source>Map to my account</source>
+      <translation>Harta la contul meu</translation>
+    </message>
+    <message>
+      <source>my account</source>
+      <translation>Contul meu</translation>
+    </message>
+    <message>
+      <source>Login</source>
+      <translation>Login</translation>
+    </message>
+    <message>
+      <source>map to my account</source>
+      <translation>hart&#x103; la contul meu</translation>
+    </message>
+    <message>
+      <source>Incorrect login or password</source>
+      <translation>Conectare sau parol&#x103; incorect&#x103;</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Nume de utilizator</translation>
+    </message>
+    <message>
+      <source>Password</source>
+      <translation>Parol&#x103;</translation>
+    </message>
+    <message>
+      <source>OR</source>
+      <translation>SAU</translation>
+    </message>
+    <message>
+      <source>create account</source>
+      <translation>creeaza cont</translation>
+    </message>
+    <message>
+      <source>Next</source>
+      <translation>Urm&#x103;tor</translation>
+    </message>
+    <message>
+      <source>Open ID</source>
+      <translation>ID-ul deschis</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/forgotpassword</name>
+    <message>
+      <source>Password remind</source>
+      <translation>Parola reaminti</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Restore password</source>
+      <translation>A restaura parola</translation>
+    </message>
+    <message>
+      <source>Order confirmed</source>
+      <translation>Comenzii confirmate</translation>
+    </message>
+    <message>
+      <source>Credits order confirmed</source>
+      <translation>Credite pentru confirmat</translation>
+    </message>
+    <message>
+      <source>Wrong e-mail address!</source>
+      <translation>Gre&#x15F;it&#x103; de e-mail!</translation>
+    </message>
+    <message>
+      <source>Click this link and to You will be send new password</source>
+      <translation>Face&#x163;i clic pe aceast&#x103; leg&#x103;tur&#x103; &#xEE;ntr-&#x15F;i s&#x103; v&#x103; vor fi trimise parol&#x103; nou&#x103;</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/forgotpasswordsent</name>
+    <message>
+      <source>Password remind</source>
+      <translation>Parola reaminti</translation>
+    </message>
+    <message>
+      <source>E-mail send. Click link in email and to You will be send out new password.</source>
+      <translation>E-mail trimite. Face&#x163;i clic pe link-ul din e-mail &#x15F;i s&#x103; Ve&#x163;i trimite noua parola.</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/index</name>
+    <message>
+      <source>User home</source>
+      <translation>Ghid de acas&#x103;</translation>
+    </message>
+    <message>
+      <source>Welcome. Here you can:</source>
+      <translation>Bine ai venit. Aici ave&#x163;i posibilitatea s&#x103;:</translation>
+    </message>
+    <message>
+      <source>Edit personal settings</source>
+      <translation>Edita&#x163;i set&#x103;ri personale</translation>
+    </message>
+    <message>
+      <source>Manage personal albums</source>
+      <translation>Administreaza albume personale</translation>
+    </message>
+    <message>
+      <source>My account</source>
+      <translation>Contul meu</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/remindpassword</name>
+    <message>
+      <source>New password</source>
+      <translation>Parol&#x103; nou&#x103;</translation>
+    </message>
+    <message>
+      <source>Hash not found or was used already</source>
+      <translation>Hash nu a fost g&#x103;sit sau a fost deja utilizat</translation>
+    </message>
+    <message>
+      <source>Password remind - new password</source>
+      <translation>Parola reamintesc - o parol&#x103; nou&#x103;</translation>
+    </message>
+    <message>
+      <source>New password:</source>
+      <translation>Parol&#x103; nou&#x103;:</translation>
+    </message>
+    <message>
+      <source>New password has beend send to your email.</source>
+      <translation>Nou&#x103; parol&#x103; a trimite beend la adresa dvs. de email.</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/basket</name>
+    <message>
+      <source>Basket</source>
+      <translation>Co&#x15F;</translation>
+    </message>
+    <message>
+      <source>Image name</source>
+      <translation>Imagine nume</translation>
+    </message>
+    <message>
+      <source>Version</source>
+      <translation>Versiune</translation>
+    </message>
+    <message>
+      <source>Image size</source>
+      <translation>Dimensiune imagine</translation>
+    </message>
+    <message>
+      <source>Format</source>
+      <translation>Format</translation>
+    </message>
+    <message>
+      <source>Price</source>
+      <translation>Pre&#x163;</translation>
+    </message>
+    <message>
+      <source>Credits</source>
+      <translation>Credite</translation>
+    </message>
+    <message>
+      <source>Remove from basket</source>
+      <translation>Elimina&#x163;i din co&#x15F;</translation>
+    </message>
+    <message>
+      <source>Choose payment option</source>
+      <translation>Alege&#x163;i op&#x163;iunea de plat&#x103;</translation>
+    </message>
+    <message>
+      <source>In order to checkout atlest one item have to be selected.</source>
+      <translation>&#xCE;n scopul de a Checkout atlest un articol trebuie s&#x103; fie selectate.</translation>
+    </message>
+    <message>
+      <source>In order to checkout you have to</source>
+      <translation>&#xCE;n scopul de a checkout trebuie s&#x103;</translation>
+    </message>
+    <message>
+      <source>sign in</source>
+      <translation>sign &#xEE;n</translation>
+    </message>
+    <message>
+      <source>or</source>
+      <translation>sau</translation>
+    </message>
+    <message>
+      <source>login</source>
+      <translation>login</translation>
+    </message>
+    <message>
+      <source>if you have already created an account</source>
+      <translation>dac&#x103; a&#x163;i creat deja un cont</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/buycredits</name>
+    <message>
+      <source>Buy credits</source>
+      <translation>Cumpara credite</translation>
+    </message>
+    <message>
+      <source>How many credits do want to buy?</source>
+      <translation>C&#xE2;t de multe credite nu doresc s&#x103; cumpere?</translation>
+    </message>
+    <message>
+      <source>Choose payment method</source>
+      <translation>Alege&#x163;i metoda de plat&#x103;</translation>
+    </message>
+  </context>
+  <context>
+    <name>credits_handler/accept</name>
+    <message>
+      <source>Order succesfull</source>
+      <translation>Ordonan&#x163;a de succes</translation>
+    </message>
+    <message>
+      <source>Payment was succesfull</source>
+      <translation>De plat&#x103; a fost de succes</translation>
+    </message>
+  </context>
+  <context>
+    <name>credits_handler/process</name>
+    <message>
+      <source>Checkout</source>
+      <translation>Cas&#x103;</translation>
+    </message>
+    <message>
+      <source>Confirm payment</source>
+      <translation>Confirmare plat&#x103;</translation>
+    </message>
+    <message>
+      <source>Not enouth credits to checkout</source>
+      <translation>Nu enouth creditele acordate Checkout</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/cancel</name>
+    <message>
+      <source>Payment canceled</source>
+      <translation>De plat&#x103; anulate</translation>
+    </message>
+    <message>
+      <source>Paypal payment was canceled.</source>
+      <translation>PayPal de plat&#x103; a fost anulat.</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/error</name>
+    <message>
+      <source>Error</source>
+      <translation>Eroare</translation>
+    </message>
+    <message>
+      <source>Execution was terminated unexpectedly.</source>
+      <translation>Executarea a fost reziliat &#xEE;n mod nea&#x15F;teptat.</translation>
+    </message>
+  </context>
+  <context>
+    <name>paypal_handler/process</name>
+    <message>
+      <source>Checkout using Paypal</source>
+      <translation>Plateste folosind Paypal</translation>
+    </message>
+    <message>
+      <source>Buyer\'s Email</source>
+      <translation>Cumparator \ de e-mail</translation>
+    </message>
+    <message>
+      <source>Amount</source>
+      <translation>Sum&#x103;</translation>
+    </message>
+    <message>
+      <source>Currency</source>
+      <translation>Valut&#x103;</translation>
+    </message>
+    <message>
+      <source>Credits</source>
+      <translation>Credite</translation>
+    </message>
+  </context>
+  <context>
+    <name>paypal_handler/review</name>
+    <message>
+      <source>Order payment confirmation</source>
+      <translation>Ordin de plat&#x103; de confirmare</translation>
+    </message>
+    <message>
+      <source>Order amount</source>
+      <translation>Valoarea comenzii</translation>
+    </message>
+    <message>
+      <source>Confirm payment</source>
+      <translation>Confirmare plat&#x103;</translation>
+    </message>
+    <message>
+      <source>Thank you for your payment!</source>
+      <translation>V&#x103; mul&#x163;umim pentru dvs. de plat&#x103;!</translation>
+    </message>
+    <message>
+      <source>credits</source>
+      <translation>credite</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/mycredits</name>
+    <message>
+      <source>My credits balanse</source>
+      <translation>Mele de credite balanse</translation>
+    </message>
+    <message>
+      <source>You have</source>
+      <translation>Ave&#x163;i</translation>
+    </message>
+    <message>
+      <source>in your account</source>
+      <translation>&#xEE;n contul dvs.</translation>
+    </message>
+    <message>
+      <source>Buy credits</source>
+      <translation>Cumpara credite</translation>
+    </message>
+    <message>
+      <source>My credits</source>
+      <translation>Mele de credite</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/myorders</name>
+    <message>
+      <source>My credits orders</source>
+      <translation>Mele de credite Comenzi</translation>
+    </message>
+    <message>
+      <source>Date</source>
+      <translation>Data</translation>
+    </message>
+    <message>
+      <source>Order price</source>
+      <translation>Comanda pre&#x163;</translation>
+    </message>
+    <message>
+      <source>Order credits</source>
+      <translation>Ordonan&#x163;a de credite</translation>
+    </message>
+    <message>
+      <source>Order status</source>
+      <translation>Starea comenzii</translation>
+    </message>
+    <message>
+      <source>Payed</source>
+      <translation>Pl&#x103;tit&#x103;</translation>
+    </message>
+    <message>
+      <source>Confirmed</source>
+      <translation>Confirmat</translation>
+    </message>
+    <message>
+      <source>My orders</source>
+      <translation>Comenzile mele</translation>
+    </message>
+    <message>
+      <source>Order view</source>
+      <translation>Comanda vedere</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/orderview</name>
+    <message>
+      <source>Order view</source>
+      <translation>Comanda vedere</translation>
+    </message>
+    <message>
+      <source>Order time</source>
+      <translation>Ordonan&#x163;a de timp</translation>
+    </message>
+    <message>
+      <source>Order price</source>
+      <translation>Comanda pre&#x163;</translation>
+    </message>
+    <message>
+      <source>Order credits</source>
+      <translation>Ordonan&#x163;a de credite</translation>
+    </message>
+    <message>
+      <source>Order status</source>
+      <translation>Starea comenzii</translation>
+    </message>
+    <message>
+      <source>Payed</source>
+      <translation>Pl&#x103;tit&#x103;</translation>
+    </message>
+    <message>
+      <source>Confirmed</source>
+      <translation>Confirmat</translation>
+    </message>
+    <message>
+      <source>Ordered items</source>
+      <translation>Articole ordonate</translation>
+    </message>
+    <message>
+      <source>Image name</source>
+      <translation>Imagine nume</translation>
+    </message>
+    <message>
+      <source>Version</source>
+      <translation>Versiune</translation>
+    </message>
+    <message>
+      <source>Image size</source>
+      <translation>Dimensiune imagine</translation>
+    </message>
+    <message>
+      <source>Format</source>
+      <translation>Format</translation>
+    </message>
+    <message>
+      <source>Price</source>
+      <translation>Pre&#x163;</translation>
+    </message>
+    <message>
+      <source>Download count</source>
+      <translation>Desc&#x103;rca&#x163;i conta</translation>
+    </message>
+    <message>
+      <source>Downloads left</source>
+      <translation>Desc&#x103;rc&#x103;ri st&#xE2;nga</translation>
+    </message>
+    <message>
+      <source>Credits</source>
+      <translation>Credite</translation>
+    </message>
+    <message>
+      <source>Download image</source>
+      <translation>Desc&#x103;rca&#x163;i imagini</translation>
+    </message>
+    <message>
+      <source>downloads left</source>
+      <translation>desc&#x103;rc&#x103;ri st&#xE2;nga</translation>
+    </message>
+    <message>
+      <source>No downloads available</source>
+      <translation>Nr desc&#x103;rc&#x103;ri disponibile</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/paymentoption</name>
+    <message>
+      <source>Payment option</source>
+      <translation>Op&#x163;iune de plat&#x103;</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Choose payment method</source>
+      <translation>Alege&#x163;i metoda de plat&#x103;</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/paymentoptioncredit</name>
+    <message>
+      <source>Payment option</source>
+      <translation>Op&#x163;iune de plat&#x103;</translation>
+    </message>
+    <message>
+      <source>Continue</source>
+      <translation>Continua</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/category</name>
+    <message>
+      <source>Root category</source>
+      <translation>Root categorie</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Pagin&#x103;</translation>
+    </message>
+    <message>
+      <source>Forum</source>
+      <translation>Forum</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/category</name>
+    <message>
+      <source>Please enter topic name!</source>
+      <translation>Va rugam introduceti numele subiect!</translation>
+    </message>
+    <message>
+      <source>Please enter message!</source>
+      <translation>Va rugam introduceti mesajul!</translation>
+    </message>
+    <message>
+      <source>Please choose category!</source>
+      <translation>V&#x103; rug&#x103;m s&#x103; alege&#x163;i categorie!</translation>
+    </message>
+    <message>
+      <source>Not parent category!</source>
+      <translation>Nu-mam&#x103; categorie!</translation>
+    </message>
+    <message>
+      <source>Invalid category!</source>
+      <translation>Nevalid categorie!</translation>
+    </message>
+    <message>
+      <source>Forum</source>
+      <translation>Forum</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/createcategory</name>
+    <message>
+      <source>Please enter category name!</source>
+      <translation>Va rugam introduceti numele categorie!</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>Acas&#x103;</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/editmessage</name>
+    <message>
+      <source>Please enter message!</source>
+      <translation>Va rugam introduceti mesajul!</translation>
+    </message>
+    <message>
+      <source>Forum</source>
+      <translation>Forum</translation>
+    </message>
+    <message>
+      <source>Message edit</source>
+      <translation>Edita&#x163;i mesajul</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/edittopic</name>
+    <message>
+      <source>Please enter topic name!</source>
+      <translation>Va rugam introduceti numele subiect!</translation>
+    </message>
+    <message>
+      <source>Please enter topic status!</source>
+      <translation>Te rug&#x103;m s&#x103; introduci statutul de subiect!</translation>
+    </message>
+    <message>
+      <source>Forum</source>
+      <translation>Forum</translation>
+    </message>
+    <message>
+      <source>Topic edit</source>
+      <translation>Subiect edita</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/report</name>
+    <message>
+      <source>Please enter message!</source>
+      <translation>Va rugam introduceti mesajul!</translation>
+    </message>
+    <message>
+      <source>Forum message report</source>
+      <translation>Forum pentru mesaj raport</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/searchrss</name>
+    <message>
+      <source>Search results</source>
+      <translation>Rezultate c&#x103;utare</translation>
+    </message>
+    <message>
+      <source>Search</source>
+      <translation>C&#x103;utare</translation>
+    </message>
+    <message>
+      <source>Search RSS by keyword</source>
+      <translation>C&#x103;utare dup&#x103; cuv&#xE2;nt cheie RSS</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>Vizualizare imagine</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/searchrss</name>
+    <message>
+      <source>Search</source>
+      <translation>C&#x103;utare</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/albumeditadmin</name>
+    <message>
+      <source>Root category</source>
+      <translation>Root categorie</translation>
+    </message>
+    <message>
+      <source>Add images</source>
+      <translation>Adauga imagini</translation>
+    </message>
+    <message>
+      <source>Album edit</source>
+      <translation>Album edita</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/addvote</name>
+    <message>
+      <source>Thank you for your vote</source>
+      <translation>V&#x103; mul&#x163;umim pentru votul dvs.</translation>
+    </message>
+    <message>
+      <source>You are not allowed to vote!</source>
+      <translation>Nu este permis s&#x103; voteze!</translation>
+    </message>
+    <message>
+      <source>You have already voted!</source>
+      <translation>Ai votat deja!</translation>
+    </message>
+    <message>
+      <source>Vote deducted!</source>
+      <translation>Vot deduse!</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/albumrss</name>
+    <message>
+      <source>Last uploaded images to album</source>
+      <translation>Ultimele imagini &#xEE;nc&#x103;rcate &#xEE;n album</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>Vizualizare imagine</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lasthitsrss</name>
+    <message>
+      <source>watched</source>
+      <translation>vizionat</translation>
+    </message>
+    <message>
+      <source>Last viewed images</source>
+      <translation>Ultimele imagini vizualizate</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>Vizualizare imagine</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastcommentedrss</name>
+    <message>
+      <source>Last commented images</source>
+      <translation>Ultimele comentate imagini</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>Vizualizare imagine</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastratedrss</name>
+    <message>
+      <source>Last rated images</source>
+      <translation>Ultimele imagini evaluat</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>Vizualizare imagine</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastuploadsrss</name>
+    <message>
+      <source>Last uploaded images</source>
+      <translation>Ultimele imagini &#xEE;nc&#x103;rcate</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>Vizualizare imagine</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/movebyresolution</name>
+    <message>
+      <source>Move by resolution</source>
+      <translation>Mutare de rezolu&#x163;ie</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/popularrecent</name>
+    <message>
+      <source>Most popular images in 24 hours</source>
+      <translation>Cele mai populare imagini &#xEE;n 24 de ore</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Pagin&#x103;</translation>
+    </message>
+    <message>
+      <source>Most popular images in last 24 hours.</source>
+      <translation type="unfinished">Cele mai populare imagini &#xEE;n ultimele 24 de ore.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/popularrss</name>
+    <message>
+      <source>Most popular images</source>
+      <translation>Cele mai populare imagini</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/tagphoto</name>
+    <message>
+      <source>Thank you a lot :)</source>
+      <translation>Multumesc mult:)</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/topratedrss</name>
+    <message>
+      <source>Top rated images</source>
+      <translation>Top imagini evaluat</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>Vizualizare imagine</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/updateimage</name>
+    <message>
+      <source>Image updated</source>
+      <translation>Imagini actualizate</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/imagevariation</name>
+    <message>
+      <source>Basket</source>
+      <translation>Co&#x15F;</translation>
+    </message>
+    <message>
+      <source>Payment option</source>
+      <translation>Op&#x163;iune de plat&#x103;</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/imagevariationform</name>
+    <message>
+      <source>Credits amount must be greater than 0!</source>
+      <translation>Suma creditelor trebuie s&#x103; fie mai mare dec&#xE2;t 0!</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/settingedit</name>
+    <message>
+      <source>Edit</source>
+      <translation>Edita</translation>
+    </message>
+  </context>
+  <context>
+    <name>similar/image</name>
+    <message>
+      <source>Similar images to</source>
+      <translation>Imagini similare cu</translation>
+    </message>
+    <message>
+      <source>Search for visualy similar images</source>
+      <translation>C&#x103;utare pentru imagini visualy similare</translation>
+    </message>
+  </context>
+  <context>
+    <name>system/index</name>
+    <message>
+      <source>System administration panel</source>
+      <translation>Sistem de administrare panou</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/profile</name>
+    <message>
+      <source>User profile</source>
+      <translation type="unfinished">Ghid de profil</translation>
+    </message>
+    <message>
+      <source>Name and surname</source>
+      <translation type="unfinished">Numele &#x15F;i prenumele</translation>
+    </message>
+    <message>
+      <source>Website</source>
+      <translation type="unfinished">Website</translation>
+    </message>
+    <message>
+      <source>Introduction</source>
+      <translation type="unfinished">Introducere</translation>
+    </message>
+    <message>
+      <source>Last updated albums</source>
+      <translation type="unfinished">Ultima actualizare albume</translation>
+    </message>
+    <message>
+      <source>Last uploaded images</source>
+      <translation type="unfinished">Ultimele imagini &#xEE;nc&#x103;rcate</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastuploadstoalbums</name>
+    <message>
+      <source>Last uploads to albums</source>
+      <translation type="unfinished">&#xCE;nc&#x103;rc&#x103;ri recente la albume</translation>
+    </message>
+    <message>
+      <source>Recently updated albums</source>
+      <translation type="unfinished">Albumele actualizat recent</translation>
+    </message>
+  </context>
+</TS>

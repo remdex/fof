@@ -1,0 +1,89 @@
+#!/bin/bash
+#
+# Copyright (C) 2008, 2009 Mihai Şucan
+# 
+# This file is part of PaintWeb.
+# 
+# PaintWeb is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+# 
+# PaintWeb is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+# 
+# You should have received a copy of the GNU General Public License
+# along with PaintWeb.  If not, see <http://www.gnu.org/licenses/>.
+# 
+# $URL: http://code.google.com/p/paintweb $
+# $Date: 2009-10-10 20:03:42 +0300 $
+
+# This script allows quicker access to the jsdoc-toolkit script.
+# Make sure you get the latest jsdoc-toolkit from http://jsdoctoolkit.org/.
+
+shopt -s nullglob
+
+SRC_FOLDER="$1"
+DOC_FOLDER="$2"
+
+# Make sure you point to your jsdoc-toolkit package folder.
+if [[ -z "$FOLDER_JSDOCT" ]]
+then
+	FOLDER_JSDOCT="${HOME}/src/jsdoc-toolkit"
+fi
+
+JSDOC_JAR="${FOLDER_JSDOCT}/jsrun.jar"
+JSDOC_JS="${FOLDER_JSDOCT}/app/run.js"
+JSDOC_TEMPLATE="${FOLDER_JSDOCT}/templates/jsdoc"
+
+if [[ ! -d "$SRC_FOLDER" ]]
+then
+  echo "The source folder does not exist: $SRC_FOLDER"
+  exit 1
+fi
+
+if [[ ! -d "$FOLDER_JSDOCT" ]]
+then
+	echo "The jsdoc-toolkit folder does not exist: $FOLDER_JSDOCT"
+	exit 1
+fi
+
+if [[ ! -f "$JSDOC_JAR" ]]
+then
+  echo "The jsdoc-toolkit .jar file does not exist!"
+  exit 1
+fi
+
+if [[ ! -f "$JSDOC_JS" ]]
+then
+  echo "The jsdoc-toolkit run.js file does not exist!"
+  exit 1
+fi
+
+if [[ ! -d "$JSDOC_TEMPLATE" ]]
+then
+  echo "The jsdoc-toolkit template folder does not exist: $JSDOC_TEMPLATE"
+  exit 1
+fi
+
+mkdir -p "$DOC_FOLDER"
+
+# Simple cleanup
+cd "$DOC_FOLDER"
+rm *html *css *js
+   symbols/*html \
+   symbols/*css \
+   symbols/*js \
+   symbols/src/*html \
+   symbols/src/*css \
+   symbols/src/*js
+
+cd -
+
+java -jar "$JSDOC_JAR" "$JSDOC_JS" -r=10 -a -p -t=${JSDOC_TEMPLATE} \
+     -d=${DOC_FOLDER} "$SRC_FOLDER" -E="json2|debug"
+
+# vim:set spell spl=en fo=wan1croql tw=80 ts=2 sw=2 sts=0 sta noet ai cin fenc=utf-8 ff=unix:
+

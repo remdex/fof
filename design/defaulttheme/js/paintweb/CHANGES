@@ -1,0 +1,1120 @@
+2010-06-26:
+===========
+
+- Implemented support for Microsoft Internet Explorer 9, technical preview 3.
+- Made the code to not rely on the existence of the global Node object.
+- Made the code to not rely on the expression evaluation:
+  if (window.getComputedStyle)
+  because MSIE 9 reports that as false (window.getComputedStyle is null), even 
+  if it does actually implement support for the method. This is similar to how 
+  document.all is hidden in Opera.
+- Made the code to not rely on the successful execution of elem.focus(). MSIE 9 
+shows an error when code tries to focus an invisible element.
+- MSIE 9 does not properly parse the user interface markup when it is loaded 
+using the XMLHttpRequest. This broke the PaintWeb initialization when it loaded 
+from the source code, without being packaged. I worked around the issue by using 
+the xhr.responseText, instead of the responseXML result.
+- Fixed a bug in the pwlib.isSameHost() method which prevented it from working 
+properly in MSIE 9.
+
+Known issues:
+- MSIE 9 does not yet implement the globalCompositeOperation property, which 
+makes the Color mixer visualisation look weird.
+- Changing elem.style.width/height causes the Canvas element to be cleared, 
+  which is entirely wrong. This breaks:
+  - The PaintWeb.imageCrop() method that is used by the image resize handle (the 
+      bottom right corner). I was able to fix this by reordering the code.
+  - The PaintWeb.updateCanvasScaling() method. This issue cannot be worked 
+  around and it causes PaintWeb to display a transparent image on load.
+  - The PaintWeb.imageLoad() method. This issue cannot be worked around - at the 
+  moment - and it causes for any image loaded by PaintWeb to disappear ... erm, 
+  in the same method execution. Effectively, you cannot see the image you loaded 
+  into PaintWeb.
+  - The PaintWeb.imageZoomTo() method. This issue cannot be worked around. Image 
+  zoom relies on having the Canvas element scaled up with CSS.
+- TinyMCE 3.2.5 does not work in MSIE 9.
+
+All in all, thank you Microsoft!
+
+2009-11-16:
+===========
+
+- New English strings for Moodle 1.9.
+
+2009-11-10:
+===========
+
+- Another change for the Color Bucket tool. Now the getImageData() method is 
+invoked for each line. This is a compromise between lots of memory usage and 
+performance.
+
+2009-11-09:
+===========
+
+- Changed a bit the way the new Color Bucket tool works. The getImageData() 
+  method is very slow on Gecko. Now flood fill runs good enough on Gecko as 
+  well.
+
+2009-11-08:
+===========
+
+- Implemented the new Color Bucket tool. This fixes issue #2 :)
+- Updated the default PaintWeb configuration to include the new color bucket 
+tool. Updated the Moodle configuration file as well.
+- Updated the default Makefile configuration to include the new color bucket 
+tool.
+- Fixed a bug in the interface script - it caused failure when registering tools 
+which were not in the interface layout.
+- Using the new mozImageSmoothingEnabled added in Gecko 1.9.2 for the Canvas 2D 
+context. This disables the smooth scaling of the Canvas element on the OLPC XO.
+- Updated the English localization file to include the new strings for the color 
+bucket tool.
+
+2009-11-06:
+===========
+
+- Improvements to the imagesave19.php script used for saving images in Moodle 
+1.9.
+
+2009-11-04:
+===========
+
+- Fixed a bug in the TinyMCE plugin. The overlay button did not always show in 
+the editor. This bug affected Moodle.
+
+2009-10-29:
+===========
+
+- Work on Moodle 1.9 integration. Made improvements to the Moodle extension for 
+PaintWeb and fixed the imagesave19.php script.
+
+2009-10-10:
+===========
+
+- Fixed issue #33 by adding a configuration file for the Makefile. Invoke make 
+config.
+- Added config-default.mk. Invoking make config adds config-local.mk which 
+overwrites any variables from the default config.
+- Updated the INSTALL file to include instructions on how to build PaintWeb.
+- Made it easier to build PaintWeb by having only a single file to edit paths: 
+the config-local.mk file. Until now you had to edit files in the scripts/ 
+folder.
+- Removed the make moodle target.
+- Added the make moodle19 and moodle20 targets, as requested by the Moodle 
+developers. The Moodle 2.0 package does not include 1.9-only scripts and 
+vice-versa.
+- Updated the README.
+
+2009-10-07:
+===========
+
+- Using $CFG->libdir in Moodle integration code, as suggested by Martin 
+Langhoff. Thanks!
+- Fixed the PaintWeb icon in the TinyMCE plugin. Thanks to Mauno Korpelainen for 
+his suggestion!
+
+2009-09-11:
+===========
+
+- Another fix for the overlay button in the TinyMCE plugin. This time, the fix 
+is for Webkit. Yesterday's change did include a regression in Webkit-based 
+browsers: the overlay button was not showing up at all.
+
+2009-09-10:
+===========
+
+- Made some improvements to the TinyMCE plugin, with regards to the overlay 
+button.
+- Worked around a problem which caused the overlay button to no longer show up 
+in Opera 10 final. The Opera bug is related to losing image selection, due to 
+the use of queryCommandState, DOM changes, and mouse events. See Opera bug 
+DSK-265135 and TC: http://www.robodesign.ro/coding/0064/
+
+2009-08-27:
+===========
+
+- Fixed a Text tool drawing bug which affected Gecko-based browsers. See 
+https://bugzilla.mozilla.org/show_bug.cgi?id=478445
+
+2009-08-26:
+===========
+
+- Fixed a performance regression on the OLPC XO. The new checkers background 
+used for making transparency obvious ... also causes a performance decrease. The 
+solution is to disable the background image on the OLPC XO.
+
+- Added a new configuration option to allow enabling/disabling of the checkers 
+background image.
+
+2009-08-24:
+===========
+
+- Fixed the simple demo to "work" in MSIE. That is: it should nicely tell the 
+user that PaintWeb does not work. Before this update, the scripts had JS 
+"errors".
+
+- Improved the Bézier curve. When only two points were available, the line drawn 
+didn't use the correct color.
+
+- Fixed an image save bug. At times it did "err", because the first argument of 
+the imageSave() method is a DOM event object instead of a string when invoked as 
+a command from the toolbar.
+
+2009-08-23:
+===========
+
+- Fixed the config JSON files. Now PaintWeb loads in Safari 4, once again.  
+Thanks to Dan Poltawski for his bug report and his time for testing.
+
+- The Moodle extension now displays a quickform validation error when the user 
+tries to submit a form while editing an image with unsaved changes, as suggested 
+by Martin Langhoff.
+
+- The Moodle extension now hides the textarea[format] selection drop-down while 
+PaintWeb is visible.
+
+2009-08-20:
+===========
+
+- Added a new option to the TinyMCE plugin: syncViewportSize. This allows you to 
+enable/disable the PaintWeb image viewport size synchronization between TinyMCE 
+and PaintWeb.
+
+- Now the TinyMCE plugin properly handles form submission while the user is 
+editing an image. If the image has changes, then form submission is cancelled.  
+The user is informed that the form submission is cancelled because the image 
+changes are not saved.
+
+Thanks to Dan Poltawski for this suggestion!
+
+- Added a new option to the TinyMCE plugin: onSubmitUnsaved. This allows you to 
+provide an event handler function which is invoked *only* when the user attempts 
+to perform form submission while editing an image which has unsaved changes.  
+Using this option you can provide custom user feedback for when the form 
+submission "fails" due to the aforementioned reasons. Your event handler is 
+passed three paramaters: the DOM event object (form submit), a reference to the 
+TinyMCE editor instance, and a reference to the PaintWeb instance.
+
+2009-08-19:
+===========
+
+- Switched to using a regular expression to parse the data URL, inside the 
+moodle/imagesave20.php script as suggested by Dan Poltawski. Thanks! It's 
+cleaner and nicer now.
+
+- Some code adjustments in the TinyMCE plugin - using more of the TinyMCE API, 
+  where appropriate.
+
+2009-08-13:
+===========
+
+- Implemented support for dynamic PaintWeb GUI resize. Developers now have 
+a method for resizing the GUI: PaintWeb.gui.resizeTo(width, height).
+
+- Added a new application event: viewportSizeChange.
+
+- Users can easily resize the PaintWeb GUI with a new resize handle added in the 
+status bar.
+
+- The TinyMCE plugin has been updated to synchronize the size of the editor 
+viewport with the image editor viewport of PaintWeb. So, now when you start 
+editing an image from TinyMCE, the PaintWeb instance will be of a similar size 
+(GUI differences account for the size differences). Nonetheless, strictly 
+speaking of the PaintWeb image viewport, it always has the same dimensions as 
+the TinyMCE editor iframe (where the article is displayed).
+
+- Added a new application event: guiResizeMouseMove. This is used by the new 
+viewport resize handle.
+
+- Updated English strings and configuration properties.
+
+2009-08-12:
+===========
+
+- Modified the Makefile such that "make moodle" creates an archive which only 
+holds the important parts of PaintWeb - without the docs, tests and demos.  
+(Suggested by Martin Langhoff, my mentor.)
+
+- Changed the styling of the "plugin bar" of the TinyMCE plugin - the one 
+displayed at the top of PaintWeb, when it runs inside TinyMCE. The background 
+color is now yellow, and the two Save/Cancel actions use inputs of type=button.  
+Thanks to Olli Savolainen.
+
+- The overlay button which shows "Edit" on top of images inside TinyMCE is now 
+no longer a link. It is an input of type=button. This change also fixed the 
+problem affecting Firefox users: they couldn't easily click the link, for some 
+reason. Thanks Olli Savolainen, again!
+
+- The TinyMCE plugin now sets up a reference to the current TinyMCE editor 
+instance in the current PaintWeb.config instance. This allows extensions from 
+inside PaintWeb to access the TinyMCE editor - using 
+PaintWeb.config.tinymceEditor. This is used by the updated Moodle extension.
+
+- Updated the Moodle extension to support image saving inside Moodle 2.0.
+
+- Created a new imagesave20.php script which implements the image save operation 
+for Moodle 2.0. This script saves images inside the user_draft file area.
+
+
+2009-08-10:
+===========
+
+- Started work on Moodle 2.0 integration. Moodle 1.9 integration has been 
+postponed for a number of reasons. Further details in an upcoming blog post at 
+robodesign.ro/mihai.
+
+- New script for localization integration specific to Moodle 2.0 - see 
+update_tinymcelang.pnp.
+
+- Improved/fixed gen_moodlelang.php.
+
+- Moved the TODO file to the Google Code wiki:
+http://code.google.com/p/paintweb/wiki/TODO
+
+The wiki page includes new items and some fixes.
+
+2009-08-03:
+===========
+
+- Worked on coding style for the PHP scripts. Now the scripts follow the Moodle 
+coding guidelines more closely.
+- Image save now requires users to be logged-in. Obviously.
+- More usage of Moodle API inside the PHP scripts.
+- Localization updates.
+
+2009-07-30:
+===========
+
+- Completed work on the "Create image" functionality in the TinyMCE plugin.
+- Worked around the security violation caused by rendering of images with data 
+URLs in Webkit/Gecko 1.9.0.
+- A bit of improved browser detection in the PaintWeb lib.
+- Fixed image saving as JPEG in Firefox.
+
+2009-07-29:
+===========
+
+- Implemented better support for the background color configuration option. Now 
+PaintWeb makes it more obvious when an image has true transparency and when not.
+- Fixed the eraser tool to properly erase the image pixels, irrespective of the 
+background color.
+- New icon for the PaintWeb button from the TinyMCE plugin.
+- Implemented support for creating new images from the TinyMCE plugin. New 
+images use data URLs. (still needs bug fixing / testing)
+
+2009-07-28:
+===========
+
+- Continued work on image save into Moodle. This time worked on refining the 
+implementation of image save as a file.
+
+- Fixes/improvements to the server-side script imagesave.php. Now the script 
+determines if an image comes from a course and updates it accordingly - if 
+permissions allow it. If the image cannot be found/updated, then a new image is 
+saved in the PaintWeb images folder inside the data dir.
+
+- Implemented support for image file types in the PaintWeb.imageSave() method.  
+Currently only Firefox 3.5 and Opera 10 can save PNG and JPEG images. The rest 
+of the browsers only support PNG.
+
+- When an image from a course is updated, PaintWeb tries to maintain the same 
+file format: PNG or JPEG. If the format cannot be maintained, then a new PNG 
+image is created in the PaintWeb images folder from the data dir.
+
+- TinyMCE plugin improvements. Made it behave better with regards to image 
+updates/saves.
+
+- New config option for image save quality (for JPEGs).
+- New config option for "moodleSaveMethod". Now users/devs can easily switch the 
+PaintWeb Moodle extension to save images as data URLs or as files, depending on 
+their likings.
+
+- Updated ext/moodle/imageview.php to better integrate into Moodle.
+
+- Updates for English strings.
+
+
+2009-07-26:
+===========
+
+- Fixed the TinyMCE plugin in Firefox 3.0. PaintWeb was failing image saves, GUI 
+show/hide, etc.
+- Further work on image save in Moodle 1.9. This time on two fronts:
+
+a) Save image as a data URL. I worked around the problem in TinyMCE which causes 
+data URLs to be mangled. Now saving the image as a data URL works fine. I can 
+also provide a patch to TinyMCE 3 which fixes the problem entirely.
+
+Problems remaining:
+* IE 6 / IE 7 data URL support;
+* client-side security issues when trying to edit an image with a data URL in 
+Webkit and Gecko 1.9.0.
+
+b) Save the image in the data directory of Moodle, with a unique hash (sha1).  
+This works well in all of the browsers (Firefox, Opera, Chrome, Safari).
+
+Problems remaining:
+* server-side security issues: who and when is allowed to save an image? How 
+about viewing an image?
+* save location: I rather picked it arbitrarily, based on a chat I had with 
+Martin.
+
+2009-07-24:
+===========
+
+- Attempted to implement image save using data URLs.
+
+The attempt consisted of getting the TinyMCE plugin and the Moodle extension for
+PaintWeb to update the target image src attribute to hold the data URL generated
+by the browser. This is doable, but the attempt pretty much failed. Reasons:
+
+* TinyMCE does not really allow a plugin to manually change the .src DOM
+attribute for the image element, thus I must use their dom.setAttrib() method.
+If I do, their attribute value processing functions break the date URL making it
+invalid. If I manually set image.src to be what I want, it looks good in the
+browser, but when you save the textarea content will still point to the old
+image src attribute. Yay!
+
+* For some reason, Webkit considers images with data URLs as "external
+resources", thus when I draw them in Canvas, the Canvas is marked as dirty
+(security violation). Therefore, In Chrome/Safari one cannot edit data URLs and
+save them again.
+
+* Firefox crashes/freezes sometimes when TinyMCE + data URLs are used. Uh-oh.
+
+2009-07-21:
+===========
+
+- Renamed the configuration property "imagePreload" to "imageLoad".
+- Fixes and improvements to the TinyMCE plugin. It now provides proper feedback 
+when an image is being saved, when errors occur, or if the save failed.
+- Added new application events: imageSaveResult, guiShow, guiHide.
+- Implemented a lang.json.php which provides proper Moodle localization 
+integration. This is used by PaintWeb when it loads the language JSON file.
+- Changed %variables% in language files to {variables}.
+- Worked on the Moodle extension for PaintWeb. Now, theoretically, image save 
+works fine.
+- New script for handling image saving, on the server-side, in Moodle.  
+Currently, it's only a placeholder.
+- Updated/new English strings.
+
+2009-07-20:
+===========
+
+- PaintWeb instances can now be destroyed. Use PaintWeb.destroy().
+- New application event: appDestroy.
+- Renamed the "initApp" event to "appInit".
+- The configuration can now tell the file name of a language.
+- Fixes and improvements for the TinyMCE plugin.
+
+2009-07-17:
+===========
+
+- Implemented a "plugin bar" which rendered at the top of the PaintWeb instance 
+by the TinyMCE plugin. This bar displays the current file name the user is 
+editing, and includes two buttons for image save / cancel edit.
+- A bug fix regarding the choice of inserting the PaintWeb instance closer to 
+the TinyMCE editor (DOM-wise).
+
+2009-07-16:
+===========
+
+- Started the implementation of a new extension for PaintWeb, intuitively named 
+"moodle". This will soon include glue-code for PaintWeb and Moodle.
+- The Makefile includes a new "moodle" target. Invoke "make moodle" to make 
+a custom Moodle build of PaintWeb. Currently, Moodle builds only differ in their 
+choice of included extensions: the MouseKeys extension is replaced by the new 
+Moodle extension.
+- The TinyMCE plugin now allows the user to start PaintWeb when the image 
+element is double clicked. So, now, you can simply double click the image to 
+edit it, yay!
+- When PaintWeb starts to load, the TinyMCE plugin provides feedback: the 
+overlay button shows "PaintWeb is loading".
+- Fixed a bug in the TinyMCE plugin: the overlay button was persisting across 
+page refreshes in Firefox.
+- New PaintWeb configuration file tailored for Moodle. Currently, the difference 
+is that it loads the new Moodle extension instead of the MouseKeys extension.
+- Bug fix in the PaintWeb.imageSave() method: when the image cannot be saved, 
+  show the error to the user, don't throw an exception.
+- Fixes across the board for keyboard accessibility: improved focusing of 
+elements, as needed.
+- Now PaintWeb no longer listens for all the keyboard events on the global 
+Window object - this created a conflict with TinyMCE and more complex Web 
+applications (obviously). Keyboard events are now handled only within the 
+PaintWeb target element - the GUI placeholder.
+- New English strings.
+
+2009-07-15:
+===========
+
+- Added support for generating the tags file for the PaintWeb source, in the 
+Makefile. Just write "make tags".
+- Improved the PaintWeb.tar.bz2 package generated by the Makefile: now all the 
+files are inside the "paintweb" folder.
+- The language convert scripts for Moodle now use the PaintWeb build folder.
+- Minor fix for the TinyMCE plugin.
+
+2009-07-09:
+===========
+
+- Improved multi-language support by changing the language-related options in 
+the configuration file.
+- Improved the TinyMCE plugin to properly determine the language of TinyMCE and 
+use the same language in PaintWeb.
+- Removed the need to tell PaintWeb the baseFolder - where the script is 
+located. PaintWeb now determines its own location automatically.
+- Hacked around the issue of failed PaintWeb loads - the 'load' event for script 
+elements is not always properly dispatched in all the supported browsers. Now 
+PaintWeb uses XHR to load and eval() the JS files. Uh-oh.
+- Fixed a bug the English language file.
+- Wrote a script which converts PaintWeb JSON language files to Moodle PHP 
+language files.
+
+2009-07-06:
+===========
+
+- More work on the TinyMCE plugin. Now PaintWeb can be started from the context 
+menu, and from a new overlay button which shows on top of the editable image.
+- New configuration options for the TinyMCE plugin.
+- New API for showing/hiding the PaintWeb GUI.
+- Changed the About/Help icon to be a "PaintWeb" icon. Olli suggested it's not 
+appropriate to show a Help icon when there's no context help. Thanks!
+- Minor corrections and some more error checks in PaintWeb with regards to the 
+loading of external images.
+- Added support for the TinyMCE plugin in the Makefile. Now the make process 
+also generates the editor_plugin.js - a minified version of the 
+editor_plugin_src.js file.
+
+2009-07-04:
+===========
+
+- Implemented a new core function: PaintWeb.imageLoad().
+- Initial implementation of the TinyMCE plugin which nicely integrates PaintWeb 
+into TinyMCE. It works well in Opera, Firefox and Chrome. Remaining work is to 
+make it less ... flimsy, less error prone. Note that image save also works!
+
+2009-07-02:
+===========
+
+- Further work on packaging and jsdoc API reference. Everything should be 
+working fine now.
+- jsdoc comment fixes across several files.
+
+2009-07-01:
+===========
+
+- Fixed the "swap fill / stroke colors" command. It now works - you can press 
+X to swap the two colors.
+- General fixes for undefined/unused variables across multiple JS files.
+- Packaging scripts for generating the jsdoc API reference.
+- Made demo1.html use the packaged PaintWeb script. I also added a timer, so 
+I can check how long it takes to load PaintWeb.
+- Minor fixes for the CSS images inliner script: don't try to inline external 
+images, and include the "base64" string in the data URI.
+- Fixed PaintWeb so that it loads successfully when running as a packaged build.  
+Mainly I made it properly read the interface markup, and I made sure the screen 
+resolution is detected even if the interface stylesheet is not yet loaded.  
+Typically PaintWeb completes initialization before the style loads and that 
+caused problems.
+- Made minor code adjustments for jsdoc-toolkit.
+
+2009-06-30:
+===========
+
+- Initial commit of the PaintWeb packager: a Makefile + some PHP scripts.
+- Some cleanup (removed the old images).
+- Now PaintWeb requires the configuration file to be set manually when 
+integrated into other Web applications.
+- Renamed the config.json file to config-example.json.
+- Updated demo1.html to point to the build and the configuration file.
+
+2009-06-29:
+===========
+
+- The color picker tool is now fixed and working well.
+- Updated the guiColorInput: some code adjustments for the color picker and 
+jsdoc comments.
+- Updated the Color Mixer: some code adjustments for the color picker, and 
+I also fixed a bug. When closing the floating panel using the X, the Color Mixer 
+did not detect the change - it does now.
+- New application event for the guiFloatingPanel: the 
+guiFloatingPanelStateChange event. Huh, long name.
+- Fixed a bug in the main code: the user was able to change the shadow settings 
+and see all the updates to the shadow rendering, without actually enabling 
+shadows. Now all changes to the shadow properties while shadows are not 
+explicitly enabled, are only stored in the config object, not in the layer 
+context.
+- Removed the Pantone, TruMatch, DIC, ANPA and Toyo color palettes due to 
+licensing issues. It has been reported these require special licensing. Thanks!
+- Now the Text tool is displayed as disabled in Opera and other browsers which 
+lack support for the Canvas Text API.
+- Fixed a minor glitch in the styling of the Selection tab.
+- New English strings.
+
+2009-06-27:
+===========
+
+- The color mixer is now complete. Fixed the bugs, completed the styling, and 
+added jsdoc comments.
+- Fixed the CIE Lab color calculations.
+- Fixed some Opera rendering issues: outlines + redraw problems with the color 
+mixer Canvas.
+
+2009-06-26:
+===========
+
+- The color mixer is now fully functional, but it still has some bugs. For 
+example, the CIE Lab color values are wrong. Additional work on the panel 
+styling is still needed (the alpha and the hex inputs are not yet visible).
+- Fixed the color palettes: now the files are real json - no evaluation is 
+needed.
+- Made the Canvas element scale properly when different DPI is used - for the 
+OLPC XO.
+
+2009-06-25:
+===========
+
+- Made the input fields update all configuration properties on each change.  
+Pressing Enter / unfocus is no longer needed.
+- Enabled the Color Mixer extension from the configuration.
+- Color Mixer initialization works now, without errors.
+- The Color Mixer panel is now almost fully functional.
+- New English strings related to the Color Mixer extension.
+
+2009-06-24:
+===========
+
+- Fixed a selection tool bug: when the selection was too small the mouseup event 
+handler did not properly set the state to none.
+- Further work on the Color Mixer panel styling.
+- Made the Color Mixer resizable (and any other floating panel).
+- Lots of work on the Color Mixer extension. Initialization of the extension 
+*almost* works now. The extension not enabled yet, due to the remaining errors 
+to be fixed.
+
+2009-06-23:
+===========
+
+- Continued work on the color input GUI component.
+- The Color Mixer shows up now when the user clicks the color inputs. Bad 
+styling, at the moment.
+- New English strings.
+- New line settings as defaults. (Martin's suggestion)
+- Linking to the Moodle discussion about PaintWeb - asking for feedback in 
+demo1. (Helen's suggestion)
+
+2009-06-22:
+===========
+
+- Fixed the "Insert image" tool.
+- Disabled the Text tool in Opera, due to heavy redraw issues, memory leaks, and 
+security violations. Eh. Bugs reported to Opera.
+- Modest beginnings of the new color input GUI component.
+- New English strings.
+
+2009-06-21:
+===========
+
+- Made improvements to the GUI floating panel component.
+- Completed the "About PaintWeb" floating panel.
+- Added a PaintWeb logo.
+- Updated/new English strings.
+
+2009-06-20:
+===========
+
+- Made the Text tool work with Opera 9+ and Firefox 3.0+.
+For Opera I use SVG. Unfortunately, sometimes Opera has random SVG redraw 
+glitches which are visible when using the Text tool inside PaintWeb.
+For Firefox 3.0 (Gecko 1.9.0) I use their proprietary mozPathText() method.
+
+2009-06-19:
+===========
+
+- demo1 now shows "loading, please wait..." when PaintWeb is loading.
+- Fix for the PaintWeb library: keypress is not fired by Gecko in input 
+elements, for the Up/Down arrows.
+- Better shadows support detection - it determines properly that Firefox 3.0 
+does not implement shadows.
+- Better error handling for the initialization. In case of file not found, or 
+such, the application will now display an error (failed to load ...), instead of 
+failing silently.
+- Buffer context initialization, which reads the configuration file and updates 
+the context accordingly. This fixes previous inconsistencies.
+- Users can press the Up/Down arrows in all inputs of type=number to 
+increase/decrease the numeric value.
+- Completed the GUI work needed for the Text tool tab.
+- Completed the work on the Text tool itself. Just need to try workarounds for 
+Opera and Firefox 3.0 compatibility.
+- New configuration options for shadows and text.
+- New English strings.
+
+2009-06-18:
+===========
+
+- New "selectAll" command. Updated the selection tool accordingly.
+- New keyboard shortcut: Control A, for "selectAll".
+- Fixed multiple bugs related to the use of get/putImageData. I did some 
+"stress" testing with images in excess of 5000 x 5000 pixels in Opera, Firefox 
+and Safari on a Windows machine, Intel Core 2 Duo E6700, 8 GB RAM, 64 bits, etc.  
+The results were quite interesting: the fastest was Firefox, albeit it is very 
+slow when performing get/putImageData. It quickly throws "out of memory" 
+exceptions. The bug fixes I did are for the main code and for the selection 
+tool.
+- Made numerous fixes for the selection tool - there were some cases which were 
+spitting out exceptions, yay.
+- Fixed image cropping issues + canvas rescaling, using the resize handle.
+- Started to update the text tool for the new GUI. The layout is almost ready.  
+The text tool code is almost done as well. The text tab CSS styling will come 
+tomorrow.
+- New configuration options for the text tool.
+- New English strings.
+
+2009-06-17:
+===========
+
+- New commands within the selection tool.
+- Several important fixes for the selection tool (marquee 'management' issues).
+- The Selection tab is now done and properly styled, with proper interactivity.
+- Worked around some Opera bug regarding the handling of the selection marquee.
+- Fixed PaintWeb.imageCrop().
+- New configuration options for the selection tool: keyboard shortcuts.
+- New English strings.
+
+2009-06-16:
+===========
+
+- Fixed the rendering for the tabs for most tools: rectangle, ellipse, polygon 
+and more.
+- Selection tool works again. The selection tab needs further work (tomorrow).
+- Selection tool now uses a dashed marquee rendered with an HTML DIV element.
+- Fixed the mousekeys extension.
+- New application events: selectionChange and clipboardUpdate.
+- New configuration options for the selection tool.
+- New English strings.
+
+2009-06-15:
+===========
+
+- Shadows work again. The Shadows tab shows-up only when shadows can be 
+rendered.
+- Adjustments to how the GUI shows/hides different inputs for each drawing tool.  
+Needs stylesheet updates (coming tomorrow).
+- The eraser tool is now working.
+- New application event: shadowAllow.
+- New configuration options: shadows and colors.
+- Icon fixes for line cap.
+- New English strings.
+
+2009-06-13:
+===========
+
+- Some bug fixes.
+- Made the tabs for rectangle, ellipse, bcurve, polygon, selection, text, pencil 
+and eraser show up nicely. At the moment the selection, text and eraser tools 
+still need minor updates - activation fails.
+- New English strings.
+
+2009-06-12:
+===========
+
+- Several bug fixes.
+- New application event for changes to configuration properties.
+- Implemented support for inputs associated to configuration properties in the 
+layout and interface script.
+- Implemented the Line options tab. Working fine.
+- Did the user interface for Line options as well - might need some additional 
+adjustments.
+- New configuration options.
+- New English strings.
+
+2009-06-11:
+===========
+
+- Made image zoom to work again and now it's better than it was before, with 
+complete GUI feedback.
+- Added keyboard shortcuts for zoom. This makes the list of keyboard shortcuts 
+complete. Yay, no more "FIXME".
+- Several fixes for the viewport display and interactivity. It's done.
+- Several improvements and fixes for the status bar. It's pretty much done.
+- Keyboard accessibility improvements. All icons and tabs can be tabbed to using 
+the keyboard Tab key. People can use the GUI with the keyboard entirely.
+- Some initialization fixes. For example, now PaintWeb will load without 
+failures when there are no extensions configured. When no drawing tool is 
+configured the initialization fails nicely.
+- Some new application events for image size change, canvas size change and zoom 
+level change.
+- Added a new configuration option for setting-up the viewport height. The 
+viewport width is automatically 100% - the value is not used by the current GUI 
+implementation.
+- More work on the interface stylesheet.
+- Fixed and made lots of improvements to the Hand tool. Now it works much better 
+than the previous implementation.
+- Fixes for the following tools: rectangle, Bézier curve, ellipse, line, 
+  polygon, pencil, and for the eraser (which still needs some more fixes).
+- English localization updates.
+
+2009-06-10:
+===========
+
+- Added keyboard shortcut for Help.
+- Added application events for image size changes, image cropping and history 
+updates.
+- Updated the canvasResize function to be imageCrop - because that's what it 
+really did.
+- Updated the GUI:
+  - made the tabs look as expected.
+  - fixes for the rendering of tools.
+  - now the status bar looks almost as expected (just need to add the zoom 
+      icon).
+  - work on the viewport.
+- English localization fixes.
+
+2009-06-09:
+===========
+
+- The new interface is coming along together now: PaintWeb loads fine now. The 
+new toolbar shows the new icons.
+- Further work on the interface markup. Almost complete.
+- Further work on the interface script. Almost complete.
+- Started work on the new interface stylesheet. Mainly the new toolbar and 
+icons.
+- Renamed some tools for better consistency. Renamed some commands for better 
+consistency.
+- Some fixes for the English localization.
+- New keyboard shortcuts.
+
+2009-06-08:
+===========
+
+- The new interface design and layout is all sketched-out and set pretty much in 
+stone. Ready to implement it.
+- Included all the new icons from the design in the interface folder.
+- Completed GUI code reorganization.
+- Started updating the layout file to fit with to the new GUI.
+- Started updating the interface script for the same purpose - implementation of 
+the desired user interface interaction.
+- Added support for "commands" in the main PaintWeb code. This allows the 
+association of simple function with IDs. Any such command can be triggered by 
+keyboard shortcuts and/or by user interface elements.
+- Implemented some of the current functionality as "commands" in PaintWeb.
+- New keyboard shortcuts for said commands.
+- New GUI component: tabbed panel.
+- New application events for extension (un)register.
+- New localization strings. The layout file was static - the GUI code is now 
+making sure all the strings in the layout are updated.
+
+Remaining work: complete new GUI interaction code and the new layout file.  
+Obviously, the stylesheet needs its own additional work - it's pretty much 
+untouched at the moment.
+
+Initialization fails, at the moment. Commit is for progress logging purposes.
+
+2009-06-06:
+===========
+
+- Started work on the Color Mixer extension.
+
+2009-06-03:
+===========
+
+- Continued work on the new GUI code.
+- More work on the initialization code.
+- The application is now able to properly initialize. Try demos/demo1.html
+
+2009-05-29:
+===========
+
+- Started splitting the GUI out from the main code.
+- Lots of work on the initialization code.
+- New API for "application events", like "init", "toolActivate" and more will 
+come.
+
+Currently the build is broken, it won't start. Stay tuned!
+
+2009-05-26:
+===========
+
+- Performance work and bug fixing for the selection tool.
+- Performance work and bug fixing for the "Insert image" tool.
+- Performance work for the text tool.
+- Minor bug fix in the MouseKeys extension. Found a rare case where 'mousemove' 
+in tool throws (see line 288).
+
+... ready to start work on the new GUI.
+
+2009-05-25:
+===========
+
+- Performance and usability work for the polygon tool.
+- Bug fixes for curve, rectangle, line and ellipse tools.
+- A small change to the way tools can cancel the activation.
+- Updated the text tool to use the new activation cancellation. More work on the 
+text tool will come.
+- Updated the tests/gsoc2009/0001-perf/README file and a small fix for perf 
+test12.
+
+2009-05-23:
+===========
+
+- Fixed performance test12. Huh. Working again.
+- Included all the work from test12 into PaintWeb. Now the application works 
+much better on the XO, by default. Yay! ;)
+- Made sure that any DPI changes, or zoom level changes in Opera, are detected 
+automatically while PaintWeb runs.
+- Made the MouseKeys extension aware of the current image zoom and the canvas 
+scaling going on.
+
+2009-05-22:
+===========
+
+- Performance test12 is finally working very well in the default Gecko-based 
+browser on the XO. Yay!
+
+Thanks go to Robert O'Callahan (roc) from Mozilla for his valuable information 
+on how Gecko renders pages. Also, thanks to my mentor, Martin Langhoff, for 
+finding the Gecko patches applied on the XO.
+
+This work will be integrated into PaintWeb.
+
+- Added zoom level detection for Opera in performance test12, which semi-works.  
+Detection of the zoom level is sufficiently accurate, yet, Opera doesn't always 
+cancel the scaling. For zoom 200% scaling is cancelled and performance is good.
+
+
+2009-05-21:
+===========
+
+- Minor fixes for line, pencil, ellipse and eraser.
+- Curve tool: performance work, bug fixes and usability improvements.
+- Two new strings in lang/en.json for the curve tool.
+
+2009-05-20:
+===========
+
+- Some minor bug fixes.
+- New perf test12, for the XO. Thanks to the suggestions provided by roc from 
+Mozilla!
+
+2009-05-17:
+===========
+
+- More code organization work.
+- More performance work and bug fixes.
+- Performance improvements for the following drawing tools: rectangle, ellipse 
+and line.
+- Further adjustment to the pencil and eraser tools. For example, now you can 
+press Escape to cancel the drawing operation.
+- Added new option to config: toolDrawDelay.
+
+2009-05-13:
+===========
+
+- Performance testing on the OLPC XO-1 laptop. Check tests/gsoc2009/0001-perf.
+- Improved the performance of the pencil and of the eraser drawing tools.
+- Improved performance of ev_keyboard and ev_canvas.
+- Improved performance of the MouseKeys extension.
+
+2009-05-08:
+===========
+
+- The MouseKeys extension is now working.
+- The extension now fires the 'click' event as well, and it allows a second way 
+of handling mouse button events. Instead of button toggling with a key press.  
+Now one can simulate holding down the mouse button by holding down a key. See 
+action 'ButtonClick'.
+- The MouseKeys virtual pointer now provides a visual indicator if the mouse 
+button is down or not.
+
+2009-05-07:
+===========
+
+- Made changes to the selection tool. Hopefully, now the code is much easier to 
+follow.
+- Added support for holding the Control key down while performing a selection 
+operation (drag/resize). This allows the user to toggle the selection 
+transformation mode easier and quicker. Thanks to Martin Langhoff for the 
+suggestion.
+- Did split the entire tools.js into multiple files. Each tool is in its own 
+file now. Made the main code load tools individually.
+- Conditional loading of json2.js. It won't load in those browsers with native 
+JSON support.
+
+2009-05-04:
+===========
+
+- Most functionality is working again. Notable exceptions: color editor, mouse 
+keys, shadows and color picker.
+- Continued work on the drawing tools code and the main code.
+- As stated, keyboard shortcuts work much better from a technical perspective 
+(no noticeable changes, for now). Only the MouseKeys extension benefits from the 
+important improvements.
+
+2009-04-29:
+===========
+
+- Towards GSOC 2009: started complete code reorganization. PaintWeb does not 
+run, for the moment.
+- Adding jsdoc comments, moving code out of the main index.js and renaming 
+objects, methods, properties and variables for naming consistency.
+- Moved the drawing tools into tools.js.
+- Moved language strings into lang/en.js.
+- Added lib.js which provides some often-needed functions and methods. Among 
+these is the important DOM keyboard events compatibility layer for most major 
+browsers.
+- Moved the color editor out from the main code. It will be an extension.
+- Added the MouseKeys extension, which should almost work. This extension allows 
+users to draw using the keyboard, instead of the mouse.
+- Keyboard shortcuts support should improve quite a lot once PaintWeb works 
+again, due to the use of the new lib.dom.KeyboardEventListener class (see lib.js).
+- and more ...
+
+2009-04-23:
+===========
+
+- PaintWeb will be integrated into Moodle (see Moodle.org) as part of the Google 
+Summer of Code 2009 program.
+
+2008-11-06:
+===========
+
+- PaintWeb is now an open-source project. I picked the GPLv3 license.
+- The project is now hosted at Google Code:
+  http://code.google.com/p/paintweb
+- Updated www.robodesign.ro to include PaintWeb.
+- Packaged PaintWeb version 0.5 alpha, build 20081106.
+
+
+2008-10-24:
+===========
+
+- New: CMYK color space (without visualisation).
+- New: color palettes in the color editor. The available palettes are imported from Photoshop.
+- Updated color editor GUI which now includes the color palettes.
+- Added the active and old color preview.
+- Added close, cancel and save color. Saved colors are added to a custom colors palette. The changes made are not persistent (I should use HTML 5 Storage).
+- Added the possibility to double-click on the color visualisation to toggle double-size mode. The same applies to the color palettes tab.
+- Fixed the color picker tool.
+- Some HTML code reorganization and associated CSS changes.
+- Some code clean ups, and changes. More would be needed, given the fact the application grew beyond initial expectations.
+
+2008-10-15:
+===========
+
+- Completely new Color editor replacing the ugly one.
+  - It uses canvas to plot a color visualisation for each active input. This is done using Canvas. Color visualisations are available for HSV, RGB and CIE Lab.
+  - Color inputs for HSV, RGB, CIE Lab, HEX, and Alpha.
+  - New GUI, which is still a work in progress. It will change in the upcoming version.
+  - Color palettes support, with imported Adobe Color Palettes (.aco files from Photoshop). This is not yet implemented.
+  - Lots of things are customizable: the canvas size (color visualisation), the input min/max values, CIE Lab settings, and more.
+
+- New: Shadows API support. This was very recently implemented in Firefox 3.1 nightlies. It was a breeze to add this. ;)
+  - Shadows work with any drawing tool.
+
+- Overall improvements for keyboard shortcuts implementation. Added support for using the up/down keys in inputs of type=number.
+- Improvements for canvas resizing. Now the state is saved before the resize, and restored after resize.
+- Improved compatibility with the latest WebKitGTK svn trunk builds - keyboard shortcuts and box dragging. Still, keyboard shortcuts don't work entirely. ;)
+
+- Some code reorganization:
+  - moved some code from init() into a new init_properties() method.
+  - also all color-related code has been rewritten/moved into the 
+  _me.coloreditor object which has its own initialization routine.
+
+
+2008-09-21:
+===========
+
+- The user interface is now faster: all the buttons have "CSS sprites". This means that the hover/active/disabled icons are all in the same file, per icon. So, now when the user hovers, say, the rectangle icon, only the background position changes. Previously, it had to load a separate PNG file.
+- Improved graphics for the Properties and the Help windows/boxes.
+- Changed the default shape type to "both".
+- Stroke color is now blue by default.
+- Added the Shift key modifier to the Curve tool for snapping the second point on the X/Y axis.
+- Added a status message to the polygon tool which informs the user how to end drawing the shape. This shows after 3 points have been drawn.
+- Renamed the canvas_mevent() method to ev_canvas().
+- Renamed the keypress() method to ev_keypress().
+- Implemented draggable windows. The tool bar, the main, properties and the help windows can all be dragged now. The user can now easily reposition them as desired. The implementation is in the _me.boxes object.
+- The color picker now changes the title automatically when the user picks the fill or the stroke color. If the user clicks the fill/stroke colors, then the color picker shows on screen and the title properly tells which color is about to be changed. In the previous builds, it was quite confusing: you never knew which color you were changing. ;)
+- Added the "Close" button to the color picker and to the Help window.
+- Added the X global keyboard shortcut. Similar to Photoshop: this swaps the fill and stroke colors.
+- Now the polygon tool draws blue squares in the place of each point added by the user, to provide additional visual feedback - similar to the way the Curve tool works.
+- Some minor bug fixes for the Curve tool.
+- The color picker tool now allows Shift+Click for changing the stroke color. Until now the tool allow a click for changing the fill color, and a right-click for the stroke color. In Opera right-click doesn't work. As such, Shift+Click is more convenient for Opera users.
+- Bug fixes to the Selection tool. For example: in previous build the pasted image data would always be positioned at x and y 0, irrespective of the zoom level and scroll position. Because of that, the Paste option seemed not to work "where's the pasted image?". Now, the tool determines the scroll position and the zoom level, and it properly picks the initial position for the pasted image.
+- Renamed the ev._char property to ev._key. This is the property added by the ev_keypress(ev) method to the DOM Event object, for use by the event handlers called for any configured keyboard shortcut.
+- Implemented proper support for keyboard shortcuts per tool:
+-- Each keypress event is handled only by ev_keypress().
+-- The method adds two properties: ev._kid and ev._key. For example:
+_kid: alt-backspace ; _key: backspace
+_kid: shift-s ; _key: s
+
+-- Then the method calls ev_canvas(ev) which checks if there's any event handler within the current tool, for the keypress event.
+-- If there's one, the keypress event handler of the tool is executed, otherwise the ev_canvas() method simply returns false.
+-- Based on _kid and _key, the event handler of any tool can determine which actions to execute. For example: if (ev._kid == 'alt-backspace') { img.fillRect() }
+-- If the tool does not have any action for the exact key combination, the event handler must return false.
+-- When the tool keypress event handler returns false, the ev_canvas() method also returns false.
+-- When ev_canvas() returns false, the ev_keypress() method uses the _kid to check if there's any global keyboard shortcut configured (_me.kshortcuts). If yes, then it activates and/or it calls the configured tool/function.
+-- The default action of keypress events is prevented only when any key combination is recognized by the event handler of the active tool, or by the ev_keypress() method (global shortcut). The active tool takes precedence: it can override global keyboard shortcuts.
+
+Ugly ( :) ) scheme of the keypress event:
+
+ev_keypress:
+  - _kid and _key added to ev
+  - ev_canvas(ev) executed:
+    - tool.keypress available
+	  - tool.keypress(ev) executed
+	    - tool.keypress(ev) return false
+		  - ev_canvas(ev) return false
+		    - ev_keypress() checks kshortcuts
+		- tool.keypress(ev) return true
+		  - ev_canvas(ev) return true
+		    - ev_keypress() execution stops
+	- tool.keypress not available
+	  - ev_canvas(ev) return false
+	    - ev_keypress() checks kshortcuts
+
+- Added the Escape key for tools:
+  - drop selection
+  - cancel drawing rectangle, ellipse, line, polygon, curve
+  - cancel insert image / add text
+  - cancel color picker
+  - cancel Hand tool (go back to the previous tool)
+
+- Added the Return key for tools:
+  - Selection: transformation mode toggle (enable/disable). This allows the user to quickly draw a selection, press Enter, and start manipulating the selected image data (pixels).
+  - Polygon: end drawing the polygon, by accepting the shape. 
+
+- The Delete key deletes the selected pixels.
+- The Alt-Backspace key combination fills the selection with a flat color (fillStyle). This works only when the transformation mode is disabled.
+
+
+2008-09-13:
+===========
+
+- (near) final version 0.5
+- New: a working GUI :) designed by Marius
+- New: keyboard shortcuts across the board
+- New: Zoom image
+- New: Cut/Copy/Paste selection
+- New: Insert image
+- New: Save image (to PNG)
+- New: Insert text (only in Firefox 3.1 for now)
+- New: Clear image (with the Shift key modifier)
+- New: Canvas resizer
+- New: Drag tool
+- New: Help option
+- Fixes for the Curve tool
+- Some fixes/improvements for the Selection tool
+- Changes to the way tools get activated
+- Changes to the way the canvas mouse X/Y coordinates events are passed to the tools
+
+
+2008-04-14:
+===========
+
+- initial release
+- incomplete feature-set
+- no GUI
+
+--
+vim:set spell spl=en fenc=utf-8 ff=unix: 
+

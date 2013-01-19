@@ -1,0 +1,5545 @@
+<?xml version="1.0"?>
+<!DOCTYPE TS>
+<TS>
+  <context>
+    <name>user/login</name>
+    <message>
+      <source>Please login</source>
+      <translation>Pra&#x161;ome prisijungti</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Vartotojo vardas</translation>
+    </message>
+    <message>
+      <source>Password</source>
+      <translation>Slapta&#x17E;odis</translation>
+    </message>
+    <message>
+      <source>Login</source>
+      <translation>Prisijungti</translation>
+    </message>
+    <message>
+      <source>Password remind</source>
+      <translation>Slapta&#x17E;od&#x17E;io priminimas</translation>
+    </message>
+    <message>
+      <source>Please login with your facebook account</source>
+      <translation>Prisijunkite su savo Facebook s&#x105;skait&#x105;</translation>
+    </message>
+    <message>
+      <source>Report abuse</source>
+      <translation>Prane&#x161;ti apie pa&#x17E;eidim&#x105;</translation>
+    </message>
+    <message>
+      <source>Please write whats wrong within a post</source>
+      <translation>Pra&#x161;ome ra&#x161;yti what blogo per post&#x105;</translation>
+    </message>
+    <message>
+      <source>Send</source>
+      <translation>Si&#x173;sti</translation>
+    </message>
+    <message>
+      <source>Registration is complete</source>
+      <translation>Registracija baigta</translation>
+    </message>
+    <message>
+      <source>Registration is complete please login.</source>
+      <translation>Registracija yra visi&#x161;kai prisijunkite.</translation>
+    </message>
+    <message>
+      <source>Checkout</source>
+      <translation>U&#x17E;sakymas</translation>
+    </message>
+    <message>
+      <source>Incorrect username or password</source>
+      <translation>Nekorekti&#x161;kas prisijungimo vardas arba slapta&#x17E;odis</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/index</name>
+    <message>
+      <source>User home</source>
+      <translation>Vartotojo namai</translation>
+    </message>
+    <message>
+      <source>Welcome. Here you can:</source>
+      <translation>Sveiki. J&#x16B;s &#x10D;ia galite:</translation>
+    </message>
+    <message>
+      <source>Edit personal settings</source>
+      <translation>Redaguoti asmeninius nustatymus</translation>
+    </message>
+    <message>
+      <source>Manage personal albums</source>
+      <translation>Tvarkyti asmeninius albumus</translation>
+    </message>
+    <message>
+      <source>My account</source>
+      <translation>Mano paskyra</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/mycredits</name>
+    <message>
+      <source>My credits balanse</source>
+      <translation>Mano kredit&#x173; balansas</translation>
+    </message>
+    <message>
+      <source>You have</source>
+      <translation>J&#x16B;s turite</translation>
+    </message>
+    <message>
+      <source>in your account</source>
+      <translation>savo paskyroje</translation>
+    </message>
+    <message>
+      <source>Buy credits</source>
+      <translation>Pirkti kreditus</translation>
+    </message>
+    <message>
+      <source>My credits</source>
+      <translation>Mano kreditai</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/paymentoption</name>
+    <message>
+      <source>Credits based</source>
+      <translation>Kreditais pagr&#x12F;stas</translation>
+    </message>
+    <message>
+      <source>Checkout using Paypal</source>
+      <translation>Paypal mok&#x117;jimo sistema</translation>
+    </message>
+    <message>
+      <source>Payment option</source>
+      <translation>Apmok&#x117;jimo b&#x16B;das</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>El. pa&#x161;tas</translation>
+    </message>
+    <message>
+      <source>Choose payment method</source>
+      <translation>Pasirinkti apmok&#x117;jimo metod&#x105;</translation>
+    </message>
+  </context>
+  <context>
+    <name>word/index</name>
+    <message>
+      <source>Choose dictionary</source>
+      <translation>Pasirinkite žodyną</translation>
+    </message>
+    <message>
+      <source>Word search</source>
+      <translation>Žodžio paieška</translation>
+    </message>
+    <message>
+      <source>Search for word in lithuanian dictionary</source>
+      <translation>Ieškokite žodžių lietuvių kalbos žodyne</translation>
+    </message>
+    <message>
+      <source>Search for word in english dictionary</source>
+      <translation>Ieškokite žodžių anglų kalbos žodyne</translation>
+    </message>
+    <message>
+      <source>Search for word in german dictionary</source>
+      <translation>Ieškokite žodžių vokiečių kalbos žodyne</translation>
+    </message>
+    <message>
+      <source>Search for word in french dictionary</source>
+      <translation>Ieškokite žodžių prancūzų kalbos žodyne</translation>
+    </message>
+    <message>
+      <source>Sample word</source>
+      <translation>Pavyzdinis žodis</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/anaglyph</name>
+    <message>
+      <source>Original</source>
+      <translation>Originalas</translation>
+    </message>
+    <message>
+      <source>Anaglyph</source>
+      <translation>Anaglyph versija</translation>
+    </message>
+    <message>
+      <source>Animating</source>
+      <translation>Animuota</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/sharehtml</name>
+    <message>
+      <source>Link to image</source>
+      <translation>Nuoroda &#x12F; paveiksliuk&#x105;</translation>
+    </message>
+    <message>
+      <source>Link to image with thumbnail</source>
+      <translation>Nuoroda &#x12F; paveiksliuk&#x105; su ma&#x17E;a nuotrauka</translation>
+    </message>
+    <message>
+      <source>Link to image with medium size thumbnail</source>
+      <translation>Nuoroda &#x12F; paveiksliuk&#x105; su vidutinio dyd&#x17E;io paveiksliuku</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/sharephpbb</name>
+    <message>
+      <source>Link to image</source>
+      <translation>Nuoroda &#x12F; paveiksliuk&#x105;</translation>
+    </message>
+    <message>
+      <source>Link to image with thumbnail</source>
+      <translation>Nuoroda &#x12F; paveiksliuk&#x105; su ma&#x17E;a nuotrauka</translation>
+    </message>
+    <message>
+      <source>Link to image with medium size thumbnail</source>
+      <translation>Nuoroda &#x12F; paveiksliuk&#x105; su vidutinio dyd&#x17E;io paveiksliuku</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/buycredits</name>
+    <message>
+      <source>How many credits do want to boy?</source>
+      <translation>Kiek kredit&#x173; norite pirkti?</translation>
+    </message>
+    <message>
+      <source>Buy credits</source>
+      <translation>Pirkti kreditus</translation>
+    </message>
+    <message>
+      <source>How many credits do want to buy?</source>
+      <translation>Kiek kredit&#x173; norite pirkti?</translation>
+    </message>
+    <message>
+      <source>Choose payment method</source>
+      <translation>Pasirinkti apmok&#x117;jimo metod&#x105;</translation>
+    </message>
+  </context>
+  <context>
+    <name>paypal_handler/review</name>
+    <message>
+      <source>Order payment confirmation</source>
+      <translation>U&#x17E;sakymo apmok&#x117;jimo patvirtinimas</translation>
+    </message>
+    <message>
+      <source>Order amount</source>
+      <translation>U&#x17E;sakymo suma</translation>
+    </message>
+    <message>
+      <source>Confirm payment</source>
+      <translation>Patvirtinti apmok&#x117;jim&#x105;</translation>
+    </message>
+    <message>
+      <source>Thank you for your payment!</source>
+      <translation>A&#x10D;i&#x16B; u&#x17E; J&#x16B;s&#x173; apmok&#x117;jim&#x105;!</translation>
+    </message>
+    <message>
+      <source>credits</source>
+      <translation>kreditai</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/cancel</name>
+    <message>
+      <source>Payment canceled</source>
+      <translation>Apmok&#x117;jimas at&#x161;auktas</translation>
+    </message>
+    <message>
+      <source>Paypal payment was canceled.</source>
+      <translation>Apmok&#x117;jimas paypal sistema buvo at&#x161;auktas</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/error</name>
+    <message>
+      <source>Error</source>
+      <translation>Klaida</translation>
+    </message>
+    <message>
+      <source>Execution was terminated unexpectedly.</source>
+      <translation>&#x12E;vyko klaida bandant atsiskaityti.</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/settingedit</name>
+    <message>
+      <source>Edit</source>
+      <translation>Redagavimas</translation>
+    </message>
+  </context>
+  <context>
+    <name>paypal_handler/process</name>
+    <message>
+      <source>Buyer's Email</source>
+      <translation>Pirk&#x117;jo el. pa&#x161;to adresas</translation>
+    </message>
+    <message>
+      <source>Checkout using Paypal</source>
+      <translation>Atsiskaitymas naudojant Paypal mok&#x117;jimo sistema</translation>
+    </message>
+    <message>
+      <source>Buyer\'s Email</source>
+      <translation>Pirk \ &amp;#39;s el. pa&#x161;tas</translation>
+    </message>
+    <message>
+      <source>Amount</source>
+      <translation>Suma</translation>
+    </message>
+    <message>
+      <source>Currency</source>
+      <translation>Valiuta</translation>
+    </message>
+    <message>
+      <source>Credits</source>
+      <translation>Kreditai</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/orderedit</name>
+    <message>
+      <source>Version</source>
+      <translation>Versija</translation>
+    </message>
+    <message>
+      <source>Order view</source>
+      <translation>U&#x17E;sakymo per&#x17E;i&#x16B;ra</translation>
+    </message>
+    <message>
+      <source>Order time</source>
+      <translation>U&#x17E;sakymo laikas</translation>
+    </message>
+    <message>
+      <source>Order price</source>
+      <translation>U&#x17E;sakymo kaina</translation>
+    </message>
+    <message>
+      <source>Order credits</source>
+      <translation>U&#x17E;sakymo kreditai</translation>
+    </message>
+    <message>
+      <source>Order status</source>
+      <translation>U&#x17E;sakymo b&#x16B;sena</translation>
+    </message>
+    <message>
+      <source>Payed.</source>
+      <translation>Apmok&#x117;ta.</translation>
+    </message>
+    <message>
+      <source>Confirmed</source>
+      <translation>Patvirtintas</translation>
+    </message>
+    <message>
+      <source>Ordered items</source>
+      <translation>U&#x17E;sakyti dalykai</translation>
+    </message>
+    <message>
+      <source>Image name</source>
+      <translation>Paveiksl&#x117;lio pavadinimas</translation>
+    </message>
+    <message>
+      <source>Version</source>
+      <translation>Versija</translation>
+    </message>
+    <message>
+      <source>Image size</source>
+      <translation>Paveiksl&#x117;lio dydis</translation>
+    </message>
+    <message>
+      <source>Format</source>
+      <translation>Formatas</translation>
+    </message>
+    <message>
+      <source>Price</source>
+      <translation>Kaina</translation>
+    </message>
+    <message>
+      <source>Download count</source>
+      <translation>Parsisiuntim&#x173; skai&#x10D;ius</translation>
+    </message>
+    <message>
+      <source>Downloads left</source>
+      <translation>Liko parsisiuntim&#x173;</translation>
+    </message>
+    <message>
+      <source>Credits</source>
+      <translation>Kreditai</translation>
+    </message>
+  </context>
+  <context>
+    <name>credits_handler/accept</name>
+    <message>
+      <source>Order succesfull</source>
+      <translation>U&#x17E;sakymas s&#x117;kmingas</translation>
+    </message>
+    <message>
+      <source>Payment was succesfull</source>
+      <translation>Apmok&#x117;jimas s&#x117;kmingas</translation>
+    </message>
+  </context>
+  <context>
+    <name>credits_handler/process</name>
+    <message>
+      <source>Checkout using credits from account</source>
+      <translation>Atsiskaityti paskyroje esan&#x10D;iais kreditais</translation>
+    </message>
+    <message>
+      <source>Checkout</source>
+      <translation>Apmok&#x117;jimas</translation>
+    </message>
+    <message>
+      <source>Confirm payment</source>
+      <translation>Patvirtinti apmok&#x117;jim&#x105;</translation>
+    </message>
+    <message>
+      <source>Not enouth credits to checkout</source>
+      <translation>Nepakankamas kredit&#x173; skai&#x10D;ius</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/orderslist</name>
+    <message>
+      <source>Orders credits list</source>
+      <translation>Kredit&#x173; u&#x17E;sakym&#x173; s&#x105;ra&#x161;as</translation>
+    </message>
+    <message>
+      <source>ID</source>
+      <translation>ID</translation>
+    </message>
+    <message>
+      <source>Date</source>
+      <translation>Data</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>El. pa&#x161;tas</translation>
+    </message>
+    <message>
+      <source>Order price</source>
+      <translation>U&#x17E;sakymo kaina</translation>
+    </message>
+    <message>
+      <source>Order credits</source>
+      <translation>U&#x17E;sakymo kreditai</translation>
+    </message>
+    <message>
+      <source>Order status</source>
+      <translation>U&#x17E;sakymo b&#x16B;sena</translation>
+    </message>
+    <message>
+      <source>Payed.</source>
+      <translation>Apmok&#x117;ta.</translation>
+    </message>
+    <message>
+      <source>Confirmed</source>
+      <translation>Patvirtintas</translation>
+    </message>
+    <message>
+      <source>No orders...</source>
+      <translation>N&#x117;ra u&#x17E;sakym&#x173;...</translation>
+    </message>
+    <message>
+      <source>Orders list</source>
+      <translation>U&#x17E;sakym&#x173; s&#x105;ra&#x161;as</translation>
+    </message>
+    <message>
+      <source>Order view</source>
+      <translation>U&#x17E;sakymo per&#x17E;i&#x16B;ra</translation>
+    </message>
+    <message>
+      <source>User orders list</source>
+      <translation>Vartotojo u&#x17E;sakym&#x173; s&#x105;ra&#x161;as</translation>
+    </message>
+    <message>
+      <source>User credits orders list</source>
+      <translation>Vartotojo kredit&#x173; u&#x17E;sakym&#x173; s&#x105;ra&#x161;as</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/settinglist</name>
+    <message>
+      <source>Shop config list</source>
+      <translation>Parduotuv&#x117;s nustatym&#x173; s&#x105;ra&#x161;as</translation>
+    </message>
+    <message>
+      <source>Identifier</source>
+      <translation>Identifikatorius</translation>
+    </message>
+    <message>
+      <source>Explain</source>
+      <translation>Paai&#x161;kinimas</translation>
+    </message>
+    <message>
+      <source>Value</source>
+      <translation>Reik&#x161;m&#x117;</translation>
+    </message>
+    <message>
+      <source>Edit value</source>
+      <translation>Redaguoti reik&#x161;m&#x119;</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/paymentoptioncredit</name>
+    <message>
+      <source>Checkout using Paypal</source>
+      <translation>Atsiskaitymas naudojant Paypal sistem&#x105;</translation>
+    </message>
+    <message>
+      <source>Payment option</source>
+      <translation>Apmok&#x117;jimas b&#x16B;das</translation>
+    </message>
+    <message>
+      <source>Continue</source>
+      <translation>T&#x119;sti</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/orderview</name>
+    <message>
+      <source>Order view</source>
+      <translation>U&#x17E;sakymo per&#x17E;i&#x16B;ra</translation>
+    </message>
+    <message>
+      <source>Order time</source>
+      <translation>U&#x17E;sakymo laikas</translation>
+    </message>
+    <message>
+      <source>Order price</source>
+      <translation>U&#x17E;sakymo kaina</translation>
+    </message>
+    <message>
+      <source>Order credits</source>
+      <translation>U&#x17E;sakymo kreditai</translation>
+    </message>
+    <message>
+      <source>Order status</source>
+      <translation>U&#x17E;sakymo b&#x16B;sena</translation>
+    </message>
+    <message>
+      <source>Payed</source>
+      <translation>Apmok&#x117;ta</translation>
+    </message>
+    <message>
+      <source>Confirmed</source>
+      <translation>Patvirtinta</translation>
+    </message>
+    <message>
+      <source>Ordered items</source>
+      <translation>U&#x17E;sakyti dalykai</translation>
+    </message>
+    <message>
+      <source>Image name</source>
+      <translation>Paveiksl&#x117;lio pavadinimas</translation>
+    </message>
+    <message>
+      <source>Version</source>
+      <translation>Versija</translation>
+    </message>
+    <message>
+      <source>Image size</source>
+      <translation>Paveiksl&#x117;lio dydis</translation>
+    </message>
+    <message>
+      <source>Format</source>
+      <translation>Formatas</translation>
+    </message>
+    <message>
+      <source>Price</source>
+      <translation>Kaina</translation>
+    </message>
+    <message>
+      <source>Download count</source>
+      <translation>Parsisiuntim&#x173; skai&#x10D;ius</translation>
+    </message>
+    <message>
+      <source>Downloads left</source>
+      <translation>Liko parsisiuntim&#x173;</translation>
+    </message>
+    <message>
+      <source>Credits</source>
+      <translation>Kreditai</translation>
+    </message>
+    <message>
+      <source>Download image</source>
+      <translation>Parsisi&#x173;sti paveiksliuk&#x105;</translation>
+    </message>
+    <message>
+      <source>downloads left</source>
+      <translation>parsisiuntim&#x173; liko</translation>
+    </message>
+    <message>
+      <source>No downloads available</source>
+      <translation>Parsisiuntim&#x173; n&#x117;ra</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/basket</name>
+    <message>
+      <source>Basket</source>
+      <translation>Krep&#x161;elis</translation>
+    </message>
+    <message>
+      <source>Image name</source>
+      <translation>Paveiksl&#x117;lio pavadinimas</translation>
+    </message>
+    <message>
+      <source>Version</source>
+      <translation>Versija</translation>
+    </message>
+    <message>
+      <source>Image size</source>
+      <translation>Paveiksl&#x117;lio dydis</translation>
+    </message>
+    <message>
+      <source>Format</source>
+      <translation>Formatas</translation>
+    </message>
+    <message>
+      <source>Price</source>
+      <translation>Kaina</translation>
+    </message>
+    <message>
+      <source>Credits</source>
+      <translation>Kreditai</translation>
+    </message>
+    <message>
+      <source>Remove from basket</source>
+      <translation>Pa&#x161;alinti i&#x161; krep&#x161;elio</translation>
+    </message>
+    <message>
+      <source>Choose payment option</source>
+      <translation>Pasirinkite mok&#x117;jimo b&#x16B;d&#x105;</translation>
+    </message>
+    <message>
+      <source>In order to checkout atlest one item have to be selected.</source>
+      <translation>Nor&#x117;dami pirkti turite pasirinkti bent vien&#x105; produkt&#x105;.</translation>
+    </message>
+    <message>
+      <source>In order to checkout you have to</source>
+      <translation>Nor&#x117;dami pirkti turite</translation>
+    </message>
+    <message>
+      <source>sign in</source>
+      <translation>u&#x17E;siregistruoti</translation>
+    </message>
+    <message>
+      <source>or</source>
+      <translation>arba</translation>
+    </message>
+    <message>
+      <source>login</source>
+      <translation>prisijungti</translation>
+    </message>
+    <message>
+      <source>if you have already created an account</source>
+      <translation>jei jau esate u&#x17E;siregistrav&#x119;</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/imagevariationform</name>
+    <message>
+      <source>Credits</source>
+      <translation>Kreditai</translation>
+    </message>
+    <message>
+      <source>Applies to original</source>
+      <translation>Taikoma originalui</translation>
+    </message>
+    <message>
+      <source>Max height in pixels</source>
+      <translation>Maksimalus auk&#x161;tis pikseliai</translation>
+    </message>
+    <message>
+      <source>Max width in pixels</source>
+      <translation>Maksimalus plotis pikseliais</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Pavadinimai</translation>
+    </message>
+    <message>
+      <source>Please enter variation name!</source>
+      <translation>Pra&#x161;ome &#x12F;vesti variacijos pavadinim&#x105;!</translation>
+    </message>
+    <message>
+      <source>Please enter width!</source>
+      <translation>Pra&#x161;ome &#x12F;vesti plot&#x12F;!</translation>
+    </message>
+    <message>
+      <source>Please enter height!</source>
+      <translation>Pra&#x161;ome &#x12F;vesti auk&#x161;t&#x12F;!</translation>
+    </message>
+    <message>
+      <source>Please enter credit number!</source>
+      <translation>Pra&#x161;ome &#x12F;vesti kredit&#x173; skai&#x10D;i&#x173;!</translation>
+    </message>
+    <message>
+      <source>Please enter variation position!</source>
+      <translation>Pra&#x161;ome &#x12F;vesti pozicij&#x105;!</translation>
+    </message>
+    <message>
+      <source>Credits amount must be greater than 0!</source>
+      <translation>Kredit&#x173; skai&#x10D;ius turi b&#x16B;ti didesnis u&#x17E; 0!</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/imagevariationnew</name>
+    <message>
+      <source>New</source>
+      <translation>Nauja</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Saugoti</translation>
+    </message>
+    <message>
+      <source>New image variation</source>
+      <translation>Naujas paveiksliuko variacija</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/myorders</name>
+    <message>
+      <source>My credits orders</source>
+      <translation>Mano kredit&#x173; u&#x17E;sakymai</translation>
+    </message>
+    <message>
+      <source>Date</source>
+      <translation>Data</translation>
+    </message>
+    <message>
+      <source>Order price</source>
+      <translation>U&#x17E;sakymo kaina</translation>
+    </message>
+    <message>
+      <source>Order credits</source>
+      <translation>U&#x17E;sakymo kreditai</translation>
+    </message>
+    <message>
+      <source>Order status</source>
+      <translation>U&#x17E;sakymo b&#x16B;sena</translation>
+    </message>
+    <message>
+      <source>Payed</source>
+      <translation>Apmok&#x117;ta</translation>
+    </message>
+    <message>
+      <source>Confirmed</source>
+      <translation>Patvirtinta</translation>
+    </message>
+    <message>
+      <source>My orders</source>
+      <translation>Mano u&#x17E;sakymai</translation>
+    </message>
+    <message>
+      <source>Order view</source>
+      <translation>U&#x17E;sakymo peri&#x16B;ra</translation>
+    </message>
+  </context>
+  <context>
+    <name>systemconfig/list</name>
+    <message>
+      <source>Delete order item</source>
+      <translation>I&#x161;trinti &#x161;&#x12F; objekt&#x105;</translation>
+    </message>
+    <message>
+      <source>Delete order</source>
+      <translation>I&#x161;trinti u&#x17E;sakym&#x105;</translation>
+    </message>
+    <message>
+      <source>Config list</source>
+      <translation>Konfig&#x16B;racijos s&#x105;ra&#x161;as</translation>
+    </message>
+    <message>
+      <source>Identifier</source>
+      <translation>Identifikatorius</translation>
+    </message>
+    <message>
+      <source>Explain</source>
+      <translation>Paai&#x161;kinimas</translation>
+    </message>
+    <message>
+      <source>Edit value</source>
+      <translation>Redaguoti reik&#x161;m&#x119;</translation>
+    </message>
+    <message>
+      <source>System config options</source>
+      <translation>Sistemos nustatym&#x173; reik&#x161;m&#x117;s</translation>
+    </message>
+    <message>
+      <source>List</source>
+      <translation>S&#x105;ra&#x161;as</translation>
+    </message>
+  </context>
+  <context>
+    <name>systemconfig/watermark</name>
+    <message>
+      <source>Settings updated</source>
+      <translation>Nustatymai atnaujinti</translation>
+    </message>
+    <message>
+      <source>Watermark configuration</source>
+      <translation>Vandens &#x17E;enkl&#x173; konfiguracija</translation>
+    </message>
+    <message>
+      <source>Settings updated</source>
+      <translation>Nustatymai atnaujinti</translation>
+    </message>
+    <message>
+      <source>Delete watermark</source>
+      <translation>I&#x161;trinti vandens &#x17E;enkl&#x105;</translation>
+    </message>
+    <message>
+      <source>Image, it is recommended PNG type image</source>
+      <translation>Paveiksl&#x117;limis, rekomenduojamas PNG tipo paveiksl&#x117;lis</translation>
+    </message>
+    <message>
+      <source>Settings</source>
+      <translation>Nustatymai</translation>
+    </message>
+    <message>
+      <source>Watermark disabled</source>
+      <translation>Vandens &#x17E;enklas i&#x161;jungtas</translation>
+    </message>
+    <message>
+      <source>Watermark enabled for normal size thumbnails</source>
+      <translation>Vandens &#x17E;enklas &#x12F;jungtas normalaus dyd&#x17E;io paveiksliukams</translation>
+    </message>
+    <message>
+      <source>Watermark enabled for all images</source>
+      <translation>Vandens &#x17E;enklai &#x12F;galinti visiems paveiksliukams</translation>
+    </message>
+    <message>
+      <source>Watermark position</source>
+      <translation>Vandens &#x17E;enklo pozicija</translation>
+    </message>
+    <message>
+      <source>Top left</source>
+      <translation>Vir&#x161;uje kair&#x117;ja</translation>
+    </message>
+    <message>
+      <source>Top right</source>
+      <translation>Vir&#x161;uje de&#x161;in&#x117;je</translation>
+    </message>
+    <message>
+      <source>Bottom left</source>
+      <translation>Apa&#x10D;ioje kair&#x117;je</translation>
+    </message>
+    <message>
+      <source>Bottom right</source>
+      <translation>Apa&#x10D;ioje de&#x161;in&#x117;je</translation>
+    </message>
+    <message>
+      <source>Center</source>
+      <translation>Centre</translation>
+    </message>
+    <message>
+      <source>Watermark padding from borders</source>
+      <translation>Vandens &#x17E;enkl&#x173; atitraukimas nuo kra&#x161;t&#x173;</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Atnaujinti</translation>
+    </message>
+    <message>
+      <source>Watermark</source>
+      <translation>Vandens &#x17E;enklai</translation>
+    </message>
+  </context>
+  <context>
+    <name>systemconfig/edit</name>
+    <message>
+      <source>Edit</source>
+      <translation>Redagavimas</translation>
+    </message>
+    <message>
+      <source>Data updated</source>
+      <translation>Duomenys atnaujinti</translation>
+    </message>
+    <message>
+      <source>Identifier</source>
+      <translation>Identifikatorius</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Atnaujinti</translation>
+    </message>
+    <message>
+      <source>Values applies to</source>
+      <translation>Reik&#x161;m&#x117; taikoma</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/popular</name>
+    <message>
+      <source>Most popular images</source>
+      <translation>Populiariausi paveiksl&#x117;liai</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>N&#x117;ra &#x12F;ra&#x161;&#x173;.</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Rezoliucija</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Puslapis</translation>
+    </message>
+    <message>
+      <source>All time most popular images.</source>
+      <translation type="unfinished">Populiariausi&#x173; vis&#x173; laik&#x173; vaizdus.</translation>
+    </message>
+  </context>
+  <context>
+    <name>article/staticlist</name>
+    <message>
+      <source>Static articles</source>
+      <translation>Statiniai straipsniai</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Pavadinimas</translation>
+    </message>
+    <message>
+      <source>Edit</source>
+      <translation>Redaguoti</translation>
+    </message>
+    <message>
+      <source>New article</source>
+      <translation>Naujas straipsnis</translation>
+    </message>
+  </context>
+  <context>
+    <name>article/newstatic</name>
+    <message>
+      <source>New article</source>
+      <translation>Naujas straipsnis</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Saugoti</translation>
+    </message>
+  </context>
+  <context>
+    <name>article/editstatic</name>
+    <message>
+      <source>Static articles</source>
+      <translation>Statiniai straipsniai</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Pavadinimas</translation>
+    </message>
+    <message>
+      <source>New article</source>
+      <translation>Naujas straipsnis</translation>
+    </message>
+    <message>
+      <source>Edit</source>
+      <translation>Redaguoti</translation>
+    </message>
+    <message>
+      <source>Article name</source>
+      <translation>Straipsnio pavadinimas</translation>
+    </message>
+    <message>
+      <source>Body</source>
+      <translation>Turinys</translation>
+    </message>
+    <message>
+      <source>Article edit</source>
+      <translation>Straipsnio redagavimas</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Atnaujinti</translation>
+    </message>
+  </context>
+  <context>
+    <name>feedback/formsend</name>
+    <message>
+      <source>Feedback</source>
+      <translation>U&#x17E;klausa</translation>
+    </message>
+    <message>
+      <source>Your feedback was succesfuly send</source>
+      <translation>U&#x17E;klausa buvo s&#x117;kmingai i&#x161;si&#x173;sta</translation>
+    </message>
+    <message>
+      <source>Home page</source>
+      <translation>Titulinis puslapis</translation>
+    </message>
+  </context>
+  <context>
+    <name>feedback/mail</name>
+    <message>
+      <source>Hellow</source>
+      <translation>Sveiki</translation>
+    </message>
+    <message>
+      <source>Hello</source>
+      <translation>Sveiki</translation>
+    </message>
+    <message>
+      <source>Feedback data</source>
+      <translation>U&#x17E;klausos duomenys</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Vardas</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>El. pa&#x161;tas</translation>
+    </message>
+    <message>
+      <source>Text</source>
+      <translation>Tekstas</translation>
+    </message>
+    <message>
+      <source>Bye</source>
+      <translation>Viso</translation>
+    </message>
+  </context>
+  <context>
+    <name>feedback/form</name>
+    <message>
+      <source>Feedback</source>
+      <translation>U&#x17E;klausa</translation>
+    </message>
+    <message>
+      <source>Feedback was send</source>
+      <translation>U&#x17E;klausa gauta</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Vardas</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>El. pa&#x161;to adresas</translation>
+    </message>
+    <message>
+      <source>Text</source>
+      <translation>Tekstas</translation>
+    </message>
+    <message>
+      <source>Captcha image</source>
+      <translation>Saugos paveiksl&#x117;lis</translation>
+    </message>
+    <message>
+      <source>Captcha code</source>
+      <translation>Saugos kodas</translation>
+    </message>
+    <message>
+      <source>Required fields</source>
+      <translation>Privalomas laukas</translation>
+    </message>
+    <message>
+      <source>Send</source>
+      <translation>Si&#x16B;sti</translation>
+    </message>
+    <message>
+      <source>Please enter name!</source>
+      <translation>Pra&#x161;ome &#x12F;ra&#x161;yti vard&#x105;!</translation>
+    </message>
+    <message>
+      <source>Invalid e-mail address!</source>
+      <translation>Nekorekti&#x161;kas el. pa&#x161;to adresas!</translation>
+    </message>
+    <message>
+      <source>Please enter text!</source>
+      <translation>Pra&#x161;ome &#x12F;ra&#x161;yti tekst&#x105;!</translation>
+    </message>
+    <message>
+      <source>Please enter captcha code!</source>
+      <translation>Pra&#x161;ome &#x12F;ra&#x161;yti saugos kod&#x105;!</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/duplicates</name>
+    <message>
+      <source>Similar images number</source>
+      <translation>Pana&#x161;i&#x173; paveiksl&#x117;li&#x173; skai&#x10D;ius</translation>
+    </message>
+    <message>
+      <source>Details</source>
+      <translation>Detal&#x117;s</translation>
+    </message>
+    <message>
+      <source>More</source>
+      <translation>Pla&#x10D;iau</translation>
+    </message>
+    <message>
+      <source>Delete duplicate session</source>
+      <translation>Trinti pasikartojan&#x10D;ias sesijas</translation>
+    </message>
+    <message>
+      <source>No duplicates pending...</source>
+      <translation>N&#x117;ra laukian&#x10D;i&#x173; dublikat&#x173;...</translation>
+    </message>
+    <message>
+      <source>Duplicates</source>
+      <translation>Dublikatai</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/myfavorites</name>
+    <message>
+      <source>My favorite images</source>
+      <translation>Mano m&#x117;gstamiausi paveiksl&#x117;liai</translation>
+    </message>
+    <message>
+      <source>Remove from favorites</source>
+      <translation>Pa&#x161;alinti i&#x161; m&#x117;gstamiausi&#x173;</translation>
+    </message>
+    <message>
+      <source>My favorite images</source>
+      <translation>Mano m&#x117;gstamiausi paveiksl&#x117;liai</translation>
+    </message>
+    <message>
+      <source>Remove</source>
+      <translation>Pa&#x161;alinti</translation>
+    </message>
+    <message>
+      <source>Remove Open ID</source>
+      <translation>Pa&#x161;alinti Atidaryti ID</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/admincategorys</name>
+    <message>
+      <source>Page %currentpage of %totalpage</source>
+      <translation>Puslapis %currentpage i&#x161; %totalpage</translation>
+    </message>
+    <message>
+      <source>Previous</source>
+      <translation>Ankstesnis</translation>
+    </message>
+    <message>
+      <source>Next</source>
+      <translation>Kitas</translation>
+    </message>
+    <message>
+      <source>Found</source>
+      <translation>Rasta</translation>
+    </message>
+    <message>
+      <source>Create a category</source>
+      <translation>Sukurti kategorij&#x105;</translation>
+    </message>
+    <message>
+      <source>Category</source>
+      <translation>Kategorija</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Pavadinimas</translation>
+    </message>
+    <message>
+      <source>Owner</source>
+      <translation>S&#x105;vininkas</translation>
+    </message>
+    <message>
+      <source>Edit category</source>
+      <translation>Redaguoti kategorij&#x105;</translation>
+    </message>
+    <message>
+      <source>Delete category</source>
+      <translation>I&#x161;trinti kategorij&#x105;</translation>
+    </message>
+    <message>
+      <source>Create a category</source>
+      <translation>Sukurti kategorij&#x105;</translation>
+    </message>
+    <message>
+      <source>Category albums</source>
+      <translation>Kategorijos albumai</translation>
+    </message>
+    <message>
+      <source>This category does not have an album.</source>
+      <translation>&#x160;i kategorija neturi albumo.</translation>
+    </message>
+    <message>
+      <source>Create an album</source>
+      <translation>Sukurti album&#x105;</translation>
+    </message>
+    <message>
+      <source>Batch album create</source>
+      <translation>Masinis album&#x173; k&#x16B;rimas</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>Prad&#x17E;ia</translation>
+    </message>
+    <message>
+      <source>Root category</source>
+      <translation>&#x160;aknis kategorijos</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/popularrss</name>
+    <message>
+      <source>No records.</source>
+      <translation>N&#x117;ra &#x12F;ra&#x161;&#x173;.</translation>
+    </message>
+    <message>
+      <source>Most popular images</source>
+      <translation>Populiariausi paveiksl&#x117;liai</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/album_list_admin</name>
+    <message>
+      <source>Page %currentpage of %totalpage</source>
+      <translation>Puslapis %currentpage i&#x161; %totalpage</translation>
+    </message>
+    <message>
+      <source>Found</source>
+      <translation>Rasta</translation>
+    </message>
+    <message>
+      <source>Are you sure?</source>
+      <translation>Ar tikrai?</translation>
+    </message>
+    <message>
+      <source>Add images</source>
+      <translation>&#x12E;kelti paveiksl&#x117;li&#x173;</translation>
+    </message>
+    <message>
+      <source>Edit album</source>
+      <translation>Redaguoti album&#x105;</translation>
+    </message>
+    <message>
+      <source>Move all album photos to another album</source>
+      <translation>Visos albumo nuotraukos perkelti &#x12F; kit&#x105; album&#x105;</translation>
+    </message>
+    <message>
+      <source>Move photos by resolution</source>
+      <translation>Perkelkite nuotraukas rezoliucijos</translation>
+    </message>
+    <message>
+      <source>Delete album</source>
+      <translation>I&#x161;trinti album&#x105;</translation>
+    </message>
+    <message>
+      <source>Approve all images</source>
+      <translation>Patvirtinti visus atvaizdus</translation>
+    </message>
+    <message>
+      <source>Disapprove all images</source>
+      <translation>Atmesti visus atvaizdus</translation>
+    </message>
+    <message>
+      <source>View on site</source>
+      <translation>Rodyti svetain&#x117;je</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/createcategory</name>
+    <message>
+      <source>Most popular images</source>
+      <translation>Populiariausi paveiksl&#x117;liai</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Pavadinimas</translation>
+    </message>
+    <message>
+      <source>Description</source>
+      <translation>Apra&#x161;ymas</translation>
+    </message>
+    <message>
+      <source>Hide subcategorys in frontpage</source>
+      <translation>Nerodyti subkategorij&#x173; tituliniame</translation>
+    </message>
+    <message>
+      <source>New category</source>
+      <translation>Nauja kategorija</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Sukurti</translation>
+    </message>
+    <message>
+      <source>back</source>
+      <translation>atgal</translation>
+    </message>
+    <message>
+      <source>Please enter message!</source>
+      <translation>Ra&#x161;ykite &#x17E;inut&#x119;!</translation>
+    </message>
+    <message>
+      <source>Please enter category name!</source>
+      <translation>&#x12E;veskite kategorijos pavadinim&#x105;!</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>Prad&#x17E;ia</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/mylistalbum</name>
+    <message>
+      <source>My albums</source>
+      <translation>Mano albumai</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>N&#x117;ra &#x12F;ra&#x161;&#x173;.</translation>
+    </message>
+    <message>
+      <source>Account</source>
+      <translation>Paskyra</translation>
+    </message>
+    <message>
+      <source>Albums</source>
+      <translation>Albumai</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/fileuploadcontainer</name>
+    <message>
+      <source>Waiting</source>
+      <translation>Laukiama</translation>
+    </message>
+    <message>
+      <source>Sutch file already exists</source>
+      <translation>Toks failas jau egzistuoja</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Pavadinimas</translation>
+    </message>
+    <message>
+      <source>Keywords</source>
+      <translation>Rakta&#x17E;od&#x17E;iai</translation>
+    </message>
+    <message>
+      <source>Cross eye image</source>
+      <translation>Anaglyph paveiksl&#x117;lis</translation>
+    </message>
+    <message>
+      <source>Caption</source>
+      <translation>Antra&#x161;t&#x117;</translation>
+    </message>
+    <message>
+      <source>Enter new album name or choose public album</source>
+      <translation>&#x12E;veskite nauj&#x105; albumo pavadinim&#x105; arba pasirinkti vie&#x161;&#x105;j&#x12F; album&#x105;</translation>
+    </message>
+    <message>
+      <source>description</source>
+      <translation>apra&#x161;ymas</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/addimages</name>
+    <message>
+      <source>Choose images for upload first.</source>
+      <translation>Pasirinkite paveiksliukus nusiuntimui pirma.</translation>
+    </message>
+    <message>
+      <source>All files were uploaded. See album.</source>
+      <translation>Visi failai buvo nusi&#x173;sti. Per&#x17E;i&#x16B;r&#x117;kite album&#x105;.</translation>
+    </message>
+    <message>
+      <source>Uploading</source>
+      <translation>Siun&#x10D;iama</translation>
+    </message>
+    <message>
+      <source>Complete</source>
+      <translation>Baigta</translation>
+    </message>
+    <message>
+      <source>Choose images for upload first.</source>
+      <translation>Pasirinkite paveiksliukus nusiuntimui pirma.</translation>
+    </message>
+    <message>
+      <source>File is too big.</source>
+      <translation>Failas per didelis.</translation>
+    </message>
+    <message>
+      <source>Choose one of</source>
+      <translation>Pasirinkite vien&#x105; i&#x161;</translation>
+    </message>
+    <message>
+      <source>Browse</source>
+      <translation>Nar&#x161;yti</translation>
+    </message>
+    <message>
+      <source>Attatch local images</source>
+      <translation>Nusi&#x173;sti lokalius paveiksl&#x117;lius</translation>
+    </message>
+    <message>
+      <source>Max file size </source>
+      <translation>Maksimalus failo dydis</translation>
+    </message>
+    <message>
+      <source>Images to upload</source>
+      <translation>Paveiksl&#x117;liai nusiuntimui</translation>
+    </message>
+    <message>
+      <source>Choose images for upload</source>
+      <translation>Pasirinkite paveiksl&#x117;lius &#x12F;kelimui</translation>
+    </message>
+    <message>
+      <source>Upload</source>
+      <translation>Si&#x173;sti</translation>
+    </message>
+    <message>
+      <source>SWFUpload is loading. Please wait a moment...</source>
+      <translation>SWFUpload kraunamas. Pra&#x161;ome palaukti ...</translation>
+    </message>
+    <message>
+      <source>SWFUpload is taking a long time to load or the load has failed.  Please make sure that the Flash Plugin is enabled and that a working version of the Adobe Flash Player is installed.</source>
+      <translation>SWFUpload ilgai kraunamas arba apkrova nepavyko. Pra&#x161;ome &#x12F;sitikinti, kad Flash &#x12F;skiepis yra &#x12F;jungta, ir kad Adobe Flash Player yra &#x12F;diegtas.</translation>
+    </message>
+    <message>
+      <source>Attachment of local images</source>
+      <translation>Lokali&#x173; paveiksl&#x117;li&#x173; &#x12F;k&#x117;limas</translation>
+    </message>
+    <message>
+      <source>Max file size 5mb.</source>
+      <translation>Maksimalus failo dydis 5mb.</translation>
+    </message>
+    <message>
+      <source>Choose images for upload.</source>
+      <translation>Pasirinkite paveiksl&#x117;lius nusiuntimui.</translation>
+    </message>
+    <message>
+      <source>Add images to album</source>
+      <translation>&#x12E;kelti paveiksl&#x117;lius &#x12F; album&#x105;</translation>
+    </message>
+    <message>
+      <source>Move album images to another album</source>
+      <translation>Perkelti albumo nuotraukas &#x12F; kit&#x105; album&#x105;</translation>
+    </message>
+    <message>
+      <source>Move image to another album</source>
+      <translation>Perkelti vaizd&#x105; &#x12F; kit&#x105; album&#x105;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/albumedit</name>
+    <message>
+      <source>Edit topic</source>
+      <translation>Redaguoti tem&#x105;</translation>
+    </message>
+    <message>
+      <source>Topic name</source>
+      <translation>Temos pavadinim&#x105;</translation>
+    </message>
+    <message>
+      <source>Topic status</source>
+      <translation>Tema statusas</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Atnaujinti</translation>
+    </message>
+    <message>
+      <source>Album edit</source>
+      <translation>Albumo redagavimas</translation>
+    </message>
+    <message>
+      <source>Album name</source>
+      <translation>Albumo pavadinimas</translation>
+    </message>
+    <message>
+      <source>Album category</source>
+      <translation>Albumo kategorija</translation>
+    </message>
+    <message>
+      <source>Album owner</source>
+      <translation>Albumo s&#x105;vininkas</translation>
+    </message>
+    <message>
+      <source>Description</source>
+      <translation>Apra&#x161;ymas</translation>
+    </message>
+    <message>
+      <source>Keywords</source>
+      <translation>Rakta&#x17E;od&#x17E;iai</translation>
+    </message>
+    <message>
+      <source>Public</source>
+      <translation>Vie&#x161;as</translation>
+    </message>
+    <message>
+      <source>All users can uploads images to this album</source>
+      <translation>Visi vartotojai gali si&#x173;sti paveiksl&#x117;lius &#x12F; &#x161;&#x12F; album&#x105;</translation>
+    </message>
+    <message>
+      <source>Hidden</source>
+      <translation>Pasl&#x117;ptas</translation>
+    </message>
+    <message>
+      <source>Hide album from users</source>
+      <translation>Sl&#x117;pti albumo i&#x161; vartotoj&#x173;</translation>
+    </message>
+    <message>
+      <source>Album thumbnail</source>
+      <translation>Albumo miniati&#x16B;r&#x105;</translation>
+    </message>
+    <message>
+      <source>Newest album image</source>
+      <translation>Naujausias albumas vaizdas</translation>
+    </message>
+    <message>
+      <source>Revert to newest album image display mode</source>
+      <translation>Gr&#x12F;&#x17E;ti &#x12F; naujausias albumas vaizdo rodymo re&#x17E;imas</translation>
+    </message>
+    <message>
+      <source>Remove</source>
+      <translation>Pa&#x161;alinti</translation>
+    </message>
+    <message>
+      <source>Edit message</source>
+      <translation>Redaguoti prane&#x161;im&#x105;</translation>
+    </message>
+    <message>
+      <source>Message</source>
+      <translation>Prane&#x161;imas</translation>
+    </message>
+    <message>
+      <source>File</source>
+      <translation>Failas</translation>
+    </message>
+    <message>
+      <source>New message</source>
+      <translation>Naujas prane&#x161;.</translation>
+    </message>
+    <message>
+      <source>Publish</source>
+      <translation>Skelbti</translation>
+    </message>
+    <message>
+      <source>New topic</source>
+      <translation>Nauja tema</translation>
+    </message>
+    <message>
+      <source>Choose topic category</source>
+      <translation>Pasirinkite tem&#x105; kategorij&#x105;</translation>
+    </message>
+    <message>
+      <source>Please enter album name!</source>
+      <translation>Pra&#x161;ome &#x12F;vesti albumo pavadinim&#x105;!</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/createalbumadmin</name>
+    <message>
+      <source>Album name</source>
+      <translation>Albumo pavadinimas</translation>
+    </message>
+    <message>
+      <source>Description</source>
+      <translation>Apra&#x161;ymas</translation>
+    </message>
+    <message>
+      <source>Keywords</source>
+      <translation>Rakta&#x17E;od&#x17E;iai</translation>
+    </message>
+    <message>
+      <source>New album</source>
+      <translation>Naujas albumas</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Saugoti</translation>
+    </message>
+    <message>
+      <source>New batch album create</source>
+      <translation>Naujas masinis album&#x173; k&#x16B;rimas</translation>
+    </message>
+    <message>
+      <source>Paste album names separated by new line</source>
+      <translation>&#x12E;kopijuokite albumo pavadinimus atskirtus naujomis eilut&#x117;mis</translation>
+    </message>
+    <message>
+      <source>Public</source>
+      <translation>Vie&#x161;as</translation>
+    </message>
+    <message>
+      <source>All users can uploads images to this album</source>
+      <translation>Visi vartotojai gali si&#x173;sti paveiksl&#x117;lius &#x12F; &#x161;&#x12F; album&#x105;</translation>
+    </message>
+    <message>
+      <source>Please enter album name!</source>
+      <translation>Pra&#x161;ome &#x12F;vesti albumo pavadinim&#x105;!</translation>
+    </message>
+  </context>
+  <context>
+    <name>install/install</name>
+    <message>
+      <source>Installation of software</source>
+      <translation>Programin&#x117;s &#x12F;rangos diegimas</translation>
+    </message>
+  </context>
+  <context>
+    <name>statistic/choosesite</name>
+    <message>
+      <source>Choose site you want to show statistic</source>
+      <translation>Pasirinkite puslap&#x12F;, kurio statistik&#x105; norite matyti</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Saugoti</translation>
+    </message>
+  </context>
+  <context>
+    <name>statistic/view</name>
+    <message>
+      <source>Total</source>
+      <translation>Viso</translation>
+    </message>
+    <message>
+      <source>Google analytics statistic</source>
+      <translation>Google analytics statistika</translation>
+    </message>
+    <message>
+      <source>hours</source>
+      <translation>valand&#x173;</translation>
+    </message>
+    <message>
+      <source>Total pageviews</source>
+      <translation>Viso puslapio parodym&#x173;</translation>
+    </message>
+    <message>
+      <source>Total visits</source>
+      <translation>Viso apsilankym&#x173;</translation>
+    </message>
+    <message>
+      <source>Time spent</source>
+      <translation>Praleista laiko</translation>
+    </message>
+    <message>
+      <source>Last 31 days statistic, data resource - google analytics API</source>
+      <translation>Paskutin&#x117;s 31 dienos statistika, duomen&#x173; &#x161;altinis - google analytics API</translation>
+    </message>
+    <message>
+      <source>Legend</source>
+      <translation>Legenda</translation>
+    </message>
+    <message>
+      <source>Pageviews</source>
+      <translation>Per&#x17E;i&#x16B;ros</translation>
+    </message>
+    <message>
+      <source>Visits</source>
+      <translation>Apsilankymai</translation>
+    </message>
+  </context>
+  <context>
+    <name>statistic/index</name>
+    <message>
+      <source>Google analytics statistic</source>
+      <translation>Google Analytics statistika</translation>
+    </message>
+    <message>
+      <source>Grant access application to access google analytics API</source>
+      <translation>Suteikti prieig&#x105; aplikacijai naudotis google analytics API</translation>
+    </message>
+    <message>
+      <source>Site choose</source>
+      <translation>Puslapio pasirinkimas</translation>
+    </message>
+    <message>
+      <source>View statistic</source>
+      <translation>Per&#x17E;i&#x16B;r&#x117;ti statistik&#x105;</translation>
+    </message>
+    <message>
+      <source>Statistic</source>
+      <translation>Statistika</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>Pagrindinis</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/forgotpasswordsent</name>
+    <message>
+      <source>Password remind</source>
+      <translation>Slapta&#x17E;od&#x17E;io priminimas</translation>
+    </message>
+    <message>
+      <source>E-mail send. Click link in email and to You will be send out new password.</source>
+      <translation>El. lai&#x161;kas i&#x161;si&#x173;stas. Paspauskite nuorod&#x105;  el. lai&#x161;ke ir Jums bus atsi&#x173;stas naujas slalta&#x17E;odis.</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/remindpassword</name>
+    <message>
+      <source>New password</source>
+      <translation>Naujas slapta&#x17E;odis</translation>
+    </message>
+    <message>
+      <source>Hash not found or was used already</source>
+      <translation>Ha&#x161;as nerastas arba jau buvo panaudotas</translation>
+    </message>
+    <message>
+      <source>Password remind - new password</source>
+      <translation>Slapta&#x17E;od&#x17E;io priminimas - naujas slapta&#x17E;odis</translation>
+    </message>
+    <message>
+      <source>New password:</source>
+      <translation>Naujas slapta&#x17E;odis:</translation>
+    </message>
+    <message>
+      <source>New password has beend send to your email.</source>
+      <translation>Naujas slapta&#x17E;odis buvo i&#x161;si&#x173;stas &#x12F; tavo el. pa&#x161;to d&#x117;&#x17E;ut&#x119;.</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/forgotpassword</name>
+    <message>
+      <source>Click this link and to You will be send new password</source>
+      <translation>Paspausk &#x161;i&#x105; nuorod&#x105; ir Jums bus atsi&#x173;stas naujas slapta&#x17E;odis</translation>
+    </message>
+    <message>
+      <source>Password remind</source>
+      <translation>Slapta&#x17E;od&#x17E;io priminimas</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>El. pa&#x161;tas</translation>
+    </message>
+    <message>
+      <source>Restore password</source>
+      <translation>Atstatyti slapta&#x17E;od&#x12F;</translation>
+    </message>
+    <message>
+      <source>Order confirmed</source>
+      <translation>U&#x17E;sakymas patvirtintas</translation>
+    </message>
+    <message>
+      <source>Credits order confirmed</source>
+      <translation>Kredit&#x173; u&#x17E;sakymas patvirtintas</translation>
+    </message>
+    <message>
+      <source>Wrong e-mail address!</source>
+      <translation>Nekorekti&#x161;kas el. pa&#x161;to adresas!</translation>
+    </message>
+    <message>
+      <source>Click this link and to You will be send new password</source>
+      <translation>Paspausk &#x161;i&#x105; nuorod&#x105; ir Jums bus atsi&#x173;stas naujas slapta&#x17E;odis</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/managealbum</name>
+    <message>
+      <source>Previous</source>
+      <translation>Ankstesnis</translation>
+    </message>
+    <message>
+      <source>Next</source>
+      <translation>Kitas</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>N&#x117;ra &#x12F;ra&#x161;&#x173;.</translation>
+    </message>
+    <message>
+      <source>Category</source>
+      <translation>Kategorija</translation>
+    </message>
+    <message>
+      <source>Create an album</source>
+      <translation>Sukurti album&#x105;</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>Prad&#x17E;ia</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/editcategory</name>
+    <message>
+      <source>back</source>
+      <translation>atgal</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Pavadinimas</translation>
+    </message>
+    <message>
+      <source>Description</source>
+      <translation>Apra&#x161;ymas</translation>
+    </message>
+    <message>
+      <source>Owner</source>
+      <translation>Savininkas</translation>
+    </message>
+    <message>
+      <source>Category edit</source>
+      <translation>Kategorijos redagavimas</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Atnaujinti</translation>
+    </message>
+    <message>
+      <source>Hide subcategorys in frontpage</source>
+      <translation>Sl&#x117;pti subkategorijas tituliniame</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/managealbumimages</name>
+    <message>
+      <source>Page %currentpage of %totalpage</source>
+      <translation>Puslapis %currentpage i&#x161; %totalpage</translation>
+    </message>
+    <message>
+      <source>Found</source>
+      <translation>Rasta</translation>
+    </message>
+    <message>
+      <source>Previous</source>
+      <translation>Ankstesnis</translation>
+    </message>
+    <message>
+      <source>Next</source>
+      <translation>Kitas</translation>
+    </message>
+    <message>
+      <source>Move selected images to</source>
+      <translation>Perkelti pasirinktus vaizdus</translation>
+    </message>
+    <message>
+      <source>Check all</source>
+      <translation>Pa&#x17E;ym&#x117;ti visk&#x105;</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>N&#x117;ra &#x12F;ra&#x161;&#x173;.</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>Prad&#x17E;ia</translation>
+    </message>
+    <message>
+      <source>Root category</source>
+      <translation>&#x160;aknis kategorijos</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/my_image_list</name>
+    <message>
+      <source>Page %currentpage of %totalpage</source>
+      <translation>Puslapis %currentpage i&#x161; %totalpage</translation>
+    </message>
+    <message>
+      <source>Found</source>
+      <translation>Rasta</translation>
+    </message>
+    <message>
+      <source>Cross eye image</source>
+      <translation>Anaglyph paveiksl&#x117;lis</translation>
+    </message>
+    <message>
+      <source>Delete comment</source>
+      <translation>I&#x161;trinti komentar&#x105;</translation>
+    </message>
+    <message>
+      <source>Edit comment</source>
+      <translation>Redaguoti komentar&#x105;</translation>
+    </message>
+    <message>
+      <source>Delete image</source>
+      <translation>Pa&#x161;alinti paveiksl&#x117;l&#x12F;</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>Per&#x17E;i&#x16B;r&#x117;ti paveiksl&#x117;li</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Pavadinimas</translation>
+    </message>
+    <message>
+      <source>Keywords</source>
+      <translation>Rakta&#x17E;od&#x17E;iai</translation>
+    </message>
+    <message>
+      <source>Caption</source>
+      <translation>Antra&#x161;t&#x117;</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Atnaujinti</translation>
+    </message>
+    <message>
+      <source>Message author</source>
+      <translation>Prane&#x161;imo autoriui</translation>
+    </message>
+    <message>
+      <source>Message</source>
+      <translation>Prane&#x161;imas</translation>
+    </message>
+    <message>
+      <source>Rotate image clockwise</source>
+      <translation>Pasukti vaizd&#x105; pagal laikrod&#x17E;io rodykl&#x119;</translation>
+    </message>
+    <message>
+      <source>Flip horizontaly</source>
+      <translation>Flip horizontaliai</translation>
+    </message>
+    <message>
+      <source>Flip verticaly</source>
+      <translation>Flip verticaly</translation>
+    </message>
+    <message>
+      <source>Upload new image</source>
+      <translation>&#x12E;kelti nauj&#x105; vaizd&#x105;</translation>
+    </message>
+    <message>
+      <source>Set as folder thumbnail</source>
+      <translation>Nustatyti kaip aplanko miniati&#x16B;ros</translation>
+    </message>
+    <message>
+      <source>Move image to another album</source>
+      <translation>Perkelti vaizd&#x105; &#x12F; kit&#x105; album&#x105;</translation>
+    </message>
+    <message>
+      <source>Anaglyph</source>
+      <translation>Anaglyph</translation>
+    </message>
+    <message>
+      <source>Approved</source>
+      <translation>Patvirtintas</translation>
+    </message>
+    <message>
+      <source>Select image</source>
+      <translation>Pasirinkti vaizd&#x105;</translation>
+    </message>
+    <message>
+      <source>File</source>
+      <translation>Failas</translation>
+    </message>
+    <message>
+      <source>Upload</source>
+      <translation>&#x12E;kelti</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/createalbum</name>
+    <message>
+      <source>New album</source>
+      <translation>Naujas albumas</translation>
+    </message>
+    <message>
+      <source>Album name</source>
+      <translation>Albumo pavadinimas</translation>
+    </message>
+    <message>
+      <source>Description</source>
+      <translation>Apra&#x161;ymas</translation>
+    </message>
+    <message>
+      <source>Keywords</source>
+      <translation>Rakta&#x17E;od&#x17E;iai</translation>
+    </message>
+    <message>
+      <source>Create</source>
+      <translation>Sukurti</translation>
+    </message>
+    <message>
+      <source>Create and upload photos</source>
+      <translation>Sukurti ir si&#x173;sti paveiksl&#x117;lius</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/my_albums_list</name>
+    <message>
+      <source>Page %currentpage of %totalpage</source>
+      <translation>Puslapis %currentpage i&#x161; %totalpage</translation>
+    </message>
+    <message>
+      <source>images.</source>
+      <translation>paveiksl&#x117;li&#x173;.</translation>
+    </message>
+    <message>
+      <source>Found</source>
+      <translation>Rasta</translation>
+    </message>
+    <message>
+      <source>Edit album</source>
+      <translation>Redaguoti album&#x105;</translation>
+    </message>
+    <message>
+      <source>Are you sure?</source>
+      <translation>Ar tikrai norite i&#x161;trinti pasirinkt&#x105; album&#x105;?</translation>
+    </message>
+    <message>
+      <source>Delete album</source>
+      <translation>Trinti album&#x105;</translation>
+    </message>
+    <message>
+      <source>Add images</source>
+      <translation>Prid&#x117;ti paveiksl&#x117;li&#x173;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/myalbums</name>
+    <message>
+      <source>My albums</source>
+      <translation>Mano albumai</translation>
+    </message>
+    <message>
+      <source>New album</source>
+      <translation>Naujas albumas</translation>
+    </message>
+    <message>
+      <source>Update priority</source>
+      <translation>Atnaujinti prioritet&#x105;</translation>
+    </message>
+    <message>
+      <source>You do not have any album.</source>
+      <translation>J&#x16B;s neturite album&#x173;</translation>
+    </message>
+    <message>
+      <source>Create a new album.</source>
+      <translation>Sukurti nauj&#x105; album&#x105;.</translation>
+    </message>
+    <message>
+      <source>Account</source>
+      <translation>Paskyra</translation>
+    </message>
+    <message>
+      <source>Albums</source>
+      <translation>Albumai</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/updateimage</name>
+    <message>
+      <source>Image updated</source>
+      <translation>Paveiksl&#x117;lis atnaujintas</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastuploadsrss</name>
+    <message>
+      <source>watched</source>
+      <translation>per&#x17E;i&#x16B;r&#x117;tas</translation>
+    </message>
+    <message>
+      <source>Last uploaded images</source>
+      <translation>Paskutiniai &#x12F;kelti paveiksl&#x117;liai</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>Per&#x17E;i&#x16B;r&#x117;ti paveiksl&#x117;l&#x12F;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lasthitsrss</name>
+    <message>
+      <source>watched</source>
+      <translation>per&#x17E;i&#x16B;r&#x117;tas</translation>
+    </message>
+    <message>
+      <source>Last viewed images</source>
+      <translation>Paskutiniai per&#x17E;i&#x16B;r&#x117;ti paveiksl&#x117;liai</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>Per&#x17E;i&#x16B;r&#x117;ti paveiksl&#x117;l&#x12F;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/searchrss</name>
+    <message>
+      <source>watched</source>
+      <translation>per&#x17E;i&#x16B;r&#x117;tas</translation>
+    </message>
+    <message>
+      <source>Search results</source>
+      <translation>Paie&#x161;kos rezultatai</translation>
+    </message>
+    <message>
+      <source>Search</source>
+      <translation>Paie&#x161;ka</translation>
+    </message>
+    <message>
+      <source>Search RSS by keyword</source>
+      <translation>Paie&#x161;kos RSS pagal rakta&#x17E;od&#x12F;</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>Per&#x17E;i&#x16B;r&#x117;ti paveiksl&#x117;l&#x12F;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/search</name>
+    <message>
+      <source>Previous</source>
+      <translation>Ankstesnis</translation>
+    </message>
+    <message>
+      <source>Next</source>
+      <translation>Kitas</translation>
+    </message>
+    <message>
+      <source>Nothing found.</source>
+      <translation>Nieko nerasta.</translation>
+    </message>
+    <message>
+      <source>Last uploaded</source>
+      <translation>Naujausi</translation>
+    </message>
+    <message>
+      <source>Most popular</source>
+      <translation>Populiariausi</translation>
+    </message>
+    <message>
+      <source>Last hits</source>
+      <translation>Paskutiniai &#x17E;i&#x16B;r&#x117;ti</translation>
+    </message>
+    <message>
+      <source>Top rated</source>
+      <translation>Geriausiai &#x12F;vertinti</translation>
+    </message>
+    <message>
+      <source>Last rated</source>
+      <translation>Paskutin&#x12F; &#x12F;vertinti</translation>
+    </message>
+    <message>
+      <source>Last commented</source>
+      <translation>Neseniai komentuoti</translation>
+    </message>
+    <message>
+      <source>Filename</source>
+      <translation>Failo pavadinimas</translation>
+    </message>
+    <message>
+      <source>Search results</source>
+      <translation>Paie&#x161;kos rezultatai</translation>
+    </message>
+    <message>
+      <source>Nothing found</source>
+      <translation>Nieko nerasta</translation>
+    </message>
+    <message>
+      <source>Any resolution</source>
+      <translation>Bet kurios rezoliucijos</translation>
+    </message>
+    <message>
+      <source>Relevance</source>
+      <translation>Atitinkantys</translation>
+    </message>
+    <message>
+      <source>Any keyword</source>
+      <translation>Bet kok&#x12F; raktin&#x12F; &#x17E;od&#x12F;</translation>
+    </message>
+    <message>
+      <source>All keywords</source>
+      <translation>Visi raktiniai &#x17E;od&#x17E;iai</translation>
+    </message>
+    <message>
+      <source>search results</source>
+      <translation>paie&#x161;kos rezultatai</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Puslapis</translation>
+    </message>
+    <message>
+      <source>Last uploaded first</source>
+      <translation>Naujausi paveiksliuka pirmi</translation>
+    </message>
+    <message>
+      <source>Last uploaded last</source>
+      <translation>Naujausi paveiksliuka paskutiniai</translation>
+    </message>
+    <message>
+      <source>Most popular first</source>
+      <translation>Populiariausi pirmi</translation>
+    </message>
+    <message>
+      <source>Most popular last</source>
+      <translation>Populiariausi paskutiniai</translation>
+    </message>
+    <message>
+      <source>Last hits first</source>
+      <translation>V&#x117;liausi &#x17E;i&#x16B;r&#x117;ti pirmi</translation>
+    </message>
+    <message>
+      <source>Last hits last</source>
+      <translation>V&#x117;liausi &#x17E;i&#x16B;r&#x117;ti paskutiniai</translation>
+    </message>
+    <message>
+      <source>Last commented first</source>
+      <translation>Paskutiniai komentuoti pirmi</translation>
+    </message>
+    <message>
+      <source>Last commented last</source>
+      <translation>Paskutiniai komentuoti paskutiniai</translation>
+    </message>
+    <message>
+      <source>Last rated first</source>
+      <translation>Paskutiniai &#x12F;vertinti pirmi</translation>
+    </message>
+    <message>
+      <source>Last rated last</source>
+      <translation>Paskutiniai &#x12F;vertinti pirmi paskutiniai</translation>
+    </message>
+    <message>
+      <source>Top rated first</source>
+      <translation>Auk&#x161;&#x10D;iausiai &#x12F;vertinti pirmi</translation>
+    </message>
+    <message>
+      <source>Top rated last</source>
+      <translation>Auk&#x161;&#x10D;iausiai &#x12F;vertinti paskutiniai</translation>
+    </message>
+    <message>
+      <source>Most relevance images last</source>
+      <translation>Atitinkantys paskutiniai</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Rezoliucija</translation>
+    </message>
+    <message>
+      <source>Search RSS by keyword</source>
+      <translation>Paie&#x161;kos RSS pagal rakta&#x17E;od&#x12F;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/topratedrss</name>
+    <message>
+      <source>watched</source>
+      <translation>per&#x17E;i&#x16B;r&#x117;tas</translation>
+    </message>
+    <message>
+      <source>Top rated images</source>
+      <translation>Auk&#x161;&#x10D;iausiai &#x12F;vertinti paveiksl&#x117;liai</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>Per&#x17E;i&#x16B;r&#x117;ti paveiksl&#x117;l&#x12F;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/tagphoto</name>
+    <message>
+      <source>Thank you a lot :)</source>
+      <translation>A&#x10D;i&#x16B; labai :)</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/publicupload</name>
+    <message>
+      <source>Max file size 5mb.</source>
+      <translation>Maksimalus failo dydis 5mb.</translation>
+    </message>
+    <message>
+      <source>All files were uploaded. See album.</source>
+      <translation>Visi failai buvo nusi&#x173;sti. Per&#x17E;i&#x16B;r&#x117;kite album&#x105;.</translation>
+    </message>
+    <message>
+      <source>Uploading</source>
+      <translation>Siun&#x10D;iama</translation>
+    </message>
+    <message>
+      <source>Complete</source>
+      <translation>Baigta</translation>
+    </message>
+    <message>
+      <source>Choose images for upload first.</source>
+      <translation>Pasirinkite paveiksliukus nusiuntimui pirma.</translation>
+    </message>
+    <message>
+      <source>File is too big.</source>
+      <translation>Failas per didelis.</translation>
+    </message>
+    <message>
+      <source>Choose one of</source>
+      <translation>Pasirinkite vien&#x105; i&#x161;</translation>
+    </message>
+    <message>
+      <source>Browse</source>
+      <translation>Nar&#x161;yti</translation>
+    </message>
+    <message>
+      <source>Images to upload</source>
+      <translation>Paveiksl&#x117;liai nusiuntimui</translation>
+    </message>
+    <message>
+      <source>Choose images for upload.</source>
+      <translation>Pasirinkite paveiksl&#x117;lius nusiuntimui.</translation>
+    </message>
+    <message>
+      <source>Image upload is in progress. Please wait a moment...</source>
+      <translation>Vaizdo &#x12F;kelti darbai. Pra&#x161;ome palaukti ...</translation>
+    </message>
+    <message>
+      <source>Image upload is taking a long time to load or the load has failed.  Please make sure that the Flash Plugin is enabled and that a working version of the Adobe Flash Player is installed.</source>
+      <translation>Vaizdo &#x12F;kelti atsi&#x17E;velgiant ilgai apkrova arba apkrova nepavyko. Pra&#x161;ome &#x12F;sitikinti, kad Flash plugin yra &#x12F;jungta, ir kad darbo versija Adobe Flash Player yra &#x12F;diegtas.</translation>
+    </message>
+    <message>
+      <source>Attatch local images</source>
+      <translation>Nusi&#x173;skite lokalius paveiksl&#x117;lius</translation>
+    </message>
+    <message>
+      <source>Upload</source>
+      <translation>Si&#x173;sti</translation>
+    </message>
+    <message>
+      <source>Click to choose images to upload, you can also drop files here.</source>
+      <translation>Spustel&#x117;kite pasirinkti vaizdus &#x12F;kelti, taip pat galite paleisti-failus &#x10D;ia.</translation>
+    </message>
+    <message>
+      <source>Click to choose images to upload, you can also Drag and Drop files here (Darg and drop only for FF, Chrome).</source>
+      <translation>Spustel&#x117;kite pasirinkti nuotraukas &#x12F;kelti, galite taip pat Vilkite ir upu&#x15B;&#x107; failus &#x10D;ia (Darg ir upu&#x15B;&#x107; tik FF Chrome &amp;quot;).</translation>
+    </message>
+    <message>
+      <source>Public images archive upload</source>
+      <translation>Visuomen&#x117;s vaizd&#x173; archyvas &#x12F;kelti</translation>
+    </message>
+    <message>
+      <source>Click to choose zip to upload, you can also drop files here (Darg and drop only for FF, Chrome).</source>
+      <translation>Spustel&#x117;kite, jei norite pasirinkti Zip &#x12F;kelti, taip pat galite paleisti-failus &#x10D;ia (Darg ir upu&#x15B;&#x107; tik FF Chrome &amp;quot;).</translation>
+    </message>
+    <message>
+      <source>Public images upload</source>
+      <translation>Vie&#x161;as paveiksl&#x117;li&#x173; &#x12F;k&#x117;limas</translation>
+    </message>
+    <message>
+      <source>Max file size </source>
+      <translation type="unfinished">Maksimalus failo dydis</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/addvote</name>
+    <message>
+      <source>Thank you for your vote</source>
+      <translation>A&#x10D;i&#x16B; u&#x17E; &#x12F;vertinim&#x105;</translation>
+    </message>
+    <message>
+      <source>You are not allowed to vote!</source>
+      <translation>J&#x16B;s negalite balsuoti!</translation>
+    </message>
+    <message>
+      <source>You have already voted!</source>
+      <translation>J&#x16B;s jau balsavote!</translation>
+    </message>
+    <message>
+      <source>Vote deducted!</source>
+      <translation>Balsuoti atimamos!</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastuploads</name>
+    <message>
+      <source>Go to page %item of %numpages</source>
+      <translation>Eiti &#x12F; %item puslap&#x12F; i&#x161; %numpages</translation>
+    </message>
+    <message>
+      <source>Next</source>
+      <translation>Kitas</translation>
+    </message>
+    <message>
+      <source>Previous</source>
+      <translation>Ankstesnis</translation>
+    </message>
+    <message>
+      <source>Last uploaded images</source>
+      <translation>Paskutiniai nusi&#x173;sti paveiksl&#x117;liai</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>N&#x117;ra &#x12F;ra&#x161;&#x173;.</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Rezoliucija</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Puslapis</translation>
+    </message>
+    <message>
+      <source>Latest additions to gallery.</source>
+      <translation type="unfinished">Naujausi papildymai &#x12F; galerij&#x105;.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/toprated</name>
+    <message>
+      <source>No records.</source>
+      <translation>N&#x117;ra &#x12F;ra&#x161;&#x173;.</translation>
+    </message>
+    <message>
+      <source>Next</source>
+      <translation>Kitas</translation>
+    </message>
+    <message>
+      <source>Previous</source>
+      <translation>Ankstesnis</translation>
+    </message>
+    <message>
+      <source>Go to page %item of %numpages</source>
+      <translation>Eiti &#x12F; %item puslap&#x12F; i&#x161; %numpages</translation>
+    </message>
+    <message>
+      <source>Top rated images</source>
+      <translation>Auk&#x161;&#x10D;iausiai &#x12F;vertinti</translation>
+    </message>
+    <message>
+      <source>No records</source>
+      <translation>N&#x117;ra &#x12F;ra&#x161;&#x173;</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Rezoliucija</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Puslapis</translation>
+    </message>
+    <message>
+      <source>All time top rated images.</source>
+      <translation type="unfinished">Vis&#x105; laik&#x105; Geriausiai &#x12F;vertinti vaizdus.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lasthits</name>
+    <message>
+      <source>Next</source>
+      <translation>Kitas</translation>
+    </message>
+    <message>
+      <source>Previous</source>
+      <translation>Ankstesnis</translation>
+    </message>
+    <message>
+      <source>Go to page %item of %numpages</source>
+      <translation>Eiti &#x12F; %item puslap&#x12F; i&#x161; %numpages</translation>
+    </message>
+    <message>
+      <source>Last viewed images</source>
+      <translation>Paskutiniai per&#x17E;i&#x16B;r&#x117;ti paveiksl&#x117;liai</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>N&#x117;ra &#x12F;ra&#x161;&#x173;</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Rezoliucija</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Puslapis</translation>
+    </message>
+    <message>
+      <source>Last viewed gallery images.</source>
+      <translation type="unfinished">Paskutiniai &#x17E;i&#x16B;r&#x117;ti gallery images.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/ajaximages</name>
+    <message>
+      <source>preview version</source>
+      <translation>per&#x17E;i&#x16B;ros versija</translation>
+    </message>
+    <message>
+      <source>See full size picture</source>
+      <translation>Per&#x17E;i&#x16B;r&#x117;ti paveiksliuk&#x105;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/image</name>
+    <message>
+      <source>return to favorites</source>
+      <translation>gr&#x12F;&#x17E;ti &#x12F; m&#x117;gstamiausius</translation>
+    </message>
+    <message>
+      <source>Tag it!</source>
+      <translation>Tag it!</translation>
+    </message>
+    <message>
+      <source>Tag this photo</source>
+      <translation>Tag &#x161;i&#x105; nuotrauk&#x105;</translation>
+    </message>
+    <message>
+      <source>Safe code</source>
+      <translation>Saugos kodas</translation>
+    </message>
+    <message>
+      <source>Top rated last</source>
+      <translation>Auk&#x161;&#x10D;iausiai &#x12F;vertinti paskutiniai</translation>
+    </message>
+    <message>
+      <source>Picture comments</source>
+      <translation>Paveiksl&#x117;lio komentarai</translation>
+    </message>
+    <message>
+      <source>No comments</source>
+      <translation>N&#x117;ra komentar&#x173;</translation>
+    </message>
+    <message>
+      <source>Comment stored</source>
+      <translation>Komentaras i&#x161;saugotas</translation>
+    </message>
+    <message>
+      <source>Leave a reply</source>
+      <translation>Palikite atsiliepim&#x105;</translation>
+    </message>
+    <message>
+      <source>Nick</source>
+      <translation>Nikas</translation>
+    </message>
+    <message>
+      <source>Max 25 characters</source>
+      <translation>Max 25 &#x17E;enklai</translation>
+    </message>
+    <message>
+      <source>Message</source>
+      <translation>&#x17D;inut&#x117;</translation>
+    </message>
+    <message>
+      <source>Send</source>
+      <translation>Si&#x173;sti</translation>
+    </message>
+    <message>
+      <source>Image edit</source>
+      <translation>Image Edit</translation>
+    </message>
+    <message>
+      <source>Rate this picture</source>
+      <translation>&#x12E;vertintike &#x161;&#x12F; paveiksliuk&#x105;</translation>
+    </message>
+    <message>
+      <source>star</source>
+      <translation>&#x17E;vaig&#x17E;d&#x117;</translation>
+    </message>
+    <message>
+      <source>stars</source>
+      <translation>&#x17E;vaig&#x17E;d&#x117;s</translation>
+    </message>
+    <message>
+      <source>Vote!</source>
+      <translation>balsuoti!</translation>
+    </message>
+    <message>
+      <source>Deduct vote!</source>
+      <translation>Atskaityti balsuoti!</translation>
+    </message>
+    <message>
+      <source>next image</source>
+      <translation>kitas paveiksliukas</translation>
+    </message>
+    <message>
+      <source>previous image</source>
+      <translation>ankstesnis paveiksliukas</translation>
+    </message>
+    <message>
+      <source>return to thumbnails</source>
+      <translation>gr&#x12F;&#x17E;ti &#x12F; s&#x105;ra&#x161;&#x105;</translation>
+    </message>
+    <message>
+      <source>Click to see fullsize</source>
+      <translation>Paspauskite, nor&#x117;dami pamatyti vis&#x105;</translation>
+    </message>
+    <message>
+      <source>Supported BB Code style tags: [b] [i] [u] [quote] :) :D :( :o :p ;)</source>
+      <translation>Palaikomos BB Kodas stilius tegai: [b] [i] [u] [quote]:): D: (: o: p;)</translation>
+    </message>
+    <message>
+      <source>Add to favorites</source>
+      <translation>&#x12E;traukti &#x12F; m&#x117;gstamiausius</translation>
+    </message>
+    <message>
+      <source>Share this page HTML code</source>
+      <translation>Dalintis HTML kodu</translation>
+    </message>
+    <message>
+      <source>Share PHPBB code</source>
+      <translation>Dalintis PHPBB kodu</translation>
+    </message>
+    <message>
+      <source>Anaglyph version</source>
+      <translation>Anaglyph versija</translation>
+    </message>
+    <message>
+      <source>Enter tags separated by space</source>
+      <translation>&#x12E;vesk &#x17E;ymes atskirtas tarpu</translation>
+    </message>
+    <message>
+      <source>Picture details</source>
+      <translation>Paveiksl&#x117;lio informacija</translation>
+    </message>
+    <message>
+      <source>Filename</source>
+      <translation>Paveiksl&#x117;lio informacija</translation>
+    </message>
+    <message>
+      <source>File size</source>
+      <translation>Failo dydis</translation>
+    </message>
+    <message>
+      <source>Image rating</source>
+      <translation>Paveiksl&#x117;lio reitingas</translation>
+    </message>
+    <message>
+      <source>Date added</source>
+      <translation>&#x12E;k&#x117;limo data</translation>
+    </message>
+    <message>
+      <source>Dimensions</source>
+      <translation>Dydis</translation>
+    </message>
+    <message>
+      <source>Displayed</source>
+      <translation>Parodytas</translation>
+    </message>
+    <message>
+      <source>times</source>
+      <translation>kartus</translation>
+    </message>
+    <message>
+      <source>Album</source>
+      <translation>Albumas</translation>
+    </message>
+    <message>
+      <source>URL</source>
+      <translation>URL</translation>
+    </message>
+    <message>
+      <source>Owner</source>
+      <translation>Savininkas</translation>
+    </message>
+    <message>
+      <source>About user</source>
+      <translation type="unfinished">Viskas apie</translation>
+    </message>
+    <message>
+      <source>votes</source>
+      <translation>bals&#x173;</translation>
+    </message>
+    <message>
+      <source>Search for similar colors images</source>
+      <translation>Ie&#x161;koti pana&#x161;i&#x173; spalv&#x173; vaizdai</translation>
+    </message>
+    <message>
+      <source>Search for visualy similar images</source>
+      <translation>Ie&#x161;koti visualy pana&#x161;ius vaizdus</translation>
+    </message>
+    <message>
+      <source>More user images</source>
+      <translation>Daugiau vartotojo nuotrauk&#x173;</translation>
+    </message>
+    <message>
+      <source>Version</source>
+      <translation>Versija</translation>
+    </message>
+    <message>
+      <source>Image size</source>
+      <translation>Paveiksl&#x117;lio dydis</translation>
+    </message>
+    <message>
+      <source>Format</source>
+      <translation>Formatas</translation>
+    </message>
+    <message>
+      <source>Price</source>
+      <translation>Kaina</translation>
+    </message>
+    <message>
+      <source>credits</source>
+      <translation>kreditai</translation>
+    </message>
+    <message>
+      <source>Remove from basket</source>
+      <translation>Pa&#x161;alinti i&#x161; krep&#x161;elio</translation>
+    </message>
+    <message>
+      <source>Add to basket</source>
+      <translation>&#x12E;d&#x117;ti &#x12F; krep&#x161;el&#x12F;</translation>
+    </message>
+    <message>
+      <source>Wrong captcha code!</source>
+      <translation>Nekorekti&#x161;kas saugos kodas!</translation>
+    </message>
+    <message>
+      <source>Please enter nick!</source>
+      <translation>Pra&#x161;ome &#x12F;vesti nik&#x105;!</translation>
+    </message>
+    <message>
+      <source>Please enter comment!</source>
+      <translation>Pra&#x161;ome &#x12F;vesti komentar&#x105;!</translation>
+    </message>
+    <message>
+      <source>You are not allowed to leave a comments!</source>
+      <translation>Jums neleid&#x17E;iama palikti komentarus!</translation>
+    </message>
+    <message>
+      <source>Guest_</source>
+      <translation>Sve&#x10D;ias_</translation>
+    </message>
+    <message>
+      <source>Last uploaded images</source>
+      <translation>Naujausios nuotraukas</translation>
+    </message>
+    <message>
+      <source>Last additions</source>
+      <translation>Naujausi atnaujinimai</translation>
+    </message>
+    <message>
+      <source>Last viewed images</source>
+      <translation>K&#x105; tik &#x17E;i&#x16B;r&#x117;ti paveiksl&#x117;liai</translation>
+    </message>
+    <message>
+      <source>Last commented images</source>
+      <translation>K&#x105; tik komentuoti</translation>
+    </message>
+    <message>
+      <source>Last rated images</source>
+      <translation>K&#x105; tik &#x12F;vertinti paveiksl&#x117;liai</translation>
+    </message>
+    <message>
+      <source>Top rated images</source>
+      <translation>Geriausiai &#x12F;vertinti paveiksl&#x117;liai</translation>
+    </message>
+    <message>
+      <source>Search by color</source>
+      <translation>Paie&#x161;ka pagal spalv&#x105;</translation>
+    </message>
+    <message>
+      <source>Most popular images</source>
+      <translation>Populiariausi paveiksl&#x117;liai</translation>
+    </message>
+    <message>
+      <source>Search rss by keyword</source>
+      <translation>Paie&#x161;ka RSS pagal rakta&#x17E;od&#x12F;</translation>
+    </message>
+    <message>
+      <source>Last uploaded first</source>
+      <translation>Naujausi paveiksliukai pirmi</translation>
+    </message>
+    <message>
+      <source>Last uploaded last</source>
+      <translation>Naujausi paveiksliuka paskutiniai</translation>
+    </message>
+    <message>
+      <source>Most popular first</source>
+      <translation>Populiariausi pirmi</translation>
+    </message>
+    <message>
+      <source>Most popular last</source>
+      <translation>Populiariausi paskutiniai</translation>
+    </message>
+    <message>
+      <source>Last hits first</source>
+      <translation>V&#x117;liausi &#x17E;i&#x16B;r&#x117;ti pirmi</translation>
+    </message>
+    <message>
+      <source>Last hits last</source>
+      <translation>V&#x117;liausi &#x17E;i&#x16B;r&#x117;ti paskutiniai</translation>
+    </message>
+    <message>
+      <source>Last commented first</source>
+      <translation>Paskutiniai komentuoti pirmi</translation>
+    </message>
+    <message>
+      <source>Last commented last</source>
+      <translation>Paskutiniai komentuoti paskutiniai</translation>
+    </message>
+    <message>
+      <source>Top rated first</source>
+      <translation>Auk&#x161;&#x10D;iausiai &#x12F;vertinti pirmi</translation>
+    </message>
+    <message>
+      <source>Top rated last Last</source>
+      <translation>Geriausiai &#x12F;vertinti paskutiniai</translation>
+    </message>
+    <message>
+      <source>Last rated first</source>
+      <translation>K&#x105; tik &#x12F;vertinti pirmi</translation>
+    </message>
+    <message>
+      <source>Last rated last</source>
+      <translation>K&#x105; tik &#x12F;vertinti paskutiniai</translation>
+    </message>
+    <message>
+      <source>Most relevance images last</source>
+      <translation>Susij&#x119; paskutiniai</translation>
+    </message>
+    <message>
+      <source>search results</source>
+      <translation>paie&#x161;kos rezultatai</translation>
+    </message>
+    <message>
+      <source>Last uploaded images to album</source>
+      <translation>Paskutin&#x117;s &#x12F;keltos nuotraukos &#x12F; album&#x105;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/category</name>
+    <message>
+      <source>Category</source>
+      <translation>Kategorija</translation>
+    </message>
+    <message>
+      <source>Previous</source>
+      <translation>Ankstesnis</translation>
+    </message>
+    <message>
+      <source>Next</source>
+      <translation>Kitas</translation>
+    </message>
+    <message>
+      <source>Root category</source>
+      <translation>&#x160;aknis kategorijos</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Puslapis</translation>
+    </message>
+    <message>
+      <source>Forum</source>
+      <translation>Forumas</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/subcategry_list_full</name>
+    <message>
+      <source>Next</source>
+      <translation>Kitas</translation>
+    </message>
+    <message>
+      <source>Previous</source>
+      <translation>Ankstesnis</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/index</name>
+    <message>
+      <source>Page %currentpage of %totalpage</source>
+      <translation>Puslapis %currentpage i&#x161; %totalpage</translation>
+    </message>
+    <message>
+      <source>Found</source>
+      <translation>Rasta</translation>
+    </message>
+    <message>
+      <source>Previous</source>
+      <translation>Ankstesnis</translation>
+    </message>
+    <message>
+      <source>Next</source>
+      <translation>Kitas</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/image_list</name>
+    <message>
+      <source>Page %currentpage of %totalpage</source>
+      <translation>Puslapis %currentpage i&#x161; %totalpage</translation>
+    </message>
+    <message>
+      <source>watched</source>
+      <translation>per&#x17E;i&#x16B;r&#x117;tas</translation>
+    </message>
+    <message>
+      <source>Found</source>
+      <translation>Rasta</translation>
+    </message>
+    <message>
+      <source>preview version</source>
+      <translation>per&#x17E;i&#x16B;ros versija</translation>
+    </message>
+    <message>
+      <source>See full size</source>
+      <translation>Per&#x17E;i&#x16B;r&#x117;ti paveiksliuk&#x105;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastcommented</name>
+    <message>
+      <source>Go to page %item of %numpages</source>
+      <translation>Eiti &#x12F; %item puslap&#x12F; i&#x161; %numpages</translation>
+    </message>
+    <message>
+      <source>Next</source>
+      <translation>Kitas</translation>
+    </message>
+    <message>
+      <source>Previous</source>
+      <translation>Ankstesnis</translation>
+    </message>
+    <message>
+      <source>Last commented images</source>
+      <translation>Paskutiniai komentuoti paveiksl&#x117;liai</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>N&#x117;ra &#x12F;ra&#x161;&#x173;.</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Rezoliucija</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Puslapis</translation>
+    </message>
+    <message>
+      <source>Last commented gallery images.</source>
+      <translation type="unfinished">Paskutiniai komentuoti gallery images.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/subcategory_list_full</name>
+    <message>
+      <source>Page %currentpage of %totalpage</source>
+      <translation>Puslapis %currentpage i&#x161; %totalpage</translation>
+    </message>
+    <message>
+      <source>albums</source>
+      <translation>albumai</translation>
+    </message>
+    <message>
+      <source>images</source>
+      <translation>paveiksliukai</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/album</name>
+    <message>
+      <source>Page %currentpage of %totalpage</source>
+      <translation>Puslapis %currentpage i&#x161; %totalpage</translation>
+    </message>
+    <message>
+      <source>Found</source>
+      <translation>Rasta</translation>
+    </message>
+    <message>
+      <source>Previous</source>
+      <translation>Ankstesnis</translation>
+    </message>
+    <message>
+      <source>Next</source>
+      <translation>Kitas</translation>
+    </message>
+    <message>
+      <source>Last uploaded first</source>
+      <translation>Naujausi paveiksliuka pirmi</translation>
+    </message>
+    <message>
+      <source>Top rated last</source>
+      <translation>Auk&#x161;&#x10D;iausiai &#x12F;vertinti paskutiniai</translation>
+    </message>
+    <message>
+      <source>No records</source>
+      <translation>N&#x117;ra &#x12F;ra&#x161;&#x173;</translation>
+    </message>
+    <message>
+      <source>Search by color and keyword, just try to see how fun it is!</source>
+      <translation>Paie&#x161;ka pagal spalv&#x105; ir raktin&#x12F; &#x17E;od&#x12F;, tiesiog pabandykite ir pamatysite, kaip tai smagu!</translation>
+    </message>
+    <message>
+      <source>Enter keyword or phrase</source>
+      <translation>&#x12E;veskite reik&#x161;min&#x12F; &#x17E;od&#x12F; arba fraz&#x119;</translation>
+    </message>
+    <message>
+      <source>Search entire gallery</source>
+      <translation>Ie&#x161;koti vis&#x105; galerij&#x105;</translation>
+    </message>
+    <message>
+      <source>Search</source>
+      <translation>Paie&#x161;ka</translation>
+    </message>
+    <message>
+      <source>enter keyword and click color, or just click color</source>
+      <translation>&#x12E;veskite rakta&#x17E;od&#x12F; ir spustel&#x117;kite spalv&#x105;, arba tiesiog spustel&#x117;kite spalv&#x105;</translation>
+    </message>
+    <message>
+      <source>Include color</source>
+      <translation>&#x12E;traukti spalv&#x105;</translation>
+    </message>
+    <message>
+      <source>Exclude color</source>
+      <translation>Ne&#x12F;traukti spalvos</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Puslapis</translation>
+    </message>
+    <message>
+      <source>Last uploaded last</source>
+      <translation>Naujausi paveiksliuka paskutiniai</translation>
+    </message>
+    <message>
+      <source>Most popular first</source>
+      <translation>Populiariausi pirmi</translation>
+    </message>
+    <message>
+      <source>Most popular last</source>
+      <translation>Populiariausi paskutiniai</translation>
+    </message>
+    <message>
+      <source>Last hits first</source>
+      <translation>V&#x117;liausi &#x17E;i&#x16B;r&#x117;ti pirmi</translation>
+    </message>
+    <message>
+      <source>Last hits last</source>
+      <translation>V&#x117;liausi &#x17E;i&#x16B;r&#x117;ti paskutiniai</translation>
+    </message>
+    <message>
+      <source>Last commented first</source>
+      <translation>Paskutiniai komentuoti pirmi</translation>
+    </message>
+    <message>
+      <source>Last commented last</source>
+      <translation>Paskutiniai komentuoti paskutiniai</translation>
+    </message>
+    <message>
+      <source>Last rated first</source>
+      <translation>K&#x105; tik &#x12F;vertinti pirmi</translation>
+    </message>
+    <message>
+      <source>Last rated last</source>
+      <translation>K&#x105; tik &#x12F;vertinti paskutiniai</translation>
+    </message>
+    <message>
+      <source>Top rated first</source>
+      <translation>Auk&#x161;&#x10D;iausiai &#x12F;vertinti pirmi</translation>
+    </message>
+    <message>
+      <source>Top rated last Last</source>
+      <translation>Geriausiai &#x12F;vertinti paskutiniai</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Rezoliucija</translation>
+    </message>
+    <message>
+      <source>Last uploaded images to album</source>
+      <translation>Naujausios albumo nuotraukos</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/album_list</name>
+    <message>
+      <source>Page %currentpage of %totalpage</source>
+      <translation>Puslapis %currentpage i&#x161; %totalpage</translation>
+    </message>
+    <message>
+      <source>Previous</source>
+      <translation>Ankstesnis</translation>
+    </message>
+    <message>
+      <source>Next</source>
+      <translation>Kitas</translation>
+    </message>
+    <message>
+      <source>Found</source>
+      <translation>Rasta</translation>
+    </message>
+    <message>
+      <source>files</source>
+      <translation>failai</translation>
+    </message>
+    <message>
+      <source>Album priority</source>
+      <translation>Albumas prioritetas</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/subcategory_list</name>
+    <message>
+      <source>images</source>
+      <translation>paveiksliukai</translation>
+    </message>
+    <message>
+      <source>albums</source>
+      <translation>albumai</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/paymentoptionedit</name>
+    <message>
+      <source>Payment option edit</source>
+      <translation>Apmok&#x117;jimo b&#x16B;do redagavimas</translation>
+    </message>
+    <message>
+      <source>Identifier</source>
+      <translation>Identifikatorius</translation>
+    </message>
+    <message>
+      <source>Active</source>
+      <translation>Aktyvus</translation>
+    </message>
+    <message>
+      <source>Payment settings</source>
+      <translation>Apmok&#x117;jimo nustatymai</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Atnaujinti</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/listpaymentoptions</name>
+    <message>
+      <source>Payment options</source>
+      <translation>Apmok&#x117;jimo b&#x16B;dai</translation>
+    </message>
+    <message>
+      <source>Identifier</source>
+      <translation>Identifikatorius</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Pavadinimas</translation>
+    </message>
+    <message>
+      <source>Active</source>
+      <translation>Aktyvus</translation>
+    </message>
+    <message>
+      <source>Author</source>
+      <translation>Autorius</translation>
+    </message>
+    <message>
+      <source>Edit</source>
+      <translation>Redaguoti</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/index</name>
+    <message>
+      <source>Shop configuration</source>
+      <translation>Parduotuv&#x117;s konfiguracija</translation>
+    </message>
+    <message>
+      <source>Images variations sizes</source>
+      <translation>Paveiksl&#x117;li&#x173; variacij&#x173; dyd&#x17E;iai</translation>
+    </message>
+    <message>
+      <source>List payment options</source>
+      <translation>Apmok&#x117;jim&#x173; b&#x16B;d&#x173; s&#x105;ra&#x161;as</translation>
+    </message>
+    <message>
+      <source>Settings list</source>
+      <translation>Nustatym&#x173; s&#x105;ra&#x161;as</translation>
+    </message>
+    <message>
+      <source>Orders list</source>
+      <translation>U&#x17E;sakymo s&#x105;ra&#x161;as</translation>
+    </message>
+    <message>
+      <source>Credits orders list</source>
+      <translation>Kredit&#x173; u&#x17E;sakym&#x173; s&#x105;ra&#x161;as</translation>
+    </message>
+    <message>
+      <source>Shop</source>
+      <translation>Parduotuv&#x117;</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/imagevariation</name>
+    <message>
+      <source>Shop</source>
+      <translation>Parduotuv&#x117;</translation>
+    </message>
+    <message>
+      <source>Shop configuration</source>
+      <translation>Parduotuv&#x117;s konfiguracija</translation>
+    </message>
+    <message>
+      <source>Images variations sizes</source>
+      <translation>Paveiksl&#x117;li&#x173; variacij&#x173; dyd&#x17E;iai</translation>
+    </message>
+    <message>
+      <source>Variations list</source>
+      <translation>Variacij&#x173; s&#x105;ra&#x161;as</translation>
+    </message>
+    <message>
+      <source>New variation</source>
+      <translation>Nauja variacija</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Pavadinimas</translation>
+    </message>
+    <message>
+      <source>Width</source>
+      <translation>Plotis</translation>
+    </message>
+    <message>
+      <source>Height</source>
+      <translation>Auk&#x161;tis</translation>
+    </message>
+    <message>
+      <source>Delete</source>
+      <translation>Trinti</translation>
+    </message>
+    <message>
+      <source>Edit</source>
+      <translation>Redaguoti</translation>
+    </message>
+    <message>
+      <source>Applies to original</source>
+      <translation>Taikoma originalui</translation>
+    </message>
+    <message>
+      <source>No</source>
+      <translation>Ne</translation>
+    </message>
+    <message>
+      <source>Credits</source>
+      <translation>Kreditai</translation>
+    </message>
+    <message>
+      <source>Yes</source>
+      <translation>Taip</translation>
+    </message>
+    <message>
+      <source>Basket</source>
+      <translation>Krep&#x161;elis</translation>
+    </message>
+    <message>
+      <source>Payment option</source>
+      <translation>Mok&#x117;jimo parinkt&#x12F;</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/imagevariationedit</name>
+    <message>
+      <source>Shop</source>
+      <translation>Parduotuv&#x117;</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Atnaujinti</translation>
+    </message>
+    <message>
+      <source>Image variation edit</source>
+      <translation>Paveiksliuko variacijos redagavimas</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/color</name>
+    <message>
+      <source>Exclude color</source>
+      <translation>Ne&#x12F;traukti spalvos</translation>
+    </message>
+    <message>
+      <source>Maximum</source>
+      <translation>Maksimalus</translation>
+    </message>
+    <message>
+      <source>filters</source>
+      <translation>filtrai</translation>
+    </message>
+    <message>
+      <source>Include color</source>
+      <translation>&#x12E;traukti spalv&#x105;</translation>
+    </message>
+    <message>
+      <source>Remove color</source>
+      <translation>Pa&#x161;alinti spalv&#x105;</translation>
+    </message>
+    <message>
+      <source>Excluded colors in search</source>
+      <translation>Ne&#x12F;traukiama spalv&#x173; paie&#x161;kos</translation>
+    </message>
+    <message>
+      <source>colors</source>
+      <translation>spalvos</translation>
+    </message>
+    <message>
+      <source>More color</source>
+      <translation>Daugiau spalv&#x173;</translation>
+    </message>
+    <message>
+      <source>Return to pallete</source>
+      <translation>Gr&#x12F;&#x17E;ti &#x12F; palet&#x119;</translation>
+    </message>
+    <message>
+      <source>Images by color</source>
+      <translation>Paveiksliukai pagal spalv&#x105;</translation>
+    </message>
+    <message>
+      <source>Choose color</source>
+      <translation>Pasirinkite spalv&#x105;</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>N&#x117;ra &#x12F;ra&#x161;&#x173;</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Puslapis</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/batchadd</name>
+    <message>
+      <source>I cannot write this directory</source>
+      <translation>A&#x161; negaliu &#x12F;ra&#x161;yti i &#x161;i&#x105; direktorij&#x105;</translation>
+    </message>
+    <message>
+      <source>No image were found!</source>
+      <translation>Nerasta paveiksl&#x117;li&#x173;!</translation>
+    </message>
+    <message>
+      <source>Import</source>
+      <translation>Importas</translation>
+    </message>
+    <message>
+      <source>Import recursive this directory</source>
+      <translation>Rekursyvinis importas</translation>
+    </message>
+    <message>
+      <source>Search</source>
+      <translation>Ie&#x161;koti</translation>
+    </message>
+    <message>
+      <source>Please enter album name and click search</source>
+      <translation>&#x12E;veskite albumo pavadinima ir paspauskite ie&#x161;koti</translation>
+    </message>
+    <message>
+      <source>List images</source>
+      <translation>Gauti paveiksl&#x117;li&#x173; s&#x105;ra&#x161;&#x105;</translation>
+    </message>
+    <message>
+      <source>List images recursive</source>
+      <translation>Gauti rekursyv&#x173; paveiksl&#x117;li&#x173; s&#x105;ra&#x161;&#x105;</translation>
+    </message>
+    <message>
+      <source>Import images</source>
+      <translation>Importuoti paveiksl&#x117;lius</translation>
+    </message>
+    <message>
+      <source>Click list images or list images recursive</source>
+      <translation>Paspauskite "Gauti paveiksl&#x117;li&#x173; s&#x105;ra&#x161;&#x105;" arba "Gauti rekursyv&#x173; paveiksl&#x117;li&#x173; s&#x105;ra&#x161;&#x105;"</translation>
+    </message>
+    <message>
+      <source>Add images</source>
+      <translation>Paveiksl&#x117;lis &#x12F;k&#x117;limas</translation>
+    </message>
+    <message>
+      <source>Please choose album first!</source>
+      <translation>Pra&#x161;ome pasirinkti album&#x105; pirma!</translation>
+    </message>
+    <message>
+      <source>Mass image upload</source>
+      <translation>Masinis paveiksl&#x117;li&#x173; &#x12F;k&#x117;limas</translation>
+    </message>
+  </context>
+  <context>
+    <name>pagelayout/pagelayout</name>
+    <message>
+      <source>It's NOT fake!</source>
+      <translation>Tai NEpadirbta!</translation>
+    </message>
+    <message>
+      <source>Page analyzer</source>
+      <translation>Puslapio analizatorius</translation>
+    </message>
+    <message>
+      <source>Add word</source>
+      <translation>Pridėti žodį</translation>
+    </message>
+    <message>
+      <source>Text analyzer</source>
+      <translation>Teksto analizatorius</translation>
+    </message>
+    <message>
+      <source>Lithuanian</source>
+      <translation>Lietuvių</translation>
+    </message>
+    <message>
+      <source>Friends</source>
+      <translation>Draugai</translation>
+    </message>
+    <message>
+      <source>Tools</source>
+      <translation>Įrankiai</translation>
+    </message>
+    <message>
+      <source>French</source>
+      <translation>Prancūzų</translation>
+    </message>
+    <message>
+      <source>Advanced search</source>
+      <translation>Detali paieška</translation>
+    </message>
+    <message>
+      <source>Dictionaries</source>
+      <translation>Žodynai</translation>
+    </message>
+    <message>
+      <source>Spell check</source>
+      <translation>Rašybos tikrinimas</translation>
+    </message>
+    <message>
+      <source>English</source>
+      <translation>Anglų</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>&#x17D;i&#x16B;r&#x117;ti paveiksl&#x117;l&#x12F;</translation>
+    </message>
+    <message>
+      <source>Clean cache</source>
+      <translation>I&#x161;valyti pod&#x117;lius</translation>
+    </message>
+    <message>
+      <source>Most popular images</source>
+      <translation>Populiariausi paveiksliukai</translation>
+    </message>
+    <message>
+      <source>Upload image</source>
+      <translation>Nusi&#x173;sti paveiksliuk&#x105;</translation>
+    </message>
+    <message>
+      <source>Account</source>
+      <translation>Paskyra</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>Titulinis puslapis</translation>
+    </message>
+    <message>
+      <source>Configuration</source>
+      <translation>Konfiguracija</translation>
+    </message>
+    <message>
+      <source>Gallery categorys</source>
+      <translation>Galerijos kategorijos</translation>
+    </message>
+    <message>
+      <source>Last uploads to albums</source>
+      <translation>Naujausi albumo paveiksliukai</translation>
+    </message>
+    <message>
+      <source>Batch images add</source>
+      <translation>Masinis paveiksl&#x117;li&#x173; &#x12F;k&#x117;limas</translation>
+    </message>
+    <message>
+      <source>Duplicates</source>
+      <translation>Dublikatai</translation>
+    </message>
+    <message>
+      <source>Static articles</source>
+      <translation>Statiniai straipsniai</translation>
+    </message>
+    <message>
+      <source>Statistic</source>
+      <translation>Statistika</translation>
+    </message>
+    <message>
+      <source>Shop</source>
+      <translation>Parduotuv&#x117;</translation>
+    </message>
+    <message>
+      <source>Forum</source>
+      <translation>Forumas</translation>
+    </message>
+    <message>
+      <source>Delete photo by ID</source>
+      <translation>Nuot. trynimas pagal ID</translation>
+    </message>
+    <message>
+      <source>Photo was deleted</source>
+      <translation>Nuotrauka buvo i&#x161;trinta</translation>
+    </message>
+    <message>
+      <source>Go to album</source>
+      <translation>Eiti &#x12F; album&#x105;</translation>
+    </message>
+    <message>
+      <source>Go to forum topic</source>
+      <translation>Gr&#x12F;&#x17E;ti &#x12F; forumo tem&#x105;</translation>
+    </message>
+    <message>
+      <source>Go to forum category</source>
+      <translation>Gr&#x12F;&#x17E;ti &#x12F; forumo kategorijos</translation>
+    </message>
+    <message>
+      <source>Go to image</source>
+      <translation>Gr&#x12F;&#x17E;ti &#x12F; vaizd&#x105;</translation>
+    </message>
+    <message>
+      <source>Root category</source>
+      <translation>Pagrindin&#x117; kategorija</translation>
+    </message>
+    <message>
+      <source>Open</source>
+      <translation>Atidaryti</translation>
+    </message>
+    <message>
+      <source>Edit</source>
+      <translation>Redaguoti</translation>
+    </message>
+    <message>
+      <source>New album</source>
+      <translation>Naujas albumas</translation>
+    </message>
+    <message>
+      <source>New batch albums</source>
+      <translation>Naujas masinis album&#x173; k&#x16B;rimas</translation>
+    </message>
+    <message>
+      <source>New category</source>
+      <translation>Nauja kategorija</translation>
+    </message>
+    <message>
+      <source>Delete album</source>
+      <translation>Trinti album&#x105;</translation>
+    </message>
+    <message>
+      <source>Delete category</source>
+      <translation>Trinti kategorija</translation>
+    </message>
+    <message>
+      <source>Add images</source>
+      <translation>Paveiksl&#x117;li&#x173; &#x12F;k&#x117;limas</translation>
+    </message>
+    <message>
+      <source>Move images</source>
+      <translation>Perkelti paveiksl&#x117;lius</translation>
+    </message>
+    <message>
+      <source>It\'s NOT fake!</source>
+      <translation>It \ &amp;#39;s n&#x117;ra klastot&#x117;!</translation>
+    </message>
+    <message>
+      <source>Rendered in</source>
+      <translation>Sugeneruotas per</translation>
+    </message>
+    <message>
+      <source>Logged user</source>
+      <translation>Prisijung&#x119;s vartotojas</translation>
+    </message>
+    <message>
+      <source>Account</source>
+      <translation>Paskyra</translation>
+    </message>
+    <message>
+      <source>Logout</source>
+      <translation>Atsijungti</translation>
+    </message>
+    <message>
+      <source>Login</source>
+      <translation>Prisijungti</translation>
+    </message>
+    <message>
+      <source>Enter keyword or phrase</source>
+      <translation>&#x12E;veskite rakta&#x17E;od&#x12F; arba fraz&#x119;</translation>
+    </message>
+    <message>
+      <source>Search entire forum</source>
+      <translation>Ie&#x161;koti vis&#x105; forum&#x105;</translation>
+    </message>
+    <message>
+      <source>Search</source>
+      <translation>Paie&#x161;ka</translation>
+    </message>
+    <message>
+      <source>Last uploads</source>
+      <translation>Naujausi paveiksliukai</translation>
+    </message>
+    <message>
+      <source>Last commented</source>
+      <translation>Paskutiniai komentuoti</translation>
+    </message>
+    <message>
+      <source>Last hits</source>
+      <translation>Paskutiniai &#x17E;i&#x16B;r&#x117;ti</translation>
+    </message>
+    <message>
+      <source>Last rated</source>
+      <translation>Paskutiniai &#x12F;vertinti</translation>
+    </message>
+    <message>
+      <source>Last 24 h.</source>
+      <translation>Paskutines 24 val</translation>
+    </message>
+    <message>
+      <source>Most popular</source>
+      <translation>Populiariausi</translation>
+    </message>
+    <message>
+      <source>Top rated</source>
+      <translation>Auk&#x161;&#x10D;iausiai &#x12F;vertinti</translation>
+    </message>
+    <message>
+      <source>Search entire gallery</source>
+      <translation>Ie&#x161;koti visoje galerijoje</translation>
+    </message>
+    <message>
+      <source>Last uploaded images</source>
+      <translation>Naujausi paveiksl&#x117;liai</translation>
+    </message>
+    <message>
+      <source>View all categorys</source>
+      <translation>Per&#x17E;i&#x16B;r&#x117;ti visus categorys</translation>
+    </message>
+    <message>
+      <source>All time</source>
+      <translation>Vis&#x105; laik&#x105;</translation>
+    </message>
+    <message>
+      <source>Interactive</source>
+      <translation>Interaktyvus</translation>
+    </message>
+    <message>
+      <source>Search by keyword</source>
+      <translation>Paie&#x161;ka pagal rakta&#x17E;od&#x12F;</translation>
+    </message>
+    <message>
+      <source>Search by color</source>
+      <translation>Paie&#x161;ka pagal spalv&#x105;</translation>
+    </message>
+    <message>
+      <source>Search by similarity</source>
+      <translation>Paie&#x161;ka pagal pana&#x161;um&#x105;</translation>
+    </message>
+    <message>
+      <source>Search by sketch</source>
+      <translation>Paie&#x161;ka pagal eskiz&#x105;</translation>
+    </message>
+    <message>
+      <source>Last viewed images</source>
+      <translation>Paskutiniai &#x17E;i&#x16B;r&#x117;ti paveiksliukai</translation>
+    </message>
+    <message>
+      <source>Last searches</source>
+      <translation>Paskutin&#x117;s paie&#x161;kos</translation>
+    </message>
+    <message>
+      <source>My account</source>
+      <translation>Mano paskyra</translation>
+    </message>
+    <message>
+      <source>Profile page</source>
+      <translation type="unfinished">Profilis puslapis</translation>
+    </message>
+    <message>
+      <source>Manage albums</source>
+      <translation>Tvarkyti albumus</translation>
+    </message>
+    <message>
+      <source>Credits</source>
+      <translation>Kreditai</translation>
+    </message>
+    <message>
+      <source>My orders</source>
+      <translation>Mano u&#x17E;sakymai</translation>
+    </message>
+    <message>
+      <source>My credits orders</source>
+      <translation>Mano kredit&#x173; u&#x17E;sakymai</translation>
+    </message>
+    <message>
+      <source>Import images from facebook</source>
+      <translation>Importuoti vaizdus i&#x161; &amp;quot;Facebook&amp;quot;</translation>
+    </message>
+    <message>
+      <source>Register</source>
+      <translation>Registruotis</translation>
+    </message>
+    <message>
+      <source>My favorites</source>
+      <translation>Mano m&#x117;gstamiausi</translation>
+    </message>
+    <message>
+      <source>Basket</source>
+      <translation>Krep&#x161;elis</translation>
+    </message>
+    <message>
+      <source>Upload</source>
+      <translation>&#x12E;kelti</translation>
+    </message>
+    <message>
+      <source>Upload zip</source>
+      <translation>&#x12E;kelti ZIP</translation>
+    </message>
+    <message>
+      <source>Search...</source>
+      <translation>Paie&#x161;ka...</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/newgroup</name>
+    <message>
+      <source>New group</source>
+      <translation>Nauja grup&#x117;</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Pavadinimas</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Saugoti</translation>
+    </message>
+    <message>
+      <source>Save and assign user</source>
+      <translation>Saugoti ir priskirti vartotoj&#x105;</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Sistemos konfig&#x16B;racija</translation>
+    </message>
+    <message>
+      <source>Groups</source>
+      <translation>Grup&#x117;s</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/grouplist</name>
+    <message>
+      <source>Title</source>
+      <translation>Pavadinimas</translation>
+    </message>
+    <message>
+      <source>Delete comment</source>
+      <translation>I&#x161;trinti komentar&#x105;</translation>
+    </message>
+    <message>
+      <source>Edit comment</source>
+      <translation>Redaguoti komentar&#x105;</translation>
+    </message>
+    <message>
+      <source>Delete image</source>
+      <translation>Pa&#x161;alinti paveiksl&#x117;l&#x12F;</translation>
+    </message>
+    <message>
+      <source>Groups</source>
+      <translation>Grup&#x117;s</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Pavadinimas</translation>
+    </message>
+    <message>
+      <source>Edit group</source>
+      <translation>Redaguoti grup&#x119;</translation>
+    </message>
+    <message>
+      <source>Delete group</source>
+      <translation>Trinti grup&#x119;</translation>
+    </message>
+    <message>
+      <source>New group</source>
+      <translation>Nauja grup&#x117;</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Sistemos konfig&#x16B;racija</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/groupassignuser</name>
+    <message>
+      <source>Username</source>
+      <translation>Vartotojo vardas</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>El-pa&#x161;tas</translation>
+    </message>
+    <message>
+      <source>User</source>
+      <translation>Vartotojas</translation>
+    </message>
+    <message>
+      <source>Assign</source>
+      <translation>Priskirti</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/editrole</name>
+    <message>
+      <source>Title</source>
+      <translation>Pavadinimas</translation>
+    </message>
+    <message>
+      <source>Role edit</source>
+      <translation>Rol&#x117;s redagavimas</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Pavadinimas</translation>
+    </message>
+    <message>
+      <source>Assigned functions</source>
+      <translation>Priskirtos funkcijos</translation>
+    </message>
+    <message>
+      <source>Module</source>
+      <translation>Modulis</translation>
+    </message>
+    <message>
+      <source>Function</source>
+      <translation>Funkcija</translation>
+    </message>
+    <message>
+      <source>Remove selected</source>
+      <translation>&#x160;alinti pasirinktas</translation>
+    </message>
+    <message>
+      <source>New policy</source>
+      <translation>Nauja teis&#x117;</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Atnaujinti</translation>
+    </message>
+    <message>
+      <source>Cancel</source>
+      <translation>At&#x161;aukti</translation>
+    </message>
+    <message>
+      <source>Role assigned groups</source>
+      <translation>Rolei priskirtos grup&#x117;s</translation>
+    </message>
+    <message>
+      <source>Group assignement to role</source>
+      <translation>Grup&#x117;s priskyrimas rolei</translation>
+    </message>
+    <message>
+      <source>Assign group</source>
+      <translation>Priskirti grup&#x119;</translation>
+    </message>
+    <message>
+      <source>Please enter role name</source>
+      <translation>Pra&#x161;ome &#x12F;vesti rol&#x117;s pavadinim&#x105;</translation>
+    </message>
+    <message>
+      <source>Please choose module</source>
+      <translation>Pra&#x161;ome pasirinkti modul&#x12F;</translation>
+    </message>
+    <message>
+      <source>Please choose module function</source>
+      <translation>Pra&#x161;ome pasirinkti modulio funkcij&#x105;</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Sistemos konfig&#x16B;racija</translation>
+    </message>
+    <message>
+      <source>List of roles</source>
+      <translation>Roli&#x173; s&#x105;ra&#x161;as</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/newrole</name>
+    <message>
+      <source>New role</source>
+      <translation>Nauja rol&#x117;</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Pavadinimas</translation>
+    </message>
+    <message>
+      <source>Policy list</source>
+      <translation>Teisi&#x173; s&#x105;ra&#x161;as</translation>
+    </message>
+    <message>
+      <source>Module</source>
+      <translation>Modulis</translation>
+    </message>
+    <message>
+      <source>Function</source>
+      <translation>Funkcija</translation>
+    </message>
+    <message>
+      <source>New policy</source>
+      <translation>Nauja teis&#x117;</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Saugoti</translation>
+    </message>
+    <message>
+      <source>Cancel</source>
+      <translation>At&#x161;aukti</translation>
+    </message>
+    <message>
+      <source>Please enter role name</source>
+      <translation>Pra&#x161;ome &#x12F;vesti rol&#x117;s pavadinim&#x105;</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Sistemos konfig&#x16B;racija</translation>
+    </message>
+    <message>
+      <source>List of roles</source>
+      <translation>Roli&#x173; s&#x105;ra&#x161;as</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/modulefunctions</name>
+    <message>
+      <source>All functions</source>
+      <translation>Visos funkcijos</translation>
+    </message>
+  </context>
+  <context>
+    <name>kernel/nopermission</name>
+    <message>
+      <source>You do not have permission to access module</source>
+      <translation>J&#x16B;s neturite teis&#x117;s naudotis moduliu</translation>
+    </message>
+    <message>
+      <source>and use</source>
+      <translation>ir naudotis</translation>
+    </message>
+    <message>
+      <source>function</source>
+      <translation>funkcija</translation>
+    </message>
+    <message>
+      <source>You do not have permission to access current object</source>
+      <translation>J&#x16B;s neturite teis&#x117;s redaguoti pasirinkt&#x105; objekt&#x105;</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/roles</name>
+    <message>
+      <source>List of roles</source>
+      <translation>Roli&#x173; s&#x105;ra&#x161;as</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Pavadinimas</translation>
+    </message>
+    <message>
+      <source>Edit role</source>
+      <translation>Redaguoti rol&#x119;</translation>
+    </message>
+    <message>
+      <source>Delete role</source>
+      <translation>Trinti rol&#x119;</translation>
+    </message>
+    <message>
+      <source>New role</source>
+      <translation>Nauja rol&#x117;</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Sistemos konfig&#x16B;racija</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/roleassigngroup</name>
+    <message>
+      <source>Title</source>
+      <translation>Pavadinimas</translation>
+    </message>
+    <message>
+      <source>Assign</source>
+      <translation>Priskirti</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/newpolicy</name>
+    <message>
+      <source>New policy</source>
+      <translation>Nauja teis&#x117;</translation>
+    </message>
+    <message>
+      <source>Assigned functions</source>
+      <translation>Priskirtos funkcijos</translation>
+    </message>
+    <message>
+      <source>Choose module</source>
+      <translation>Pasirinkite modul&#x12F;</translation>
+    </message>
+    <message>
+      <source>All modules</source>
+      <translation>Visi moduliai</translation>
+    </message>
+    <message>
+      <source>Choose module function</source>
+      <translation>Pasirinkite modulio funkcij&#x105;</translation>
+    </message>
+    <message>
+      <source>All functions</source>
+      <translation>Visos funkcijos</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Saugoti</translation>
+    </message>
+    <message>
+      <source>Cancel</source>
+      <translation>At&#x161;aukti</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/groupassignrole</name>
+    <message>
+      <source>Title</source>
+      <translation>Pavadinimas</translation>
+    </message>
+    <message>
+      <source>Assign</source>
+      <translation>Priskirti</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/editgroup</name>
+    <message>
+      <source>Group edit</source>
+      <translation>Grup&#x117;s redagavimas</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Pavadinimas</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Atnaujinti</translation>
+    </message>
+    <message>
+      <source>Assigned users</source>
+      <translation>Priskirti vartotojai</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Vartotojo vardas</translation>
+    </message>
+    <message>
+      <source>Remove user from group</source>
+      <translation>Pa&#x161;alinti vartotoj&#x105; i&#x161; grup&#x117;s</translation>
+    </message>
+    <message>
+      <source>Assign user</source>
+      <translation>Priskirti vartotoj&#x105;</translation>
+    </message>
+    <message>
+      <source>User assignment</source>
+      <translation>Vartotojo priskyrimas</translation>
+    </message>
+    <message>
+      <source>Assigned roles</source>
+      <translation>Priskirtos rol&#x117;s</translation>
+    </message>
+    <message>
+      <source>Remove role from group</source>
+      <translation>Pa&#x161;alinti rol&#x119; i&#x161; grup&#x117;s</translation>
+    </message>
+    <message>
+      <source>Assign role</source>
+      <translation>Priskirti rol&#x119;</translation>
+    </message>
+    <message>
+      <source>Role assignment</source>
+      <translation>Rol&#x117;s priskyrimas</translation>
+    </message>
+    <message>
+      <source>Please enter group name</source>
+      <translation>Pra&#x161;ome &#x12F;vesti grup&#x117;s pavadinim&#x105;</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Sistemos konfig&#x16B;racija</translation>
+    </message>
+    <message>
+      <source>Groups</source>
+      <translation>Grup&#x117;s</translation>
+    </message>
+  </context>
+  <context>
+    <name>system/index</name>
+    <message>
+      <source>System administration panel</source>
+      <translation>Sistemos administravimo panel&#x117;</translation>
+    </message>
+  </context>
+  <context>
+    <name>system/configuration</name>
+    <message>
+      <source>System configuration</source>
+      <translation>Sistemos konfig&#x16B;racija</translation>
+    </message>
+    <message>
+      <source>Users</source>
+      <translation>Vartotojai</translation>
+    </message>
+    <message>
+      <source>List of groups</source>
+      <translation>Grupi&#x173; s&#x105;ra&#x161;as</translation>
+    </message>
+    <message>
+      <source>List of roles</source>
+      <translation>Roli&#x173; s&#x105;ra&#x161;as</translation>
+    </message>
+    <message>
+      <source>System configuration values</source>
+      <translation>Sistemos nustatym&#x173; s&#x105;ra&#x161;as</translation>
+    </message>
+    <message>
+      <source>Watermark protection</source>
+      <translation>Vandens &#x17E;enkl&#x173; apsauga</translation>
+    </message>
+    <message>
+      <source>Banned rating IP list</source>
+      <translation>U&#x17E;draustas &#x12F;vertinimas IP s&#x105;ra&#x161;o</translation>
+    </message>
+    <message>
+      <source>Banned commenting IP list</source>
+      <translation>U&#x17E;draustas komentavimas IP s&#x105;ra&#x161;o</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/userlist</name>
+    <message>
+      <source>Name</source>
+      <translation>Vardas</translation>
+    </message>
+    <message>
+      <source>Surname</source>
+      <translation>Pavard&#x117;</translation>
+    </message>
+    <message>
+      <source>Go to page %item of %numpages</source>
+      <translation>Eiti &#x12F; %item puslap&#x12F; i&#x161; %numpages</translation>
+    </message>
+    <message>
+      <source>Next</source>
+      <translation>Kitas</translation>
+    </message>
+    <message>
+      <source>Previous</source>
+      <translation>Ankstesnis</translation>
+    </message>
+    <message>
+      <source>Report list</source>
+      <translation>Ataskaita s&#x105;ra&#x161;as</translation>
+    </message>
+    <message>
+      <source>Report</source>
+      <translation>Prane&#x161;imas</translation>
+    </message>
+    <message>
+      <source>Topic</source>
+      <translation>Tema</translation>
+    </message>
+    <message>
+      <source>Topic message</source>
+      <translation>Tema prane&#x161;im&#x105;</translation>
+    </message>
+    <message>
+      <source>Date</source>
+      <translation>Data</translation>
+    </message>
+    <message>
+      <source>Edit topic</source>
+      <translation>Redaguoti tem&#x105;</translation>
+    </message>
+    <message>
+      <source>Delete topic</source>
+      <translation>&#x160;alinti tem&#x105;</translation>
+    </message>
+    <message>
+      <source>IP</source>
+      <translation>TL</translation>
+    </message>
+    <message>
+      <source>Users</source>
+      <translation>Vartotojai</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Vartotojo vardas</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>El-pa&#x161;tas</translation>
+    </message>
+    <message>
+      <source>Edit user</source>
+      <translation>Redaguoti vartotoj&#x105;</translation>
+    </message>
+    <message>
+      <source>Delete user</source>
+      <translation>Trinti vartotoj&#x105;</translation>
+    </message>
+    <message>
+      <source>New user</source>
+      <translation>Naujas vartotojas</translation>
+    </message>
+    <message>
+      <source>Replace image</source>
+      <translation>Pakeisti vaizdo</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Sistemos konfig&#x16B;racija</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/edit</name>
+    <message>
+      <source>Assigned departments</source>
+      <translation>Priskirti departamentai</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Vardas</translation>
+    </message>
+    <message>
+      <source>Surname</source>
+      <translation>Pavard&#x117;</translation>
+    </message>
+    <message>
+      <source>Please enter name</source>
+      <translation>Pra&#x161;ome &#x12F;vesti vard&#x105;</translation>
+    </message>
+    <message>
+      <source>Please enter surname</source>
+      <translation>Pra&#x161;ome &#x12F;vesti pavard&#x119;</translation>
+    </message>
+    <message>
+      <source>User edit</source>
+      <translation>Vartotojo redagavimas</translation>
+    </message>
+    <message>
+      <source>Do not enter password unless you want to change it</source>
+      <translation>Neveskite slapta&#x17E;od&#x17E;io nebent norite j&#x12F; pakeisti</translation>
+    </message>
+    <message>
+      <source>Login information</source>
+      <translation>Prisijungimo informacija</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Vartotojo vardas</translation>
+    </message>
+    <message>
+      <source>Password</source>
+      <translation>Slapta&#x17E;odis</translation>
+    </message>
+    <message>
+      <source>Repeat password</source>
+      <translation>Pakartokite slapta&#x17E;od&#x12F;</translation>
+    </message>
+    <message>
+      <source>Contact information</source>
+      <translation>Kontaktin&#x117; informacija</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>El. pa&#x161;tas</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Atnaujinti</translation>
+    </message>
+    <message>
+      <source>User prifle</source>
+      <translation>Vartotojo prifle</translation>
+    </message>
+    <message>
+      <source>My account</source>
+      <translation>Mano s&#x105;skaita</translation>
+    </message>
+    <message>
+      <source>Facebook albums</source>
+      <translation>&amp;quot;Facebook&amp;quot; album&#x173;</translation>
+    </message>
+    <message>
+      <source>Facebook session has expired, please login</source>
+      <translation>&amp;quot;Facebook&amp;quot; sesija baig&#x117;si, pra&#x161;ome prisijungti</translation>
+    </message>
+    <message>
+      <source>Account</source>
+      <translation>S&#x105;skaita</translation>
+    </message>
+    <message>
+      <source>Albums</source>
+      <translation>Albumai</translation>
+    </message>
+    <message>
+      <source>My albums</source>
+      <translation>Mano albumai</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Sistemos konfig&#x16B;racija</translation>
+    </message>
+    <message>
+      <source>Account data</source>
+      <translation>S&#x105;skaitos duomenys</translation>
+    </message>
+    <message>
+      <source>Wrong email address</source>
+      <translation>Nekorekti&#x161;kas e-pa&#x161;to adresas</translation>
+    </message>
+    <message>
+      <source>Passwords mismatch</source>
+      <translation>Slapta&#x17E;od&#x17E;iai nesutampa</translation>
+    </message>
+    <message>
+      <source>Users</source>
+      <translation>Vartotojai</translation>
+    </message>
+    <message>
+      <source>Authentifion with google</source>
+      <translation>Authentifion su Google</translation>
+    </message>
+    <message>
+      <source>Profile settings</source>
+      <translation type="unfinished">Profilis Nustatymai</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/new</name>
+    <message>
+      <source>Assigned departments</source>
+      <translation>Priskirti departamentai</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Vardas</translation>
+    </message>
+    <message>
+      <source>Surname</source>
+      <translation>Pavard&#x117;</translation>
+    </message>
+    <message>
+      <source>Please enter name</source>
+      <translation>Pra&#x161;ome &#x12F;vesti vard&#x105;</translation>
+    </message>
+    <message>
+      <source>Please enter surname</source>
+      <translation>Pra&#x161;ome &#x12F;vesti pavard&#x119;</translation>
+    </message>
+    <message>
+      <source>New user</source>
+      <translation>Naujas vartotojas</translation>
+    </message>
+    <message>
+      <source>Login information</source>
+      <translation>Prisijungimo informacija</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Vartotojo vardas</translation>
+    </message>
+    <message>
+      <source>Password</source>
+      <translation>Slapta&#x17E;odis</translation>
+    </message>
+    <message>
+      <source>Repeat password</source>
+      <translation>Pakartokite slapta&#x17E;od&#x12F;</translation>
+    </message>
+    <message>
+      <source>Contact information</source>
+      <translation>Kontaktin&#x117; informacija</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>El. pa&#x161;tas</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Saugoti</translation>
+    </message>
+    <message>
+      <source>OR login with</source>
+      <translation>Arba prisijungimo su</translation>
+    </message>
+    <message>
+      <source>Login with google account</source>
+      <translation>Prisijunkite su &amp;quot;Google&amp;quot; s&#x105;skaitos</translation>
+    </message>
+    <message>
+      <source>Working</source>
+      <translation>Darbo</translation>
+    </message>
+    <message>
+      <source>Working...</source>
+      <translation>Dirbama ...</translation>
+    </message>
+    <message>
+      <source>Registration</source>
+      <translation>Registracija</translation>
+    </message>
+    <message>
+      <source>Safe code</source>
+      <translation>Saugos kodas</translation>
+    </message>
+    <message>
+      <source>Register</source>
+      <translation>Registruotis</translation>
+    </message>
+    <message>
+      <source>Sutch username is already taken!</source>
+      <translation>Toks vartotojo vardas jau u&#x17E;imtas!</translation>
+    </message>
+    <message>
+      <source>Please enter album name!</source>
+      <translation>&#x12E;veskite albumo pavadinim&#x105;!</translation>
+    </message>
+    <message>
+      <source>Please enter category name!</source>
+      <translation>&#x12E;veskite kategorijos pavadinim&#x105;!</translation>
+    </message>
+    <message>
+      <source>User exists</source>
+      <translation>Vartotojas egzistuoja</translation>
+    </message>
+    <message>
+      <source>Wrong email address</source>
+      <translation>Nekorekti&#x161;kas e-pa&#x161;to adresas</translation>
+    </message>
+    <message>
+      <source>Please enter username</source>
+      <translation>Pra&#x161;ome &#x12F;vesti vartotojo vard&#x105;</translation>
+    </message>
+    <message>
+      <source>Passwords mismatch</source>
+      <translation>Slapta&#x17E;od&#x17E;iai nesutampa</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Sistemos konfig&#x16B;racija</translation>
+    </message>
+    <message>
+      <source>Users</source>
+      <translation>Vartotojai</translation>
+    </message>
+    <message>
+      <source>Please enter group name</source>
+      <translation>&#x12E;veskite grup&#x117;s pavadinim&#x105;</translation>
+    </message>
+    <message>
+      <source>E-mail taken!</source>
+      <translation>E-mail u&#x17E;imtas!</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/account</name>
+    <message>
+      <source>Logout</source>
+      <translation>Atsijungti</translation>
+    </message>
+    <message>
+      <source>Account</source>
+      <translation>Paskyra</translation>
+    </message>
+    <message>
+      <source>Please enter name</source>
+      <translation>Pra&#x161;ome &#x12F;vesti vard&#x105;</translation>
+    </message>
+    <message>
+      <source>Please enter surname</source>
+      <translation>Pra&#x161;ome &#x12F;vesti pavard&#x119;</translation>
+    </message>
+    <message>
+      <source>Logged user</source>
+      <translation>Prisijung&#x119;s vartotojas</translation>
+    </message>
+    <message>
+      <source>Account updated</source>
+      <translation>Paskyros duomenys buvo atnaujinti</translation>
+    </message>
+    <message>
+      <source>Do not enter password unless you want to change it</source>
+      <translation>Neveskite slapta&#x17E;od&#x17E;io nebent norite j&#x12F; pakeisti</translation>
+    </message>
+    <message>
+      <source>Login information</source>
+      <translation>Prisijungimo informacija</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Vartotojo vardas</translation>
+    </message>
+    <message>
+      <source>Password</source>
+      <translation>Slapta&#x17E;odis</translation>
+    </message>
+    <message>
+      <source>Repeat password</source>
+      <translation>Pakartokite slapta&#x17E;od&#x12F;</translation>
+    </message>
+    <message>
+      <source>Contact information</source>
+      <translation>Kontaktin&#x117; informacija</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>El. pa&#x161;tas</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Atnaujinti</translation>
+    </message>
+    <message>
+      <source>Message send</source>
+      <translation>Prane&#x161;im&#x105; Si&#x173;sti</translation>
+    </message>
+    <message>
+      <source>Add google account</source>
+      <translation>Prid&#x117;ti google paskyr&#x105;</translation>
+    </message>
+    <message>
+      <source>Working</source>
+      <translation>Darbo</translation>
+    </message>
+    <message>
+      <source>Profile page settings</source>
+      <translation type="unfinished">Profilio puslapio parametrus</translation>
+    </message>
+    <message>
+      <source>Profile settings updated</source>
+      <translation type="unfinished">Profilis Nustatymai atnaujinti</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Vardas</translation>
+    </message>
+    <message>
+      <source>Surname</source>
+      <translation>Pavard&#x117;</translation>
+    </message>
+    <message>
+      <source>Website</source>
+      <translation type="unfinished">Interneto svetain&#x117;je</translation>
+    </message>
+    <message>
+      <source>Information about you</source>
+      <translation type="unfinished">Informacija apie jus</translation>
+    </message>
+    <message>
+      <source>Profile photo</source>
+      <translation type="unfinished">Profilio nuotrauka</translation>
+    </message>
+    <message>
+      <source>See how your profile looks to users</source>
+      <translation type="unfinished">Pamatyti, kaip j&#x16B;s&#x173; profilis atrodo vartotojams</translation>
+    </message>
+    <message>
+      <source>View profile</source>
+      <translation type="unfinished">&#x17D;i&#x16B;r&#x117;ti profil&#x12F;</translation>
+    </message>
+    <message>
+      <source>Wrong email address</source>
+      <translation>Nekorekti&#x161;kas e-pa&#x161;to adresas</translation>
+    </message>
+    <message>
+      <source>Passwords mismatch</source>
+      <translation>Slapta&#x17E;od&#x17E;iai nesutampa</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastrated</name>
+    <message>
+      <source>Last rated images</source>
+      <translation>Paskutiniai &#x12F;vertinti paveiksl&#x117;liai</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>N&#x117;ra &#x12F;ra&#x161;&#x173;.</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Rezoliucija</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Puslapis</translation>
+    </message>
+    <message>
+      <source>Recently rated images.</source>
+      <translation type="unfinished">Neseniai &#x12F;vertino vaizdus.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/popularrecect</name>
+    <message>
+      <source>Most popular images in 24 hours.</source>
+      <translation>Populiariausi paveiksl&#x117;liai per 24 valandas.</translation>
+    </message>
+    <message>
+      <source>There are no images.</source>
+      <translation>N&#x117;ra paveiksl&#x117;li&#x173;.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/ratedrecent</name>
+    <message>
+      <source>Top rated images in 24 hours.</source>
+      <translation>Geriausiai &#x12F;vertinti paveiksl&#x117;liai per 24 valandas.</translation>
+    </message>
+    <message>
+      <source>Top rated images in 24 hours</source>
+      <translation>Geriausiai &#x12F;vertinti paveiksl&#x117;liai per 24 valandas</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Puslapis</translation>
+    </message>
+    <message>
+      <source>Top rated images in last 24 hours.</source>
+      <translation type="unfinished">Geriausiai &#x12F;vertinti vaizdus per paskutines 24 valandas.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/albumrss</name>
+    <message>
+      <source>Last uploaded images to album</source>
+      <translation>Paskutin&#x117;s &#x12F;keltos nuotraukos &#x12F; album&#x105;</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>Per&#x17E;i&#x16B;r&#x117;ti paveiksl&#x117;l&#x12F;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastcommentedrss</name>
+    <message>
+      <source>Last commented images</source>
+      <translation>Paskutiniai komentuoti paveiksl&#x117;liai</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>Per&#x17E;i&#x16B;r&#x117;ti paveiksl&#x117;l&#x12F;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastratedrss</name>
+    <message>
+      <source>Last rated images</source>
+      <translation>Paskutiniai &#x12F;vertinti paveiksl&#x117;liai</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>Per&#x17E;i&#x16B;r&#x117;ti paveiksl&#x117;l&#x12F;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/popularrecent</name>
+    <message>
+      <source>Most popular images in 24 hours</source>
+      <translation>Populiariausios nuotraukos per 24 valandas</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Puslapis</translation>
+    </message>
+    <message>
+      <source>Most popular images in last 24 hours.</source>
+      <translation type="unfinished">Populiariausios nuotraukos per paskutines 24 valandas.</translation>
+    </message>
+  </context>
+  <context>
+    <name>core/paginator</name>
+    <message>
+      <source>Page</source>
+      <translation>Puslapis</translation>
+    </message>
+    <message>
+      <source>of</source>
+      <translation>i&#x161;</translation>
+    </message>
+    <message>
+      <source>Found</source>
+      <translation>Rasta</translation>
+    </message>
+    <message>
+      <source>Previous</source>
+      <translation>Ankstesnis</translation>
+    </message>
+    <message>
+      <source>Go to page</source>
+      <translation>Eiti &#x12F; puslap&#x12F;</translation>
+    </message>
+    <message>
+      <source>Next</source>
+      <translation>Kitas</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/admincategorys</name>
+    <message>
+      <source>Category</source>
+      <translation>Kategorija</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Pavadinimas</translation>
+    </message>
+    <message>
+      <source>Owner</source>
+      <translation>Savininkas</translation>
+    </message>
+    <message>
+      <source>Topics</source>
+      <translation>Temos</translation>
+    </message>
+    <message>
+      <source>Messages</source>
+      <translation>Prane&#x161;imus</translation>
+    </message>
+    <message>
+      <source>Edit category</source>
+      <translation>Redaguoti kategorijos</translation>
+    </message>
+    <message>
+      <source>Delete category</source>
+      <translation>I&#x161;trinti kategorij&#x105;</translation>
+    </message>
+    <message>
+      <source>Create a category</source>
+      <translation>Sukurti kategorij&#x105;</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>Namo</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/editcategory</name>
+    <message>
+      <source>Category edit</source>
+      <translation>Kategorija redaguoti</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Atnaujinti</translation>
+    </message>
+    <message>
+      <source>Please enter category name!</source>
+      <translation>&#x12E;veskite kategorijos pavadinim&#x105;!</translation>
+    </message>
+  </context>
+  <context>
+    <name>lhad/orderitemdetails/orderitemdetails_display_ad_magazine</name>
+    <message>
+      <source>Please enable JavaScript to upload image</source>
+      <translation>Pra&#x161;ome &#x12F;jungti JavaScript, kad &#x12F;kelti vaizdas</translation>
+    </message>
+  </context>
+  <context>
+    <name>lhad/uploadadorderitem_content</name>
+    <message>
+      <source>Cancel</source>
+      <translation>At&#x161;aukti</translation>
+    </message>
+    <message>
+      <source>Failed</source>
+      <translation>Nepavyko</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/ratebanlist</name>
+    <message>
+      <source>Baned IP for rating</source>
+      <translation>Baned TL, &#x12F;vertinimas</translation>
+    </message>
+    <message>
+      <source>Are you sure?</source>
+      <translation>Ar tikrai?</translation>
+    </message>
+    <message>
+      <source>Delete ip</source>
+      <translation>I&#x161;trinti IP</translation>
+    </message>
+    <message>
+      <source>New IP BAN</source>
+      <translation>Nauja IP BAN</translation>
+    </message>
+    <message>
+      <source>IP</source>
+      <translation>TL</translation>
+    </message>
+    <message>
+      <source>Add</source>
+      <translation>Papildyti</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Sistemos konfig&#x16B;racijos</translation>
+    </message>
+    <message>
+      <source>Comment ban IP</source>
+      <translation>Komentuoti draudimas TL</translation>
+    </message>
+    <message>
+      <source>Rate ban IP</source>
+      <translation>Norma draudimas IP</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/movealbumphotos</name>
+    <message>
+      <source>Search album</source>
+      <translation>Paie&#x161;ka albumas</translation>
+    </message>
+    <message>
+      <source>Move photos</source>
+      <translation>Perkelti nuotraukas</translation>
+    </message>
+    <message>
+      <source>We moved</source>
+      <translation>Mes persik&#x117;l&#x117;</translation>
+    </message>
+    <message>
+      <source>images</source>
+      <translation>vaizdai</translation>
+    </message>
+    <message>
+      <source>Move album photos</source>
+      <translation>Perkelti nuotrauk&#x173; albumo</translation>
+    </message>
+  </context>
+  <context>
+    <name>fb/album</name>
+    <message>
+      <source>Check photo to import</source>
+      <translation>Patikrinkite nuotrauka importo</translation>
+    </message>
+    <message>
+      <source>Import selected images to</source>
+      <translation>Importuoti pasirinktus vaizdus</translation>
+    </message>
+    <message>
+      <source>To what album you want to import images, start typing album name and click search</source>
+      <translation>&#x12E; kok&#x12F; album&#x105;, kur&#x12F; norite importuoti vaizdus, &#x200B;&#x200B;prad&#x117;kite ra&#x161;yti albumo pavadinim&#x105; ir spustel&#x117;kite &amp;quot;Ie&#x161;koti&amp;quot;</translation>
+    </message>
+    <message>
+      <source>Search for album</source>
+      <translation>Ie&#x161;koti albumui</translation>
+    </message>
+    <message>
+      <source>Check all</source>
+      <translation>Pa&#x17E;ym&#x117;ti visk&#x105;</translation>
+    </message>
+    <message>
+      <source>Click to see target, new window will open</source>
+      <translation>Spustel&#x117;kite &#x17D;r. Tiksl&#x105;, atsidarys naujas langas</translation>
+    </message>
+    <message>
+      <source>Import selected images</source>
+      <translation>Importuoti pasirinktus vaizdus</translation>
+    </message>
+    <message>
+      <source>Please choose atleast one image!</source>
+      <translation>Pra&#x161;ome pasirinkti ma&#x17E;iausiai vien&#x105; vaizd&#x105;!</translation>
+    </message>
+    <message>
+      <source>images to import</source>
+      <translation>vaizdus, &#x200B;&#x200B;importo</translation>
+    </message>
+    <message>
+      <source>All images were imported</source>
+      <translation>Visos nuotraukos buvo importuoti</translation>
+    </message>
+    <message>
+      <source>Please choose album</source>
+      <translation>Pra&#x161;ome pasirinkti albumas</translation>
+    </message>
+    <message>
+      <source>Preview version</source>
+      <translation>Per&#x17E;i&#x16B;ros versija</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastsearches</name>
+    <message>
+      <source>Last searches</source>
+      <translation>Paskutin&#x117;s paie&#x161;kos</translation>
+    </message>
+    <message>
+      <source>No records</source>
+      <translation>N&#x117;ra &#x12F;ra&#x161;&#x173;</translation>
+    </message>
+  </context>
+  <context>
+    <name>similar/similar</name>
+    <message>
+      <source>Visualy similar images to</source>
+      <translation>Visualy pana&#x161;i&#x173; vaizd&#x173;</translation>
+    </message>
+    <message>
+      <source>Search for visualy similar images</source>
+      <translation>Ie&#x161;koti visualy pana&#x161;ius vaizdus</translation>
+    </message>
+    <message>
+      <source>Please enable JavaScript to upload image</source>
+      <translation>Pra&#x161;ome &#x12F;jungti JavaScript, kad &#x12F;kelti vaizdas</translation>
+    </message>
+    <message>
+      <source>Click to choose image, you can also Drag and Drop file here (Drag and drop only for FF, Chrome).</source>
+      <translation>Spustel&#x117;kite, jei norite pasirinkti atvaizd&#x105;, galite taip pat Vilkite ir upu&#x15B;&#x107; fail&#x105; &#x10D;ia (Vilkite ir upu&#x15B;&#x107; tik FF, Chrome).</translation>
+    </message>
+    <message>
+      <source>Cancel</source>
+      <translation>At&#x161;aukti</translation>
+    </message>
+    <message>
+      <source>Failed</source>
+      <translation>Nepavyko</translation>
+    </message>
+  </context>
+  <context>
+    <name>similar/sketch</name>
+    <message>
+      <source>Search by sketch</source>
+      <translation>Ie&#x161;koti pagal eskizas</translation>
+    </message>
+    <message>
+      <source>Sketch and find images by your sketch</source>
+      <translation>Eskizas ir rasti vaizdus savo eskizas</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/mapaccounts</name>
+    <message>
+      <source>Login with facebook</source>
+      <translation>&#x12E;&#x117;jimas facebooke</translation>
+    </message>
+    <message>
+      <source>Map to my account</source>
+      <translation>&#x17D;em&#x117;lapis &#x12F; mano s&#x105;skait&#x105;</translation>
+    </message>
+    <message>
+      <source>my account</source>
+      <translation>Mano s&#x105;skaita</translation>
+    </message>
+    <message>
+      <source>Login</source>
+      <translation>&#x12E;&#x117;jimas</translation>
+    </message>
+    <message>
+      <source>map to my account</source>
+      <translation>Mano s&#x105;skaita &#x17E;em&#x117;lap&#x12F;</translation>
+    </message>
+    <message>
+      <source>Incorrect login or password</source>
+      <translation>Neteisingas prisijungimo vard&#x105; arba slapta&#x17E;od&#x12F;</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Nick</translation>
+    </message>
+    <message>
+      <source>Password</source>
+      <translation>Slapta&#x17E;odis</translation>
+    </message>
+    <message>
+      <source>OR</source>
+      <translation>ARBA</translation>
+    </message>
+    <message>
+      <source>create account</source>
+      <translation>sukurti paskyr&#x105;</translation>
+    </message>
+    <message>
+      <source>Next</source>
+      <translation>Kitas</translation>
+    </message>
+    <message>
+      <source>Open ID</source>
+      <translation>Atidaryti ID</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/category</name>
+    <message>
+      <source>Please enter topic name!</source>
+      <translation>&#x12E;veskite temos pavadinim&#x105;!</translation>
+    </message>
+    <message>
+      <source>Please enter message!</source>
+      <translation>Ra&#x161;ykite &#x17E;inut&#x119;!</translation>
+    </message>
+    <message>
+      <source>Please choose category!</source>
+      <translation>Pra&#x161;ome pasirinkti kategorij&#x105;!</translation>
+    </message>
+    <message>
+      <source>Not parent category!</source>
+      <translation>Ne pana&#x161;ios kategorijos!</translation>
+    </message>
+    <message>
+      <source>Invalid category!</source>
+      <translation>Neteisingas kategorijos!</translation>
+    </message>
+    <message>
+      <source>Forum</source>
+      <translation>Forumas</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/createcategory</name>
+    <message>
+      <source>Please enter category name!</source>
+      <translation>&#x12E;veskite kategorijos pavadinim&#x105;!</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>Namo</translation>
+    </message>
+  </context>
+  <context>
+    <name>word/dictionary</name>
+    <message>
+      <source>language dictionary</source>
+      <translation>kalbos žodynas</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>Namo</translation>
+    </message>
+    <message>
+      <source>Enter word</source>
+      <translation>Įveskite žodį</translation>
+    </message>
+    <message>
+      <source>Search</source>
+      <translation>Ieškoti</translation>
+    </message>
+  </context>
+  <context>
+    <name>word/info</name>
+    <message>
+      <source>word information</source>
+      <translation>žodžio informacija</translation>
+    </message>
+    <message>
+      <source>No synonyms were found.</source>
+      <translation>Sinonimų nerasta</translation>
+    </message>
+    <message>
+      <source>Enter synonym</source>
+      <translation>Įveskite sinonimą</translation>
+    </message>
+    <message>
+      <source>Add synonym</source>
+      <translation>Pridėti sinonimą</translation>
+    </message>
+    <message>
+      <source>Word was not found</source>
+      <translation>Žodis nerastas</translation>
+    </message>
+    <message>
+      <source>Please enter word</source>
+      <translation>Prašome įvesti žodį</translation>
+    </message>
+    <message>
+      <source>Add as synonymous</source>
+      <translation>Pridėti kaip sininimą</translation>
+    </message>
+    <message>
+      <source>Synonym was assigned</source>
+      <translation>Sinonimas buvo išsaugotas</translation>
+    </message>
+    <message>
+      <source>This synonym is already assigned</source>
+      <translation>Šis sinonimas jau yra priskirtas</translation>
+    </message>
+    <message>
+      <source>User word</source>
+      <translation>Vartotojo žodis</translation>
+    </message>
+    <message>
+      <source>No. (dictionary word)</source>
+      <translation>Ne. (žodyno žodis)</translation>
+    </message>
+    <message>
+      <source>Most popular words</source>
+      <translation>Populiariausi žodžiai</translation>
+    </message>
+    <message>
+      <source>Statistic</source>
+      <translation>Statistika</translation>
+    </message>
+    <message>
+      <source>Word not found</source>
+      <translation>Žodis nerastas</translation>
+    </message>
+    <message>
+      <source>Click to see basic word info</source>
+      <translation>Paspauskite norėdami pamatyti bazinę žodžio informaciją</translation>
+    </message>
+    <message>
+      <source>Plain content</source>
+      <translation>Turinys</translation>
+    </message>
+    <message>
+      <source>Paste text you want to analyze</source>
+      <translation>Įterpkite tekstą, kurį norite analizuoti</translation>
+    </message>
+    <message>
+      <source>Visual use case graph</source>
+      <translation>Vizualus panaudojimo grafikas</translation>
+    </message>
+    <message>
+      <source>word forms</source>
+      <translation>žodžio formos</translation>
+    </message>
+    <message>
+      <source>use cases</source>
+      <translation>panaudojimo atvejai</translation>
+    </message>
+    <message>
+      <source>sentence examples</source>
+      <translation>sakinių pavyzdžiai</translation>
+    </message>
+    <message>
+      <source>three words combinations</source>
+      <translation>trijų žodžių kombinacijos</translation>
+    </message>
+    <message>
+      <source>Top 100 use cases</source>
+      <translation>Top 100 panaudojimo atvejų</translation>
+    </message>
+    <message>
+      <source>All word forms</source>
+      <translation>Visos žodžio formos</translation>
+    </message>
+    <message>
+      <source>word-forms</source>
+      <translation>zodzio-formos</translation>
+    </message>
+    <message>
+      <source>Graph</source>
+      <translation>Grafikas</translation>
+    </message>
+    <message>
+      <source>use-cases</source>
+      <translation>panaudojimo-atvejai</translation>
+    </message>
+    <message>
+      <source>three-words-combinations</source>
+      <translation>triju-zodziu-kombinacijos</translation>
+    </message>
+    <message>
+      <source>sentence-examples</source>
+      <translation>sakiniu-pavyzdziai</translation>
+    </message>
+    <message>
+      <source>Sentence examples</source>
+      <translation>Sakinių pavyzdžiai</translation>
+    </message>
+    <message>
+      <source>Three words combinations</source>
+      <translation>Trijų žodžių kombinacijos</translation>
+    </message>
+    <message>
+      <source>can be form of</source>
+      <translation>gali būti forma</translation>
+    </message>
+    <message>
+      <source>Main information</source>
+      <translation>Pagrindinė informacija</translation>
+    </message> 
+    <message>
+      <source>Word forms</source>
+      <translation>Žodžio formos</translation>
+    </message>
+    <message>
+      <source>Synonyms</source>
+      <translation>Sinonimai</translation>
+    </message>  
+    <message>
+      <source>Antonyms</source>
+      <translation>Antonimai</translation>
+    </message>
+    <message>
+      <source>synonyms</source>
+      <translation>sinonimai</translation>
+    </message>  
+    <message>
+      <source>antonyms</source>
+      <translation>antonimai</translation>
+    </message>   
+    <message>
+      <source>Use cases</source>
+      <translation>Panaudojimo atvejai</translation>
+    </message>   
+    <message>
+      <source>Word</source>
+      <translation>Žodis</translation>
+    </message>  
+    <message>
+      <source>Yes</source>
+      <translation>Taip</translation>
+    </message> 
+    <message>
+      <source>No</source>
+      <translation>Ne</translation>
+    </message>  
+    <message>
+      <source>Language</source>
+      <translation>Kalba</translation>
+    </message>  
+    <message>
+      <source>Main form</source>
+      <translation>Pagrindinė forma</translation>
+    </message>  
+    <message>
+      <source>Noun</source>
+      <translation>Daiktavardis</translation>
+    </message> 
+    <message>
+      <source>Adverb</source>
+      <translation>Prieveiksmis</translation>
+    </message>
+    <message>
+      <source>Numeral</source>
+      <translation>Skaitvardis</translation>
+    </message>
+    <message>
+      <source>Unknown</source>
+      <translation>Nežinomas</translation>
+    </message>
+    <message>
+      <source>Conjunction</source>
+      <translation>Jungtukas</translation>
+    </message>
+    <message>
+      <source>Pronoun</source>
+      <translation>Įvardis</translation>
+    </message>
+    <message>
+      <source>Particle</source>
+      <translation>Dalelytė</translation>
+    </message>
+    <message>
+      <source>Preposition</source>
+      <translation>Prielinksnis</translation>
+    </message>
+    <message>
+      <source>Total words</source>
+      <translation>Viso žodžių</translation>
+    </message>
+    <message>
+      <source>Part of speech</source>
+      <translation>Kalbos dalis</translation>
+    </message>
+    <message>
+      <source>Found times</source>
+      <translation>Rasta kartų</translation>
+    </message>
+    <message>
+      <source>Analyze</source>
+      <translation>Analizuoti</translation>
+    </message>
+    <message>
+      <source>We will detect language automaticaly.</source>
+      <translation>Mes atpažinsine kalbą automatiškai.</translation>
+    </message>
+    <message>
+      <source>Page language</source>
+      <translation>Puslapio kalba</translation>
+    </message>
+    <message>
+      <source>Enter URL you want to analyze</source>
+      <translation>Įveskite URL, kurį norite analizuoti</translation>
+    </message>
+    <message>
+      <source>Show statistic</source>
+      <translation>Rodyti statistiką</translation>
+    </message>
+    <message>
+      <source>Identified words</source>
+      <translation>Atapažinta žodžių</translation>
+    </message>
+    <message>
+      <source>Extracted sentences</source>
+      <translation>Rasti sakiniai</translation>
+    </message>
+    <message>
+      <source>Download plain text</source>
+      <translation>Parsisiųsti paprastu tekstu</translation>
+    </message>
+    <message>
+      <source>Download data in JSON</source>
+      <translation>Parsisiųsti JSON formatu</translation>
+    </message>
+    <message>
+      <source>Page analyzer</source>
+      <translation>Puslapio analizatorius</translation>
+    </message>
+    <message>
+      <source>Please be patient while statistic will be gathered</source>
+      <translation>Būkite kantrūs kol puslapio statistika bus surinkta</translation>
+    </message>
+    <message>
+      <source>Verb</source>
+      <translation>Veiksmažodis</translation>
+    </message> 
+    <message>
+      <source>Adjective</source>
+      <translation>Būdvardis</translation>
+    </message> 
+    <message>
+      <source>Part of speech</source>
+      <translation>Kalbos dalis</translation>
+    </message>
+    <message>
+      <source>Declension</source>
+      <translation>Linksniavimas</translation>
+    </message>
+    <message>
+      <source>Singular</source>
+      <translation>Vienaskaita</translation>
+    </message> 
+    <message>
+      <source>Plural</source>
+      <translation>Daugiskaita</translation>
+    </message>   
+  </context>
+  <context>
+    <name>forum/editmessage</name>
+    <message>
+      <source>Please enter message!</source>
+      <translation>Ra&#x161;ykite &#x17E;inut&#x119;!</translation>
+    </message>
+    <message>
+      <source>Forum</source>
+      <translation>Forumas</translation>
+    </message>
+    <message>
+      <source>Message edit</source>
+      <translation>Prane&#x161;imas redaguoti</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/edittopic</name>
+    <message>
+      <source>Please enter topic name!</source>
+      <translation>&#x12E;veskite temos pavadinim&#x105;!</translation>
+    </message>
+    <message>
+      <source>Please enter topic status!</source>
+      <translation>&#x12E;veskite tem&#x105; status&#x105;!</translation>
+    </message>
+    <message>
+      <source>Forum</source>
+      <translation>Forumas</translation>
+    </message>
+    <message>
+      <source>Topic edit</source>
+      <translation>Tema redaguoti</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/report</name>
+    <message>
+      <source>Please enter message!</source>
+      <translation>Ra&#x161;ykite &#x17E;inut&#x119;!</translation>
+    </message>
+    <message>
+      <source>Forum message report</source>
+      <translation>&#x17D;inut&#x117; ataskaita</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/searchrss</name>
+    <message>
+      <source>Search</source>
+      <translation>Paie&#x161;ka</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/albumeditadmin</name>
+    <message>
+      <source>Root category</source>
+      <translation>&#x160;aknis kategorijos</translation>
+    </message>
+    <message>
+      <source>Add images</source>
+      <translation>Prid&#x117;ti vaizdus</translation>
+    </message>
+    <message>
+      <source>Album edit</source>
+      <translation>Albumas redaguoti</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/movebyresolution</name>
+    <message>
+      <source>Move by resolution</source>
+      <translation>Perkelti nutarimu</translation>
+    </message>
+  </context>
+  <context>
+    <name>similar/image</name>
+    <message>
+      <source>Similar images to</source>
+      <translation>Kadrus</translation>
+    </message>
+    <message>
+      <source>Search for visualy similar images</source>
+      <translation>Ie&#x161;koti visualy pana&#x161;ius vaizdus</translation>
+    </message>
+  </context>
+  <context>
+    <name>word/add_word</name>
+    <message>
+      <source>Add word to dictionary</source>
+      <translation>Naujas žodyno žodis</translation>
+    </message>
+    <message>
+      <source>Word explain</source>
+      <translation>Žodžio paaiškinimas</translation>
+    </message>
+    <message>
+      <source>Word must contain only letters</source>
+      <translation>Žodis turi būti sudarytas tik iš raidžių</translation>
+    </message>
+    <message>
+      <source>Please enter word</source>
+      <translation>Prašome įvesti žodį</translation>
+    </message>
+    <message>
+      <source>This word is already in dictionary</source>
+      <translation>Šis žodis jau yra žodyne</translation>
+    </message>
+    <message>
+      <source>Please choose dictionary</source>
+      <translation>Prašome pasirinkti žodyną</translation>
+    </message>
+    <message>
+      <source>Please enter captcha</source>
+      <translation>Prašome įvesti saugos kodą</translation>
+    </message>
+    <message>
+      <source>Word was saved</source>
+      <translation>Žodis buvo išsaugotas</translation>
+    </message>
+    <message>
+      <source>New dictionary word</source>
+      <translation>Naujas žodyno žodis</translation>
+    </message>
+    <message>
+      <source>Word</source>
+      <translation>Žodis</translation>
+    </message>
+    <message>
+      <source>Dictionary</source>
+      <translation>Žodynas</translation>
+    </message>
+    <message>
+      <source>Choose dictionary</source>
+      <translation>Pasirinkite žodyną</translation>
+    </message>
+    <message>
+      <source>Save word</source>
+      <translation>Saugoti žodį</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/profile</name>
+    <message>
+      <source>User profile</source>
+      <translation type="unfinished">Vartotojo profilis</translation>
+    </message>
+    <message>
+      <source>Name and surname</source>
+      <translation type="unfinished">Vardas ir pavard&#x117;</translation>
+    </message>
+    <message>
+      <source>Website</source>
+      <translation type="unfinished">Interneto svetain&#x117;je</translation>
+    </message>
+    <message>
+      <source>Introduction</source>
+      <translation type="unfinished">&#x12E;vadas</translation>
+    </message>
+    <message>
+      <source>Last updated albums</source>
+      <translation type="unfinished">Atnaujinti albumai</translation>
+    </message>
+    <message>
+      <source>Last uploaded images</source>
+      <translation type="unfinished">Paskutiniai &#x12F;keltas nuotraukas</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastuploadstoalbums</name>
+    <message>
+      <source>Last uploads to albums</source>
+      <translation type="unfinished">Naujausi &#x12F; albumus</translation>
+    </message>
+    <message>
+      <source>Recently updated albums</source>
+      <translation type="unfinished">Neseniai atnaujinta albumus</translation>
+    </message>
+  </context>
+  <context>
+    <name>word/advanced_search</name>
+    <message>
+      <source>advanced dictionary search</source>
+      <translation>detali žodyno paieška</translation>
+    </message>
+    <message>
+      <source>Add</source>
+      <translation>Pridėti</translation>
+    </message>
+    <message>
+      <source>to dictionary</source>
+      <translation>į žodyną</translation>
+    </message>
+    <message>
+      <source>All dictionaries</source>
+      <translation>Visi žodynai</translation>
+    </message>
+    <message>
+      <source>Advanced dictionary search</source>
+      <translation>Detali žodyno paieška</translation>
+    </message>
+    <message>
+      <source>Advanced</source>
+      <translation>Detali</translation>
+    </message>
+    <message>
+      <source>language dictionary search</source>
+      <translation>kalbos žodyno paieška</translation>
+    </message>
+    <message>
+      <source>Star means any character. e.g. ho*se will match any word like ho[r]se, ho[u]se. Two stars in a row will match any two letters in a row etc. There can be multiple stars in different word places e.g. h*u*e.</source>
+      <translation>Žvaigžė reiškia bet kurį ženklą. pvz. arkl*s suras arkl[a]s, arkl[y]s. Dvi žvaigždutės iš eilės reikš du bet kokius ženklus iš eilės. Žvaigždutės gali būti kelios ir skirtingose vietose pvz. a*kl*s.</translation>
+    </message>
+    <message>
+      <source>We have</source>
+      <translation>Mes turime</translation>
+    </message>
+    <message>
+      <source>words in</source>
+      <translation>žodžių</translation>
+    </message>
+    <message>
+      <source>dictionary</source>
+      <translation>Žodyne</translation>
+    </message>
+    <message>
+      <source>This tool is very helpful who likes to solve crosswords. Just replace unknown letters with stars and get suggested words.</source>
+      <translation>Šis įrankis gali būti naudingas tiems kas mėgsta spręsti kryžiažodius. Tiesiog pakeiskite nežinomas raides žvaigždutėmis.</translation>
+    </message>
+    <message>
+      <source>Please choose dictionary</source>
+      <translation>Prašome pasirinkti žodyną</translation>
+    </message>
+    <message>
+      <source>Enter word e.g ho*se</source>
+      <translation>Įveskite žodį. pvz. arkl*s</translation>
+    </message>
+  </context>
+</TS>

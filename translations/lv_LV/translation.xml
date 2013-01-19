@@ -1,0 +1,4280 @@
+<?xml version="1.0"?>
+<!DOCTYPE TS>
+<TS>
+  <context>
+    <name>article/editstatic</name>
+    <message>
+      <source>Article name</source>
+      <translation>Panta nosaukums</translation>
+    </message>
+    <message>
+      <source>Body</source>
+      <translation>Body</translation>
+    </message>
+    <message>
+      <source>Article edit</source>
+      <translation>Pants redi&#x123;&#x113;t</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+  </context>
+  <context>
+    <name>article/newstatic</name>
+    <message>
+      <source>New article</source>
+      <translation>Jauns raksts</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Saglab&#x101;t</translation>
+    </message>
+  </context>
+  <context>
+    <name>article/staticlist</name>
+    <message>
+      <source>Static articles</source>
+      <translation>Static raksti</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>V&#x101;rds</translation>
+    </message>
+    <message>
+      <source>Edit</source>
+      <translation>Redi&#x123;&#x113;t</translation>
+    </message>
+    <message>
+      <source>New article</source>
+      <translation>Jauns raksts</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/admincategorys</name>
+    <message>
+      <source>Category</source>
+      <translation>Kategorija</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Nosaukums</translation>
+    </message>
+    <message>
+      <source>Owner</source>
+      <translation>&#x12A;pa&#x161;nieks</translation>
+    </message>
+    <message>
+      <source>Topics</source>
+      <translation>T&#x113;mas</translation>
+    </message>
+    <message>
+      <source>Messages</source>
+      <translation>Zi&#x146;as</translation>
+    </message>
+    <message>
+      <source>Edit category</source>
+      <translation>Redi&#x123;&#x113;t kategorijas</translation>
+    </message>
+    <message>
+      <source>Delete category</source>
+      <translation>Izdz&#x113;st kategoriju</translation>
+    </message>
+    <message>
+      <source>Create a category</source>
+      <translation>Izveidot kategorijas</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>S&#x101;kums</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/album</name>
+    <message>
+      <source>No records</source>
+      <translation>Nav ierakstu</translation>
+    </message>
+    <message>
+      <source>Search by color and keyword, just try to see how fun it is!</source>
+      <translation>Mekl&#x113;t p&#x113;c kr&#x101;sas un atsl&#x113;gv&#x101;rdu, tikai m&#x113;&#x123;in&#x101;t redz&#x113;t, cik jautri tas ir!</translation>
+    </message>
+    <message>
+      <source>Enter keyword or phrase</source>
+      <translation>Ievadiet atsl&#x113;gv&#x101;rdu vai fr&#x101;zi</translation>
+    </message>
+    <message>
+      <source>Search entire gallery</source>
+      <translation>Mekl&#x113;t visu galeriju</translation>
+    </message>
+    <message>
+      <source>Search</source>
+      <translation>Mekl&#x113;&#x161;ana</translation>
+    </message>
+    <message>
+      <source>enter keyword and click color, or just click color</source>
+      <translation>ievadiet atsl&#x113;gv&#x101;rdu un noklik&#x161;&#x137;iniet uz kr&#x101;su, vai vienk&#x101;r&#x161;i noklik&#x161;&#x137;iniet uz kr&#x101;sas</translation>
+    </message>
+    <message>
+      <source>Include color</source>
+      <translation>Ietver kr&#x101;su</translation>
+    </message>
+    <message>
+      <source>Exclude color</source>
+      <translation>Izsl&#x113;gt kr&#x101;sa</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Page</translation>
+    </message>
+    <message>
+      <source>Last uploaded last</source>
+      <translation>Jaun&#x101;kie att&#x113;li p&#x113;d&#x113;jo</translation>
+    </message>
+    <message>
+      <source>Most popular first</source>
+      <translation>Popul&#x101;r&#x101;k&#x101;s first</translation>
+    </message>
+    <message>
+      <source>Most popular last</source>
+      <translation>Popul&#x101;r&#x101;k&#x101;s p&#x113;d&#x113;jo</translation>
+    </message>
+    <message>
+      <source>Last hits first</source>
+      <translation>P&#x113;d&#x113;jais hits first</translation>
+    </message>
+    <message>
+      <source>Last hits last</source>
+      <translation>P&#x113;d&#x113;jais hits p&#x113;d&#x113;jo</translation>
+    </message>
+    <message>
+      <source>Last commented first</source>
+      <translation>P&#x113;d&#x113;j&#x101;s koment&#x113;t&#x101;s first</translation>
+    </message>
+    <message>
+      <source>Last commented last</source>
+      <translation>P&#x113;d&#x113;j&#x101;s koment&#x113;t&#x101;s p&#x113;d&#x113;jo</translation>
+    </message>
+    <message>
+      <source>Last rated first</source>
+      <translation>P&#x113;d&#x113;jo reizi nov&#x113;rt&#x113;ja first</translation>
+    </message>
+    <message>
+      <source>Last rated last</source>
+      <translation>P&#x113;d&#x113;jo reizi nov&#x113;rt&#x113;ja p&#x113;d&#x113;jo</translation>
+    </message>
+    <message>
+      <source>Top rated first</source>
+      <translation>Visaugst&#x101;k nov&#x113;rt&#x113;t&#x101;s first</translation>
+    </message>
+    <message>
+      <source>Top rated last Last</source>
+      <translation>Visaugst&#x101;k nov&#x113;rt&#x113;t&#x101;s izdar&#x12B;tas p&#x113;d&#x113;j&#x101;s</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Rezol&#x16B;cija</translation>
+    </message>
+    <message>
+      <source>Last uploaded images to album</source>
+      <translation>P&#x113;d&#x113;jo aug&#x161;upiel&#x101;d&#x113;to att&#x113;lu albumam</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/createcategory</name>
+    <message>
+      <source>New category</source>
+      <translation>Jauna kategorija</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Saglab&#x101;t</translation>
+    </message>
+    <message>
+      <source>back</source>
+      <translation>atpaka&#x13C;</translation>
+    </message>
+    <message>
+      <source>Please enter message!</source>
+      <translation>L&#x16B;dzu, ievadiet zi&#x146;u!</translation>
+    </message>
+    <message>
+      <source>Please enter category name!</source>
+      <translation>L&#x16B;dzu, ievadiet kategorijas nosaukumu!</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>S&#x101;kums</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/editcategory</name>
+    <message>
+      <source>Category edit</source>
+      <translation>Kategorija redi&#x123;&#x113;t</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+    <message>
+      <source>Please enter category name!</source>
+      <translation>L&#x16B;dzu, ievadiet kategorijas nosaukumu!</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/editcategory</name>
+    <message>
+      <source>back</source>
+      <translation>atpaka&#x13C;</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>V&#x101;rds</translation>
+    </message>
+    <message>
+      <source>Description</source>
+      <translation>Apraksts</translation>
+    </message>
+    <message>
+      <source>Owner</source>
+      <translation>&#x12A;pa&#x161;nieks</translation>
+    </message>
+    <message>
+      <source>Category edit</source>
+      <translation>Kategorija redi&#x123;&#x113;t</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+    <message>
+      <source>Hide subcategorys in frontpage</source>
+      <translation>Hide subcategorys in frontpage</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/albumedit</name>
+    <message>
+      <source>Edit topic</source>
+      <translation>Labot t&#x113;mu</translation>
+    </message>
+    <message>
+      <source>Topic name</source>
+      <translation>T&#x113;mas nosaukums</translation>
+    </message>
+    <message>
+      <source>Topic status</source>
+      <translation>T&#x113;ma status</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+    <message>
+      <source>Album edit</source>
+      <translation>Album redi&#x123;&#x113;t</translation>
+    </message>
+    <message>
+      <source>Album name</source>
+      <translation>Albuma nosaukums</translation>
+    </message>
+    <message>
+      <source>Album category</source>
+      <translation>Album kategorij&#x101;</translation>
+    </message>
+    <message>
+      <source>Album owner</source>
+      <translation>Albuma &#x12B;pa&#x161;nieks</translation>
+    </message>
+    <message>
+      <source>Description</source>
+      <translation>Apraksts</translation>
+    </message>
+    <message>
+      <source>Keywords</source>
+      <translation>Atsl&#x113;gas v&#x101;rdi</translation>
+    </message>
+    <message>
+      <source>Public</source>
+      <translation>Valsts</translation>
+    </message>
+    <message>
+      <source>All users can uploads images to this album</source>
+      <translation>Visi lietot&#x101;ji var iel&#x101;d&#x113;tos att&#x113;lus &#x161;im albumam</translation>
+    </message>
+    <message>
+      <source>Hidden</source>
+      <translation>Sl&#x113;pts</translation>
+    </message>
+    <message>
+      <source>Hide album from users</source>
+      <translation>Hide albumu lietot&#x101;jiem</translation>
+    </message>
+    <message>
+      <source>Album thumbnail</source>
+      <translation>Album s&#x12B;kt&#x113;lu</translation>
+    </message>
+    <message>
+      <source>Newest album image</source>
+      <translation>Jaun&#x101;k&#x101; albuma att&#x113;lu</translation>
+    </message>
+    <message>
+      <source>Revert to newest album image display mode</source>
+      <translation>Atgriezties pie jaun&#x101;k&#x101; albuma att&#x113;lu displeja re&#x17E;&#x12B;mu</translation>
+    </message>
+    <message>
+      <source>Remove</source>
+      <translation>No&#x146;emt</translation>
+    </message>
+    <message>
+      <source>Edit message</source>
+      <translation>Redi&#x123;&#x113;t zi&#x146;u</translation>
+    </message>
+    <message>
+      <source>Message</source>
+      <translation>Zi&#x146;a</translation>
+    </message>
+    <message>
+      <source>File</source>
+      <translation>Fails</translation>
+    </message>
+    <message>
+      <source>New message</source>
+      <translation>Jauna zi&#x146;a</translation>
+    </message>
+    <message>
+      <source>Publish</source>
+      <translation>Public&#x113;t</translation>
+    </message>
+    <message>
+      <source>New topic</source>
+      <translation>Jauna t&#x113;ma</translation>
+    </message>
+    <message>
+      <source>Choose topic category</source>
+      <translation>Izv&#x113;lieties t&#x113;mu kategoriju</translation>
+    </message>
+    <message>
+      <source>Please enter album name!</source>
+      <translation>L&#x16B;dzu, ievadiet albuma nosaukumu!</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/album_list_admin</name>
+    <message>
+      <source>Are you sure?</source>
+      <translation>Vai esat p&#x101;rliecin&#x101;ts?</translation>
+    </message>
+    <message>
+      <source>Add images</source>
+      <translation>Pievieno att&#x113;lus</translation>
+    </message>
+    <message>
+      <source>Edit album</source>
+      <translation>Redi&#x123;&#x113;t albumu</translation>
+    </message>
+    <message>
+      <source>Move all album photos to another album</source>
+      <translation>P&#x101;rvietot visas albuma fotogr&#x101;fij&#x101;m uz citu albumu</translation>
+    </message>
+    <message>
+      <source>Move photos by resolution</source>
+      <translation>P&#x101;rvietot fotogr&#x101;fijas ar rezol&#x16B;ciju</translation>
+    </message>
+    <message>
+      <source>Delete album</source>
+      <translation>Dz&#x113;st albumu</translation>
+    </message>
+    <message>
+      <source>Approve all images</source>
+      <translation>Apstiprina visus att&#x113;lus</translation>
+    </message>
+    <message>
+      <source>Disapprove all images</source>
+      <translation>Nepiekrist visus att&#x113;lus</translation>
+    </message>
+    <message>
+      <source>View on site</source>
+      <translation>Skats uz vietas</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/userlist</name>
+    <message>
+      <source>Report list</source>
+      <translation>Zi&#x146;ojums saraksts</translation>
+    </message>
+    <message>
+      <source>Report</source>
+      <translation>Zi&#x146;ojums</translation>
+    </message>
+    <message>
+      <source>Topic</source>
+      <translation>Temats</translation>
+    </message>
+    <message>
+      <source>Topic message</source>
+      <translation>T&#x113;ma zi&#x146;ojumu</translation>
+    </message>
+    <message>
+      <source>Date</source>
+      <translation>Datums</translation>
+    </message>
+    <message>
+      <source>Edit topic</source>
+      <translation>Labot t&#x113;mu</translation>
+    </message>
+    <message>
+      <source>Delete topic</source>
+      <translation>Izdz&#x113;st t&#x113;mu</translation>
+    </message>
+    <message>
+      <source>IP</source>
+      <translation>IP</translation>
+    </message>
+    <message>
+      <source>Users</source>
+      <translation>Lietot&#x101;ji</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Lietot&#x101;ja v&#x101;rds</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-pasts</translation>
+    </message>
+    <message>
+      <source>Edit user</source>
+      <translation>Labot lietot&#x101;ju</translation>
+    </message>
+    <message>
+      <source>Delete user</source>
+      <translation>Dz&#x113;st lietot&#x101;ju</translation>
+    </message>
+    <message>
+      <source>New user</source>
+      <translation>Jauns lietot&#x101;js</translation>
+    </message>
+    <message>
+      <source>Replace image</source>
+      <translation>Aizst&#x101;t att&#x113;lu</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Sist&#x113;mas konfigur&#x101;cija</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/subcategory_list</name>
+    <message>
+      <source>images</source>
+      <translation>att&#x113;lu</translation>
+    </message>
+    <message>
+      <source>albums</source>
+      <translation>albums</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/addimages</name>
+    <message>
+      <source>Add images to album</source>
+      <translation>Pievienot att&#x113;lu albumam</translation>
+    </message>
+    <message>
+      <source>Move album images to another album</source>
+      <translation>P&#x101;rvietot albumu att&#x113;lus uz citu albumu</translation>
+    </message>
+    <message>
+      <source>Move image to another album</source>
+      <translation>P&#x101;rvietot att&#x113;lu uz citu albumu</translation>
+    </message>
+  </context>
+  <context>
+    <name>lhad/orderitemdetails/orderitemdetails_display_ad_magazine</name>
+    <message>
+      <source>Please enable JavaScript to upload image</source>
+      <translation>L&#x16B;dzu, iesp&#x113;jojiet JavaScript, lai aug&#x161;upiel&#x101;d&#x113;t att&#x113;lu</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/publicupload</name>
+    <message>
+      <source>Upload</source>
+      <translation>Upload</translation>
+    </message>
+    <message>
+      <source>Click to choose images to upload, you can also drop files here.</source>
+      <translation>Noklik&#x161;&#x137;iniet, lai izv&#x113;l&#x113;tos att&#x113;lus aug&#x161;upiel&#x101;d&#x113;t, j&#x16B;s varat ar&#x12B; nomest failus &#x161;eit.</translation>
+    </message>
+    <message>
+      <source>Click to choose images to upload, you can also Drag and Drop files here (Darg and drop only for FF, Chrome).</source>
+      <translation>Noklik&#x161;&#x137;iniet, lai izv&#x113;l&#x113;tos att&#x113;lus aug&#x161;upiel&#x101;d&#x113;t, varat ar&#x12B; vilkt un nomest failus &#x161;eit (Darg un nometiet tikai FF, Chrome).</translation>
+    </message>
+    <message>
+      <source>Public images archive upload</source>
+      <translation>Sabiedr&#x12B;bas att&#x113;lus arh&#x12B;vs aug&#x161;upiel&#x101;des</translation>
+    </message>
+    <message>
+      <source>Click to choose zip to upload, you can also drop files here (Darg and drop only for FF, Chrome).</source>
+      <translation>Noklik&#x161;&#x137;iniet, lai izv&#x113;l&#x113;tos zip aug&#x161;upiel&#x101;d&#x113;t, j&#x16B;s varat ar&#x12B; nomest failus &#x161;eit (Darg un nometiet tikai FF, Chrome).</translation>
+    </message>
+    <message>
+      <source>Public images upload</source>
+      <translation>Sabiedr&#x12B;bas att&#x113;lus aug&#x161;upiel&#x101;d&#x113;t</translation>
+    </message>
+    <message>
+      <source>Max file size </source>
+      <translation type="unfinished">Maksim&#x101;lais faila izm&#x113;rs</translation>
+    </message>
+  </context>
+  <context>
+    <name>lhad/uploadadorderitem_content</name>
+    <message>
+      <source>Cancel</source>
+      <translation>Atcelt</translation>
+    </message>
+    <message>
+      <source>Failed</source>
+      <translation>Neizdev&#x101;s</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/fileuploadcontainer</name>
+    <message>
+      <source>Title</source>
+      <translation>Nosaukums</translation>
+    </message>
+    <message>
+      <source>Keywords</source>
+      <translation>Atsl&#x113;gas v&#x101;rdi</translation>
+    </message>
+    <message>
+      <source>Cross eye image</source>
+      <translation>Cross acs att&#x113;lu</translation>
+    </message>
+    <message>
+      <source>Caption</source>
+      <translation>Paraksts</translation>
+    </message>
+    <message>
+      <source>Enter new album name or choose public album</source>
+      <translation>Ievadiet jauno albumu nosaukumu vai izv&#x113;l&#x113;ties sabiedrisko albumu</translation>
+    </message>
+    <message>
+      <source>description</source>
+      <translation>apraksts</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/admincategorys</name>
+    <message>
+      <source>Category</source>
+      <translation>Kategorija</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Nosaukums</translation>
+    </message>
+    <message>
+      <source>Owner</source>
+      <translation>&#x12A;pa&#x161;nieks</translation>
+    </message>
+    <message>
+      <source>Edit category</source>
+      <translation>Redi&#x123;&#x113;t kategorijas</translation>
+    </message>
+    <message>
+      <source>Delete category</source>
+      <translation>Izdz&#x113;st kategoriju</translation>
+    </message>
+    <message>
+      <source>Create a category</source>
+      <translation>Izveidot kategorijas</translation>
+    </message>
+    <message>
+      <source>Category albums</source>
+      <translation>Kategorija albumi</translation>
+    </message>
+    <message>
+      <source>This category does not have an album.</source>
+      <translation>&#x160;aj&#x101; kategorij&#x101; nav albuma.</translation>
+    </message>
+    <message>
+      <source>Create an album</source>
+      <translation>Izveidot albumu</translation>
+    </message>
+    <message>
+      <source>Batch album create</source>
+      <translation>Partijas albumu rad&#x12B;t</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>S&#x101;kums</translation>
+    </message>
+    <message>
+      <source>Root category</source>
+      <translation>Root kategorij&#x101;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/album_list</name>
+    <message>
+      <source>files</source>
+      <translation>faili</translation>
+    </message>
+    <message>
+      <source>Album priority</source>
+      <translation>Album priorit&#x101;te</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/batchadd</name>
+    <message>
+      <source>I cannot write this directory</source>
+      <translation>Es nevaru rakst&#x12B;t &#x161;aj&#x101; direktorij&#x101;</translation>
+    </message>
+    <message>
+      <source>No image were found!</source>
+      <translation>Neviens att&#x113;ls netika atrasts!</translation>
+    </message>
+    <message>
+      <source>Import</source>
+      <translation>Imports</translation>
+    </message>
+    <message>
+      <source>Import recursive this directory</source>
+      <translation>Importa rekurs&#x12B;vas &#x161;aj&#x101; direktorij&#x101;</translation>
+    </message>
+    <message>
+      <source>Search</source>
+      <translation>Mekl&#x113;&#x161;ana</translation>
+    </message>
+    <message>
+      <source>Please enter album name and click search</source>
+      <translation>L&#x16B;dzu, ievadiet albuma nosaukumu un noklik&#x161;&#x137;iniet uz mekl&#x113;&#x161;anu</translation>
+    </message>
+    <message>
+      <source>List images</source>
+      <translation>List att&#x113;li</translation>
+    </message>
+    <message>
+      <source>List images recursive</source>
+      <translation>List att&#x113;lus rekurs&#x12B;vas</translation>
+    </message>
+    <message>
+      <source>Import images</source>
+      <translation>Import&#x113;t att&#x113;lus</translation>
+    </message>
+    <message>
+      <source>Click list images or list images recursive</source>
+      <translation>Noklik&#x161;&#x137;iniet uz saraksta att&#x113;lus vai saraksta att&#x113;li rekurs&#x12B;vas</translation>
+    </message>
+    <message>
+      <source>Add images</source>
+      <translation>Pievieno att&#x113;lus</translation>
+    </message>
+    <message>
+      <source>Please choose album first!</source>
+      <translation>L&#x16B;dzu, izv&#x113;lieties albuma pirmais!</translation>
+    </message>
+    <message>
+      <source>Mass image upload</source>
+      <translation>Masu att&#x113;lu aug&#x161;upiel&#x101;des</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/ratebanlist</name>
+    <message>
+      <source>Baned IP for rating</source>
+      <translation>Baned IP rating</translation>
+    </message>
+    <message>
+      <source>Are you sure?</source>
+      <translation>Vai esat p&#x101;rliecin&#x101;ts?</translation>
+    </message>
+    <message>
+      <source>Delete ip</source>
+      <translation>Dz&#x113;st ip</translation>
+    </message>
+    <message>
+      <source>New IP BAN</source>
+      <translation>Jaunais IP BAN</translation>
+    </message>
+    <message>
+      <source>IP</source>
+      <translation>IP</translation>
+    </message>
+    <message>
+      <source>Add</source>
+      <translation>Pievienot</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Sist&#x113;mas konfigur&#x101;cija</translation>
+    </message>
+    <message>
+      <source>Comment ban IP</source>
+      <translation>Koment&#x101;rs aizliegums IP</translation>
+    </message>
+    <message>
+      <source>Rate ban IP</source>
+      <translation>Likme aizliegums IP</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/grouplist</name>
+    <message>
+      <source>Delete comment</source>
+      <translation>Dz&#x113;st koment&#x101;ru</translation>
+    </message>
+    <message>
+      <source>Edit comment</source>
+      <translation>Redi&#x123;&#x113;t koment&#x101;ru</translation>
+    </message>
+    <message>
+      <source>Delete image</source>
+      <translation>Dz&#x113;st att&#x113;lu</translation>
+    </message>
+    <message>
+      <source>Groups</source>
+      <translation>Grupas</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>V&#x101;rds</translation>
+    </message>
+    <message>
+      <source>Edit group</source>
+      <translation>Labot grupas</translation>
+    </message>
+    <message>
+      <source>Delete group</source>
+      <translation>Dz&#x113;st grupu</translation>
+    </message>
+    <message>
+      <source>New group</source>
+      <translation>Jauna grupa</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Sist&#x113;mas konfigur&#x101;cija</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/my_image_list</name>
+    <message>
+      <source>Delete comment</source>
+      <translation>Dz&#x113;st koment&#x101;ru</translation>
+    </message>
+    <message>
+      <source>Edit comment</source>
+      <translation>Redi&#x123;&#x113;t koment&#x101;ru</translation>
+    </message>
+    <message>
+      <source>Delete image</source>
+      <translation>Dz&#x113;st att&#x113;lu</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>Skat&#x12B;t att&#x113;lu</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Nosaukums</translation>
+    </message>
+    <message>
+      <source>Keywords</source>
+      <translation>Atsl&#x113;gas v&#x101;rdi</translation>
+    </message>
+    <message>
+      <source>Caption</source>
+      <translation>Paraksts</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+    <message>
+      <source>Message author</source>
+      <translation>Zi&#x146;ojuma autors</translation>
+    </message>
+    <message>
+      <source>Message</source>
+      <translation>Zi&#x146;a</translation>
+    </message>
+    <message>
+      <source>Rotate image clockwise</source>
+      <translation>Pagriezt pulkste&#x146;r&#x101;d&#x12B;t&#x101;ja virzien&#x101; att&#x113;ls</translation>
+    </message>
+    <message>
+      <source>Flip horizontaly</source>
+      <translation>Flip horizontaly</translation>
+    </message>
+    <message>
+      <source>Flip verticaly</source>
+      <translation>Flip verticaly</translation>
+    </message>
+    <message>
+      <source>Upload new image</source>
+      <translation>Aug&#x161;upiel&#x101;d&#x113;t jaunu att&#x113;lu</translation>
+    </message>
+    <message>
+      <source>Set as folder thumbnail</source>
+      <translation>Uzst&#x101;d&#x12B;t k&#x101; mape thumbnail</translation>
+    </message>
+    <message>
+      <source>Move image to another album</source>
+      <translation>P&#x101;rvietot att&#x113;lu uz citu albumu</translation>
+    </message>
+    <message>
+      <source>Anaglyph</source>
+      <translation>Anaglyph</translation>
+    </message>
+    <message>
+      <source>Approved</source>
+      <translation>Apstiprin&#x101;ts</translation>
+    </message>
+    <message>
+      <source>Select image</source>
+      <translation>Izv&#x113;lieties att&#x113;lu</translation>
+    </message>
+    <message>
+      <source>File</source>
+      <translation>Fails</translation>
+    </message>
+    <message>
+      <source>Upload</source>
+      <translation>Upload</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/createalbumadmin</name>
+    <message>
+      <source>New album</source>
+      <translation>Jauns albums</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Saglab&#x101;t</translation>
+    </message>
+    <message>
+      <source>New batch album create</source>
+      <translation>Jaunu partiju albums rad&#x12B;t</translation>
+    </message>
+    <message>
+      <source>Paste album names separated by new line</source>
+      <translation>Iel&#x12B;m&#x113;jiet albumu nosaukumus atdala ar jauno l&#x12B;niju</translation>
+    </message>
+    <message>
+      <source>Public</source>
+      <translation>Valsts</translation>
+    </message>
+    <message>
+      <source>All users can uploads images to this album</source>
+      <translation>Visi lietot&#x101;ji var iel&#x101;d&#x113;tos att&#x113;lus &#x161;im albumam</translation>
+    </message>
+    <message>
+      <source>Please enter album name!</source>
+      <translation>L&#x16B;dzu, ievadiet albuma nosaukumu!</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/duplicates</name>
+    <message>
+      <source>Similar images number</source>
+      <translation>L&#x12B;dz&#x12B;gi att&#x113;lu skaits</translation>
+    </message>
+    <message>
+      <source>Details</source>
+      <translation>S&#x12B;k&#x101;ka inform&#x101;cija</translation>
+    </message>
+    <message>
+      <source>More</source>
+      <translation>Vair&#x101;k</translation>
+    </message>
+    <message>
+      <source>Delete duplicate session</source>
+      <translation>Dz&#x113;st dublik&#x101;tu sesija</translation>
+    </message>
+    <message>
+      <source>No duplicates pending...</source>
+      <translation>Nr dublik&#x101;tus l&#x12B;dz ...</translation>
+    </message>
+    <message>
+      <source>Duplicates</source>
+      <translation>Dublik&#x101;tus</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/image</name>
+    <message>
+      <source>Picture comments</source>
+      <translation>Att&#x113;la koment&#x101;ri</translation>
+    </message>
+    <message>
+      <source>No comments</source>
+      <translation>Nav koment&#x101;ru</translation>
+    </message>
+    <message>
+      <source>Comment stored</source>
+      <translation>Koment&#x101;rs uzglab&#x101;</translation>
+    </message>
+    <message>
+      <source>Leave a reply</source>
+      <translation>Atst&#x101;t atbildi</translation>
+    </message>
+    <message>
+      <source>Nick</source>
+      <translation>Nick</translation>
+    </message>
+    <message>
+      <source>Max 25 characters</source>
+      <translation>Max 25 rakstz&#x12B;m&#x113;m</translation>
+    </message>
+    <message>
+      <source>Message</source>
+      <translation>Zi&#x146;a</translation>
+    </message>
+    <message>
+      <source>Send</source>
+      <translation>S&#x16B;t&#x12B;t</translation>
+    </message>
+    <message>
+      <source>Image edit</source>
+      <translation>Att&#x113;la redi&#x123;&#x113;&#x161;ana</translation>
+    </message>
+    <message>
+      <source>Rate this picture</source>
+      <translation>Nov&#x113;rt&#x113;t &#x161;o att&#x113;lu</translation>
+    </message>
+    <message>
+      <source>star</source>
+      <translation>zvaigzne</translation>
+    </message>
+    <message>
+      <source>stars</source>
+      <translation>zvaigznes</translation>
+    </message>
+    <message>
+      <source>Vote!</source>
+      <translation>Balsot!</translation>
+    </message>
+    <message>
+      <source>Deduct vote!</source>
+      <translation>Atskait&#x12B;t balsot!</translation>
+    </message>
+    <message>
+      <source>next image</source>
+      <translation>n&#x101;kamais att&#x113;ls</translation>
+    </message>
+    <message>
+      <source>previous image</source>
+      <translation>iepriek&#x161;&#x113;jais att&#x113;ls</translation>
+    </message>
+    <message>
+      <source>return to thumbnails</source>
+      <translation>atgriezties uz s&#x12B;kt&#x113;lu</translation>
+    </message>
+    <message>
+      <source>Click to see fullsize</source>
+      <translation>Noklik&#x161;&#x137;iniet, lai apl&#x16B;kotu fullsize</translation>
+    </message>
+    <message>
+      <source>Supported BB Code style tags: [b] [i] [u] [quote] :) :D :( :o :p ;)</source>
+      <translation>Atbalst&#x12B;tie BB kods style tagus: [b] [i] [u] [quote]:): D: (: o: p;)</translation>
+    </message>
+    <message>
+      <source>Add to favorites</source>
+      <translation>Pievienot pie favor&#x12B;tiem</translation>
+    </message>
+    <message>
+      <source>Share this page HTML code</source>
+      <translation>Koplietot &#x161;o lapu HTML kodu</translation>
+    </message>
+    <message>
+      <source>Share PHPBB code</source>
+      <translation>Share phpBB kodu</translation>
+    </message>
+    <message>
+      <source>Anaglyph version</source>
+      <translation>Anaglyph versija</translation>
+    </message>
+    <message>
+      <source>Enter tags separated by space</source>
+      <translation>Ievadiet tagus atdalot ar atstarpi</translation>
+    </message>
+    <message>
+      <source>Picture details</source>
+      <translation>Att&#x113;la inform&#x101;cija</translation>
+    </message>
+    <message>
+      <source>Filename</source>
+      <translation>Faila nosaukums</translation>
+    </message>
+    <message>
+      <source>File size</source>
+      <translation>Faila izm&#x113;rs</translation>
+    </message>
+    <message>
+      <source>Image rating</source>
+      <translation>Image rating</translation>
+    </message>
+    <message>
+      <source>Date added</source>
+      <translation>Pievienots</translation>
+    </message>
+    <message>
+      <source>Dimensions</source>
+      <translation>Izm&#x113;ri</translation>
+    </message>
+    <message>
+      <source>Displayed</source>
+      <translation>Att&#x113;lots</translation>
+    </message>
+    <message>
+      <source>times</source>
+      <translation>reizes</translation>
+    </message>
+    <message>
+      <source>Album</source>
+      <translation>Albums</translation>
+    </message>
+    <message>
+      <source>URL</source>
+      <translation>URL</translation>
+    </message>
+    <message>
+      <source>Owner</source>
+      <translation>&#x12A;pa&#x161;nieks</translation>
+    </message>
+    <message>
+      <source>About user</source>
+      <translation>Par lietot&#x101;ju</translation>
+    </message>
+    <message>
+      <source>votes</source>
+      <translation>balsis</translation>
+    </message>
+    <message>
+      <source>Search for similar colors images</source>
+      <translation>Mekl&#x113;t l&#x12B;dz&#x12B;gas kr&#x101;sas att&#x113;liem</translation>
+    </message>
+    <message>
+      <source>Search for visualy similar images</source>
+      <translation>Mekl&#x113;t visualy l&#x12B;dz&#x12B;gus att&#x113;lus</translation>
+    </message>
+    <message>
+      <source>More user images</source>
+      <translation>Vair&#x101;k lietot&#x101;ju bildes</translation>
+    </message>
+    <message>
+      <source>Version</source>
+      <translation>Versija</translation>
+    </message>
+    <message>
+      <source>Image size</source>
+      <translation>Att&#x113;la lielums</translation>
+    </message>
+    <message>
+      <source>Format</source>
+      <translation>Form&#x101;ts</translation>
+    </message>
+    <message>
+      <source>Price</source>
+      <translation>Cena</translation>
+    </message>
+    <message>
+      <source>credits</source>
+      <translation>kred&#x12B;ti</translation>
+    </message>
+    <message>
+      <source>Remove from basket</source>
+      <translation>Iz&#x146;emt no groza</translation>
+    </message>
+    <message>
+      <source>Add to basket</source>
+      <translation>Ielikt groz&#x101;</translation>
+    </message>
+    <message>
+      <source>Wrong captcha code!</source>
+      <translation>Nepareizs captcha kodu!</translation>
+    </message>
+    <message>
+      <source>Please enter nick!</source>
+      <translation>L&#x16B;dzu, ievadiet nika!</translation>
+    </message>
+    <message>
+      <source>Please enter comment!</source>
+      <translation>L&#x16B;dzu, ievadiet koment&#x101;ru!</translation>
+    </message>
+    <message>
+      <source>You are not allowed to leave a comments!</source>
+      <translation>Jums nav at&#x13C;auts atst&#x101;t koment&#x101;rus!</translation>
+    </message>
+    <message>
+      <source>Guest_</source>
+      <translation>Guest_</translation>
+    </message>
+    <message>
+      <source>Last uploaded images</source>
+      <translation>P&#x113;d&#x113;j&#x101;s aug&#x161;upiel&#x101;d&#x113;to att&#x113;lu</translation>
+    </message>
+    <message>
+      <source>Last additions</source>
+      <translation>Jaun&#x101;kie faili</translation>
+    </message>
+    <message>
+      <source>Last viewed images</source>
+      <translation>P&#x113;d&#x113;jie apskat&#x12B;tie att&#x113;li</translation>
+    </message>
+    <message>
+      <source>Last commented images</source>
+      <translation>P&#x113;d&#x113;j&#x101;s koment&#x113;t&#x101;s bildes</translation>
+    </message>
+    <message>
+      <source>Last rated images</source>
+      <translation>P&#x113;d&#x113;jo reizi nov&#x113;rt&#x113;ja att&#x113;lus</translation>
+    </message>
+    <message>
+      <source>Top rated images</source>
+      <translation>Visaugst&#x101;k nov&#x113;rt&#x113;t&#x101;s bildes</translation>
+    </message>
+    <message>
+      <source>Search by color</source>
+      <translation>Mekl&#x113;t p&#x113;c kr&#x101;sas</translation>
+    </message>
+    <message>
+      <source>Most popular images</source>
+      <translation>Vispopul&#x101;r&#x101;k&#x101;s bildes</translation>
+    </message>
+    <message>
+      <source>Search rss by keyword</source>
+      <translation>Mekl&#x113;t rss p&#x113;c atsl&#x113;gv&#x101;rda</translation>
+    </message>
+    <message>
+      <source>Last uploaded first</source>
+      <translation>Jaun&#x101;kie att&#x113;li first</translation>
+    </message>
+    <message>
+      <source>Last uploaded last</source>
+      <translation>Jaun&#x101;kie att&#x113;li p&#x113;d&#x113;jo</translation>
+    </message>
+    <message>
+      <source>Most popular first</source>
+      <translation>Popul&#x101;r&#x101;k&#x101;s first</translation>
+    </message>
+    <message>
+      <source>Most popular last</source>
+      <translation>Popul&#x101;r&#x101;k&#x101;s p&#x113;d&#x113;jo</translation>
+    </message>
+    <message>
+      <source>Last hits first</source>
+      <translation>P&#x113;d&#x113;jais hits first</translation>
+    </message>
+    <message>
+      <source>Last hits last</source>
+      <translation>P&#x113;d&#x113;jais hits p&#x113;d&#x113;jo</translation>
+    </message>
+    <message>
+      <source>Last commented first</source>
+      <translation>P&#x113;d&#x113;j&#x101;s koment&#x113;t&#x101;s first</translation>
+    </message>
+    <message>
+      <source>Last commented last</source>
+      <translation>P&#x113;d&#x113;j&#x101;s koment&#x113;t&#x101;s p&#x113;d&#x113;jo</translation>
+    </message>
+    <message>
+      <source>Top rated first</source>
+      <translation>Visaugst&#x101;k nov&#x113;rt&#x113;t&#x101;s first</translation>
+    </message>
+    <message>
+      <source>Top rated last Last</source>
+      <translation>Visaugst&#x101;k nov&#x113;rt&#x113;t&#x101;s izdar&#x12B;tas p&#x113;d&#x113;j&#x101;s</translation>
+    </message>
+    <message>
+      <source>Last rated first</source>
+      <translation>P&#x113;d&#x113;jo reizi nov&#x113;rt&#x113;ja first</translation>
+    </message>
+    <message>
+      <source>Last rated last</source>
+      <translation>P&#x113;d&#x113;jo reizi nov&#x113;rt&#x113;ja p&#x113;d&#x113;jo</translation>
+    </message>
+    <message>
+      <source>Most relevance images last</source>
+      <translation>Liel&#x101;k&#x101; da&#x13C;a attiecas att&#x113;lus p&#x113;d&#x113;j&#x101;</translation>
+    </message>
+    <message>
+      <source>search results</source>
+      <translation>Mekl&#x113;&#x161;anas rezult&#x101;ti</translation>
+    </message>
+    <message>
+      <source>Last uploaded images to album</source>
+      <translation>P&#x113;d&#x113;jo aug&#x161;upiel&#x101;d&#x113;to att&#x113;lu albumam</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/managealbum</name>
+    <message>
+      <source>No records.</source>
+      <translation>Nav ierakstu.</translation>
+    </message>
+    <message>
+      <source>Category</source>
+      <translation>Kategorija</translation>
+    </message>
+    <message>
+      <source>Create an album</source>
+      <translation>Izveidot albumu</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>S&#x101;kums</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/managealbumimages</name>
+    <message>
+      <source>Move selected images to</source>
+      <translation>P&#x101;rvietot atlas&#x12B;tos att&#x113;lus uz</translation>
+    </message>
+    <message>
+      <source>Check all</source>
+      <translation>P&#x101;rbaudiet visus</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>Nav ierakstu.</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>S&#x101;kums</translation>
+    </message>
+    <message>
+      <source>Root category</source>
+      <translation>Root kategorij&#x101;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/movealbumphotos</name>
+    <message>
+      <source>Search album</source>
+      <translation>Mekl&#x113;t albums</translation>
+    </message>
+    <message>
+      <source>Move photos</source>
+      <translation>P&#x101;rvietot fotogr&#x101;fijas</translation>
+    </message>
+    <message>
+      <source>We moved</source>
+      <translation>M&#x113;s p&#x101;rvietots</translation>
+    </message>
+    <message>
+      <source>images</source>
+      <translation>att&#x113;lu</translation>
+    </message>
+    <message>
+      <source>Move album photos</source>
+      <translation>P&#x101;rvietot albuma fotogr&#x101;fij&#x101;m</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/image_list</name>
+    <message>
+      <source>preview version</source>
+      <translation>preview versija</translation>
+    </message>
+    <message>
+      <source>See full size</source>
+      <translation>Skat&#x12B;t pilna izm&#x113;ra att&#x113;lu</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/search</name>
+    <message>
+      <source>Last uploaded</source>
+      <translation>Jaun&#x101;kie att&#x113;li</translation>
+    </message>
+    <message>
+      <source>Most popular</source>
+      <translation>Vispopul&#x101;r&#x101;k&#x101;s</translation>
+    </message>
+    <message>
+      <source>Last hits</source>
+      <translation>P&#x113;d&#x113;jais hits</translation>
+    </message>
+    <message>
+      <source>Top rated</source>
+      <translation>Visaugst&#x101;k nov&#x113;rt&#x113;t&#x101;s</translation>
+    </message>
+    <message>
+      <source>Last rated</source>
+      <translation>P&#x113;d&#x113;jais nomin&#x101;l&#x101;</translation>
+    </message>
+    <message>
+      <source>Last commented</source>
+      <translation>P&#x113;d&#x113;j&#x101;s koment&#x113;t&#x101;s</translation>
+    </message>
+    <message>
+      <source>Filename</source>
+      <translation>Faila nosaukums</translation>
+    </message>
+    <message>
+      <source>Search results</source>
+      <translation>Mekl&#x113;&#x161;anas rezult&#x101;ti</translation>
+    </message>
+    <message>
+      <source>Nothing found</source>
+      <translation>Nekas nav atrasts</translation>
+    </message>
+    <message>
+      <source>Any resolution</source>
+      <translation>Neviena rezol&#x16B;cija,</translation>
+    </message>
+    <message>
+      <source>Relevance</source>
+      <translation>Atbilst&#x12B;ba</translation>
+    </message>
+    <message>
+      <source>Any keyword</source>
+      <translation>Jebkur&#x161; atsl&#x113;gv&#x101;rds</translation>
+    </message>
+    <message>
+      <source>All keywords</source>
+      <translation>Visi atsl&#x113;gv&#x101;rdiem</translation>
+    </message>
+    <message>
+      <source>search results</source>
+      <translation>Mekl&#x113;&#x161;anas rezult&#x101;ti</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Page</translation>
+    </message>
+    <message>
+      <source>Last uploaded first</source>
+      <translation>Jaun&#x101;kie att&#x113;li first</translation>
+    </message>
+    <message>
+      <source>Last uploaded last</source>
+      <translation>Jaun&#x101;kie att&#x113;li p&#x113;d&#x113;jo</translation>
+    </message>
+    <message>
+      <source>Most popular first</source>
+      <translation>Popul&#x101;r&#x101;k&#x101;s first</translation>
+    </message>
+    <message>
+      <source>Most popular last</source>
+      <translation>Popul&#x101;r&#x101;k&#x101;s p&#x113;d&#x113;jo</translation>
+    </message>
+    <message>
+      <source>Last hits first</source>
+      <translation>P&#x113;d&#x113;jais hits first</translation>
+    </message>
+    <message>
+      <source>Last hits last</source>
+      <translation>P&#x113;d&#x113;jais hits p&#x113;d&#x113;jo</translation>
+    </message>
+    <message>
+      <source>Last commented first</source>
+      <translation>P&#x113;d&#x113;j&#x101;s koment&#x113;t&#x101;s first</translation>
+    </message>
+    <message>
+      <source>Last commented last</source>
+      <translation>P&#x113;d&#x113;j&#x101;s koment&#x113;t&#x101;s p&#x113;d&#x113;jo</translation>
+    </message>
+    <message>
+      <source>Last rated first</source>
+      <translation>P&#x113;d&#x113;jo reizi nov&#x113;rt&#x113;ja first</translation>
+    </message>
+    <message>
+      <source>Last rated last</source>
+      <translation>P&#x113;d&#x113;jo reizi nov&#x113;rt&#x113;ja p&#x113;d&#x113;jo</translation>
+    </message>
+    <message>
+      <source>Top rated first</source>
+      <translation>Visaugst&#x101;k nov&#x113;rt&#x113;t&#x101;s first</translation>
+    </message>
+    <message>
+      <source>Top rated last</source>
+      <translation>Visaugst&#x101;k nov&#x113;rt&#x113;t&#x101;s p&#x113;d&#x113;jo</translation>
+    </message>
+    <message>
+      <source>Most relevance images last</source>
+      <translation>Liel&#x101;k&#x101; da&#x13C;a attiecas att&#x113;lus p&#x113;d&#x113;j&#x101;</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Rezol&#x16B;cija</translation>
+    </message>
+    <message>
+      <source>Search RSS by keyword</source>
+      <translation>Mekl&#x113;t RSS p&#x113;c atsl&#x113;gv&#x101;rda</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/editrole</name>
+    <message>
+      <source>Role edit</source>
+      <translation>Loma redi&#x123;&#x113;t</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Nosaukums</translation>
+    </message>
+    <message>
+      <source>Assigned functions</source>
+      <translation>Uztic&#x113;to funkciju</translation>
+    </message>
+    <message>
+      <source>Module</source>
+      <translation>Modulis</translation>
+    </message>
+    <message>
+      <source>Function</source>
+      <translation>Funkcija</translation>
+    </message>
+    <message>
+      <source>Remove selected</source>
+      <translation>No&#x146;emt atlasi</translation>
+    </message>
+    <message>
+      <source>New policy</source>
+      <translation>Jaun&#x101;s politikas</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+    <message>
+      <source>Cancel</source>
+      <translation>Atcelt</translation>
+    </message>
+    <message>
+      <source>Role assigned groups</source>
+      <translation>Funkcij&#x101;m, kas pie&#x161;&#x137;irtas grupas</translation>
+    </message>
+    <message>
+      <source>Group assignement to role</source>
+      <translation>Group assignement lomai</translation>
+    </message>
+    <message>
+      <source>Assign group</source>
+      <translation>Pie&#x161;&#x137;irt grupa</translation>
+    </message>
+    <message>
+      <source>Please enter role name</source>
+      <translation>L&#x16B;dzu, ievadiet lomas nosaukumu</translation>
+    </message>
+    <message>
+      <source>Please choose module</source>
+      <translation>L&#x16B;dzu, izv&#x113;lieties moduli</translation>
+    </message>
+    <message>
+      <source>Please choose module function</source>
+      <translation>L&#x16B;dzu, izv&#x113;lieties moduli funkciju</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Sist&#x113;mas konfigur&#x101;cija</translation>
+    </message>
+    <message>
+      <source>List of roles</source>
+      <translation>Saraksts ar lom&#x101;m</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/groupassignrole</name>
+    <message>
+      <source>Title</source>
+      <translation>Nosaukums</translation>
+    </message>
+    <message>
+      <source>Assign</source>
+      <translation>Pie&#x161;&#x137;irt</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/modulefunctions</name>
+    <message>
+      <source>All functions</source>
+      <translation>Visas funkcijas</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/newpolicy</name>
+    <message>
+      <source>New policy</source>
+      <translation>Jaun&#x101;s politikas</translation>
+    </message>
+    <message>
+      <source>Assigned functions</source>
+      <translation>Uztic&#x113;to funkciju</translation>
+    </message>
+    <message>
+      <source>Choose module</source>
+      <translation>Izv&#x113;lieties moduli</translation>
+    </message>
+    <message>
+      <source>All modules</source>
+      <translation>Visi modu&#x13C;i</translation>
+    </message>
+    <message>
+      <source>Choose module function</source>
+      <translation>Izv&#x113;lieties moduli funkciju</translation>
+    </message>
+    <message>
+      <source>All functions</source>
+      <translation>Visas funkcijas</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Saglab&#x101;t</translation>
+    </message>
+    <message>
+      <source>Cancel</source>
+      <translation>Atcelt</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/newrole</name>
+    <message>
+      <source>New role</source>
+      <translation>Jauno lomu</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Nosaukums</translation>
+    </message>
+    <message>
+      <source>Policy list</source>
+      <translation>Politiku sarakstu</translation>
+    </message>
+    <message>
+      <source>Module</source>
+      <translation>Modulis</translation>
+    </message>
+    <message>
+      <source>Function</source>
+      <translation>Funkcija</translation>
+    </message>
+    <message>
+      <source>New policy</source>
+      <translation>Jaun&#x101;s politikas</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Saglab&#x101;t</translation>
+    </message>
+    <message>
+      <source>Cancel</source>
+      <translation>Atcelt</translation>
+    </message>
+    <message>
+      <source>Please enter role name</source>
+      <translation>L&#x16B;dzu, ievadiet lomas nosaukumu</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Sist&#x113;mas konfigur&#x101;cija</translation>
+    </message>
+    <message>
+      <source>List of roles</source>
+      <translation>Saraksts ar lom&#x101;m</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/roleassigngroup</name>
+    <message>
+      <source>Title</source>
+      <translation>Nosaukums</translation>
+    </message>
+    <message>
+      <source>Assign</source>
+      <translation>Pie&#x161;&#x137;irt</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/roles</name>
+    <message>
+      <source>List of roles</source>
+      <translation>Saraksts ar lom&#x101;m</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Nosaukums</translation>
+    </message>
+    <message>
+      <source>Edit role</source>
+      <translation>Redi&#x123;&#x113;t lomu</translation>
+    </message>
+    <message>
+      <source>Delete role</source>
+      <translation>Dz&#x113;st loma</translation>
+    </message>
+    <message>
+      <source>New role</source>
+      <translation>Jauno lomu</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Sist&#x113;mas konfigur&#x101;cija</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/index</name>
+    <message>
+      <source>Shop configuration</source>
+      <translation>Veikals konfigur&#x101;cija</translation>
+    </message>
+    <message>
+      <source>Images variations sizes</source>
+      <translation>Att&#x113;li vari&#x101;cijas izm&#x113;ri</translation>
+    </message>
+    <message>
+      <source>List payment options</source>
+      <translation>List nor&#x113;&#x137;inu iesp&#x113;jas</translation>
+    </message>
+    <message>
+      <source>Settings list</source>
+      <translation>Iestat&#x12B;jumu sarakstu</translation>
+    </message>
+    <message>
+      <source>Orders list</source>
+      <translation>Pas&#x16B;t&#x12B;jumu saraksts</translation>
+    </message>
+    <message>
+      <source>Credits orders list</source>
+      <translation>Kred&#x12B;ti pas&#x16B;t&#x12B;jumu saraksts</translation>
+    </message>
+    <message>
+      <source>Shop</source>
+      <translation>Veikals</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/listpaymentoptions</name>
+    <message>
+      <source>Payment options</source>
+      <translation>Maks&#x101;&#x161;anas iesp&#x113;jas</translation>
+    </message>
+    <message>
+      <source>Identifier</source>
+      <translation>Identifikators</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>V&#x101;rds</translation>
+    </message>
+    <message>
+      <source>Active</source>
+      <translation>Akt&#x12B;vas</translation>
+    </message>
+    <message>
+      <source>Author</source>
+      <translation>Author</translation>
+    </message>
+    <message>
+      <source>Edit</source>
+      <translation>Redi&#x123;&#x113;t</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/orderedit</name>
+    <message>
+      <source>Order view</source>
+      <translation>Pas&#x16B;t&#x12B;t skats</translation>
+    </message>
+    <message>
+      <source>Order time</source>
+      <translation>Pas&#x16B;t&#x12B;t laiks</translation>
+    </message>
+    <message>
+      <source>Order price</source>
+      <translation>Pas&#x16B;t&#x12B;juma cenu</translation>
+    </message>
+    <message>
+      <source>Order credits</source>
+      <translation>Pas&#x16B;t&#x12B;t kred&#x12B;ti</translation>
+    </message>
+    <message>
+      <source>Order status</source>
+      <translation>Pas&#x16B;t&#x12B;juma statuss</translation>
+    </message>
+    <message>
+      <source>Payed.</source>
+      <translation>Payed.</translation>
+    </message>
+    <message>
+      <source>Confirmed</source>
+      <translation>Apstiprin&#x101;ts</translation>
+    </message>
+    <message>
+      <source>Ordered items</source>
+      <translation>Sak&#x101;rtots preces</translation>
+    </message>
+    <message>
+      <source>Image name</source>
+      <translation>Att&#x113;la nosaukums</translation>
+    </message>
+    <message>
+      <source>Version</source>
+      <translation>Versija</translation>
+    </message>
+    <message>
+      <source>Image size</source>
+      <translation>Att&#x113;la lielums</translation>
+    </message>
+    <message>
+      <source>Format</source>
+      <translation>Form&#x101;ts</translation>
+    </message>
+    <message>
+      <source>Price</source>
+      <translation>Cena</translation>
+    </message>
+    <message>
+      <source>Download count</source>
+      <translation>Download skaits</translation>
+    </message>
+    <message>
+      <source>Downloads left</source>
+      <translation>Lejupiel&#x101;des kreisi</translation>
+    </message>
+    <message>
+      <source>Credits</source>
+      <translation>Kred&#x12B;ti</translation>
+    </message>
+  </context>
+  <context>
+    <name>systemconfig/list</name>
+    <message>
+      <source>Delete order item</source>
+      <translation>Dz&#x113;st, lai objektu</translation>
+    </message>
+    <message>
+      <source>Delete order</source>
+      <translation>Dz&#x113;st, lai</translation>
+    </message>
+    <message>
+      <source>Config list</source>
+      <translation>Config saraksts</translation>
+    </message>
+    <message>
+      <source>Identifier</source>
+      <translation>Identifikators</translation>
+    </message>
+    <message>
+      <source>Explain</source>
+      <translation>Izskaidrot</translation>
+    </message>
+    <message>
+      <source>Edit value</source>
+      <translation type="unfinished">Redi&#x123;&#x113;t v&#x113;rt&#x12B;ba</translation>
+    </message>
+    <message>
+      <source>System config options</source>
+      <translation type="unfinished">Sist&#x113;mas konfigur&#x101;cijas iesp&#x113;jas</translation>
+    </message>
+    <message>
+      <source>List</source>
+      <translation type="unfinished">Saraksts</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/orderslist</name>
+    <message>
+      <source>Orders credits list</source>
+      <translation type="unfinished">Pas&#x16B;t&#x12B;jumi kred&#x12B;ti saraksts</translation>
+    </message>
+    <message>
+      <source>ID</source>
+      <translation type="unfinished">ID</translation>
+    </message>
+    <message>
+      <source>Date</source>
+      <translation>Datums</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-pasts</translation>
+    </message>
+    <message>
+      <source>Order price</source>
+      <translation type="unfinished">Pas&#x16B;t&#x12B;juma cenu</translation>
+    </message>
+    <message>
+      <source>Order credits</source>
+      <translation type="unfinished">Pas&#x16B;t&#x12B;t kred&#x12B;ti</translation>
+    </message>
+    <message>
+      <source>Order status</source>
+      <translation type="unfinished">Pas&#x16B;t&#x12B;juma statuss</translation>
+    </message>
+    <message>
+      <source>Payed.</source>
+      <translation>Payed.</translation>
+    </message>
+    <message>
+      <source>Confirmed</source>
+      <translation>Apstiprin&#x101;ts</translation>
+    </message>
+    <message>
+      <source>No orders...</source>
+      <translation type="unfinished">Neko nepav&#x113;l ...</translation>
+    </message>
+    <message>
+      <source>Orders list</source>
+      <translation type="unfinished">Pas&#x16B;t&#x12B;jumu saraksts</translation>
+    </message>
+    <message>
+      <source>Order view</source>
+      <translation type="unfinished">Pas&#x16B;t&#x12B;t skats</translation>
+    </message>
+    <message>
+      <source>User orders list</source>
+      <translation type="unfinished">Lietot&#x101;ju pas&#x16B;t&#x12B;jumu saraksts</translation>
+    </message>
+    <message>
+      <source>User credits orders list</source>
+      <translation type="unfinished">Lietot&#x101;ju kred&#x12B;ti pas&#x16B;t&#x12B;jumu saraksts</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/paymentoptionedit</name>
+    <message>
+      <source>Payment option edit</source>
+      <translation type="unfinished">Maks&#x101;&#x161;anas iesp&#x113;ju redi&#x123;&#x113;t</translation>
+    </message>
+    <message>
+      <source>Identifier</source>
+      <translation>Identifikators</translation>
+    </message>
+    <message>
+      <source>Active</source>
+      <translation>Akt&#x12B;vas</translation>
+    </message>
+    <message>
+      <source>Payment settings</source>
+      <translation type="unfinished">Maks&#x101;jumu uzst&#x101;d&#x12B;jumi</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+  </context>
+  <context>
+    <name>systemconfig/edit</name>
+    <message>
+      <source>Edit</source>
+      <translation>Redi&#x123;&#x113;t</translation>
+    </message>
+    <message>
+      <source>Data updated</source>
+      <translation type="unfinished">Dati atjaunoti</translation>
+    </message>
+    <message>
+      <source>Identifier</source>
+      <translation>Identifikators</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+    <message>
+      <source>Values applies to</source>
+      <translation type="unfinished">V&#x113;rt&#x12B;bas attiecas uz</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/settinglist</name>
+    <message>
+      <source>Shop config list</source>
+      <translation type="unfinished">Veikals config saraksts</translation>
+    </message>
+    <message>
+      <source>Identifier</source>
+      <translation>Identifikators</translation>
+    </message>
+    <message>
+      <source>Explain</source>
+      <translation>Izskaidrot</translation>
+    </message>
+    <message>
+      <source>Value</source>
+      <translation type="unfinished">V&#x113;rt&#x12B;ba</translation>
+    </message>
+    <message>
+      <source>Edit value</source>
+      <translation type="unfinished">Redi&#x123;&#x113;t v&#x113;rt&#x12B;ba</translation>
+    </message>
+  </context>
+  <context>
+    <name>statistic/choosesite</name>
+    <message>
+      <source>Choose site you want to show statistic</source>
+      <translation type="unfinished">Choose site v&#x113;laties r&#x101;d&#x12B;t statistiku</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Saglab&#x101;t</translation>
+    </message>
+  </context>
+  <context>
+    <name>statistic/index</name>
+    <message>
+      <source>Google analytics statistic</source>
+      <translation type="unfinished">Google Analytics statistika</translation>
+    </message>
+    <message>
+      <source>Grant access application to access google analytics API</source>
+      <translation type="unfinished">Pie&#x161;&#x137;irt piek&#x13C;uvi pieteikumu piek&#x13C;&#x16B;t Google Analytics API</translation>
+    </message>
+    <message>
+      <source>Site choose</source>
+      <translation type="unfinished">Lapas izv&#x113;l&#x113;ties</translation>
+    </message>
+    <message>
+      <source>View statistic</source>
+      <translation type="unfinished">Skat&#x12B;t statistika</translation>
+    </message>
+    <message>
+      <source>Statistic</source>
+      <translation type="unfinished">Statistikas</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>S&#x101;kums</translation>
+    </message>
+  </context>
+  <context>
+    <name>system/configuration</name>
+    <message>
+      <source>System configuration</source>
+      <translation type="unfinished">Sist&#x113;mas konfigur&#x101;cija</translation>
+    </message>
+    <message>
+      <source>Users</source>
+      <translation>Lietot&#x101;ji</translation>
+    </message>
+    <message>
+      <source>List of groups</source>
+      <translation type="unfinished">Grupu saraksts</translation>
+    </message>
+    <message>
+      <source>List of roles</source>
+      <translation type="unfinished">Saraksts ar lom&#x101;m</translation>
+    </message>
+    <message>
+      <source>System configuration values</source>
+      <translation type="unfinished">Sist&#x113;mas konfigur&#x101;cijas v&#x113;rt&#x12B;bu</translation>
+    </message>
+    <message>
+      <source>Watermark protection</source>
+      <translation type="unfinished">&#x16A;densz&#x12B;me aizsardz&#x12B;ba</translation>
+    </message>
+    <message>
+      <source>Banned rating IP list</source>
+      <translation type="unfinished">Aizliegumu rating IP saraksta</translation>
+    </message>
+    <message>
+      <source>Banned commenting IP list</source>
+      <translation type="unfinished">Aizliegumu koment&#x113;jot IP saraksta</translation>
+    </message>
+  </context>
+  <context>
+    <name>systemconfig/watermark</name>
+    <message>
+      <source>Watermark configuration</source>
+      <translation type="unfinished">&#x16A;densz&#x12B;me konfigur&#x101;cija</translation>
+    </message>
+    <message>
+      <source>Settings updated</source>
+      <translation type="unfinished">Iestat&#x12B;jumi</translation>
+    </message>
+    <message>
+      <source>Delete watermark</source>
+      <translation type="unfinished">Dz&#x113;st &#x16B;densz&#x12B;me</translation>
+    </message>
+    <message>
+      <source>Image, it is recommended PNG type image</source>
+      <translation type="unfinished">Att&#x113;ls ir ieteicams PNG tipa att&#x113;ls</translation>
+    </message>
+    <message>
+      <source>Settings</source>
+      <translation type="unfinished">Uzst&#x101;d&#x12B;jumi</translation>
+    </message>
+    <message>
+      <source>Watermark disabled</source>
+      <translation type="unfinished">&#x16A;densz&#x12B;me inval&#x12B;diem</translation>
+    </message>
+    <message>
+      <source>Watermark enabled for normal size thumbnails</source>
+      <translation type="unfinished">&#x16A;densz&#x12B;me iesp&#x113;jotas parasta izm&#x113;ra s&#x12B;kt&#x113;li</translation>
+    </message>
+    <message>
+      <source>Watermark enabled for all images</source>
+      <translation type="unfinished">&#x16A;densz&#x12B;me iesp&#x113;jots visiem att&#x113;liem</translation>
+    </message>
+    <message>
+      <source>Watermark position</source>
+      <translation type="unfinished">&#x16A;densz&#x12B;me nost&#x101;ju</translation>
+    </message>
+    <message>
+      <source>Top left</source>
+      <translation type="unfinished">Aug&#x161;&#x101; pa kreisi</translation>
+    </message>
+    <message>
+      <source>Top right</source>
+      <translation type="unfinished">Aug&#x161;&#x113;j&#x101; labaj&#x101; st&#x16B;r&#x12B;</translation>
+    </message>
+    <message>
+      <source>Bottom left</source>
+      <translation type="unfinished">Apak&#x161;&#x101; pa kreisi</translation>
+    </message>
+    <message>
+      <source>Bottom right</source>
+      <translation type="unfinished">Apak&#x161;&#x101; pa labi</translation>
+    </message>
+    <message>
+      <source>Center</source>
+      <translation type="unfinished">Center</translation>
+    </message>
+    <message>
+      <source>Watermark padding from borders</source>
+      <translation type="unfinished">&#x16A;densz&#x12B;me polster&#x113;jums no robe&#x17E;as</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+    <message>
+      <source>Watermark</source>
+      <translation type="unfinished">&#x16A;densz&#x12B;me</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/account</name>
+    <message>
+      <source>Logged user</source>
+      <translation type="unfinished">Pieteicies lietot&#x101;js</translation>
+    </message>
+    <message>
+      <source>Account updated</source>
+      <translation type="unfinished">V&#x113;r&#x101; atjaunin&#x101;to</translation>
+    </message>
+    <message>
+      <source>Do not enter password unless you want to change it</source>
+      <translation type="unfinished">Neievadiet paroli, ja j&#x16B;s v&#x113;laties to main&#x12B;t</translation>
+    </message>
+    <message>
+      <source>Login information</source>
+      <translation type="unfinished">Pieteik&#x161;an&#x101;s inform&#x101;cija</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Lietot&#x101;ja v&#x101;rds</translation>
+    </message>
+    <message>
+      <source>Password</source>
+      <translation type="unfinished">Parole</translation>
+    </message>
+    <message>
+      <source>Repeat password</source>
+      <translation type="unfinished">Atk&#x101;rtot paroli</translation>
+    </message>
+    <message>
+      <source>Contact information</source>
+      <translation type="unfinished">Kontaktinform&#x101;cija</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-pasts</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+    <message>
+      <source>Message send</source>
+      <translation type="unfinished">Zi&#x146;u s&#x16B;t&#x12B;t</translation>
+    </message>
+    <message>
+      <source>Add google account</source>
+      <translation type="unfinished">Pievienot google kontu</translation>
+    </message>
+    <message>
+      <source>Working</source>
+      <translation type="unfinished">Darba</translation>
+    </message>
+    <message>
+      <source>Profile page settings</source>
+      <translation type="unfinished">Profila lapas iestat&#x12B;jumus</translation>
+    </message>
+    <message>
+      <source>Profile settings updated</source>
+      <translation type="unfinished">Profila iestat&#x12B;jumi atjaunin&#x101;ti</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>V&#x101;rds</translation>
+    </message>
+    <message>
+      <source>Surname</source>
+      <translation type="unfinished">Uzv&#x101;rds</translation>
+    </message>
+    <message>
+      <source>Website</source>
+      <translation type="unfinished">Website</translation>
+    </message>
+    <message>
+      <source>Information about you</source>
+      <translation type="unfinished">Inform&#x101;cija par Jums</translation>
+    </message>
+    <message>
+      <source>Profile photo</source>
+      <translation type="unfinished">Profila foto</translation>
+    </message>
+    <message>
+      <source>See how your profile looks to users</source>
+      <translation type="unfinished">Redz&#x113;t, k&#x101; j&#x16B;su profils izskat&#x101;s lietot&#x101;jiem</translation>
+    </message>
+    <message>
+      <source>View profile</source>
+      <translation type="unfinished">Skat&#x12B;t profilu</translation>
+    </message>
+    <message>
+      <source>Wrong email address</source>
+      <translation type="unfinished">Nepareizs e-pasta adresi</translation>
+    </message>
+    <message>
+      <source>Passwords mismatch</source>
+      <translation type="unfinished">Paroles neatbilst&#x12B;ba</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/edit</name>
+    <message>
+      <source>User edit</source>
+      <translation type="unfinished">Lietot&#x101;js redi&#x123;&#x113;t</translation>
+    </message>
+    <message>
+      <source>Do not enter password unless you want to change it</source>
+      <translation type="unfinished">Neievadiet paroli, ja j&#x16B;s v&#x113;laties to main&#x12B;t</translation>
+    </message>
+    <message>
+      <source>Login information</source>
+      <translation type="unfinished">Pieteik&#x161;an&#x101;s inform&#x101;cija</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation type="unfinished">Lietot&#x101;ja v&#x101;rds</translation>
+    </message>
+    <message>
+      <source>Password</source>
+      <translation type="unfinished">Parole</translation>
+    </message>
+    <message>
+      <source>Repeat password</source>
+      <translation type="unfinished">Atk&#x101;rtot paroli</translation>
+    </message>
+    <message>
+      <source>Contact information</source>
+      <translation type="unfinished">Kontaktinform&#x101;cija</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation type="unfinished">E-pasts</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation type="unfinished">Update</translation>
+    </message>
+    <message>
+      <source>User prifle</source>
+      <translation type="unfinished">Lietot&#x101;js prifle</translation>
+    </message>
+    <message>
+      <source>My account</source>
+      <translation type="unfinished">Mans konts</translation>
+    </message>
+    <message>
+      <source>Facebook albums</source>
+      <translation type="unfinished">Facebook albums</translation>
+    </message>
+    <message>
+      <source>Facebook session has expired, please login</source>
+      <translation type="unfinished">Facebook sesija beidz&#x101;s, l&#x16B;dzu piesakieties port&#x101;l&#x101;</translation>
+    </message>
+    <message>
+      <source>Account</source>
+      <translation type="unfinished">Kontu</translation>
+    </message>
+    <message>
+      <source>Albums</source>
+      <translation type="unfinished">Albums</translation>
+    </message>
+    <message>
+      <source>My albums</source>
+      <translation type="unfinished">Mani albumi</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation type="unfinished">Sist&#x113;mas konfigur&#x101;cija</translation>
+    </message>
+    <message>
+      <source>Account data</source>
+      <translation type="unfinished">V&#x113;r&#x101; datu</translation>
+    </message>
+    <message>
+      <source>Wrong email address</source>
+      <translation type="unfinished">Nepareizs e-pasta adresi</translation>
+    </message>
+    <message>
+      <source>Passwords mismatch</source>
+      <translation type="unfinished">Paroles neatbilst&#x12B;ba</translation>
+    </message>
+    <message>
+      <source>Users</source>
+      <translation type="unfinished">Lietot&#x101;ji</translation>
+    </message>
+    <message>
+      <source>Authentifion with google</source>
+      <translation type="unfinished">Authentifion ar google</translation>
+    </message>
+    <message>
+      <source>Profile settings</source>
+      <translation type="unfinished">Profila iestat&#x12B;jumi</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/editgroup</name>
+    <message>
+      <source>Group edit</source>
+      <translation type="unfinished">Grupas redi&#x123;&#x113;&#x161;anas</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation type="unfinished">Nosaukums</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation type="unfinished">Update</translation>
+    </message>
+    <message>
+      <source>Assigned users</source>
+      <translation type="unfinished">Pie&#x161;&#x137;irtie lietot&#x101;jiem</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation type="unfinished">Lietot&#x101;ja v&#x101;rds</translation>
+    </message>
+    <message>
+      <source>Remove user from group</source>
+      <translation type="unfinished">No&#x146;emt lietot&#x101;jus no grupas</translation>
+    </message>
+    <message>
+      <source>Assign user</source>
+      <translation type="unfinished">Pie&#x161;&#x137;irt lietot&#x101;jiem</translation>
+    </message>
+    <message>
+      <source>User assignment</source>
+      <translation type="unfinished">Lietot&#x101;ja uzdevums</translation>
+    </message>
+    <message>
+      <source>Assigned roles</source>
+      <translation type="unfinished">Pie&#x161;&#x137;irtie lomas</translation>
+    </message>
+    <message>
+      <source>Remove role from group</source>
+      <translation type="unfinished">No&#x146;emt lomu no grupas</translation>
+    </message>
+    <message>
+      <source>Assign role</source>
+      <translation type="unfinished">Pie&#x161;&#x137;irt noz&#x12B;mi</translation>
+    </message>
+    <message>
+      <source>Role assignment</source>
+      <translation type="unfinished">Lomu pie&#x161;&#x137;ir&#x161;ana</translation>
+    </message>
+    <message>
+      <source>Please enter group name</source>
+      <translation type="unfinished">L&#x16B;dzu, ievadiet grupas nosaukumu</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation type="unfinished">Sist&#x113;mas konfigur&#x101;cija</translation>
+    </message>
+    <message>
+      <source>Groups</source>
+      <translation type="unfinished">Grupas</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/groupassignuser</name>
+    <message>
+      <source>User</source>
+      <translation type="unfinished">Lietot&#x101;js</translation>
+    </message>
+    <message>
+      <source>Assign</source>
+      <translation type="unfinished">Pie&#x161;&#x137;irt</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/login</name>
+    <message>
+      <source>Please login</source>
+      <translation type="unfinished">L&#x16B;dzu, ieejiet</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation type="unfinished">Lietot&#x101;ja v&#x101;rds</translation>
+    </message>
+    <message>
+      <source>Password</source>
+      <translation type="unfinished">Parole</translation>
+    </message>
+    <message>
+      <source>Login</source>
+      <translation type="unfinished">Login</translation>
+    </message>
+    <message>
+      <source>Password remind</source>
+      <translation type="unfinished">Parole atg&#x101;din&#x101;t</translation>
+    </message>
+    <message>
+      <source>Please login with your facebook account</source>
+      <translation type="unfinished">L&#x16B;dzu, piesakieties ar savu Facebook kontu</translation>
+    </message>
+    <message>
+      <source>Report abuse</source>
+      <translation type="unfinished">Zi&#x146;ot par p&#x101;rk&#x101;pumu</translation>
+    </message>
+    <message>
+      <source>Please write whats wrong within a post</source>
+      <translation type="unfinished">L&#x16B;dzu rakstiet whats nepareizi laik&#x101; p&#x113;c</translation>
+    </message>
+    <message>
+      <source>Send</source>
+      <translation type="unfinished">S&#x16B;t&#x12B;t</translation>
+    </message>
+    <message>
+      <source>Registration is complete</source>
+      <translation type="unfinished">Re&#x123;istr&#x101;cija ir pabeigta</translation>
+    </message>
+    <message>
+      <source>Registration is complete please login.</source>
+      <translation type="unfinished">Re&#x123;istr&#x101;cija ir pabeigta, l&#x16B;dzu, piesakieties.</translation>
+    </message>
+    <message>
+      <source>Checkout</source>
+      <translation type="unfinished">Izrakst&#x12B;&#x161;an&#x101;s</translation>
+    </message>
+    <message>
+      <source>Incorrect username or password</source>
+      <translation type="unfinished">Nepareizs lietot&#x101;jv&#x101;rds vai parole</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/new</name>
+    <message>
+      <source>New user</source>
+      <translation type="unfinished">Jauns lietot&#x101;js</translation>
+    </message>
+    <message>
+      <source>Login information</source>
+      <translation type="unfinished">Pieteik&#x161;an&#x101;s inform&#x101;cija</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation type="unfinished">Lietot&#x101;ja v&#x101;rds</translation>
+    </message>
+    <message>
+      <source>Password</source>
+      <translation type="unfinished">Parole</translation>
+    </message>
+    <message>
+      <source>Repeat password</source>
+      <translation type="unfinished">Atk&#x101;rtot paroli</translation>
+    </message>
+    <message>
+      <source>Contact information</source>
+      <translation type="unfinished">Kontaktinform&#x101;cija</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation type="unfinished">E-pasts</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation type="unfinished">Saglab&#x101;t</translation>
+    </message>
+    <message>
+      <source>OR login with</source>
+      <translation type="unfinished">VAI login ar</translation>
+    </message>
+    <message>
+      <source>Login with google account</source>
+      <translation type="unfinished">Ien&#x101;kt ar google kontu</translation>
+    </message>
+    <message>
+      <source>Working</source>
+      <translation type="unfinished">Darba</translation>
+    </message>
+    <message>
+      <source>Working...</source>
+      <translation type="unfinished">Darba ...</translation>
+    </message>
+    <message>
+      <source>Registration</source>
+      <translation type="unfinished">Re&#x123;istr&#x101;cija</translation>
+    </message>
+    <message>
+      <source>Safe code</source>
+      <translation type="unfinished">Safe kodu</translation>
+    </message>
+    <message>
+      <source>Register</source>
+      <translation type="unfinished">Re&#x123;istr&#x113;ties</translation>
+    </message>
+    <message>
+      <source>Sutch username is already taken!</source>
+      <translation type="unfinished">Sutch lietot&#x101;jv&#x101;rds jau ir aiz&#x146;emts!</translation>
+    </message>
+    <message>
+      <source>Please enter album name!</source>
+      <translation type="unfinished">L&#x16B;dzu, ievadiet albuma nosaukumu!</translation>
+    </message>
+    <message>
+      <source>Please enter category name!</source>
+      <translation type="unfinished">L&#x16B;dzu, ievadiet kategorijas nosaukumu!</translation>
+    </message>
+    <message>
+      <source>User exists</source>
+      <translation type="unfinished">Lietot&#x101;js past&#x101;v</translation>
+    </message>
+    <message>
+      <source>Wrong email address</source>
+      <translation type="unfinished">Nepareizs e-pasta adresi</translation>
+    </message>
+    <message>
+      <source>Please enter username</source>
+      <translation type="unfinished">L&#x16B;dzu, ievadiet lietot&#x101;jv&#x101;rdu</translation>
+    </message>
+    <message>
+      <source>Passwords mismatch</source>
+      <translation type="unfinished">Paroles neatbilst&#x12B;ba</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation type="unfinished">Sist&#x113;mas konfigur&#x101;cija</translation>
+    </message>
+    <message>
+      <source>Users</source>
+      <translation type="unfinished">Lietot&#x101;ji</translation>
+    </message>
+    <message>
+      <source>Please enter group name</source>
+      <translation type="unfinished">L&#x16B;dzu, ievadiet grupas nosaukumu</translation>
+    </message>
+    <message>
+      <source>E-mail taken!</source>
+      <translation type="unfinished">E-pasts ir aiz&#x146;emts!</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/newgroup</name>
+    <message>
+      <source>New group</source>
+      <translation type="unfinished">Jauna grupa</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation type="unfinished">Nosaukums</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation type="unfinished">Saglab&#x101;t</translation>
+    </message>
+    <message>
+      <source>Save and assign user</source>
+      <translation type="unfinished">Saglab&#x101;t un j&#x101;pie&#x161;&#x137;ir lietot&#x101;ja</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation type="unfinished">Sist&#x113;mas konfigur&#x101;cija</translation>
+    </message>
+    <message>
+      <source>Groups</source>
+      <translation type="unfinished">Grupas</translation>
+    </message>
+  </context>
+  <context>
+    <name>pagelayout/pagelayout</name>
+    <message>
+      <source>Home</source>
+      <translation type="unfinished">S&#x101;kums</translation>
+    </message>
+    <message>
+      <source>Configuration</source>
+      <translation type="unfinished">Konfigur&#x101;cija</translation>
+    </message>
+    <message>
+      <source>Gallery categorys</source>
+      <translation type="unfinished">Galerija categorys</translation>
+    </message>
+    <message>
+      <source>Last uploads to albums</source>
+      <translation type="unfinished">Jaun&#x101;kie att&#x113;li uz albumiem</translation>
+    </message>
+    <message>
+      <source>Batch images add</source>
+      <translation type="unfinished">S&#x113;rija att&#x113;lu pievienot</translation>
+    </message>
+    <message>
+      <source>Duplicates</source>
+      <translation type="unfinished">Dublik&#x101;tus</translation>
+    </message>
+    <message>
+      <source>Static articles</source>
+      <translation type="unfinished">Static raksti</translation>
+    </message>
+    <message>
+      <source>Statistic</source>
+      <translation type="unfinished">Statistikas</translation>
+    </message>
+    <message>
+      <source>Shop</source>
+      <translation type="unfinished">Veikals</translation>
+    </message>
+    <message>
+      <source>Forum</source>
+      <translation type="unfinished">Forums</translation>
+    </message>
+    <message>
+      <source>Delete photo by ID</source>
+      <translation type="unfinished">Dz&#x113;st photo p&#x113;c ID</translation>
+    </message>
+    <message>
+      <source>Photo was deleted</source>
+      <translation type="unfinished">Foto tika izdz&#x113;sts</translation>
+    </message>
+    <message>
+      <source>Go to album</source>
+      <translation type="unfinished">Doties uz albumu</translation>
+    </message>
+    <message>
+      <source>Go to forum topic</source>
+      <translation type="unfinished">Iet uz foruma t&#x113;mu</translation>
+    </message>
+    <message>
+      <source>Go to forum category</source>
+      <translation type="unfinished">Go to forum kategorij&#x101;</translation>
+    </message>
+    <message>
+      <source>Go to image</source>
+      <translation type="unfinished">Iet uz att&#x113;la</translation>
+    </message>
+    <message>
+      <source>Root category</source>
+      <translation type="unfinished">Root kategorij&#x101;</translation>
+    </message>
+    <message>
+      <source>Open</source>
+      <translation type="unfinished">Atv&#x113;rt</translation>
+    </message>
+    <message>
+      <source>Edit</source>
+      <translation type="unfinished">Redi&#x123;&#x113;t</translation>
+    </message>
+    <message>
+      <source>New album</source>
+      <translation type="unfinished">Jauns albums</translation>
+    </message>
+    <message>
+      <source>New batch albums</source>
+      <translation type="unfinished">Jaunu partiju albumi</translation>
+    </message>
+    <message>
+      <source>New category</source>
+      <translation type="unfinished">Jauna kategorija</translation>
+    </message>
+    <message>
+      <source>Delete album</source>
+      <translation type="unfinished">Dz&#x113;st albumu</translation>
+    </message>
+    <message>
+      <source>Delete category</source>
+      <translation type="unfinished">Izdz&#x113;st kategoriju</translation>
+    </message>
+    <message>
+      <source>Add images</source>
+      <translation type="unfinished">Pievieno att&#x113;lus</translation>
+    </message>
+    <message>
+      <source>Move images</source>
+      <translation type="unfinished">P&#x101;rvietot att&#x113;lus</translation>
+    </message>
+    <message>
+      <source>It\'s NOT fake!</source>
+      <translation type="unfinished">Tas \ &amp;#39;s nav viltotas!</translation>
+    </message>
+    <message>
+      <source>Rendered in</source>
+      <translation type="unfinished">Aizmugurisks</translation>
+    </message>
+    <message>
+      <source>Logged user</source>
+      <translation type="unfinished">Pieteicies lietot&#x101;js</translation>
+    </message>
+    <message>
+      <source>Account</source>
+      <translation type="unfinished">Kontu</translation>
+    </message>
+    <message>
+      <source>Logout</source>
+      <translation type="unfinished">Logout</translation>
+    </message>
+    <message>
+      <source>Login</source>
+      <translation type="unfinished">Login</translation>
+    </message>
+    <message>
+      <source>Enter keyword or phrase</source>
+      <translation type="unfinished">Ievadiet atsl&#x113;gv&#x101;rdu vai fr&#x101;zi</translation>
+    </message>
+    <message>
+      <source>Search entire forum</source>
+      <translation type="unfinished">Mekl&#x113;t vis&#x101; forum&#x101;</translation>
+    </message>
+    <message>
+      <source>Search</source>
+      <translation type="unfinished">Mekl&#x113;&#x161;ana</translation>
+    </message>
+    <message>
+      <source>Last uploads</source>
+      <translation type="unfinished">Jaun&#x101;kie att&#x113;li</translation>
+    </message>
+    <message>
+      <source>Last commented</source>
+      <translation type="unfinished">P&#x113;d&#x113;j&#x101;s koment&#x113;t&#x101;s</translation>
+    </message>
+    <message>
+      <source>Last hits</source>
+      <translation type="unfinished">P&#x113;d&#x113;jais hits</translation>
+    </message>
+    <message>
+      <source>Last rated</source>
+      <translation type="unfinished">P&#x113;d&#x113;jais nomin&#x101;l&#x101;</translation>
+    </message>
+    <message>
+      <source>Last 24 h.</source>
+      <translation type="unfinished">P&#x113;d&#x113;jo 24 h.</translation>
+    </message>
+    <message>
+      <source>Most popular</source>
+      <translation type="unfinished">Vispopul&#x101;r&#x101;k&#x101;s</translation>
+    </message>
+    <message>
+      <source>Top rated</source>
+      <translation type="unfinished">Visaugst&#x101;k nov&#x113;rt&#x113;t&#x101;s</translation>
+    </message>
+    <message>
+      <source>Search entire gallery</source>
+      <translation type="unfinished">Mekl&#x113;t visu galeriju</translation>
+    </message>
+    <message>
+      <source>Last uploaded images</source>
+      <translation type="unfinished">P&#x113;d&#x113;j&#x101;s aug&#x161;upiel&#x101;d&#x113;to att&#x113;lu</translation>
+    </message>
+    <message>
+      <source>View all categorys</source>
+      <translation type="unfinished">Skat&#x12B;t visus categorys</translation>
+    </message>
+    <message>
+      <source>All time</source>
+      <translation type="unfinished">Visu laiku</translation>
+    </message>
+    <message>
+      <source>Interactive</source>
+      <translation type="unfinished">Interakt&#x12B;vs</translation>
+    </message>
+    <message>
+      <source>Search by keyword</source>
+      <translation type="unfinished">Mekl&#x113;&#x161;ana p&#x113;c atsl&#x113;gv&#x101;rda</translation>
+    </message>
+    <message>
+      <source>Search by color</source>
+      <translation type="unfinished">Mekl&#x113;t p&#x113;c kr&#x101;sas</translation>
+    </message>
+    <message>
+      <source>Search by similarity</source>
+      <translation type="unfinished">Mekl&#x113;t p&#x113;c l&#x12B;dz&#x12B;bas</translation>
+    </message>
+    <message>
+      <source>Search by sketch</source>
+      <translation type="unfinished">Mekl&#x113;t p&#x113;c sketch</translation>
+    </message>
+    <message>
+      <source>Last viewed images</source>
+      <translation type="unfinished">P&#x113;d&#x113;jie apskat&#x12B;tie att&#x113;li</translation>
+    </message>
+    <message>
+      <source>Last searches</source>
+      <translation type="unfinished">Jaun&#x101;kie mekl&#x113;jumi</translation>
+    </message>
+    <message>
+      <source>My account</source>
+      <translation type="unfinished">Mans konts</translation>
+    </message>
+    <message>
+      <source>Profile page</source>
+      <translation type="unfinished">Profila lapa</translation>
+    </message>
+    <message>
+      <source>Manage albums</source>
+      <translation type="unfinished">P&#x101;rvald&#x12B;t albums</translation>
+    </message>
+    <message>
+      <source>Credits</source>
+      <translation type="unfinished">Kred&#x12B;ti</translation>
+    </message>
+    <message>
+      <source>My orders</source>
+      <translation type="unfinished">Mani pas&#x16B;t&#x12B;jumi</translation>
+    </message>
+    <message>
+      <source>My credits orders</source>
+      <translation type="unfinished">Mani kred&#x12B;ti pas&#x16B;t&#x12B;jumi</translation>
+    </message>
+    <message>
+      <source>Import images from facebook</source>
+      <translation type="unfinished">Import&#x113;t att&#x113;lus no facebook</translation>
+    </message>
+    <message>
+      <source>Register</source>
+      <translation type="unfinished">Re&#x123;istr&#x113;ties</translation>
+    </message>
+    <message>
+      <source>My favorites</source>
+      <translation type="unfinished">Mana izlase</translation>
+    </message>
+    <message>
+      <source>Basket</source>
+      <translation type="unfinished">Grozs</translation>
+    </message>
+    <message>
+      <source>Upload</source>
+      <translation type="unfinished">Upload</translation>
+    </message>
+    <message>
+      <source>Upload zip</source>
+      <translation type="unfinished">Aug&#x161;upiel&#x101;d&#x113;t zip</translation>
+    </message>
+    <message>
+      <source>Search...</source>
+      <translation type="unfinished">Mekl&#x113;t ...</translation>
+    </message>
+  </context>
+  <context>
+    <name>fb/album</name>
+    <message>
+      <source>Check photo to import</source>
+      <translation type="unfinished">P&#x101;rbaudiet foto import&#x113;t</translation>
+    </message>
+    <message>
+      <source>Import selected images to</source>
+      <translation type="unfinished">Import&#x113;t atlas&#x12B;tos att&#x113;lus uz</translation>
+    </message>
+    <message>
+      <source>To what album you want to import images, start typing album name and click search</source>
+      <translation type="unfinished">Cik albumu, ko v&#x113;laties import&#x113;t att&#x113;lus, s&#x101;ciet rakst&#x12B;t albuma nosaukumu un noklik&#x161;&#x137;iniet uz mekl&#x113;&#x161;anu</translation>
+    </message>
+    <message>
+      <source>Search for album</source>
+      <translation type="unfinished">Mekl&#x113;t albums</translation>
+    </message>
+    <message>
+      <source>Check all</source>
+      <translation type="unfinished">P&#x101;rbaudiet visus</translation>
+    </message>
+    <message>
+      <source>Click to see target, new window will open</source>
+      <translation type="unfinished">Noklik&#x161;&#x137;iniet, lai apl&#x16B;kotu m&#x113;r&#x137;i, Atv&#x113;rsies jauns logs,</translation>
+    </message>
+    <message>
+      <source>Import selected images</source>
+      <translation type="unfinished">Importa izv&#x113;l&#x113;tos att&#x113;lus</translation>
+    </message>
+    <message>
+      <source>Please choose atleast one image!</source>
+      <translation type="unfinished">L&#x16B;dzu, izv&#x113;lieties atleast vienu att&#x113;lu!</translation>
+    </message>
+    <message>
+      <source>images to import</source>
+      <translation type="unfinished">att&#x113;lu, lai import&#x113;tu</translation>
+    </message>
+    <message>
+      <source>All images were imported</source>
+      <translation type="unfinished">Visi att&#x113;li ir import&#x113;ti</translation>
+    </message>
+    <message>
+      <source>Please choose album</source>
+      <translation type="unfinished">L&#x16B;dzu, izv&#x113;lieties albumu</translation>
+    </message>
+    <message>
+      <source>Preview version</source>
+      <translation type="unfinished">Preview versija</translation>
+    </message>
+  </context>
+  <context>
+    <name>feedback/form</name>
+    <message>
+      <source>Feedback</source>
+      <translation type="unfinished">Atsauksmes</translation>
+    </message>
+    <message>
+      <source>Feedback was send</source>
+      <translation type="unfinished">Atsauksmes bija s&#x16B;t&#x12B;t</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation type="unfinished">V&#x101;rds</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation type="unfinished">E-pasts</translation>
+    </message>
+    <message>
+      <source>Text</source>
+      <translation type="unfinished">Teksts</translation>
+    </message>
+    <message>
+      <source>Captcha image</source>
+      <translation type="unfinished">CAPTCHA Image</translation>
+    </message>
+    <message>
+      <source>Captcha code</source>
+      <translation type="unfinished">Captcha kodu</translation>
+    </message>
+    <message>
+      <source>Required fields</source>
+      <translation type="unfinished">Oblig&#x101;ti lauki</translation>
+    </message>
+    <message>
+      <source>Send</source>
+      <translation type="unfinished">S&#x16B;t&#x12B;t</translation>
+    </message>
+    <message>
+      <source>Please enter name!</source>
+      <translation type="unfinished">L&#x16B;dzu, ievadiet v&#x101;rdu!</translation>
+    </message>
+    <message>
+      <source>Invalid e-mail address!</source>
+      <translation type="unfinished">Nepareiza e-pasta adresi!</translation>
+    </message>
+    <message>
+      <source>Please enter text!</source>
+      <translation type="unfinished">L&#x16B;dzu, ievadiet tekstu!</translation>
+    </message>
+    <message>
+      <source>Please enter captcha code!</source>
+      <translation type="unfinished">L&#x16B;dzu, ievadiet captcha kodu!</translation>
+    </message>
+  </context>
+  <context>
+    <name>feedback/formsend</name>
+    <message>
+      <source>Feedback</source>
+      <translation type="unfinished">Atsauksmes</translation>
+    </message>
+    <message>
+      <source>Your feedback was succesfuly send</source>
+      <translation type="unfinished">J&#x16B;su atsauksmes ir veiksm&#x12B;gi s&#x16B;t&#x12B;t</translation>
+    </message>
+    <message>
+      <source>Home page</source>
+      <translation type="unfinished">M&#x101;jas lapa</translation>
+    </message>
+  </context>
+  <context>
+    <name>feedback/mail</name>
+    <message>
+      <source>Hello</source>
+      <translation type="unfinished">Sveicin&#x101;ti</translation>
+    </message>
+    <message>
+      <source>Feedback data</source>
+      <translation type="unfinished">Atsauksmes datu</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation type="unfinished">V&#x101;rds</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation type="unfinished">E-pasts</translation>
+    </message>
+    <message>
+      <source>Text</source>
+      <translation type="unfinished">Teksts</translation>
+    </message>
+    <message>
+      <source>Bye</source>
+      <translation type="unfinished">Bye</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/anaglyph</name>
+    <message>
+      <source>Original</source>
+      <translation type="unfinished">Ori&#x123;in&#x101;lu</translation>
+    </message>
+    <message>
+      <source>Anaglyph</source>
+      <translation type="unfinished">Anaglyph</translation>
+    </message>
+    <message>
+      <source>Animating</source>
+      <translation type="unfinished">Apguve</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/color</name>
+    <message>
+      <source>Exclude color</source>
+      <translation type="unfinished">Izsl&#x113;gt kr&#x101;sa</translation>
+    </message>
+    <message>
+      <source>Maximum</source>
+      <translation type="unfinished">Maksim&#x101;lais</translation>
+    </message>
+    <message>
+      <source>filters</source>
+      <translation type="unfinished">filtri</translation>
+    </message>
+    <message>
+      <source>Include color</source>
+      <translation type="unfinished">Ietver kr&#x101;su</translation>
+    </message>
+    <message>
+      <source>Remove color</source>
+      <translation type="unfinished">No&#x146;emt kr&#x101;su</translation>
+    </message>
+    <message>
+      <source>Excluded colors in search</source>
+      <translation type="unfinished">Izsl&#x113;gts kr&#x101;sas mekl&#x113;&#x161;ana</translation>
+    </message>
+    <message>
+      <source>colors</source>
+      <translation type="unfinished">kr&#x101;sas</translation>
+    </message>
+    <message>
+      <source>More color</source>
+      <translation type="unfinished">Vair&#x101;k kr&#x101;su</translation>
+    </message>
+    <message>
+      <source>Return to pallete</source>
+      <translation type="unfinished">Atgriezties uz pallete</translation>
+    </message>
+    <message>
+      <source>Images by color</source>
+      <translation type="unfinished">Att&#x113;li p&#x113;c kr&#x101;sas</translation>
+    </message>
+    <message>
+      <source>Choose color</source>
+      <translation type="unfinished">Izv&#x113;lies kr&#x101;su</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation type="unfinished">Nav ierakstu.</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation type="unfinished">Page</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/createalbum</name>
+    <message>
+      <source>New album</source>
+      <translation type="unfinished">Jauns albums</translation>
+    </message>
+    <message>
+      <source>Album name</source>
+      <translation type="unfinished">Albuma nosaukums</translation>
+    </message>
+    <message>
+      <source>Description</source>
+      <translation type="unfinished">Apraksts</translation>
+    </message>
+    <message>
+      <source>Keywords</source>
+      <translation type="unfinished">Atsl&#x113;gas v&#x101;rdi</translation>
+    </message>
+    <message>
+      <source>Create</source>
+      <translation type="unfinished">Izveidot</translation>
+    </message>
+    <message>
+      <source>Create and upload photos</source>
+      <translation type="unfinished">Izveidot un aug&#x161;upiel&#x101;d&#x113;t fotogr&#x101;fijas</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/myfavorites</name>
+    <message>
+      <source>Remove from favorites</source>
+      <translation type="unfinished">No&#x146;emt no izlases</translation>
+    </message>
+    <message>
+      <source>My favorite images</source>
+      <translation type="unfinished">Mani m&#x12B;&#x13C;&#x101;kie att&#x113;li</translation>
+    </message>
+    <message>
+      <source>Remove</source>
+      <translation type="unfinished">No&#x146;emt</translation>
+    </message>
+    <message>
+      <source>Remove Open ID</source>
+      <translation type="unfinished">No&#x146;emt Atv&#x113;rt ID</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastcommented</name>
+    <message>
+      <source>Last commented images</source>
+      <translation type="unfinished">P&#x113;d&#x113;j&#x101;s koment&#x113;t&#x101;s bildes</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation type="unfinished">Nav ierakstu.</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation type="unfinished">Rezol&#x16B;cija</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation type="unfinished">Page</translation>
+    </message>
+    <message>
+      <source>Last commented gallery images.</source>
+      <translation type="unfinished">P&#x113;d&#x113;j&#x101;s koment&#x113;t&#x101;s gallery images.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lasthits</name>
+    <message>
+      <source>Last viewed images</source>
+      <translation type="unfinished">P&#x113;d&#x113;jie apskat&#x12B;tie att&#x113;li</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation type="unfinished">Nav ierakstu.</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation type="unfinished">Rezol&#x16B;cija</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation type="unfinished">Page</translation>
+    </message>
+    <message>
+      <source>Last viewed gallery images.</source>
+      <translation type="unfinished">P&#x113;d&#x113;jie skat&#x12B;tie gallery images.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastrated</name>
+    <message>
+      <source>Last rated images</source>
+      <translation type="unfinished">P&#x113;d&#x113;jo reizi nov&#x113;rt&#x113;ja att&#x113;lus</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation type="unfinished">Nav ierakstu.</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation type="unfinished">Rezol&#x16B;cija</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation type="unfinished">Page</translation>
+    </message>
+    <message>
+      <source>Recently rated images.</source>
+      <translation type="unfinished">Nesen rated att&#x113;lus.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastsearches</name>
+    <message>
+      <source>Last searches</source>
+      <translation type="unfinished">Jaun&#x101;kie mekl&#x113;jumi</translation>
+    </message>
+    <message>
+      <source>No records</source>
+      <translation type="unfinished">Nav ierakstu</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastuploads</name>
+    <message>
+      <source>Last uploaded images</source>
+      <translation type="unfinished">P&#x113;d&#x113;j&#x101;s aug&#x161;upiel&#x101;d&#x113;to att&#x113;lu</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation type="unfinished">Nav ierakstu.</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation type="unfinished">Rezol&#x16B;cija</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation type="unfinished">Page</translation>
+    </message>
+    <message>
+      <source>Latest additions to gallery.</source>
+      <translation type="unfinished">Jaun&#x101;kie papildin&#x101;jumi uz galeriju.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/my_albums_list</name>
+    <message>
+      <source>Edit album</source>
+      <translation type="unfinished">Redi&#x123;&#x113;t albumu</translation>
+    </message>
+    <message>
+      <source>Are you sure?</source>
+      <translation type="unfinished">Vai esat p&#x101;rliecin&#x101;ts?</translation>
+    </message>
+    <message>
+      <source>Delete album</source>
+      <translation type="unfinished">Dz&#x113;st albumu</translation>
+    </message>
+    <message>
+      <source>Add images</source>
+      <translation type="unfinished">Pievieno att&#x113;lus</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/myalbums</name>
+    <message>
+      <source>My albums</source>
+      <translation type="unfinished">Mani albumi</translation>
+    </message>
+    <message>
+      <source>New album</source>
+      <translation type="unfinished">Jauns albums</translation>
+    </message>
+    <message>
+      <source>Update priority</source>
+      <translation type="unfinished">Update priorit&#x101;te</translation>
+    </message>
+    <message>
+      <source>You do not have any album.</source>
+      <translation type="unfinished">Jums nav neviena albuma.</translation>
+    </message>
+    <message>
+      <source>Create a new album.</source>
+      <translation type="unfinished">Izveidot jaunu albumu.</translation>
+    </message>
+    <message>
+      <source>Account</source>
+      <translation type="unfinished">Kontu</translation>
+    </message>
+    <message>
+      <source>Albums</source>
+      <translation type="unfinished">Albums</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/mylistalbum</name>
+    <message>
+      <source>No records.</source>
+      <translation type="unfinished">Nav ierakstu.</translation>
+    </message>
+    <message>
+      <source>Account</source>
+      <translation type="unfinished">Kontu</translation>
+    </message>
+    <message>
+      <source>Albums</source>
+      <translation type="unfinished">Albums</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/popular</name>
+    <message>
+      <source>Most popular images</source>
+      <translation type="unfinished">Vispopul&#x101;r&#x101;k&#x101;s bildes</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation type="unfinished">Nav ierakstu.</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation type="unfinished">Rezol&#x16B;cija</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation type="unfinished">Page</translation>
+    </message>
+    <message>
+      <source>All time most popular images.</source>
+      <translation type="unfinished">Visu laiku popul&#x101;r&#x101;kais att&#x113;lus.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/popularrecect</name>
+    <message>
+      <source>Most popular images in 24 hours.</source>
+      <translation type="unfinished">Vispopul&#x101;r&#x101;k&#x101;s att&#x113;lus p&#x113;c 24 stund&#x101;m.</translation>
+    </message>
+    <message>
+      <source>There are no images.</source>
+      <translation type="unfinished">Nav att&#x113;lus.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/ratedrecent</name>
+    <message>
+      <source>Top rated images in 24 hours.</source>
+      <translation type="unfinished">Visaugst&#x101;k nov&#x113;rt&#x113;t&#x101;s att&#x113;lus p&#x113;c 24 stund&#x101;m.</translation>
+    </message>
+    <message>
+      <source>Top rated images in 24 hours</source>
+      <translation type="unfinished">Visaugst&#x101;k nov&#x113;rt&#x113;t&#x101;s att&#x113;lu 24 stundu laik&#x101;</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation type="unfinished">Page</translation>
+    </message>
+    <message>
+      <source>Top rated images in last 24 hours.</source>
+      <translation type="unfinished">Visaugst&#x101;k nov&#x113;rt&#x113;t&#x101;s fotogr&#x101;fijas p&#x113;d&#x113;jo 24 stundu laik&#x101;.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/sharehtml</name>
+    <message>
+      <source>Link to image</source>
+      <translation type="unfinished">Saite uz att&#x113;lu</translation>
+    </message>
+    <message>
+      <source>Link to image with thumbnail</source>
+      <translation type="unfinished">Saite uz att&#x113;lu ar s&#x12B;kt&#x113;lu</translation>
+    </message>
+    <message>
+      <source>Link to image with medium size thumbnail</source>
+      <translation type="unfinished">Saite uz att&#x113;lu ar vid&#x113;ja lieluma s&#x12B;kt&#x113;lu</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/sharephpbb</name>
+    <message>
+      <source>Link to image</source>
+      <translation type="unfinished">Saite uz att&#x113;lu</translation>
+    </message>
+    <message>
+      <source>Link to image with thumbnail</source>
+      <translation type="unfinished">Saite uz att&#x113;lu ar s&#x12B;kt&#x113;lu</translation>
+    </message>
+    <message>
+      <source>Link to image with medium size thumbnail</source>
+      <translation type="unfinished">Saite uz att&#x113;lu ar vid&#x113;ja lieluma s&#x12B;kt&#x113;lu</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/subcategory_list_full</name>
+    <message>
+      <source>albums</source>
+      <translation type="unfinished">albums</translation>
+    </message>
+    <message>
+      <source>images</source>
+      <translation type="unfinished">att&#x113;lu</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/toprated</name>
+    <message>
+      <source>Top rated images</source>
+      <translation type="unfinished">Visaugst&#x101;k nov&#x113;rt&#x113;t&#x101;s bildes</translation>
+    </message>
+    <message>
+      <source>No records</source>
+      <translation type="unfinished">Nav ierakstu</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation type="unfinished">Rezol&#x16B;cija</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation type="unfinished">Page</translation>
+    </message>
+    <message>
+      <source>All time top rated images.</source>
+      <translation type="unfinished">Visu laiku top rated att&#x113;lus.</translation>
+    </message>
+  </context>
+  <context>
+    <name>kernel/nopermission</name>
+    <message>
+      <source>You do not have permission to access module</source>
+      <translation type="unfinished">Jums nav at&#x13C;aujas piek&#x13C;&#x16B;t modulim</translation>
+    </message>
+    <message>
+      <source>and use</source>
+      <translation type="unfinished">un izmanto&#x161;ana</translation>
+    </message>
+    <message>
+      <source>function</source>
+      <translation type="unfinished">funkcija</translation>
+    </message>
+    <message>
+      <source>You do not have permission to access current object</source>
+      <translation type="unfinished">Jums nav at&#x13C;aujas piek&#x13C;&#x16B;t eso&#x161;o objektu</translation>
+    </message>
+  </context>
+  <context>
+    <name>core/paginator</name>
+    <message>
+      <source>Page</source>
+      <translation type="unfinished">Page</translation>
+    </message>
+    <message>
+      <source>of</source>
+      <translation type="unfinished">gada</translation>
+    </message>
+    <message>
+      <source>Found</source>
+      <translation type="unfinished">Atrasts</translation>
+    </message>
+    <message>
+      <source>Previous</source>
+      <translation type="unfinished">Iepriek&#x161;&#x113;jais</translation>
+    </message>
+    <message>
+      <source>Go to page</source>
+      <translation type="unfinished">Iet uz lapu</translation>
+    </message>
+    <message>
+      <source>Next</source>
+      <translation type="unfinished">N&#x101;kam&#x101;</translation>
+    </message>
+  </context>
+  <context>
+    <name>similar/similar</name>
+    <message>
+      <source>Visualy similar images to</source>
+      <translation type="unfinished">Visualy l&#x12B;dz&#x12B;gus att&#x113;lus uz</translation>
+    </message>
+    <message>
+      <source>Search for visualy similar images</source>
+      <translation type="unfinished">Mekl&#x113;t visualy l&#x12B;dz&#x12B;gus att&#x113;lus</translation>
+    </message>
+    <message>
+      <source>Please enable JavaScript to upload image</source>
+      <translation type="unfinished">L&#x16B;dzu, iesp&#x113;jojiet JavaScript, lai aug&#x161;upiel&#x101;d&#x113;t att&#x113;lu</translation>
+    </message>
+    <message>
+      <source>Click to choose image, you can also Drag and Drop file here (Drag and drop only for FF, Chrome).</source>
+      <translation type="unfinished">Noklik&#x161;&#x137;iniet, lai izv&#x113;l&#x113;tos att&#x113;lu, varat ar&#x12B; vilkt un nomest failu &#x161;eit (Drag and drop tikai FF, Chrome).</translation>
+    </message>
+    <message>
+      <source>Cancel</source>
+      <translation type="unfinished">Atcelt</translation>
+    </message>
+    <message>
+      <source>Failed</source>
+      <translation type="unfinished">Neizdev&#x101;s</translation>
+    </message>
+  </context>
+  <context>
+    <name>similar/sketch</name>
+    <message>
+      <source>Search by sketch</source>
+      <translation type="unfinished">Mekl&#x113;t p&#x113;c sketch</translation>
+    </message>
+    <message>
+      <source>Sketch and find images by your sketch</source>
+      <translation type="unfinished">Ski&#x10D;u un atrast att&#x113;lus ar j&#x16B;su skici</translation>
+    </message>
+  </context>
+  <context>
+    <name>statistic/view</name>
+    <message>
+      <source>hours</source>
+      <translation type="unfinished">stundas</translation>
+    </message>
+    <message>
+      <source>Total pageviews</source>
+      <translation type="unfinished">Kop&#x101; pageviews</translation>
+    </message>
+    <message>
+      <source>Total visits</source>
+      <translation type="unfinished">Kop&#x101; apmekl&#x113;jumi</translation>
+    </message>
+    <message>
+      <source>Time spent</source>
+      <translation type="unfinished">Laiks, kas pavad&#x12B;ts</translation>
+    </message>
+    <message>
+      <source>Last 31 days statistic, data resource - google analytics API</source>
+      <translation type="unfinished">P&#x113;d&#x113;jo 31 dienu statistika, inform&#x101;cijas b&#x101;zi - Google Analytics API</translation>
+    </message>
+    <message>
+      <source>Legend</source>
+      <translation type="unfinished">Le&#x123;enda</translation>
+    </message>
+    <message>
+      <source>Pageviews</source>
+      <translation type="unfinished">Pageviews</translation>
+    </message>
+    <message>
+      <source>Visits</source>
+      <translation type="unfinished">Apmekl&#x113;jumi</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/mapaccounts</name>
+    <message>
+      <source>Login with facebook</source>
+      <translation type="unfinished">Login ar facebook</translation>
+    </message>
+    <message>
+      <source>Map to my account</source>
+      <translation type="unfinished">Karte uz manu kontu</translation>
+    </message>
+    <message>
+      <source>my account</source>
+      <translation type="unfinished">mans konts</translation>
+    </message>
+    <message>
+      <source>Login</source>
+      <translation type="unfinished">Login</translation>
+    </message>
+    <message>
+      <source>map to my account</source>
+      <translation type="unfinished">karti manam kontam</translation>
+    </message>
+    <message>
+      <source>Incorrect login or password</source>
+      <translation type="unfinished">Nepareiza lietot&#x101;jv&#x101;rdu un paroli</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation type="unfinished">Lietot&#x101;ja v&#x101;rds</translation>
+    </message>
+    <message>
+      <source>Password</source>
+      <translation type="unfinished">Parole</translation>
+    </message>
+    <message>
+      <source>OR</source>
+      <translation type="unfinished">OR</translation>
+    </message>
+    <message>
+      <source>create account</source>
+      <translation type="unfinished">izveidot kontu</translation>
+    </message>
+    <message>
+      <source>Next</source>
+      <translation type="unfinished">N&#x101;kam&#x101;</translation>
+    </message>
+    <message>
+      <source>Open ID</source>
+      <translation type="unfinished">Atv&#x113;rt ID</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/forgotpassword</name>
+    <message>
+      <source>Password remind</source>
+      <translation type="unfinished">Parole atg&#x101;din&#x101;t</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation type="unfinished">E-pasts</translation>
+    </message>
+    <message>
+      <source>Restore password</source>
+      <translation type="unfinished">Atjaunot paroli</translation>
+    </message>
+    <message>
+      <source>Order confirmed</source>
+      <translation type="unfinished">Pas&#x16B;t&#x12B;t apstiprin&#x101;ts</translation>
+    </message>
+    <message>
+      <source>Credits order confirmed</source>
+      <translation type="unfinished">Kred&#x12B;ti r&#x12B;kojumu apstiprin&#x101;ts</translation>
+    </message>
+    <message>
+      <source>Wrong e-mail address!</source>
+      <translation type="unfinished">Nepareizs e-pasta adresi!</translation>
+    </message>
+    <message>
+      <source>Click this link and to You will be send new password</source>
+      <translation type="unfinished">Noklik&#x161;&#x137;iniet uz &#x161;&#x12B;s saites, un Tev tiks nos&#x16B;t&#x12B;ta jauna parole</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/forgotpasswordsent</name>
+    <message>
+      <source>Password remind</source>
+      <translation type="unfinished">Parole atg&#x101;din&#x101;t</translation>
+    </message>
+    <message>
+      <source>E-mail send. Click link in email and to You will be send out new password.</source>
+      <translation type="unfinished">E-pasts nos&#x16B;t&#x12B;t. Noklik&#x161;&#x137;iniet uz saites e-pastu un Tev tiks izs&#x16B;t&#x12B;t jaunu paroli.</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/index</name>
+    <message>
+      <source>User home</source>
+      <translation type="unfinished">Lietot&#x101;ja m&#x101;jas</translation>
+    </message>
+    <message>
+      <source>Welcome. Here you can:</source>
+      <translation type="unfinished">Laipni l&#x16B;dzam. &#x160;eit J&#x16B;s varat:</translation>
+    </message>
+    <message>
+      <source>Edit personal settings</source>
+      <translation type="unfinished">Redi&#x123;&#x113;t personiskos iestat&#x12B;jumus</translation>
+    </message>
+    <message>
+      <source>Manage personal albums</source>
+      <translation type="unfinished">P&#x101;rvald&#x12B;t person&#x12B;go albumi</translation>
+    </message>
+    <message>
+      <source>My account</source>
+      <translation type="unfinished">Mans konts</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/profile</name>
+    <message>
+      <source>User profile</source>
+      <translation type="unfinished">Lietot&#x101;ja profils</translation>
+    </message>
+    <message>
+      <source>Name and surname</source>
+      <translation type="unfinished">V&#x101;rds un uzv&#x101;rds</translation>
+    </message>
+    <message>
+      <source>Website</source>
+      <translation type="unfinished">Website</translation>
+    </message>
+    <message>
+      <source>Introduction</source>
+      <translation type="unfinished">Ievads</translation>
+    </message>
+    <message>
+      <source>Last updated albums</source>
+      <translation type="unfinished">Jaun&#x101;kais alb&#x16B;mos</translation>
+    </message>
+    <message>
+      <source>Last uploaded images</source>
+      <translation type="unfinished">P&#x113;d&#x113;j&#x101;s aug&#x161;upiel&#x101;d&#x113;to att&#x113;lu</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/remindpassword</name>
+    <message>
+      <source>New password</source>
+      <translation type="unfinished">Jaun&#x101; parole</translation>
+    </message>
+    <message>
+      <source>Hash not found or was used already</source>
+      <translation type="unfinished">Hash nav atrasta vai kura tika izmantota jau</translation>
+    </message>
+    <message>
+      <source>Password remind - new password</source>
+      <translation type="unfinished">Parole atg&#x101;din&#x101;t - jaunu paroli</translation>
+    </message>
+    <message>
+      <source>New password:</source>
+      <translation type="unfinished">Jaun&#x101; parole:</translation>
+    </message>
+    <message>
+      <source>New password has beend send to your email.</source>
+      <translation type="unfinished">Jaun&#x101; parole beend nos&#x16B;t&#x12B;t uz j&#x16B;su e-pastu.</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/basket</name>
+    <message>
+      <source>Basket</source>
+      <translation type="unfinished">Grozs</translation>
+    </message>
+    <message>
+      <source>Image name</source>
+      <translation type="unfinished">Att&#x113;la nosaukums</translation>
+    </message>
+    <message>
+      <source>Version</source>
+      <translation type="unfinished">Versija</translation>
+    </message>
+    <message>
+      <source>Image size</source>
+      <translation type="unfinished">Att&#x113;la lielums</translation>
+    </message>
+    <message>
+      <source>Format</source>
+      <translation type="unfinished">Form&#x101;ts</translation>
+    </message>
+    <message>
+      <source>Price</source>
+      <translation type="unfinished">Cena</translation>
+    </message>
+    <message>
+      <source>Credits</source>
+      <translation type="unfinished">Kred&#x12B;ti</translation>
+    </message>
+    <message>
+      <source>Remove from basket</source>
+      <translation type="unfinished">Iz&#x146;emt no groza</translation>
+    </message>
+    <message>
+      <source>Choose payment option</source>
+      <translation type="unfinished">Izv&#x113;lieties maks&#x101;&#x161;anas iesp&#x113;ju</translation>
+    </message>
+    <message>
+      <source>In order to checkout atlest one item have to be selected.</source>
+      <translation type="unfinished">Lai izrakst&#x12B;&#x161;an&#x101;s atlest viena prece ir j&#x101;izv&#x113;las.</translation>
+    </message>
+    <message>
+      <source>In order to checkout you have to</source>
+      <translation type="unfinished">Lai izrakst&#x12B;&#x161;an&#x101;s jums ir</translation>
+    </message>
+    <message>
+      <source>sign in</source>
+      <translation type="unfinished">pierakstieties</translation>
+    </message>
+    <message>
+      <source>or</source>
+      <translation type="unfinished">vai</translation>
+    </message>
+    <message>
+      <source>login</source>
+      <translation type="unfinished">login</translation>
+    </message>
+    <message>
+      <source>if you have already created an account</source>
+      <translation type="unfinished">ja J&#x16B;s jau esat izveidojis kontu</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/buycredits</name>
+    <message>
+      <source>Buy credits</source>
+      <translation type="unfinished">Pirkt kred&#x12B;tus</translation>
+    </message>
+    <message>
+      <source>How many credits do want to buy?</source>
+      <translation type="unfinished">Cik kred&#x12B;tus v&#x113;los nopirkt?</translation>
+    </message>
+    <message>
+      <source>Choose payment method</source>
+      <translation type="unfinished">Izv&#x113;lieties maks&#x101;&#x161;anas metodi</translation>
+    </message>
+  </context>
+  <context>
+    <name>credits_handler/accept</name>
+    <message>
+      <source>Order succesfull</source>
+      <translation type="unfinished">Pas&#x16B;t&#x12B;t succesfull</translation>
+    </message>
+    <message>
+      <source>Payment was succesfull</source>
+      <translation type="unfinished">Maks&#x101;jums bija succesfull</translation>
+    </message>
+  </context>
+  <context>
+    <name>credits_handler/process</name>
+    <message>
+      <source>Checkout</source>
+      <translation type="unfinished">Izrakst&#x12B;&#x161;an&#x101;s</translation>
+    </message>
+    <message>
+      <source>Confirm payment</source>
+      <translation type="unfinished">Apstiprin&#x101;t maks&#x101;jumu</translation>
+    </message>
+    <message>
+      <source>Not enouth credits to checkout</source>
+      <translation type="unfinished">Nav enouth kred&#x12B;ti izrakst&#x12B;&#x161;an&#x101;s</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/cancel</name>
+    <message>
+      <source>Payment canceled</source>
+      <translation type="unfinished">Maks&#x101;jumu atcelts</translation>
+    </message>
+    <message>
+      <source>Paypal payment was canceled.</source>
+      <translation type="unfinished">Paypal maks&#x101;jumu tika atcelts.</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/error</name>
+    <message>
+      <source>Error</source>
+      <translation type="unfinished">K&#x13C;&#x16B;da</translation>
+    </message>
+    <message>
+      <source>Execution was terminated unexpectedly.</source>
+      <translation type="unfinished">Izpilde tika p&#x101;rtraukta negaid&#x12B;ti.</translation>
+    </message>
+  </context>
+  <context>
+    <name>paypal_handler/process</name>
+    <message>
+      <source>Checkout using Paypal</source>
+      <translation type="unfinished">Checkout, izmantojot Paypal</translation>
+    </message>
+    <message>
+      <source>Buyer\'s Email</source>
+      <translation type="unfinished">Pirc&#x113;ja \ &amp;#39;s e-pasts</translation>
+    </message>
+    <message>
+      <source>Amount</source>
+      <translation type="unfinished">Summa</translation>
+    </message>
+    <message>
+      <source>Currency</source>
+      <translation type="unfinished">Val&#x16B;ta</translation>
+    </message>
+    <message>
+      <source>Credits</source>
+      <translation type="unfinished">Kred&#x12B;ti</translation>
+    </message>
+  </context>
+  <context>
+    <name>paypal_handler/review</name>
+    <message>
+      <source>Order payment confirmation</source>
+      <translation type="unfinished">Pas&#x16B;t&#x12B;t maks&#x101;juma apstiprin&#x101;&#x161;anas</translation>
+    </message>
+    <message>
+      <source>Order amount</source>
+      <translation type="unfinished">Pas&#x16B;t&#x12B;juma summa</translation>
+    </message>
+    <message>
+      <source>Confirm payment</source>
+      <translation type="unfinished">Apstiprin&#x101;t maks&#x101;jumu</translation>
+    </message>
+    <message>
+      <source>Thank you for your payment!</source>
+      <translation type="unfinished">Paldies par J&#x16B;su maks&#x101;jumu!</translation>
+    </message>
+    <message>
+      <source>credits</source>
+      <translation type="unfinished">kred&#x12B;ti</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/mycredits</name>
+    <message>
+      <source>My credits balanse</source>
+      <translation type="unfinished">Mani kred&#x12B;ti balanse</translation>
+    </message>
+    <message>
+      <source>You have</source>
+      <translation type="unfinished">Jums ir</translation>
+    </message>
+    <message>
+      <source>in your account</source>
+      <translation type="unfinished">sav&#x101; kont&#x101;</translation>
+    </message>
+    <message>
+      <source>Buy credits</source>
+      <translation type="unfinished">Pirkt kred&#x12B;tus</translation>
+    </message>
+    <message>
+      <source>My credits</source>
+      <translation type="unfinished">Mani kred&#x12B;ti</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/myorders</name>
+    <message>
+      <source>My credits orders</source>
+      <translation type="unfinished">Mani kred&#x12B;ti pas&#x16B;t&#x12B;jumi</translation>
+    </message>
+    <message>
+      <source>Date</source>
+      <translation type="unfinished">Datums</translation>
+    </message>
+    <message>
+      <source>Order price</source>
+      <translation type="unfinished">Pas&#x16B;t&#x12B;juma cenu</translation>
+    </message>
+    <message>
+      <source>Order credits</source>
+      <translation type="unfinished">Pas&#x16B;t&#x12B;t kred&#x12B;ti</translation>
+    </message>
+    <message>
+      <source>Order status</source>
+      <translation type="unfinished">Pas&#x16B;t&#x12B;juma statuss</translation>
+    </message>
+    <message>
+      <source>Payed</source>
+      <translation type="unfinished">Payed</translation>
+    </message>
+    <message>
+      <source>Confirmed</source>
+      <translation type="unfinished">Apstiprin&#x101;ts</translation>
+    </message>
+    <message>
+      <source>My orders</source>
+      <translation type="unfinished">Mani pas&#x16B;t&#x12B;jumi</translation>
+    </message>
+    <message>
+      <source>Order view</source>
+      <translation type="unfinished">Pas&#x16B;t&#x12B;t skats</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/orderview</name>
+    <message>
+      <source>Order view</source>
+      <translation type="unfinished">Pas&#x16B;t&#x12B;t skats</translation>
+    </message>
+    <message>
+      <source>Order time</source>
+      <translation type="unfinished">Pas&#x16B;t&#x12B;t laiks</translation>
+    </message>
+    <message>
+      <source>Order price</source>
+      <translation type="unfinished">Pas&#x16B;t&#x12B;juma cenu</translation>
+    </message>
+    <message>
+      <source>Order credits</source>
+      <translation type="unfinished">Pas&#x16B;t&#x12B;t kred&#x12B;ti</translation>
+    </message>
+    <message>
+      <source>Order status</source>
+      <translation type="unfinished">Pas&#x16B;t&#x12B;juma statuss</translation>
+    </message>
+    <message>
+      <source>Payed</source>
+      <translation type="unfinished">Payed</translation>
+    </message>
+    <message>
+      <source>Confirmed</source>
+      <translation type="unfinished">Apstiprin&#x101;ts</translation>
+    </message>
+    <message>
+      <source>Ordered items</source>
+      <translation type="unfinished">Sak&#x101;rtots preces</translation>
+    </message>
+    <message>
+      <source>Image name</source>
+      <translation type="unfinished">Att&#x113;la nosaukums</translation>
+    </message>
+    <message>
+      <source>Version</source>
+      <translation type="unfinished">Versija</translation>
+    </message>
+    <message>
+      <source>Image size</source>
+      <translation type="unfinished">Att&#x113;la lielums</translation>
+    </message>
+    <message>
+      <source>Format</source>
+      <translation type="unfinished">Form&#x101;ts</translation>
+    </message>
+    <message>
+      <source>Price</source>
+      <translation type="unfinished">Cena</translation>
+    </message>
+    <message>
+      <source>Download count</source>
+      <translation type="unfinished">Download skaits</translation>
+    </message>
+    <message>
+      <source>Downloads left</source>
+      <translation type="unfinished">Lejupiel&#x101;des kreisi</translation>
+    </message>
+    <message>
+      <source>Credits</source>
+      <translation type="unfinished">Kred&#x12B;ti</translation>
+    </message>
+    <message>
+      <source>Download image</source>
+      <translation type="unfinished">Download image</translation>
+    </message>
+    <message>
+      <source>downloads left</source>
+      <translation type="unfinished">downloads kreisi</translation>
+    </message>
+    <message>
+      <source>No downloads available</source>
+      <translation type="unfinished">Nr downloads pieejams</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/paymentoption</name>
+    <message>
+      <source>Payment option</source>
+      <translation type="unfinished">Maks&#x101;jumu variants</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation type="unfinished">E-pasts</translation>
+    </message>
+    <message>
+      <source>Choose payment method</source>
+      <translation type="unfinished">Izv&#x113;lieties maks&#x101;&#x161;anas metodi</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/paymentoptioncredit</name>
+    <message>
+      <source>Payment option</source>
+      <translation type="unfinished">Maks&#x101;jumu variants</translation>
+    </message>
+    <message>
+      <source>Continue</source>
+      <translation type="unfinished">Turpin&#x101;t</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/category</name>
+    <message>
+      <source>Root category</source>
+      <translation type="unfinished">Root kategorij&#x101;</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation type="unfinished">Page</translation>
+    </message>
+    <message>
+      <source>Forum</source>
+      <translation type="unfinished">Forums</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/category</name>
+    <message>
+      <source>Please enter topic name!</source>
+      <translation type="unfinished">L&#x16B;dzu, ievadiet t&#x113;mas nosaukumu!</translation>
+    </message>
+    <message>
+      <source>Please enter message!</source>
+      <translation type="unfinished">L&#x16B;dzu, ievadiet zi&#x146;u!</translation>
+    </message>
+    <message>
+      <source>Please choose category!</source>
+      <translation type="unfinished">L&#x16B;dzu, izv&#x113;lieties kategoriju!</translation>
+    </message>
+    <message>
+      <source>Not parent category!</source>
+      <translation type="unfinished">Ne m&#x101;tes kategorij&#x101;!</translation>
+    </message>
+    <message>
+      <source>Invalid category!</source>
+      <translation type="unfinished">Neder&#x12B;ga kategorij&#x101;!</translation>
+    </message>
+    <message>
+      <source>Forum</source>
+      <translation type="unfinished">Forums</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/createcategory</name>
+    <message>
+      <source>Please enter category name!</source>
+      <translation type="unfinished">L&#x16B;dzu, ievadiet kategorijas nosaukumu!</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation type="unfinished">S&#x101;kums</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/editmessage</name>
+    <message>
+      <source>Please enter message!</source>
+      <translation type="unfinished">L&#x16B;dzu, ievadiet zi&#x146;u!</translation>
+    </message>
+    <message>
+      <source>Forum</source>
+      <translation type="unfinished">Forums</translation>
+    </message>
+    <message>
+      <source>Message edit</source>
+      <translation type="unfinished">Zi&#x146;u redi&#x123;&#x113;t</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/edittopic</name>
+    <message>
+      <source>Please enter topic name!</source>
+      <translation type="unfinished">L&#x16B;dzu, ievadiet t&#x113;mas nosaukumu!</translation>
+    </message>
+    <message>
+      <source>Please enter topic status!</source>
+      <translation type="unfinished">L&#x16B;dzu, ievadiet t&#x113;mu statusu!</translation>
+    </message>
+    <message>
+      <source>Forum</source>
+      <translation type="unfinished">Forums</translation>
+    </message>
+    <message>
+      <source>Topic edit</source>
+      <translation type="unfinished">T&#x113;ma labot</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/report</name>
+    <message>
+      <source>Please enter message!</source>
+      <translation type="unfinished">L&#x16B;dzu, ievadiet zi&#x146;u!</translation>
+    </message>
+    <message>
+      <source>Forum message report</source>
+      <translation type="unfinished">Foruma zi&#x146;u zi&#x146;ojumu</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/searchrss</name>
+    <message>
+      <source>Search results</source>
+      <translation type="unfinished">Mekl&#x113;&#x161;anas rezult&#x101;ti</translation>
+    </message>
+    <message>
+      <source>Search</source>
+      <translation type="unfinished">Mekl&#x113;&#x161;ana</translation>
+    </message>
+    <message>
+      <source>Search RSS by keyword</source>
+      <translation type="unfinished">Mekl&#x113;t RSS p&#x113;c atsl&#x113;gv&#x101;rda</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation type="unfinished">Skat&#x12B;t att&#x113;lu</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/searchrss</name>
+    <message>
+      <source>Search</source>
+      <translation type="unfinished">Mekl&#x113;&#x161;ana</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/albumeditadmin</name>
+    <message>
+      <source>Root category</source>
+      <translation type="unfinished">Root kategorij&#x101;</translation>
+    </message>
+    <message>
+      <source>Add images</source>
+      <translation type="unfinished">Pievieno att&#x113;lus</translation>
+    </message>
+    <message>
+      <source>Album edit</source>
+      <translation type="unfinished">Album redi&#x123;&#x113;t</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/addvote</name>
+    <message>
+      <source>Thank you for your vote</source>
+      <translation type="unfinished">Paldies par J&#x16B;su balsojumu</translation>
+    </message>
+    <message>
+      <source>You are not allowed to vote!</source>
+      <translation type="unfinished">Jums nav at&#x13C;auts balsot!</translation>
+    </message>
+    <message>
+      <source>You have already voted!</source>
+      <translation type="unfinished">J&#x16B;s jau balsojis!</translation>
+    </message>
+    <message>
+      <source>Vote deducted!</source>
+      <translation type="unfinished">Balsot atskaita!</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/albumrss</name>
+    <message>
+      <source>Last uploaded images to album</source>
+      <translation type="unfinished">P&#x113;d&#x113;jo aug&#x161;upiel&#x101;d&#x113;to att&#x113;lu albumam</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation type="unfinished">Skat&#x12B;t att&#x113;lu</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lasthitsrss</name>
+    <message>
+      <source>watched</source>
+      <translation type="unfinished">noskat&#x12B;jos</translation>
+    </message>
+    <message>
+      <source>Last viewed images</source>
+      <translation type="unfinished">P&#x113;d&#x113;jie apskat&#x12B;tie att&#x113;li</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation type="unfinished">Skat&#x12B;t att&#x113;lu</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastcommentedrss</name>
+    <message>
+      <source>Last commented images</source>
+      <translation type="unfinished">P&#x113;d&#x113;j&#x101;s koment&#x113;t&#x101;s bildes</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation type="unfinished">Skat&#x12B;t att&#x113;lu</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastratedrss</name>
+    <message>
+      <source>Last rated images</source>
+      <translation type="unfinished">P&#x113;d&#x113;jo reizi nov&#x113;rt&#x113;ja att&#x113;lus</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation type="unfinished">Skat&#x12B;t att&#x113;lu</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastuploadsrss</name>
+    <message>
+      <source>Last uploaded images</source>
+      <translation type="unfinished">P&#x113;d&#x113;j&#x101;s aug&#x161;upiel&#x101;d&#x113;to att&#x113;lu</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation type="unfinished">Skat&#x12B;t att&#x113;lu</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastuploadstoalbums</name>
+    <message>
+      <source>Last uploads to albums</source>
+      <translation type="unfinished">Jaun&#x101;kie att&#x113;li uz albumiem</translation>
+    </message>
+    <message>
+      <source>Recently updated albums</source>
+      <translation type="unfinished">Nesen alb&#x16B;mos</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/movebyresolution</name>
+    <message>
+      <source>Move by resolution</source>
+      <translation type="unfinished">P&#x101;rvietot ar rezol&#x16B;ciju</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/popularrecent</name>
+    <message>
+      <source>Most popular images in 24 hours</source>
+      <translation type="unfinished">Vispopul&#x101;r&#x101;k&#x101;s att&#x113;lu 24 stundu laik&#x101;</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation type="unfinished">Page</translation>
+    </message>
+    <message>
+      <source>Most popular images in last 24 hours.</source>
+      <translation type="unfinished">Vispopul&#x101;r&#x101;k&#x101;s bildes p&#x113;d&#x113;jo 24 stundu laik&#x101;.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/popularrss</name>
+    <message>
+      <source>Most popular images</source>
+      <translation type="unfinished">Vispopul&#x101;r&#x101;k&#x101;s bildes</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/tagphoto</name>
+    <message>
+      <source>Thank you a lot :)</source>
+      <translation type="unfinished">Paldies daudz:)</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/topratedrss</name>
+    <message>
+      <source>Top rated images</source>
+      <translation type="unfinished">Visaugst&#x101;k nov&#x113;rt&#x113;t&#x101;s bildes</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation type="unfinished">Skat&#x12B;t att&#x113;lu</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/updateimage</name>
+    <message>
+      <source>Image updated</source>
+      <translation type="unfinished">Atjaunin&#x101;ts Image</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/imagevariation</name>
+    <message>
+      <source>Basket</source>
+      <translation type="unfinished">Grozs</translation>
+    </message>
+    <message>
+      <source>Payment option</source>
+      <translation type="unfinished">Maks&#x101;jumu variants</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/imagevariationform</name>
+    <message>
+      <source>Credits amount must be greater than 0!</source>
+      <translation type="unfinished">Kred&#x12B;ti summa ir liel&#x101;ka par 0!</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/settingedit</name>
+    <message>
+      <source>Edit</source>
+      <translation type="unfinished">Redi&#x123;&#x113;t</translation>
+    </message>
+  </context>
+  <context>
+    <name>similar/image</name>
+    <message>
+      <source>Similar images to</source>
+      <translation type="unfinished">L&#x12B;dz&#x12B;gi att&#x113;lus</translation>
+    </message>
+    <message>
+      <source>Search for visualy similar images</source>
+      <translation type="unfinished">Mekl&#x113;t visualy l&#x12B;dz&#x12B;gus att&#x113;lus</translation>
+    </message>
+  </context>
+  <context>
+    <name>system/index</name>
+    <message>
+      <source>System administration panel</source>
+      <translation type="unfinished">Sist&#x113;mas administr&#x113;&#x161;anas panelis</translation>
+    </message>
+  </context>
+</TS>

@@ -1,0 +1,4280 @@
+<?xml version="1.0"?>
+<!DOCTYPE TS>
+<TS>
+  <context>
+    <name>article/editstatic</name>
+    <message>
+      <source>Article name</source>
+      <translation>Makale ismi</translation>
+    </message>
+    <message>
+      <source>Body</source>
+      <translation>V&#xFC;cut</translation>
+    </message>
+    <message>
+      <source>Article edit</source>
+      <translation>Madde d&#xFC;zenleme</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>G&#xFC;ncelle&#x15F;tirme</translation>
+    </message>
+  </context>
+  <context>
+    <name>article/newstatic</name>
+    <message>
+      <source>New article</source>
+      <translation>Yeni bir makale</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Kurtarmak</translation>
+    </message>
+  </context>
+  <context>
+    <name>article/staticlist</name>
+    <message>
+      <source>Static articles</source>
+      <translation>Statik makaleler</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Isim</translation>
+    </message>
+    <message>
+      <source>Edit</source>
+      <translation>D&#xFC;zenle</translation>
+    </message>
+    <message>
+      <source>New article</source>
+      <translation>Yeni bir makale</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/admincategorys</name>
+    <message>
+      <source>Category</source>
+      <translation>Kategori</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Ba&#x15F;l&#x131;k</translation>
+    </message>
+    <message>
+      <source>Owner</source>
+      <translation>Sahip</translation>
+    </message>
+    <message>
+      <source>Topics</source>
+      <translation>Ba&#x15F;l&#x131;klar</translation>
+    </message>
+    <message>
+      <source>Messages</source>
+      <translation>Mesajlar</translation>
+    </message>
+    <message>
+      <source>Edit category</source>
+      <translation>D&#xFC;zenleme kategorisi</translation>
+    </message>
+    <message>
+      <source>Delete category</source>
+      <translation>Kategoriyi sil</translation>
+    </message>
+    <message>
+      <source>Create a category</source>
+      <translation>Bir kategori olu&#x15F;turma</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>Ev</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/album</name>
+    <message>
+      <source>No records</source>
+      <translation>Kay&#x131;t</translation>
+    </message>
+    <message>
+      <source>Search by color and keyword, just try to see how fun it is!</source>
+      <translation>Renk ve anahtar kelime arama, sadece ne kadar e&#x11F;lenceli oldu&#x11F;unu g&#xF6;rmek i&#xE7;in deneyin!</translation>
+    </message>
+    <message>
+      <source>Enter keyword or phrase</source>
+      <translation>Anahtar s&#xF6;zc&#xFC;k veya s&#xF6;zc&#xFC;k grubu girin</translation>
+    </message>
+    <message>
+      <source>Search entire gallery</source>
+      <translation>T&#xFC;m Galeride ara</translation>
+    </message>
+    <message>
+      <source>Search</source>
+      <translation>Arama</translation>
+    </message>
+    <message>
+      <source>enter keyword and click color, or just click color</source>
+      <translation>Anahtar kelime ve t&#x131;klama renk girin, ya da sadece rengi t&#x131;klat&#x131;n</translation>
+    </message>
+    <message>
+      <source>Include color</source>
+      <translation>Renk ekleyin</translation>
+    </message>
+    <message>
+      <source>Exclude color</source>
+      <translation>Renk hari&#xE7; tut</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Sayfa</translation>
+    </message>
+    <message>
+      <source>Last uploaded last</source>
+      <translation>Son y&#xFC;klenen son</translation>
+    </message>
+    <message>
+      <source>Most popular first</source>
+      <translation>En pop&#xFC;ler ilk</translation>
+    </message>
+    <message>
+      <source>Most popular last</source>
+      <translation>En pop&#xFC;ler son</translation>
+    </message>
+    <message>
+      <source>Last hits first</source>
+      <translation>Son vurur ilk</translation>
+    </message>
+    <message>
+      <source>Last hits last</source>
+      <translation>Son Son vurur</translation>
+    </message>
+    <message>
+      <source>Last commented first</source>
+      <translation>Son ilk kez yorumlad&#x131;</translation>
+    </message>
+    <message>
+      <source>Last commented last</source>
+      <translation>Son yorumlad&#x131;</translation>
+    </message>
+    <message>
+      <source>Last rated first</source>
+      <translation>Son Oy ilk</translation>
+    </message>
+    <message>
+      <source>Last rated last</source>
+      <translation>Son son anma</translation>
+    </message>
+    <message>
+      <source>Top rated first</source>
+      <translation>En ilk anma</translation>
+    </message>
+    <message>
+      <source>Top rated last Last</source>
+      <translation>En &#xE7;ok oy alanlar Son</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Karar</translation>
+    </message>
+    <message>
+      <source>Last uploaded images to album</source>
+      <translation>Alb&#xFC;me Son y&#xFC;klenen g&#xF6;r&#xFC;nt&#xFC;ler</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/createcategory</name>
+    <message>
+      <source>New category</source>
+      <translation>Yeni kategori</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Kurtarmak</translation>
+    </message>
+    <message>
+      <source>back</source>
+      <translation>geri</translation>
+    </message>
+    <message>
+      <source>Please enter message!</source>
+      <translation>L&#xFC;tfen mesaj&#x131;n&#x131;z&#x131; girin!</translation>
+    </message>
+    <message>
+      <source>Please enter category name!</source>
+      <translation>Kategori ad&#x131;n&#x131; giriniz!</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>Ev</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/editcategory</name>
+    <message>
+      <source>Category edit</source>
+      <translation>Kategori d&#xFC;zenleme</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>G&#xFC;ncelle&#x15F;tirme</translation>
+    </message>
+    <message>
+      <source>Please enter category name!</source>
+      <translation>Kategori ad&#x131;n&#x131; giriniz!</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/editcategory</name>
+    <message>
+      <source>back</source>
+      <translation>geri</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Isim</translation>
+    </message>
+    <message>
+      <source>Description</source>
+      <translation>Tan&#x131;m</translation>
+    </message>
+    <message>
+      <source>Owner</source>
+      <translation>Sahip</translation>
+    </message>
+    <message>
+      <source>Category edit</source>
+      <translation>Kategori d&#xFC;zenleme</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>G&#xFC;ncelle&#x15F;tirme</translation>
+    </message>
+    <message>
+      <source>Hide subcategorys in frontpage</source>
+      <translation>Frontpage de subcategorys gizle</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/albumedit</name>
+    <message>
+      <source>Edit topic</source>
+      <translation>Konuyu d&#xFC;zenlemek</translation>
+    </message>
+    <message>
+      <source>Topic name</source>
+      <translation>Konu ad&#x131;</translation>
+    </message>
+    <message>
+      <source>Topic status</source>
+      <translation>Konu durumu</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>G&#xFC;ncelle&#x15F;tirme</translation>
+    </message>
+    <message>
+      <source>Album edit</source>
+      <translation>Alb&#xFC;m d&#xFC;zenleme</translation>
+    </message>
+    <message>
+      <source>Album name</source>
+      <translation>Alb&#xFC;m Ad&#x131;</translation>
+    </message>
+    <message>
+      <source>Album category</source>
+      <translation>Alb&#xFC;m kategori</translation>
+    </message>
+    <message>
+      <source>Album owner</source>
+      <translation>Alb&#xFC;m&#xFC;n sahibi</translation>
+    </message>
+    <message>
+      <source>Description</source>
+      <translation>Tan&#x131;m</translation>
+    </message>
+    <message>
+      <source>Keywords</source>
+      <translation>Anahtar Kelimeler</translation>
+    </message>
+    <message>
+      <source>Public</source>
+      <translation>Kamu</translation>
+    </message>
+    <message>
+      <source>All users can uploads images to this album</source>
+      <translation>Bu alb&#xFC;mdeki t&#xFC;m kullan&#x131;c&#x131;lar y&#xFC;klenenler g&#xF6;r&#xFC;nt&#xFC;leri</translation>
+    </message>
+    <message>
+      <source>Hidden</source>
+      <translation>Gizli</translation>
+    </message>
+    <message>
+      <source>Hide album from users</source>
+      <translation>Kullan&#x131;c&#x131;lardan gelen alb&#xFC;m gizle</translation>
+    </message>
+    <message>
+      <source>Album thumbnail</source>
+      <translation>Alb&#xFC;m&#xFC;n&#xFC;z&#xFC;n</translation>
+    </message>
+    <message>
+      <source>Newest album image</source>
+      <translation>Yeni alb&#xFC;m g&#xF6;r&#xFC;nt&#xFC;</translation>
+    </message>
+    <message>
+      <source>Revert to newest album image display mode</source>
+      <translation>Yeni alb&#xFC;m&#xFC; g&#xF6;r&#xFC;nt&#xFC; modu d&#xF6;nmek</translation>
+    </message>
+    <message>
+      <source>Remove</source>
+      <translation>Kald&#x131;rmak</translation>
+    </message>
+    <message>
+      <source>Edit message</source>
+      <translation>&#x130;letiyi d&#xFC;zenleyin</translation>
+    </message>
+    <message>
+      <source>Message</source>
+      <translation>Mesaj</translation>
+    </message>
+    <message>
+      <source>File</source>
+      <translation>Dosya</translation>
+    </message>
+    <message>
+      <source>New message</source>
+      <translation>Yeni mesaj</translation>
+    </message>
+    <message>
+      <source>Publish</source>
+      <translation>Yay&#x131;nlamak</translation>
+    </message>
+    <message>
+      <source>New topic</source>
+      <translation>Yeni konu</translation>
+    </message>
+    <message>
+      <source>Choose topic category</source>
+      <translation>Ba&#x15F;l&#x131;k kategori se&#xE7;in</translation>
+    </message>
+    <message>
+      <source>Please enter album name!</source>
+      <translation>Alb&#xFC;m ad&#x131; girin!</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/album_list_admin</name>
+    <message>
+      <source>Are you sure?</source>
+      <translation>Emin misin?</translation>
+    </message>
+    <message>
+      <source>Add images</source>
+      <translation>Resim ekleyin</translation>
+    </message>
+    <message>
+      <source>Edit album</source>
+      <translation>Alb&#xFC;m&#xFC; d&#xFC;zenle</translation>
+    </message>
+    <message>
+      <source>Move all album photos to another album</source>
+      <translation>Ba&#x15F;ka bir alb&#xFC;me t&#xFC;m alb&#xFC;m foto&#x11F;raflar&#x131; ta&#x15F;&#x131;y&#x131;n</translation>
+    </message>
+    <message>
+      <source>Move photos by resolution</source>
+      <translation>Karar&#x131; ile foto&#x11F;raf ta&#x15F;&#x131;y&#x131;n</translation>
+    </message>
+    <message>
+      <source>Delete album</source>
+      <translation>Alb&#xFC;m&#xFC; silin</translation>
+    </message>
+    <message>
+      <source>Approve all images</source>
+      <translation>T&#xFC;m g&#xF6;r&#xFC;nt&#xFC;leri Onayla</translation>
+    </message>
+    <message>
+      <source>Disapprove all images</source>
+      <translation>T&#xFC;m resimlerini reddetme</translation>
+    </message>
+    <message>
+      <source>View on site</source>
+      <translation>Sitede</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/userlist</name>
+    <message>
+      <source>Report list</source>
+      <translation>Raporu listesi</translation>
+    </message>
+    <message>
+      <source>Report</source>
+      <translation>Rapor</translation>
+    </message>
+    <message>
+      <source>Topic</source>
+      <translation>Konu</translation>
+    </message>
+    <message>
+      <source>Topic message</source>
+      <translation>Konu mesaj</translation>
+    </message>
+    <message>
+      <source>Date</source>
+      <translation>Tarih</translation>
+    </message>
+    <message>
+      <source>Edit topic</source>
+      <translation>Konuyu d&#xFC;zenlemek</translation>
+    </message>
+    <message>
+      <source>Delete topic</source>
+      <translation>Konuyu Sil</translation>
+    </message>
+    <message>
+      <source>IP</source>
+      <translation>IP</translation>
+    </message>
+    <message>
+      <source>Users</source>
+      <translation>Kullan&#x131;c&#x131;lar</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Kullan&#x131;c&#x131; Ad&#x131;</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-posta</translation>
+    </message>
+    <message>
+      <source>Edit user</source>
+      <translation>Kullan&#x131;c&#x131; D&#xFC;zenleme</translation>
+    </message>
+    <message>
+      <source>Delete user</source>
+      <translation>Kullan&#x131;c&#x131;y&#x131; sil</translation>
+    </message>
+    <message>
+      <source>New user</source>
+      <translation>Yeni kullan&#x131;c&#x131;</translation>
+    </message>
+    <message>
+      <source>Replace image</source>
+      <translation>G&#xF6;r&#xFC;nt&#xFC;y&#xFC; de&#x11F;i&#x15F;tirmek</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Sistem yap&#x131;land&#x131;rmas&#x131;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/subcategory_list</name>
+    <message>
+      <source>images</source>
+      <translation>g&#xF6;r&#xFC;nt&#xFC;leri</translation>
+    </message>
+    <message>
+      <source>albums</source>
+      <translation>alb&#xFC;m</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/addimages</name>
+    <message>
+      <source>Add images to album</source>
+      <translation>Alb&#xFC;me resim ekleyin</translation>
+    </message>
+    <message>
+      <source>Move album images to another album</source>
+      <translation>Ba&#x15F;ka bir alb&#xFC;me alb&#xFC;m g&#xF6;r&#xFC;nt&#xFC;leri Ta&#x15F;&#x131;</translation>
+    </message>
+    <message>
+      <source>Move image to another album</source>
+      <translation>G&#xF6;r&#xFC;nt&#xFC; ba&#x15F;ka bir alb&#xFC;me ta&#x15F;&#x131;</translation>
+    </message>
+  </context>
+  <context>
+    <name>lhad/orderitemdetails/orderitemdetails_display_ad_magazine</name>
+    <message>
+      <source>Please enable JavaScript to upload image</source>
+      <translation>Please enable JavaScript resim upload</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/publicupload</name>
+    <message>
+      <source>Upload</source>
+      <translation>Y&#xFC;kleme</translation>
+    </message>
+    <message>
+      <source>Click to choose images to upload, you can also drop files here.</source>
+      <translation>Upload g&#xF6;r&#xFC;nt&#xFC;leri se&#xE7;mek i&#xE7;in t&#x131;klay&#x131;n, ayr&#x131;ca dosyalar&#x131; buraya b&#x131;rakabilirsiniz.</translation>
+    </message>
+    <message>
+      <source>Click to choose images to upload, you can also Drag and Drop files here (Darg and drop only for FF, Chrome).</source>
+      <translation>Upload g&#xF6;r&#xFC;nt&#xFC;leri se&#xE7;mek i&#xE7;in t&#x131;klay&#x131;n, s&#xFC;r&#xFC;kleyin ve dosyalar&#x131; buraya Kutu (Darg ve FF, Chrome i&#xE7;in sadece b&#x131;rak&#x131;n).</translation>
+    </message>
+    <message>
+      <source>Public images archive upload</source>
+      <translation>Kamu g&#xF6;r&#xFC;nt&#xFC;lerin ar&#x15F;iv y&#xFC;kleme</translation>
+    </message>
+    <message>
+      <source>Click to choose zip to upload, you can also drop files here (Darg and drop only for FF, Chrome).</source>
+      <translation>Y&#xFC;klemek i&#xE7;in zip se&#xE7;mek i&#xE7;in t&#x131;klay&#x131;n, burada da dosyalar&#x131; damla (Darg ve FF, Chrome i&#xE7;in sadece b&#x131;rak&#x131;n).</translation>
+    </message>
+    <message>
+      <source>Public images upload</source>
+      <translation>Genel resim y&#xFC;klemek</translation>
+    </message>
+    <message>
+      <source>Max file size </source>
+      <translation type="unfinished">Maksimum dosya boyutu</translation>
+    </message>
+  </context>
+  <context>
+    <name>lhad/uploadadorderitem_content</name>
+    <message>
+      <source>Cancel</source>
+      <translation>Iptal</translation>
+    </message>
+    <message>
+      <source>Failed</source>
+      <translation>Ba&#x15F;ar&#x131;s&#x131;z</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/fileuploadcontainer</name>
+    <message>
+      <source>Title</source>
+      <translation>Ba&#x15F;l&#x131;k</translation>
+    </message>
+    <message>
+      <source>Keywords</source>
+      <translation>Anahtar Kelimeler</translation>
+    </message>
+    <message>
+      <source>Cross eye image</source>
+      <translation>&#xC7;apraz g&#xF6;z g&#xF6;r&#xFC;nt&#xFC;</translation>
+    </message>
+    <message>
+      <source>Caption</source>
+      <translation>Ba&#x15F;l&#x131;k</translation>
+    </message>
+    <message>
+      <source>Enter new album name or choose public album</source>
+      <translation>Yeni alb&#xFC;m ad&#x131;n&#x131; girin ya da toplu alb&#xFC;m se&#xE7;in</translation>
+    </message>
+    <message>
+      <source>description</source>
+      <translation>tan&#x131;m</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/admincategorys</name>
+    <message>
+      <source>Category</source>
+      <translation>Kategori</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Ba&#x15F;l&#x131;k</translation>
+    </message>
+    <message>
+      <source>Owner</source>
+      <translation>Sahip</translation>
+    </message>
+    <message>
+      <source>Edit category</source>
+      <translation>D&#xFC;zenleme kategorisi</translation>
+    </message>
+    <message>
+      <source>Delete category</source>
+      <translation>Kategoriyi sil</translation>
+    </message>
+    <message>
+      <source>Create a category</source>
+      <translation>Bir kategori olu&#x15F;turma</translation>
+    </message>
+    <message>
+      <source>Category albums</source>
+      <translation>Kategori alb&#xFC;m</translation>
+    </message>
+    <message>
+      <source>This category does not have an album.</source>
+      <translation>Bu kategori bir alb&#xFC;m bulunmam&#x131;&#x15F;.</translation>
+    </message>
+    <message>
+      <source>Create an album</source>
+      <translation>Bir alb&#xFC;m olu&#x15F;turma</translation>
+    </message>
+    <message>
+      <source>Batch album create</source>
+      <translation>Toplu alb&#xFC;m olu&#x15F;turmak</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>Ev</translation>
+    </message>
+    <message>
+      <source>Root category</source>
+      <translation>K&#xF6;k kategori</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/album_list</name>
+    <message>
+      <source>files</source>
+      <translation>dosyalar&#x131;</translation>
+    </message>
+    <message>
+      <source>Album priority</source>
+      <translation>Alb&#xFC;m &#xF6;ncelik</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/batchadd</name>
+    <message>
+      <source>I cannot write this directory</source>
+      <translation>Ben bu dizine yazam&#x131;yor</translation>
+    </message>
+    <message>
+      <source>No image were found!</source>
+      <translation>Resim bulunamad&#x131;!</translation>
+    </message>
+    <message>
+      <source>Import</source>
+      <translation>Ithalat</translation>
+    </message>
+    <message>
+      <source>Import recursive this directory</source>
+      <translation>&#xD6;zyinelemeli bu dizin &#x130;thalat</translation>
+    </message>
+    <message>
+      <source>Search</source>
+      <translation>Arama</translation>
+    </message>
+    <message>
+      <source>Please enter album name and click search</source>
+      <translation>L&#xFC;tfen alb&#xFC;m ad&#x131;n&#x131; girin ve arama t&#x131;klay&#x131;n</translation>
+    </message>
+    <message>
+      <source>List images</source>
+      <translation>Listesi g&#xF6;r&#xFC;nt&#xFC;leri</translation>
+    </message>
+    <message>
+      <source>List images recursive</source>
+      <translation>&#xD6;zyinelemeli Listesi g&#xF6;r&#xFC;nt&#xFC;leri</translation>
+    </message>
+    <message>
+      <source>Import images</source>
+      <translation>&#x130;thalat g&#xF6;r&#xFC;nt&#xFC;leri</translation>
+    </message>
+    <message>
+      <source>Click list images or list images recursive</source>
+      <translation>Liste g&#xF6;r&#xFC;nt&#xFC; veya liste g&#xF6;r&#xFC;nt&#xFC;ler &#xF6;zyinelemeli t&#x131;klay&#x131;n</translation>
+    </message>
+    <message>
+      <source>Add images</source>
+      <translation>Resim ekleyin</translation>
+    </message>
+    <message>
+      <source>Please choose album first!</source>
+      <translation>L&#xFC;tfen ilk alb&#xFC;m&#xFC; se&#xE7;in!</translation>
+    </message>
+    <message>
+      <source>Mass image upload</source>
+      <translation>Kitle resim upload</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/ratebanlist</name>
+    <message>
+      <source>Baned IP for rating</source>
+      <translation>Reyting i&#xE7;in yasaklanm&#x131;&#x15F;t&#x131;r IP</translation>
+    </message>
+    <message>
+      <source>Are you sure?</source>
+      <translation>Emin misin?</translation>
+    </message>
+    <message>
+      <source>Delete ip</source>
+      <translation>Ip Sil</translation>
+    </message>
+    <message>
+      <source>New IP BAN</source>
+      <translation>Yeni IP BAN</translation>
+    </message>
+    <message>
+      <source>IP</source>
+      <translation>IP</translation>
+    </message>
+    <message>
+      <source>Add</source>
+      <translation>Eklemek</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Sistem yap&#x131;land&#x131;rmas&#x131;</translation>
+    </message>
+    <message>
+      <source>Comment ban IP</source>
+      <translation>Yorum yasa&#x11F;&#x131; IP</translation>
+    </message>
+    <message>
+      <source>Rate ban IP</source>
+      <translation>H&#x131;z&#x131; yasa&#x11F;&#x131; IP</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/grouplist</name>
+    <message>
+      <source>Delete comment</source>
+      <translation>Delete comment</translation>
+    </message>
+    <message>
+      <source>Edit comment</source>
+      <translation>Yorumu d&#xFC;zenle</translation>
+    </message>
+    <message>
+      <source>Delete image</source>
+      <translation>G&#xF6;r&#xFC;nt&#xFC;y&#xFC; sil</translation>
+    </message>
+    <message>
+      <source>Groups</source>
+      <translation>Gruplar</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Isim</translation>
+    </message>
+    <message>
+      <source>Edit group</source>
+      <translation>Grup d&#xFC;zenleme</translation>
+    </message>
+    <message>
+      <source>Delete group</source>
+      <translation>Grubu sil</translation>
+    </message>
+    <message>
+      <source>New group</source>
+      <translation>Yeni grup</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Sistem yap&#x131;land&#x131;rmas&#x131;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/my_image_list</name>
+    <message>
+      <source>Delete comment</source>
+      <translation>Delete comment</translation>
+    </message>
+    <message>
+      <source>Edit comment</source>
+      <translation>Yorumu d&#xFC;zenle</translation>
+    </message>
+    <message>
+      <source>Delete image</source>
+      <translation>G&#xF6;r&#xFC;nt&#xFC;y&#xFC; sil</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>View image</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Ba&#x15F;l&#x131;k</translation>
+    </message>
+    <message>
+      <source>Keywords</source>
+      <translation>Anahtar Kelimeler</translation>
+    </message>
+    <message>
+      <source>Caption</source>
+      <translation>Ba&#x15F;l&#x131;k</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>G&#xFC;ncelle&#x15F;tirme</translation>
+    </message>
+    <message>
+      <source>Message author</source>
+      <translation>Mesaj yazar&#x131;</translation>
+    </message>
+    <message>
+      <source>Message</source>
+      <translation>Mesaj</translation>
+    </message>
+    <message>
+      <source>Rotate image clockwise</source>
+      <translation>Saat y&#xF6;n&#xFC;nde &#xE7;evirin g&#xF6;r&#xFC;nt&#xFC;</translation>
+    </message>
+    <message>
+      <source>Flip horizontaly</source>
+      <translation>Yatay &#xC7;evir</translation>
+    </message>
+    <message>
+      <source>Flip verticaly</source>
+      <translation>D&#xFC;&#x15F;ey &#xE7;evirin</translation>
+    </message>
+    <message>
+      <source>Upload new image</source>
+      <translation>Yeni resim y&#xFC;kle</translation>
+    </message>
+    <message>
+      <source>Set as folder thumbnail</source>
+      <translation>Set klas&#xF6;r k&#xFC;&#xE7;&#xFC;k resim olarak</translation>
+    </message>
+    <message>
+      <source>Move image to another album</source>
+      <translation>G&#xF6;r&#xFC;nt&#xFC; ba&#x15F;ka bir alb&#xFC;me ta&#x15F;&#x131;</translation>
+    </message>
+    <message>
+      <source>Anaglyph</source>
+      <translation>Anaglif</translation>
+    </message>
+    <message>
+      <source>Approved</source>
+      <translation>Onayl&#x131;</translation>
+    </message>
+    <message>
+      <source>Select image</source>
+      <translation>G&#xF6;r&#xFC;nt&#xFC; se&#xE7;in</translation>
+    </message>
+    <message>
+      <source>File</source>
+      <translation>Dosya</translation>
+    </message>
+    <message>
+      <source>Upload</source>
+      <translation>Y&#xFC;kleme</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/createalbumadmin</name>
+    <message>
+      <source>New album</source>
+      <translation>Yeni alb&#xFC;m</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Kurtarmak</translation>
+    </message>
+    <message>
+      <source>New batch album create</source>
+      <translation>Yeni toplu bir alb&#xFC;m olu&#x15F;turmak</translation>
+    </message>
+    <message>
+      <source>Paste album names separated by new line</source>
+      <translation>Yeni bir &#xE7;izgi ile ayr&#x131;lm&#x131;&#x15F; Yap&#x131;&#x15F;t&#x131;r alb&#xFC;m isimleri</translation>
+    </message>
+    <message>
+      <source>Public</source>
+      <translation>Kamu</translation>
+    </message>
+    <message>
+      <source>All users can uploads images to this album</source>
+      <translation>Bu alb&#xFC;mdeki t&#xFC;m kullan&#x131;c&#x131;lar y&#xFC;klenenler g&#xF6;r&#xFC;nt&#xFC;leri</translation>
+    </message>
+    <message>
+      <source>Please enter album name!</source>
+      <translation>Alb&#xFC;m ad&#x131; girin!</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/duplicates</name>
+    <message>
+      <source>Similar images number</source>
+      <translation>Benzer g&#xF6;r&#xFC;nt&#xFC;lerin say&#x131;s&#x131;</translation>
+    </message>
+    <message>
+      <source>Details</source>
+      <translation>Ayr&#x131;nt&#x131;lar</translation>
+    </message>
+    <message>
+      <source>More</source>
+      <translation>Daha fazla</translation>
+    </message>
+    <message>
+      <source>Delete duplicate session</source>
+      <translation>Sil oturumda yinelenen</translation>
+    </message>
+    <message>
+      <source>No duplicates pending...</source>
+      <translation>Bekleyen yok &#xE7;iftleri ...</translation>
+    </message>
+    <message>
+      <source>Duplicates</source>
+      <translation>&#xC7;o&#x11F;alt&#x131;r</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/image</name>
+    <message>
+      <source>Picture comments</source>
+      <translation>Resim yorum</translation>
+    </message>
+    <message>
+      <source>No comments</source>
+      <translation>Yorum yok</translation>
+    </message>
+    <message>
+      <source>Comment stored</source>
+      <translation>Saklanan Yorum</translation>
+    </message>
+    <message>
+      <source>Leave a reply</source>
+      <translation>Leave a reply</translation>
+    </message>
+    <message>
+      <source>Nick</source>
+      <translation>Nick</translation>
+    </message>
+    <message>
+      <source>Max 25 characters</source>
+      <translation>En fazla 25 karakter</translation>
+    </message>
+    <message>
+      <source>Message</source>
+      <translation>Mesaj</translation>
+    </message>
+    <message>
+      <source>Send</source>
+      <translation>G&#xF6;ndermek</translation>
+    </message>
+    <message>
+      <source>Image edit</source>
+      <translation>G&#xF6;r&#xFC;nt&#xFC;y&#xFC; d&#xFC;zenlemek</translation>
+    </message>
+    <message>
+      <source>Rate this picture</source>
+      <translation>Bu resimi oylay&#x131;n</translation>
+    </message>
+    <message>
+      <source>star</source>
+      <translation>star</translation>
+    </message>
+    <message>
+      <source>stars</source>
+      <translation>y&#x131;ld&#x131;z</translation>
+    </message>
+    <message>
+      <source>Vote!</source>
+      <translation>Oy Verin!</translation>
+    </message>
+    <message>
+      <source>Deduct vote!</source>
+      <translation>Oy D&#xFC;&#x15F;ebilme!</translation>
+    </message>
+    <message>
+      <source>next image</source>
+      <translation>sonraki resim</translation>
+    </message>
+    <message>
+      <source>previous image</source>
+      <translation>&#xF6;nceki resim</translation>
+    </message>
+    <message>
+      <source>return to thumbnails</source>
+      <translation>thumbnails d&#xF6;nmek</translation>
+    </message>
+    <message>
+      <source>Click to see fullsize</source>
+      <translation>Fullsize g&#xF6;rmek i&#xE7;in t&#x131;klay&#x131;n</translation>
+    </message>
+    <message>
+      <source>Supported BB Code style tags: [b] [i] [u] [quote] :) :D :( :o :p ;)</source>
+      <translation>Desteklenen BB Kodu tarz&#x131; etiketler: [b] [i] [u] [al&#x131;nt&#x131;]:): D: (: o: p;)</translation>
+    </message>
+    <message>
+      <source>Add to favorites</source>
+      <translation>S&#x131;k Kullan&#x131;lanlara Ekle</translation>
+    </message>
+    <message>
+      <source>Share this page HTML code</source>
+      <translation>Payla&#x15F; Bu sayfa HTML kodu</translation>
+    </message>
+    <message>
+      <source>Share PHPBB code</source>
+      <translation>Hisse PHPBB kodu</translation>
+    </message>
+    <message>
+      <source>Anaglyph version</source>
+      <translation>Anaglyph s&#xFC;r&#xFC;m&#xFC;</translation>
+    </message>
+    <message>
+      <source>Enter tags separated by space</source>
+      <translation>Bo&#x15F;lukla ayr&#x131;lm&#x131;&#x15F; etiket girin</translation>
+    </message>
+    <message>
+      <source>Picture details</source>
+      <translation>Resim ayr&#x131;nt&#x131;lar&#x131;</translation>
+    </message>
+    <message>
+      <source>Filename</source>
+      <translation>Ad&#x131;</translation>
+    </message>
+    <message>
+      <source>File size</source>
+      <translation>Dosya boyutu</translation>
+    </message>
+    <message>
+      <source>Image rating</source>
+      <translation>Resim de&#x11F;erlendirmesi</translation>
+    </message>
+    <message>
+      <source>Date added</source>
+      <translation>Tarihi</translation>
+    </message>
+    <message>
+      <source>Dimensions</source>
+      <translation>Boyutlar</translation>
+    </message>
+    <message>
+      <source>Displayed</source>
+      <translation>G&#xF6;sterilme</translation>
+    </message>
+    <message>
+      <source>times</source>
+      <translation>kez</translation>
+    </message>
+    <message>
+      <source>Album</source>
+      <translation>Alb&#xFC;m</translation>
+    </message>
+    <message>
+      <source>URL</source>
+      <translation>URL</translation>
+    </message>
+    <message>
+      <source>Owner</source>
+      <translation>Sahip</translation>
+    </message>
+    <message>
+      <source>About user</source>
+      <translation type="unfinished">Kullan&#x131;c&#x131; Hakk&#x131;nda</translation>
+    </message>
+    <message>
+      <source>votes</source>
+      <translation>oy</translation>
+    </message>
+    <message>
+      <source>Search for similar colors images</source>
+      <translation>Benzer renkleri g&#xF6;r&#xFC;nt&#xFC;ler i&#xE7;in ara</translation>
+    </message>
+    <message>
+      <source>Search for visualy similar images</source>
+      <translation>G&#xF6;rsel olarak benzer g&#xF6;r&#xFC;nt&#xFC;ler ara</translation>
+    </message>
+    <message>
+      <source>More user images</source>
+      <translation>Daha fazla kullan&#x131;c&#x131; g&#xF6;r&#xFC;nt&#xFC;leri</translation>
+    </message>
+    <message>
+      <source>Version</source>
+      <translation>Versiyon</translation>
+    </message>
+    <message>
+      <source>Image size</source>
+      <translation>G&#xF6;r&#xFC;nt&#xFC; boyutu</translation>
+    </message>
+    <message>
+      <source>Format</source>
+      <translation>Format</translation>
+    </message>
+    <message>
+      <source>Price</source>
+      <translation>Fiyat</translation>
+    </message>
+    <message>
+      <source>credits</source>
+      <translation>kredi</translation>
+    </message>
+    <message>
+      <source>Remove from basket</source>
+      <translation>Sepetten Kald&#x131;r</translation>
+    </message>
+    <message>
+      <source>Add to basket</source>
+      <translation>Sepete ekle</translation>
+    </message>
+    <message>
+      <source>Wrong captcha code!</source>
+      <translation>Yanl&#x131;&#x15F; Captcha kod!</translation>
+    </message>
+    <message>
+      <source>Please enter nick!</source>
+      <translation>L&#xFC;tfen nick girin!</translation>
+    </message>
+    <message>
+      <source>Please enter comment!</source>
+      <translation>L&#xFC;tfen yorum girin!</translation>
+    </message>
+    <message>
+      <source>You are not allowed to leave a comments!</source>
+      <translation>Siz bir yorum i&#xE7;in izin verilmez!</translation>
+    </message>
+    <message>
+      <source>Guest_</source>
+      <translation>Guest_</translation>
+    </message>
+    <message>
+      <source>Last uploaded images</source>
+      <translation>Son y&#xFC;klenen g&#xF6;r&#xFC;nt&#xFC;ler</translation>
+    </message>
+    <message>
+      <source>Last additions</source>
+      <translation>Son Y&#xFC;klenenler</translation>
+    </message>
+    <message>
+      <source>Last viewed images</source>
+      <translation>Son Bak&#x131;lan g&#xF6;r&#xFC;nt&#xFC;ler</translation>
+    </message>
+    <message>
+      <source>Last commented images</source>
+      <translation>Son g&#xF6;r&#xFC;nt&#xFC;leri yorumlad&#x131;</translation>
+    </message>
+    <message>
+      <source>Last rated images</source>
+      <translation>Son de&#x11F;erlendirilmi&#x15F; resimler</translation>
+    </message>
+    <message>
+      <source>Top rated images</source>
+      <translation>En iyi de&#x11F;erlendirilmi&#x15F; resimler</translation>
+    </message>
+    <message>
+      <source>Search by color</source>
+      <translation>Renge g&#xF6;re arama</translation>
+    </message>
+    <message>
+      <source>Most popular images</source>
+      <translation>En pop&#xFC;ler g&#xF6;r&#xFC;nt&#xFC;</translation>
+    </message>
+    <message>
+      <source>Search rss by keyword</source>
+      <translation>Anahtar kelime ile arama RSS</translation>
+    </message>
+    <message>
+      <source>Last uploaded first</source>
+      <translation>Son y&#xFC;klenen ilk</translation>
+    </message>
+    <message>
+      <source>Last uploaded last</source>
+      <translation>Son y&#xFC;klenen son</translation>
+    </message>
+    <message>
+      <source>Most popular first</source>
+      <translation>En pop&#xFC;ler ilk</translation>
+    </message>
+    <message>
+      <source>Most popular last</source>
+      <translation>En pop&#xFC;ler son</translation>
+    </message>
+    <message>
+      <source>Last hits first</source>
+      <translation>Son vurur ilk</translation>
+    </message>
+    <message>
+      <source>Last hits last</source>
+      <translation>Son Son vurur</translation>
+    </message>
+    <message>
+      <source>Last commented first</source>
+      <translation>Son ilk kez yorumlad&#x131;</translation>
+    </message>
+    <message>
+      <source>Last commented last</source>
+      <translation>Son yorumlad&#x131;</translation>
+    </message>
+    <message>
+      <source>Top rated first</source>
+      <translation>En ilk anma</translation>
+    </message>
+    <message>
+      <source>Top rated last Last</source>
+      <translation>En &#xE7;ok oy alanlar Son</translation>
+    </message>
+    <message>
+      <source>Last rated first</source>
+      <translation>Son Oy ilk</translation>
+    </message>
+    <message>
+      <source>Last rated last</source>
+      <translation>Son son anma</translation>
+    </message>
+    <message>
+      <source>Most relevance images last</source>
+      <translation>Son en &#xE7;ok ilgisi g&#xF6;r&#xFC;nt&#xFC;leri</translation>
+    </message>
+    <message>
+      <source>search results</source>
+      <translation>arama sonu&#xE7;lar&#x131;</translation>
+    </message>
+    <message>
+      <source>Last uploaded images to album</source>
+      <translation>Alb&#xFC;me Son y&#xFC;klenen g&#xF6;r&#xFC;nt&#xFC;ler</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/managealbum</name>
+    <message>
+      <source>No records.</source>
+      <translation>Hay&#x131;r kaydeder.</translation>
+    </message>
+    <message>
+      <source>Category</source>
+      <translation>Kategori</translation>
+    </message>
+    <message>
+      <source>Create an album</source>
+      <translation>Bir alb&#xFC;m olu&#x15F;turma</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>Ev</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/managealbumimages</name>
+    <message>
+      <source>Move selected images to</source>
+      <translation>Se&#xE7;ilen g&#xF6;r&#xFC;nt&#xFC;ler ta&#x15F;&#x131;y&#x131;n.</translation>
+    </message>
+    <message>
+      <source>Check all</source>
+      <translation>Hepsini i&#x15F;aretle</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>Hay&#x131;r kaydeder.</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>Ev</translation>
+    </message>
+    <message>
+      <source>Root category</source>
+      <translation>K&#xF6;k kategori</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/movealbumphotos</name>
+    <message>
+      <source>Search album</source>
+      <translation>Arama alb&#xFC;m</translation>
+    </message>
+    <message>
+      <source>Move photos</source>
+      <translation>Ta&#x15F;&#x131; foto&#x11F;raflar&#x131;</translation>
+    </message>
+    <message>
+      <source>We moved</source>
+      <translation>Ta&#x15F;&#x131;nd&#x131;k</translation>
+    </message>
+    <message>
+      <source>images</source>
+      <translation>g&#xF6;r&#xFC;nt&#xFC;leri</translation>
+    </message>
+    <message>
+      <source>Move album photos</source>
+      <translation>Alb&#xFC;m foto&#x11F;raflar&#x131; ta&#x15F;&#x131;ma</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/image_list</name>
+    <message>
+      <source>preview version</source>
+      <translation>&#xF6;nizleme s&#xFC;r&#xFC;m&#xFC;</translation>
+    </message>
+    <message>
+      <source>See full size</source>
+      <translation>Tam boy</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/search</name>
+    <message>
+      <source>Last uploaded</source>
+      <translation>Son y&#xFC;klenen</translation>
+    </message>
+    <message>
+      <source>Most popular</source>
+      <translation>En pop&#xFC;ler</translation>
+    </message>
+    <message>
+      <source>Last hits</source>
+      <translation>Son vurur</translation>
+    </message>
+    <message>
+      <source>Top rated</source>
+      <translation>En &#xE7;ok oy alanlar</translation>
+    </message>
+    <message>
+      <source>Last rated</source>
+      <translation>Son be&#x11F;enilenler</translation>
+    </message>
+    <message>
+      <source>Last commented</source>
+      <translation>Son yorumlanan</translation>
+    </message>
+    <message>
+      <source>Filename</source>
+      <translation>Ad&#x131;</translation>
+    </message>
+    <message>
+      <source>Search results</source>
+      <translation>Arama sonu&#xE7;lar&#x131;</translation>
+    </message>
+    <message>
+      <source>Nothing found</source>
+      <translation>Hi&#xE7; bir &#x15F;ey bulunamad&#x131;</translation>
+    </message>
+    <message>
+      <source>Any resolution</source>
+      <translation>Herhangi bir &#xE7;&#xF6;z&#xFC;n&#xFC;rl&#xFC;kte</translation>
+    </message>
+    <message>
+      <source>Relevance</source>
+      <translation>Ilgi</translation>
+    </message>
+    <message>
+      <source>Any keyword</source>
+      <translation>Herhangi bir anahtar kelimenin</translation>
+    </message>
+    <message>
+      <source>All keywords</source>
+      <translation>T&#xFC;m anahtar kelimeler</translation>
+    </message>
+    <message>
+      <source>search results</source>
+      <translation>arama sonu&#xE7;lar&#x131;</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Sayfa</translation>
+    </message>
+    <message>
+      <source>Last uploaded first</source>
+      <translation>Son y&#xFC;klenen ilk</translation>
+    </message>
+    <message>
+      <source>Last uploaded last</source>
+      <translation>Son y&#xFC;klenen son</translation>
+    </message>
+    <message>
+      <source>Most popular first</source>
+      <translation>En pop&#xFC;ler ilk</translation>
+    </message>
+    <message>
+      <source>Most popular last</source>
+      <translation>En pop&#xFC;ler son</translation>
+    </message>
+    <message>
+      <source>Last hits first</source>
+      <translation>Son vurur ilk</translation>
+    </message>
+    <message>
+      <source>Last hits last</source>
+      <translation>Son Son vurur</translation>
+    </message>
+    <message>
+      <source>Last commented first</source>
+      <translation>Son ilk kez yorumlad&#x131;</translation>
+    </message>
+    <message>
+      <source>Last commented last</source>
+      <translation>Son yorumlad&#x131;</translation>
+    </message>
+    <message>
+      <source>Last rated first</source>
+      <translation>Son Oy ilk</translation>
+    </message>
+    <message>
+      <source>Last rated last</source>
+      <translation>Son son anma</translation>
+    </message>
+    <message>
+      <source>Top rated first</source>
+      <translation>En ilk anma</translation>
+    </message>
+    <message>
+      <source>Top rated last</source>
+      <translation>Top son anma</translation>
+    </message>
+    <message>
+      <source>Most relevance images last</source>
+      <translation>Son en &#xE7;ok ilgisi g&#xF6;r&#xFC;nt&#xFC;leri</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Karar</translation>
+    </message>
+    <message>
+      <source>Search RSS by keyword</source>
+      <translation>Anahtar kelime ile arama RSS</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/editrole</name>
+    <message>
+      <source>Role edit</source>
+      <translation>Rol&#xFC; d&#xFC;zenleme</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Ba&#x15F;l&#x131;k</translation>
+    </message>
+    <message>
+      <source>Assigned functions</source>
+      <translation>Atanan fonksiyonlar&#x131;</translation>
+    </message>
+    <message>
+      <source>Module</source>
+      <translation>Mod&#xFC;l</translation>
+    </message>
+    <message>
+      <source>Function</source>
+      <translation>Fonksiyon</translation>
+    </message>
+    <message>
+      <source>Remove selected</source>
+      <translation>Remove selected</translation>
+    </message>
+    <message>
+      <source>New policy</source>
+      <translation>Yeni politika</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>G&#xFC;ncelle&#x15F;tirme</translation>
+    </message>
+    <message>
+      <source>Cancel</source>
+      <translation>Iptal</translation>
+    </message>
+    <message>
+      <source>Role assigned groups</source>
+      <translation>Rol&#xFC; atanan gruplara</translation>
+    </message>
+    <message>
+      <source>Group assignement to role</source>
+      <translation>Grup assignement rol&#xFC;</translation>
+    </message>
+    <message>
+      <source>Assign group</source>
+      <translation>Grubu atama</translation>
+    </message>
+    <message>
+      <source>Please enter role name</source>
+      <translation>Rol ad&#x131; girin</translation>
+    </message>
+    <message>
+      <source>Please choose module</source>
+      <translation>L&#xFC;tfen mod&#xFC;l&#xFC; se&#xE7;in</translation>
+    </message>
+    <message>
+      <source>Please choose module function</source>
+      <translation>Mod&#xFC;l&#xFC; fonksiyonunu se&#xE7;iniz</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Sistem yap&#x131;land&#x131;rmas&#x131;</translation>
+    </message>
+    <message>
+      <source>List of roles</source>
+      <translation>Rolleri Listesi</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/groupassignrole</name>
+    <message>
+      <source>Title</source>
+      <translation>Ba&#x15F;l&#x131;k</translation>
+    </message>
+    <message>
+      <source>Assign</source>
+      <translation>Atamak</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/modulefunctions</name>
+    <message>
+      <source>All functions</source>
+      <translation>T&#xFC;m fonksiyonlar</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/newpolicy</name>
+    <message>
+      <source>New policy</source>
+      <translation>Yeni politika</translation>
+    </message>
+    <message>
+      <source>Assigned functions</source>
+      <translation>Atanan fonksiyonlar&#x131;</translation>
+    </message>
+    <message>
+      <source>Choose module</source>
+      <translation>Mod&#xFC;l&#xFC; se&#xE7;in</translation>
+    </message>
+    <message>
+      <source>All modules</source>
+      <translation>T&#xFC;m mod&#xFC;ller</translation>
+    </message>
+    <message>
+      <source>Choose module function</source>
+      <translation>Mod&#xFC;l fonksiyonu se&#xE7;in</translation>
+    </message>
+    <message>
+      <source>All functions</source>
+      <translation>T&#xFC;m fonksiyonlar</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Kurtarmak</translation>
+    </message>
+    <message>
+      <source>Cancel</source>
+      <translation>Iptal</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/newrole</name>
+    <message>
+      <source>New role</source>
+      <translation>Yeni Rol&#xFC;</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Ba&#x15F;l&#x131;k</translation>
+    </message>
+    <message>
+      <source>Policy list</source>
+      <translation>&#x130;lke listesinde</translation>
+    </message>
+    <message>
+      <source>Module</source>
+      <translation>Mod&#xFC;l</translation>
+    </message>
+    <message>
+      <source>Function</source>
+      <translation>Fonksiyon</translation>
+    </message>
+    <message>
+      <source>New policy</source>
+      <translation>Yeni politika</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Kurtarmak</translation>
+    </message>
+    <message>
+      <source>Cancel</source>
+      <translation>Iptal</translation>
+    </message>
+    <message>
+      <source>Please enter role name</source>
+      <translation>Rol ad&#x131; girin</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Sistem yap&#x131;land&#x131;rmas&#x131;</translation>
+    </message>
+    <message>
+      <source>List of roles</source>
+      <translation>Rolleri Listesi</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/roleassigngroup</name>
+    <message>
+      <source>Title</source>
+      <translation>Ba&#x15F;l&#x131;k</translation>
+    </message>
+    <message>
+      <source>Assign</source>
+      <translation>Atamak</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/roles</name>
+    <message>
+      <source>List of roles</source>
+      <translation>Rolleri Listesi</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Ba&#x15F;l&#x131;k</translation>
+    </message>
+    <message>
+      <source>Edit role</source>
+      <translation>Rol D&#xFC;zenle</translation>
+    </message>
+    <message>
+      <source>Delete role</source>
+      <translation>Rol Sil</translation>
+    </message>
+    <message>
+      <source>New role</source>
+      <translation>Yeni Rol&#xFC;</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Sistem yap&#x131;land&#x131;rmas&#x131;</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/index</name>
+    <message>
+      <source>Shop configuration</source>
+      <translation>D&#xFC;kkan&#x131; yap&#x131;land&#x131;rma</translation>
+    </message>
+    <message>
+      <source>Images variations sizes</source>
+      <translation>G&#xF6;r&#xFC;nt&#xFC;ler varyasyonlar boyutlar&#x131;</translation>
+    </message>
+    <message>
+      <source>List payment options</source>
+      <translation>Liste &#xF6;deme se&#xE7;enekleri</translation>
+    </message>
+    <message>
+      <source>Settings list</source>
+      <translation>Ayarlar listesinde</translation>
+    </message>
+    <message>
+      <source>Orders list</source>
+      <translation>Sipari&#x15F;ler listesi</translation>
+    </message>
+    <message>
+      <source>Credits orders list</source>
+      <translation>Kredi sipari&#x15F;leri Listesi</translation>
+    </message>
+    <message>
+      <source>Shop</source>
+      <translation>Ma&#x11F;aza</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/listpaymentoptions</name>
+    <message>
+      <source>Payment options</source>
+      <translation>&#xD6;deme se&#xE7;enekleri</translation>
+    </message>
+    <message>
+      <source>Identifier</source>
+      <translation>Tan&#x131;mlay&#x131;c&#x131;</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Isim</translation>
+    </message>
+    <message>
+      <source>Active</source>
+      <translation>Aktif</translation>
+    </message>
+    <message>
+      <source>Author</source>
+      <translation>Yazar</translation>
+    </message>
+    <message>
+      <source>Edit</source>
+      <translation>D&#xFC;zenle</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/orderedit</name>
+    <message>
+      <source>Order view</source>
+      <translation>Sipari&#x15F; g&#xF6;r&#xFC;n&#xFC;m&#xFC;</translation>
+    </message>
+    <message>
+      <source>Order time</source>
+      <translation>Sipari&#x15F; zaman</translation>
+    </message>
+    <message>
+      <source>Order price</source>
+      <translation>Sipari&#x15F; fiyat</translation>
+    </message>
+    <message>
+      <source>Order credits</source>
+      <translation>Sipari&#x15F; kredi</translation>
+    </message>
+    <message>
+      <source>Order status</source>
+      <translation>Sipari&#x15F; durumu</translation>
+    </message>
+    <message>
+      <source>Payed.</source>
+      <translation>&#xD6;denir.</translation>
+    </message>
+    <message>
+      <source>Confirmed</source>
+      <translation>Onayland&#x131;</translation>
+    </message>
+    <message>
+      <source>Ordered items</source>
+      <translation>S&#x131;ral&#x131; &#xF6;&#x11F;eleri</translation>
+    </message>
+    <message>
+      <source>Image name</source>
+      <translation>Resim ismi</translation>
+    </message>
+    <message>
+      <source>Version</source>
+      <translation>Versiyon</translation>
+    </message>
+    <message>
+      <source>Image size</source>
+      <translation>G&#xF6;r&#xFC;nt&#xFC; boyutu</translation>
+    </message>
+    <message>
+      <source>Format</source>
+      <translation>Format</translation>
+    </message>
+    <message>
+      <source>Price</source>
+      <translation>Fiyat</translation>
+    </message>
+    <message>
+      <source>Download count</source>
+      <translation>Saymak indirin</translation>
+    </message>
+    <message>
+      <source>Downloads left</source>
+      <translation>&#x130;ndirilme sol</translation>
+    </message>
+    <message>
+      <source>Credits</source>
+      <translation>Kredi</translation>
+    </message>
+  </context>
+  <context>
+    <name>systemconfig/list</name>
+    <message>
+      <source>Delete order item</source>
+      <translation>Sipari&#x15F; kaleminin sil</translation>
+    </message>
+    <message>
+      <source>Delete order</source>
+      <translation>S&#x131;rayla Sil</translation>
+    </message>
+    <message>
+      <source>Config list</source>
+      <translation>Yap&#x131;land&#x131;rma listesi</translation>
+    </message>
+    <message>
+      <source>Identifier</source>
+      <translation>Tan&#x131;mlay&#x131;c&#x131;</translation>
+    </message>
+    <message>
+      <source>Explain</source>
+      <translation>A&#xE7;&#x131;klamak</translation>
+    </message>
+    <message>
+      <source>Edit value</source>
+      <translation>De&#x11F;eri d&#xFC;zenleyin</translation>
+    </message>
+    <message>
+      <source>System config options</source>
+      <translation>Sistem yap&#x131;land&#x131;rma se&#xE7;enekleri</translation>
+    </message>
+    <message>
+      <source>List</source>
+      <translation>Liste</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/orderslist</name>
+    <message>
+      <source>Orders credits list</source>
+      <translation>Sipari&#x15F;ler kredi Listesi</translation>
+    </message>
+    <message>
+      <source>ID</source>
+      <translation>Kimlik</translation>
+    </message>
+    <message>
+      <source>Date</source>
+      <translation>Tarih</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-posta</translation>
+    </message>
+    <message>
+      <source>Order price</source>
+      <translation>Sipari&#x15F; fiyat</translation>
+    </message>
+    <message>
+      <source>Order credits</source>
+      <translation>Sipari&#x15F; kredi</translation>
+    </message>
+    <message>
+      <source>Order status</source>
+      <translation>Sipari&#x15F; durumu</translation>
+    </message>
+    <message>
+      <source>Payed.</source>
+      <translation>&#xD6;denir.</translation>
+    </message>
+    <message>
+      <source>Confirmed</source>
+      <translation>Onayland&#x131;</translation>
+    </message>
+    <message>
+      <source>No orders...</source>
+      <translation>Sipari&#x15F; yok ...</translation>
+    </message>
+    <message>
+      <source>Orders list</source>
+      <translation>Sipari&#x15F;ler listesi</translation>
+    </message>
+    <message>
+      <source>Order view</source>
+      <translation>Sipari&#x15F; g&#xF6;r&#xFC;n&#xFC;m&#xFC;</translation>
+    </message>
+    <message>
+      <source>User orders list</source>
+      <translation>Kullan&#x131;c&#x131; sipari&#x15F;leri listesi</translation>
+    </message>
+    <message>
+      <source>User credits orders list</source>
+      <translation>Kullan&#x131;c&#x131; kredi emirleri listesi</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/paymentoptionedit</name>
+    <message>
+      <source>Payment option edit</source>
+      <translation>&#xD6;deme se&#xE7;ene&#x11F;i d&#xFC;zenlemek</translation>
+    </message>
+    <message>
+      <source>Identifier</source>
+      <translation>Tan&#x131;mlay&#x131;c&#x131;</translation>
+    </message>
+    <message>
+      <source>Active</source>
+      <translation>Aktif</translation>
+    </message>
+    <message>
+      <source>Payment settings</source>
+      <translation>&#xD6;deme ayarlar&#x131;</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>G&#xFC;ncelle&#x15F;tirme</translation>
+    </message>
+  </context>
+  <context>
+    <name>systemconfig/edit</name>
+    <message>
+      <source>Edit</source>
+      <translation>D&#xFC;zenle</translation>
+    </message>
+    <message>
+      <source>Data updated</source>
+      <translation>Veri g&#xFC;ncellendi</translation>
+    </message>
+    <message>
+      <source>Identifier</source>
+      <translation>Tan&#x131;mlay&#x131;c&#x131;</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>G&#xFC;ncelle&#x15F;tirme</translation>
+    </message>
+    <message>
+      <source>Values applies to</source>
+      <translation>De&#x11F;erleri i&#xE7;in ge&#xE7;erlidir</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/settinglist</name>
+    <message>
+      <source>Shop config list</source>
+      <translation>D&#xFC;kkan&#x131; yap&#x131;land&#x131;rma listesi</translation>
+    </message>
+    <message>
+      <source>Identifier</source>
+      <translation>Tan&#x131;mlay&#x131;c&#x131;</translation>
+    </message>
+    <message>
+      <source>Explain</source>
+      <translation>A&#xE7;&#x131;klamak</translation>
+    </message>
+    <message>
+      <source>Value</source>
+      <translation>De&#x11F;er</translation>
+    </message>
+    <message>
+      <source>Edit value</source>
+      <translation>De&#x11F;eri d&#xFC;zenleyin</translation>
+    </message>
+  </context>
+  <context>
+    <name>statistic/choosesite</name>
+    <message>
+      <source>Choose site you want to show statistic</source>
+      <translation>Istatistik g&#xF6;stermek istiyoruz sitesi se&#xE7;in.</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Kurtarmak</translation>
+    </message>
+  </context>
+  <context>
+    <name>statistic/index</name>
+    <message>
+      <source>Google analytics statistic</source>
+      <translation>Google analytics istatistik</translation>
+    </message>
+    <message>
+      <source>Grant access application to access google analytics API</source>
+      <translation>Google analytics API eri&#x15F;imi i&#xE7;in eri&#x15F;im izni verme uygulamas&#x131;</translation>
+    </message>
+    <message>
+      <source>Site choose</source>
+      <translation>Siteyi se&#xE7;in</translation>
+    </message>
+    <message>
+      <source>View statistic</source>
+      <translation>Istatistik g&#xF6;ster</translation>
+    </message>
+    <message>
+      <source>Statistic</source>
+      <translation>Istatistik</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>Ev</translation>
+    </message>
+  </context>
+  <context>
+    <name>system/configuration</name>
+    <message>
+      <source>System configuration</source>
+      <translation>Sistem yap&#x131;land&#x131;rmas&#x131;</translation>
+    </message>
+    <message>
+      <source>Users</source>
+      <translation>Kullan&#x131;c&#x131;lar</translation>
+    </message>
+    <message>
+      <source>List of groups</source>
+      <translation>Gruplar&#x131;n&#x131;n listesi</translation>
+    </message>
+    <message>
+      <source>List of roles</source>
+      <translation>Rolleri Listesi</translation>
+    </message>
+    <message>
+      <source>System configuration values</source>
+      <translation>Sistem yap&#x131;land&#x131;rma de&#x11F;erleri</translation>
+    </message>
+    <message>
+      <source>Watermark protection</source>
+      <translation>Filigran koruma</translation>
+    </message>
+    <message>
+      <source>Banned rating IP list</source>
+      <translation>Yasak derece IP listesi</translation>
+    </message>
+    <message>
+      <source>Banned commenting IP list</source>
+      <translation>Yasak yorum IP listesi</translation>
+    </message>
+  </context>
+  <context>
+    <name>systemconfig/watermark</name>
+    <message>
+      <source>Watermark configuration</source>
+      <translation>Filigran yap&#x131;land&#x131;rma</translation>
+    </message>
+    <message>
+      <source>Settings updated</source>
+      <translation>Ayarlar&#x131;n&#x131;n g&#xFC;ncellenmesi</translation>
+    </message>
+    <message>
+      <source>Delete watermark</source>
+      <translation>Filigran Sil</translation>
+    </message>
+    <message>
+      <source>Image, it is recommended PNG type image</source>
+      <translation>G&#xF6;r&#xFC;nt&#xFC;, tavsiye PNG tipi g&#xF6;r&#xFC;nt&#xFC;</translation>
+    </message>
+    <message>
+      <source>Settings</source>
+      <translation>Ayarlar</translation>
+    </message>
+    <message>
+      <source>Watermark disabled</source>
+      <translation>Filigran devre d&#x131;&#x15F;&#x131;</translation>
+    </message>
+    <message>
+      <source>Watermark enabled for normal size thumbnails</source>
+      <translation>Filigran i&#xE7;in etkin normal boyutu k&#xFC;&#xE7;&#xFC;k</translation>
+    </message>
+    <message>
+      <source>Watermark enabled for all images</source>
+      <translation>Filigran t&#xFC;m g&#xF6;r&#xFC;nt&#xFC;leri i&#xE7;in etkin</translation>
+    </message>
+    <message>
+      <source>Watermark position</source>
+      <translation>Filigran konumunu</translation>
+    </message>
+    <message>
+      <source>Top left</source>
+      <translation>Sol &#xFC;st</translation>
+    </message>
+    <message>
+      <source>Top right</source>
+      <translation>Sa&#x11F; &#xFC;st</translation>
+    </message>
+    <message>
+      <source>Bottom left</source>
+      <translation>Sol alt</translation>
+    </message>
+    <message>
+      <source>Bottom right</source>
+      <translation>Sa&#x11F; alt</translation>
+    </message>
+    <message>
+      <source>Center</source>
+      <translation>Merkez</translation>
+    </message>
+    <message>
+      <source>Watermark padding from borders</source>
+      <translation>Filigran dolgu s&#x131;n&#x131;rlar&#x131;ndan</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>G&#xFC;ncelle&#x15F;tirme</translation>
+    </message>
+    <message>
+      <source>Watermark</source>
+      <translation>Filigran</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/account</name>
+    <message>
+      <source>Logged user</source>
+      <translation>Kay&#x131;tl&#x131; kullan&#x131;c&#x131;</translation>
+    </message>
+    <message>
+      <source>Account updated</source>
+      <translation>Hesap g&#xFC;ncellendi</translation>
+    </message>
+    <message>
+      <source>Do not enter password unless you want to change it</source>
+      <translation>Bunu de&#x11F;i&#x15F;tirmek istemiyorsan&#x131;z &#x15F;ifre girmeyin</translation>
+    </message>
+    <message>
+      <source>Login information</source>
+      <translation>Giri&#x15F; bilgileri</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Kullan&#x131;c&#x131; Ad&#x131;</translation>
+    </message>
+    <message>
+      <source>Password</source>
+      <translation>Parola</translation>
+    </message>
+    <message>
+      <source>Repeat password</source>
+      <translation>&#x15E;ifreyi tekrarlay&#x131;n</translation>
+    </message>
+    <message>
+      <source>Contact information</source>
+      <translation>&#x130;leti&#x15F;im bilgileri</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-posta</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>G&#xFC;ncelle&#x15F;tirme</translation>
+    </message>
+    <message>
+      <source>Message send</source>
+      <translation>Mesaj&#x131; g&#xF6;ndermek</translation>
+    </message>
+    <message>
+      <source>Add google account</source>
+      <translation>Google hesab&#x131; ekle</translation>
+    </message>
+    <message>
+      <source>Working</source>
+      <translation>&#xC7;al&#x131;&#x15F;ma</translation>
+    </message>
+    <message>
+      <source>Profile page settings</source>
+      <translation type="unfinished">Profil sayfas&#x131; ayarlar&#x131;</translation>
+    </message>
+    <message>
+      <source>Profile settings updated</source>
+      <translation type="unfinished">Profil ayarlar&#x131; g&#xFC;ncellendi</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation type="unfinished">Isim</translation>
+    </message>
+    <message>
+      <source>Surname</source>
+      <translation type="unfinished">Soyad&#x131;</translation>
+    </message>
+    <message>
+      <source>Website</source>
+      <translation type="unfinished">Web sitesi</translation>
+    </message>
+    <message>
+      <source>Information about you</source>
+      <translation type="unfinished">Hakk&#x131;nda bilgi</translation>
+    </message>
+    <message>
+      <source>Profile photo</source>
+      <translation type="unfinished">Profil foto&#x11F;raf&#x131;</translation>
+    </message>
+    <message>
+      <source>See how your profile looks to users</source>
+      <translation type="unfinished">Profil kullan&#x131;c&#x131;lara nas&#x131;l g&#xF6;r&#xFC;nd&#xFC;&#x11F;&#xFC;ne bak&#x131;n</translation>
+    </message>
+    <message>
+      <source>View profile</source>
+      <translation type="unfinished">Profil g&#xF6;r&#xFC;nt&#xFC;le</translation>
+    </message>
+    <message>
+      <source>Wrong email address</source>
+      <translation>Yanl&#x131;&#x15F; e-posta adresi</translation>
+    </message>
+    <message>
+      <source>Passwords mismatch</source>
+      <translation>&#x15E;ifreleri uyumsuzlu&#x11F;u</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/edit</name>
+    <message>
+      <source>User edit</source>
+      <translation>Kullan&#x131;c&#x131; d&#xFC;zenleme</translation>
+    </message>
+    <message>
+      <source>Do not enter password unless you want to change it</source>
+      <translation>Bunu de&#x11F;i&#x15F;tirmek istemiyorsan&#x131;z &#x15F;ifre girmeyin</translation>
+    </message>
+    <message>
+      <source>Login information</source>
+      <translation>Giri&#x15F; bilgileri</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Kullan&#x131;c&#x131; Ad&#x131;</translation>
+    </message>
+    <message>
+      <source>Password</source>
+      <translation>Parola</translation>
+    </message>
+    <message>
+      <source>Repeat password</source>
+      <translation>&#x15E;ifreyi tekrarlay&#x131;n</translation>
+    </message>
+    <message>
+      <source>Contact information</source>
+      <translation>&#x130;leti&#x15F;im bilgileri</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-posta</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>G&#xFC;ncelle&#x15F;tirme</translation>
+    </message>
+    <message>
+      <source>User prifle</source>
+      <translation>Kullan&#x131;c&#x131; prifle</translation>
+    </message>
+    <message>
+      <source>My account</source>
+      <translation>Hesab&#x131;m</translation>
+    </message>
+    <message>
+      <source>Facebook albums</source>
+      <translation>Facebook alb&#xFC;m</translation>
+    </message>
+    <message>
+      <source>Facebook session has expired, please login</source>
+      <translation>Facebook oturum s&#xFC;resi doldu, l&#xFC;tfen giri&#x15F;</translation>
+    </message>
+    <message>
+      <source>Account</source>
+      <translation>Hesap</translation>
+    </message>
+    <message>
+      <source>Albums</source>
+      <translation>Alb&#xFC;mler</translation>
+    </message>
+    <message>
+      <source>My albums</source>
+      <translation>Alb&#xFC;mlerim</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Sistem yap&#x131;land&#x131;rmas&#x131;</translation>
+    </message>
+    <message>
+      <source>Account data</source>
+      <translation>Hesap verileri</translation>
+    </message>
+    <message>
+      <source>Wrong email address</source>
+      <translation>Yanl&#x131;&#x15F; e-posta adresi</translation>
+    </message>
+    <message>
+      <source>Passwords mismatch</source>
+      <translation>&#x15E;ifreleri uyumsuzlu&#x11F;u</translation>
+    </message>
+    <message>
+      <source>Users</source>
+      <translation>Kullan&#x131;c&#x131;lar</translation>
+    </message>
+    <message>
+      <source>Authentifion with google</source>
+      <translation>Google ile Authentifion</translation>
+    </message>
+    <message>
+      <source>Profile settings</source>
+      <translation type="unfinished">Profil ayarlar&#x131;</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/editgroup</name>
+    <message>
+      <source>Group edit</source>
+      <translation>Grup d&#xFC;zenleme</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Ba&#x15F;l&#x131;k</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>G&#xFC;ncelle&#x15F;tirme</translation>
+    </message>
+    <message>
+      <source>Assigned users</source>
+      <translation>Atanan kullan&#x131;c&#x131;lar</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Kullan&#x131;c&#x131; Ad&#x131;</translation>
+    </message>
+    <message>
+      <source>Remove user from group</source>
+      <translation>Grup kullan&#x131;c&#x131;y&#x131; kald&#x131;rma</translation>
+    </message>
+    <message>
+      <source>Assign user</source>
+      <translation>Kullan&#x131;c&#x131; atama</translation>
+    </message>
+    <message>
+      <source>User assignment</source>
+      <translation>Kullan&#x131;c&#x131; atama</translation>
+    </message>
+    <message>
+      <source>Assigned roles</source>
+      <translation>Atanan rolleri</translation>
+    </message>
+    <message>
+      <source>Remove role from group</source>
+      <translation>Gruptan rol&#xFC;n&#xFC; kald&#x131;rmak</translation>
+    </message>
+    <message>
+      <source>Assign role</source>
+      <translation>Rol&#xFC;n&#xFC; atamak</translation>
+    </message>
+    <message>
+      <source>Role assignment</source>
+      <translation>Rol atamas&#x131;</translation>
+    </message>
+    <message>
+      <source>Please enter group name</source>
+      <translation>Grup ad&#x131; girin</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Sistem yap&#x131;land&#x131;rmas&#x131;</translation>
+    </message>
+    <message>
+      <source>Groups</source>
+      <translation>Gruplar</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/groupassignuser</name>
+    <message>
+      <source>User</source>
+      <translation>Kullan&#x131;c&#x131;</translation>
+    </message>
+    <message>
+      <source>Assign</source>
+      <translation>Atamak</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/login</name>
+    <message>
+      <source>Please login</source>
+      <translation>L&#xFC;tfen giri&#x15F; yap&#x131;n</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Kullan&#x131;c&#x131; Ad&#x131;</translation>
+    </message>
+    <message>
+      <source>Password</source>
+      <translation>Parola</translation>
+    </message>
+    <message>
+      <source>Login</source>
+      <translation>Giri&#x15F;</translation>
+    </message>
+    <message>
+      <source>Password remind</source>
+      <translation>&#x15E;ifre hat&#x131;rlatma</translation>
+    </message>
+    <message>
+      <source>Please login with your facebook account</source>
+      <translation>Facebook hesab&#x131; ile giri&#x15F; yap&#x131;n&#x131;z</translation>
+    </message>
+    <message>
+      <source>Report abuse</source>
+      <translation>Ayk&#x131;r&#x131;l&#x131;&#x11F;&#x131;</translation>
+    </message>
+    <message>
+      <source>Please write whats wrong within a post</source>
+      <translation>Bir mesaj&#x131;n&#x131;zda whats yanl&#x131;&#x15F; yaz&#x131;n&#x131;z.</translation>
+    </message>
+    <message>
+      <source>Send</source>
+      <translation>G&#xF6;ndermek</translation>
+    </message>
+    <message>
+      <source>Registration is complete</source>
+      <translation>Kay&#x131;t i&#x15F;lemi tamamland&#x131;ktan</translation>
+    </message>
+    <message>
+      <source>Registration is complete please login.</source>
+      <translation>Kay&#x131;t tamamland&#x131;ktan giri&#x15F; yap&#x131;n&#x131;z.</translation>
+    </message>
+    <message>
+      <source>Checkout</source>
+      <translation>&#xC7;&#x131;k&#x131;&#x15F;</translation>
+    </message>
+    <message>
+      <source>Incorrect username or password</source>
+      <translation>Yanl&#x131;&#x15F; kullan&#x131;c&#x131; ad&#x131; veya &#x15F;ifre</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/new</name>
+    <message>
+      <source>New user</source>
+      <translation>Yeni kullan&#x131;c&#x131;</translation>
+    </message>
+    <message>
+      <source>Login information</source>
+      <translation>Giri&#x15F; bilgileri</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Kullan&#x131;c&#x131; Ad&#x131;</translation>
+    </message>
+    <message>
+      <source>Password</source>
+      <translation>Parola</translation>
+    </message>
+    <message>
+      <source>Repeat password</source>
+      <translation>&#x15E;ifreyi tekrarlay&#x131;n</translation>
+    </message>
+    <message>
+      <source>Contact information</source>
+      <translation>&#x130;leti&#x15F;im bilgileri</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-posta</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Kurtarmak</translation>
+    </message>
+    <message>
+      <source>OR login with</source>
+      <translation>VEYA giri&#x15F;</translation>
+    </message>
+    <message>
+      <source>Login with google account</source>
+      <translation>Google hesab&#x131; ile giri&#x15F;</translation>
+    </message>
+    <message>
+      <source>Working</source>
+      <translation>&#xC7;al&#x131;&#x15F;ma</translation>
+    </message>
+    <message>
+      <source>Working...</source>
+      <translation>&#xC7;al&#x131;&#x15F;&#x131;yor ...</translation>
+    </message>
+    <message>
+      <source>Registration</source>
+      <translation>Tescil</translation>
+    </message>
+    <message>
+      <source>Safe code</source>
+      <translation>G&#xFC;venli kod</translation>
+    </message>
+    <message>
+      <source>Register</source>
+      <translation>Kaydetmek</translation>
+    </message>
+    <message>
+      <source>Sutch username is already taken!</source>
+      <translation>Sutch Kullan&#x131;c&#x131; ad&#x131;n&#x131;z&#x131; daha &#xF6;nceden al&#x131;nm&#x131;&#x15F;!</translation>
+    </message>
+    <message>
+      <source>Please enter album name!</source>
+      <translation>Alb&#xFC;m ad&#x131; girin!</translation>
+    </message>
+    <message>
+      <source>Please enter category name!</source>
+      <translation>Kategori ad&#x131;n&#x131; giriniz!</translation>
+    </message>
+    <message>
+      <source>User exists</source>
+      <translation>Kullan&#x131;c&#x131; var</translation>
+    </message>
+    <message>
+      <source>Wrong email address</source>
+      <translation>Yanl&#x131;&#x15F; e-posta adresi</translation>
+    </message>
+    <message>
+      <source>Please enter username</source>
+      <translation>L&#xFC;tfen kullan&#x131;c&#x131; ad&#x131; girin</translation>
+    </message>
+    <message>
+      <source>Passwords mismatch</source>
+      <translation>&#x15E;ifreleri uyumsuzlu&#x11F;u</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Sistem yap&#x131;land&#x131;rmas&#x131;</translation>
+    </message>
+    <message>
+      <source>Users</source>
+      <translation>Kullan&#x131;c&#x131;lar</translation>
+    </message>
+    <message>
+      <source>Please enter group name</source>
+      <translation>Grup ad&#x131; girin</translation>
+    </message>
+    <message>
+      <source>E-mail taken!</source>
+      <translation>E-posta al&#x131;nm&#x131;&#x15F;!</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/newgroup</name>
+    <message>
+      <source>New group</source>
+      <translation>Yeni grup</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Ba&#x15F;l&#x131;k</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Kurtarmak</translation>
+    </message>
+    <message>
+      <source>Save and assign user</source>
+      <translation>Kaydet ve kullan&#x131;c&#x131; atamak</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Sistem yap&#x131;land&#x131;rmas&#x131;</translation>
+    </message>
+    <message>
+      <source>Groups</source>
+      <translation>Gruplar</translation>
+    </message>
+  </context>
+  <context>
+    <name>pagelayout/pagelayout</name>
+    <message>
+      <source>Home</source>
+      <translation>Ev</translation>
+    </message>
+    <message>
+      <source>Configuration</source>
+      <translation>Yap&#x131;land&#x131;rma</translation>
+    </message>
+    <message>
+      <source>Gallery categorys</source>
+      <translation>Galeri Kategorileri</translation>
+    </message>
+    <message>
+      <source>Last uploads to albums</source>
+      <translation>Alb&#xFC;mlere Son y&#xFC;klenenler</translation>
+    </message>
+    <message>
+      <source>Batch images add</source>
+      <translation>Toplu g&#xF6;r&#xFC;nt&#xFC;leri ekleyin</translation>
+    </message>
+    <message>
+      <source>Duplicates</source>
+      <translation>&#xC7;o&#x11F;alt&#x131;r</translation>
+    </message>
+    <message>
+      <source>Static articles</source>
+      <translation>Statik makaleler</translation>
+    </message>
+    <message>
+      <source>Statistic</source>
+      <translation>Istatistik</translation>
+    </message>
+    <message>
+      <source>Shop</source>
+      <translation>Ma&#x11F;aza</translation>
+    </message>
+    <message>
+      <source>Forum</source>
+      <translation>Forum</translation>
+    </message>
+    <message>
+      <source>Delete photo by ID</source>
+      <translation>ID ile foto&#x11F;raf&#x131; sil</translation>
+    </message>
+    <message>
+      <source>Photo was deleted</source>
+      <translation>Foto&#x11F;raf silinmi&#x15F; oldu</translation>
+    </message>
+    <message>
+      <source>Go to album</source>
+      <translation>Alb&#xFC;me git</translation>
+    </message>
+    <message>
+      <source>Go to forum topic</source>
+      <translation>Forum konusu</translation>
+    </message>
+    <message>
+      <source>Go to forum category</source>
+      <translation>Forum kategorisi</translation>
+    </message>
+    <message>
+      <source>Go to image</source>
+      <translation>Resme gidin</translation>
+    </message>
+    <message>
+      <source>Root category</source>
+      <translation>K&#xF6;k kategori</translation>
+    </message>
+    <message>
+      <source>Open</source>
+      <translation>A&#xE7;&#x131;k</translation>
+    </message>
+    <message>
+      <source>Edit</source>
+      <translation>D&#xFC;zenle</translation>
+    </message>
+    <message>
+      <source>New album</source>
+      <translation>Yeni alb&#xFC;m</translation>
+    </message>
+    <message>
+      <source>New batch albums</source>
+      <translation>Yeni bir toplu alb&#xFC;mleri</translation>
+    </message>
+    <message>
+      <source>New category</source>
+      <translation>Yeni kategori</translation>
+    </message>
+    <message>
+      <source>Delete album</source>
+      <translation>Alb&#xFC;m&#xFC; silin</translation>
+    </message>
+    <message>
+      <source>Delete category</source>
+      <translation>Kategoriyi sil</translation>
+    </message>
+    <message>
+      <source>Add images</source>
+      <translation>Resim ekleyin</translation>
+    </message>
+    <message>
+      <source>Move images</source>
+      <translation>Ta&#x15F;&#x131; g&#xF6;r&#xFC;nt&#xFC;leri</translation>
+    </message>
+    <message>
+      <source>It\'s NOT fake!</source>
+      <translation>It \ &amp;#39;s sahte DE&#x11E;&#x130;LD&#x130;R!</translation>
+    </message>
+    <message>
+      <source>Rendered in</source>
+      <translation>Rendered in</translation>
+    </message>
+    <message>
+      <source>Logged user</source>
+      <translation>Kay&#x131;tl&#x131; kullan&#x131;c&#x131;</translation>
+    </message>
+    <message>
+      <source>Account</source>
+      <translation>Hesap</translation>
+    </message>
+    <message>
+      <source>Logout</source>
+      <translation>&#xC7;&#x131;k&#x131;&#x15F;</translation>
+    </message>
+    <message>
+      <source>Login</source>
+      <translation>Giri&#x15F;</translation>
+    </message>
+    <message>
+      <source>Enter keyword or phrase</source>
+      <translation>Anahtar s&#xF6;zc&#xFC;k veya s&#xF6;zc&#xFC;k grubu girin</translation>
+    </message>
+    <message>
+      <source>Search entire forum</source>
+      <translation>T&#xFC;m forumda ara</translation>
+    </message>
+    <message>
+      <source>Search</source>
+      <translation>Arama</translation>
+    </message>
+    <message>
+      <source>Last uploads</source>
+      <translation>Son y&#xFC;klenenler</translation>
+    </message>
+    <message>
+      <source>Last commented</source>
+      <translation>Son yorumlanan</translation>
+    </message>
+    <message>
+      <source>Last hits</source>
+      <translation>Son vurur</translation>
+    </message>
+    <message>
+      <source>Last rated</source>
+      <translation>Son be&#x11F;enilenler</translation>
+    </message>
+    <message>
+      <source>Last 24 h.</source>
+      <translation>Son 24 saat</translation>
+    </message>
+    <message>
+      <source>Most popular</source>
+      <translation>En pop&#xFC;ler</translation>
+    </message>
+    <message>
+      <source>Top rated</source>
+      <translation>En &#xE7;ok oy alanlar</translation>
+    </message>
+    <message>
+      <source>Search entire gallery</source>
+      <translation>T&#xFC;m Galeride ara</translation>
+    </message>
+    <message>
+      <source>Last uploaded images</source>
+      <translation>Son y&#xFC;klenen g&#xF6;r&#xFC;nt&#xFC;ler</translation>
+    </message>
+    <message>
+      <source>View all categorys</source>
+      <translation>T&#xFC;m Kategorileri G&#xF6;ster</translation>
+    </message>
+    <message>
+      <source>All time</source>
+      <translation>T&#xFC;m zamanlar</translation>
+    </message>
+    <message>
+      <source>Interactive</source>
+      <translation>Interaktif</translation>
+    </message>
+    <message>
+      <source>Search by keyword</source>
+      <translation>Anahtar kelime ile arama</translation>
+    </message>
+    <message>
+      <source>Search by color</source>
+      <translation>Renge g&#xF6;re arama</translation>
+    </message>
+    <message>
+      <source>Search by similarity</source>
+      <translation>Benzerlik ara</translation>
+    </message>
+    <message>
+      <source>Search by sketch</source>
+      <translation>Kroki ile ara</translation>
+    </message>
+    <message>
+      <source>Last viewed images</source>
+      <translation>Son Bak&#x131;lan g&#xF6;r&#xFC;nt&#xFC;ler</translation>
+    </message>
+    <message>
+      <source>Last searches</source>
+      <translation>Son arama</translation>
+    </message>
+    <message>
+      <source>My account</source>
+      <translation>Hesab&#x131;m</translation>
+    </message>
+    <message>
+      <source>Profile page</source>
+      <translation type="unfinished">Profil sayfas&#x131;</translation>
+    </message>
+    <message>
+      <source>Manage albums</source>
+      <translation>Alb&#xFC;mleri y&#xF6;netmek</translation>
+    </message>
+    <message>
+      <source>Credits</source>
+      <translation>Kredi</translation>
+    </message>
+    <message>
+      <source>My orders</source>
+      <translation>Bana verilen emir</translation>
+    </message>
+    <message>
+      <source>My credits orders</source>
+      <translation>Benim kredi emirleri</translation>
+    </message>
+    <message>
+      <source>Import images from facebook</source>
+      <translation>Facebook &#x130;thalat g&#xF6;r&#xFC;nt&#xFC;leri</translation>
+    </message>
+    <message>
+      <source>Register</source>
+      <translation>Kaydetmek</translation>
+    </message>
+    <message>
+      <source>My favorites</source>
+      <translation>Benim favoriler</translation>
+    </message>
+    <message>
+      <source>Basket</source>
+      <translation>Sepet</translation>
+    </message>
+    <message>
+      <source>Upload</source>
+      <translation>Y&#xFC;kleme</translation>
+    </message>
+    <message>
+      <source>Upload zip</source>
+      <translation>Zip y&#xFC;kleyin</translation>
+    </message>
+    <message>
+      <source>Search...</source>
+      <translation>Arama ...</translation>
+    </message>
+  </context>
+  <context>
+    <name>fb/album</name>
+    <message>
+      <source>Check photo to import</source>
+      <translation>Al&#x131;nacak foto&#x11F;raf kontrol edin</translation>
+    </message>
+    <message>
+      <source>Import selected images to</source>
+      <translation>&#x130;thalat se&#xE7;ilen g&#xF6;r&#xFC;nt&#xFC;leri</translation>
+    </message>
+    <message>
+      <source>To what album you want to import images, start typing album name and click search</source>
+      <translation>G&#xF6;r&#xFC;nt&#xFC;leri almak istedi&#x11F;iniz ne alb&#xFC;m, alb&#xFC;m ad&#x131;n&#x131; yazmaya ba&#x15F;lay&#x131;n ve arama t&#x131;klay&#x131;n</translation>
+    </message>
+    <message>
+      <source>Search for album</source>
+      <translation>Alb&#xFC;m i&#xE7;in ara</translation>
+    </message>
+    <message>
+      <source>Check all</source>
+      <translation>Hepsini i&#x15F;aretle</translation>
+    </message>
+    <message>
+      <source>Click to see target, new window will open</source>
+      <translation>Hedef g&#xF6;rmek i&#xE7;in t&#x131;klay&#x131;n, yeni bir pencere a&#xE7;&#x131;lacak</translation>
+    </message>
+    <message>
+      <source>Import selected images</source>
+      <translation>Se&#xE7;ilen g&#xF6;r&#xFC;nt&#xFC;leri &#x130;thalat</translation>
+    </message>
+    <message>
+      <source>Please choose atleast one image!</source>
+      <translation>L&#xFC;tfen en az bir resim se&#xE7;im!</translation>
+    </message>
+    <message>
+      <source>images to import</source>
+      <translation>almak i&#xE7;in g&#xF6;r&#xFC;nt&#xFC;leri</translation>
+    </message>
+    <message>
+      <source>All images were imported</source>
+      <translation>T&#xFC;m g&#xF6;r&#xFC;nt&#xFC;ler ithal edildi</translation>
+    </message>
+    <message>
+      <source>Please choose album</source>
+      <translation>L&#xFC;tfen alb&#xFC;m se&#xE7;iniz</translation>
+    </message>
+    <message>
+      <source>Preview version</source>
+      <translation>&#xD6;nizleme s&#xFC;r&#xFC;m&#xFC;</translation>
+    </message>
+  </context>
+  <context>
+    <name>feedback/form</name>
+    <message>
+      <source>Feedback</source>
+      <translation>Geribesleme</translation>
+    </message>
+    <message>
+      <source>Feedback was send</source>
+      <translation>G&#xF6;r&#xFC;&#x15F;leriniz g&#xF6;ndermeye</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Isim</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-posta</translation>
+    </message>
+    <message>
+      <source>Text</source>
+      <translation>Metin</translation>
+    </message>
+    <message>
+      <source>Captcha image</source>
+      <translation>Captcha image</translation>
+    </message>
+    <message>
+      <source>Captcha code</source>
+      <translation>Captcha kodu</translation>
+    </message>
+    <message>
+      <source>Required fields</source>
+      <translation>Gerekli alanlar</translation>
+    </message>
+    <message>
+      <source>Send</source>
+      <translation>G&#xF6;ndermek</translation>
+    </message>
+    <message>
+      <source>Please enter name!</source>
+      <translation>L&#xFC;tfen isminizi giriniz!</translation>
+    </message>
+    <message>
+      <source>Invalid e-mail address!</source>
+      <translation>Ge&#xE7;ersiz e-posta adresi!</translation>
+    </message>
+    <message>
+      <source>Please enter text!</source>
+      <translation>L&#xFC;tfen metni girin!</translation>
+    </message>
+    <message>
+      <source>Please enter captcha code!</source>
+      <translation>Captcha kodunu giriniz!</translation>
+    </message>
+  </context>
+  <context>
+    <name>feedback/formsend</name>
+    <message>
+      <source>Feedback</source>
+      <translation>Geribesleme</translation>
+    </message>
+    <message>
+      <source>Your feedback was succesfuly send</source>
+      <translation>G&#xF6;r&#xFC;&#x15F;leriniz ba&#x15F;ar&#x131;yla g&#xF6;ndermek</translation>
+    </message>
+    <message>
+      <source>Home page</source>
+      <translation>Ana Sayfa</translation>
+    </message>
+  </context>
+  <context>
+    <name>feedback/mail</name>
+    <message>
+      <source>Hello</source>
+      <translation>Merhaba</translation>
+    </message>
+    <message>
+      <source>Feedback data</source>
+      <translation>Geri bildirim verileri</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Isim</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-posta</translation>
+    </message>
+    <message>
+      <source>Text</source>
+      <translation>Metin</translation>
+    </message>
+    <message>
+      <source>Bye</source>
+      <translation>Bye</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/anaglyph</name>
+    <message>
+      <source>Original</source>
+      <translation>Orijinal</translation>
+    </message>
+    <message>
+      <source>Anaglyph</source>
+      <translation>Anaglif</translation>
+    </message>
+    <message>
+      <source>Animating</source>
+      <translation>Animasyon</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/color</name>
+    <message>
+      <source>Exclude color</source>
+      <translation>Renk hari&#xE7; tut</translation>
+    </message>
+    <message>
+      <source>Maximum</source>
+      <translation>Maksimum</translation>
+    </message>
+    <message>
+      <source>filters</source>
+      <translation>filtreleri</translation>
+    </message>
+    <message>
+      <source>Include color</source>
+      <translation>Renk ekleyin</translation>
+    </message>
+    <message>
+      <source>Remove color</source>
+      <translation>Rengi kald&#x131;r&#x131;n</translation>
+    </message>
+    <message>
+      <source>Excluded colors in search</source>
+      <translation>Arama Hari&#xE7; renkleri</translation>
+    </message>
+    <message>
+      <source>colors</source>
+      <translation>renkler</translation>
+    </message>
+    <message>
+      <source>More color</source>
+      <translation>Daha fazla renk</translation>
+    </message>
+    <message>
+      <source>Return to pallete</source>
+      <translation>Palette i&#xE7;in d&#xF6;n</translation>
+    </message>
+    <message>
+      <source>Images by color</source>
+      <translation>Renkli g&#xF6;r&#xFC;nt&#xFC;leri</translation>
+    </message>
+    <message>
+      <source>Choose color</source>
+      <translation>Renk se&#xE7;in</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>Hay&#x131;r kaydeder.</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Sayfa</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/createalbum</name>
+    <message>
+      <source>New album</source>
+      <translation>Yeni alb&#xFC;m</translation>
+    </message>
+    <message>
+      <source>Album name</source>
+      <translation>Alb&#xFC;m Ad&#x131;</translation>
+    </message>
+    <message>
+      <source>Description</source>
+      <translation>Tan&#x131;m</translation>
+    </message>
+    <message>
+      <source>Keywords</source>
+      <translation>Anahtar Kelimeler</translation>
+    </message>
+    <message>
+      <source>Create</source>
+      <translation>Olu&#x15F;turmak</translation>
+    </message>
+    <message>
+      <source>Create and upload photos</source>
+      <translation>Foto&#x11F;raflar olu&#x15F;turun ve upload</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/myfavorites</name>
+    <message>
+      <source>Remove from favorites</source>
+      <translation>Remove from Kald&#x131;r</translation>
+    </message>
+    <message>
+      <source>My favorite images</source>
+      <translation>Benim favori foto&#x11F;raflar</translation>
+    </message>
+    <message>
+      <source>Remove</source>
+      <translation>Kald&#x131;rmak</translation>
+    </message>
+    <message>
+      <source>Remove Open ID</source>
+      <translation>Open ID &#xE7;&#x131;kar&#x131;n</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastcommented</name>
+    <message>
+      <source>Last commented images</source>
+      <translation>Son g&#xF6;r&#xFC;nt&#xFC;leri yorumlad&#x131;</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>Hay&#x131;r kaydeder.</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Karar</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Sayfa</translation>
+    </message>
+    <message>
+      <source>Last commented gallery images.</source>
+      <translation type="unfinished">Son galerisi g&#xF6;r&#xFC;nt&#xFC;leri yorumlad&#x131;.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lasthits</name>
+    <message>
+      <source>Last viewed images</source>
+      <translation>Son Bak&#x131;lan g&#xF6;r&#xFC;nt&#xFC;ler</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>Hay&#x131;r kaydeder.</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Karar</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Sayfa</translation>
+    </message>
+    <message>
+      <source>Last viewed gallery images.</source>
+      <translation type="unfinished">Son galeri g&#xF6;r&#xFC;nt&#xFC;ler izlendi.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastrated</name>
+    <message>
+      <source>Last rated images</source>
+      <translation>Son de&#x11F;erlendirilmi&#x15F; resimler</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>Hay&#x131;r kaydeder.</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Karar</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Sayfa</translation>
+    </message>
+    <message>
+      <source>Recently rated images.</source>
+      <translation type="unfinished">Son g&#xF6;r&#xFC;nt&#xFC;leri puan.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastsearches</name>
+    <message>
+      <source>Last searches</source>
+      <translation>Son arama</translation>
+    </message>
+    <message>
+      <source>No records</source>
+      <translation>Kay&#x131;t</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastuploads</name>
+    <message>
+      <source>Last uploaded images</source>
+      <translation>Son y&#xFC;klenen g&#xF6;r&#xFC;nt&#xFC;ler</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>Hay&#x131;r kaydeder.</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Karar</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Sayfa</translation>
+    </message>
+    <message>
+      <source>Latest additions to gallery.</source>
+      <translation type="unfinished">Galeriye Son Y&#xFC;klenenler.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/my_albums_list</name>
+    <message>
+      <source>Edit album</source>
+      <translation>Alb&#xFC;m&#xFC; d&#xFC;zenle</translation>
+    </message>
+    <message>
+      <source>Are you sure?</source>
+      <translation>Emin misin?</translation>
+    </message>
+    <message>
+      <source>Delete album</source>
+      <translation>Alb&#xFC;m&#xFC; silin</translation>
+    </message>
+    <message>
+      <source>Add images</source>
+      <translation>Resim ekleyin</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/myalbums</name>
+    <message>
+      <source>My albums</source>
+      <translation>Alb&#xFC;mlerim</translation>
+    </message>
+    <message>
+      <source>New album</source>
+      <translation>Yeni alb&#xFC;m</translation>
+    </message>
+    <message>
+      <source>Update priority</source>
+      <translation>G&#xFC;ncelleme &#xF6;ncelik</translation>
+    </message>
+    <message>
+      <source>You do not have any album.</source>
+      <translation>Herhangi bir alb&#xFC;m&#xFC; yoktur.</translation>
+    </message>
+    <message>
+      <source>Create a new album.</source>
+      <translation>Yeni bir alb&#xFC;m olu&#x15F;turma.</translation>
+    </message>
+    <message>
+      <source>Account</source>
+      <translation>Hesap</translation>
+    </message>
+    <message>
+      <source>Albums</source>
+      <translation>Alb&#xFC;mler</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/mylistalbum</name>
+    <message>
+      <source>No records.</source>
+      <translation>Hay&#x131;r kaydeder.</translation>
+    </message>
+    <message>
+      <source>Account</source>
+      <translation>Hesap</translation>
+    </message>
+    <message>
+      <source>Albums</source>
+      <translation>Alb&#xFC;mler</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/popular</name>
+    <message>
+      <source>Most popular images</source>
+      <translation>En pop&#xFC;ler g&#xF6;r&#xFC;nt&#xFC;ler</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>Hay&#x131;r kaydeder.</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Karar</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Sayfa</translation>
+    </message>
+    <message>
+      <source>All time most popular images.</source>
+      <translation type="unfinished">T&#xFC;m zamanlar en pop&#xFC;ler g&#xF6;r&#xFC;nt&#xFC;.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/popularrecect</name>
+    <message>
+      <source>Most popular images in 24 hours.</source>
+      <translation>En pop&#xFC;ler 24 saat i&#xE7;inde g&#xF6;r&#xFC;nt&#xFC;ler.</translation>
+    </message>
+    <message>
+      <source>There are no images.</source>
+      <translation>G&#xF6;r&#xFC;nt&#xFC; yok.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/ratedrecent</name>
+    <message>
+      <source>Top rated images in 24 hours.</source>
+      <translation>Top 24 saat g&#xF6;r&#xFC;nt&#xFC; anma.</translation>
+    </message>
+    <message>
+      <source>Top rated images in 24 hours</source>
+      <translation>24 saat i&#xE7;inde en iyi de&#x11F;erlendirilmi&#x15F; resimler</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Sayfa</translation>
+    </message>
+    <message>
+      <source>Top rated images in last 24 hours.</source>
+      <translation type="unfinished">Son 24 saat i&#xE7;inde en iyi de&#x11F;erlendirilmi&#x15F; resimler.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/sharehtml</name>
+    <message>
+      <source>Link to image</source>
+      <translation>Resme link</translation>
+    </message>
+    <message>
+      <source>Link to image with thumbnail</source>
+      <translation>K&#xFC;&#xE7;&#xFC;k resim g&#xF6;r&#xFC;nt&#xFC; Ba&#x11F;lant&#x131;</translation>
+    </message>
+    <message>
+      <source>Link to image with medium size thumbnail</source>
+      <translation>Orta boy minik resme link</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/sharephpbb</name>
+    <message>
+      <source>Link to image</source>
+      <translation>Resme link</translation>
+    </message>
+    <message>
+      <source>Link to image with thumbnail</source>
+      <translation>K&#xFC;&#xE7;&#xFC;k resim g&#xF6;r&#xFC;nt&#xFC; Ba&#x11F;lant&#x131;</translation>
+    </message>
+    <message>
+      <source>Link to image with medium size thumbnail</source>
+      <translation>Orta boy minik resme link</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/subcategory_list_full</name>
+    <message>
+      <source>albums</source>
+      <translation>alb&#xFC;m</translation>
+    </message>
+    <message>
+      <source>images</source>
+      <translation>g&#xF6;r&#xFC;nt&#xFC;leri</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/toprated</name>
+    <message>
+      <source>Top rated images</source>
+      <translation>En iyi de&#x11F;erlendirilmi&#x15F; resimler</translation>
+    </message>
+    <message>
+      <source>No records</source>
+      <translation>Kay&#x131;t</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Karar</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Sayfa</translation>
+    </message>
+    <message>
+      <source>All time top rated images.</source>
+      <translation type="unfinished">T&#xFC;m zamanlar&#x131;n en iyi g&#xF6;r&#xFC;nt&#xFC; puan.</translation>
+    </message>
+  </context>
+  <context>
+    <name>kernel/nopermission</name>
+    <message>
+      <source>You do not have permission to access module</source>
+      <translation>Mod&#xFC;l&#xFC; eri&#x15F;mek i&#xE7;in izniniz yoktur</translation>
+    </message>
+    <message>
+      <source>and use</source>
+      <translation>ve kullan&#x131;m&#x131;</translation>
+    </message>
+    <message>
+      <source>function</source>
+      <translation>fonksiyon</translation>
+    </message>
+    <message>
+      <source>You do not have permission to access current object</source>
+      <translation>Mevcut nesneye eri&#x15F;mek i&#xE7;in izniniz yoktur</translation>
+    </message>
+  </context>
+  <context>
+    <name>core/paginator</name>
+    <message>
+      <source>Page</source>
+      <translation>Sayfa</translation>
+    </message>
+    <message>
+      <source>of</source>
+      <translation>,</translation>
+    </message>
+    <message>
+      <source>Found</source>
+      <translation>Bulundu</translation>
+    </message>
+    <message>
+      <source>Previous</source>
+      <translation>&#xD6;nceki</translation>
+    </message>
+    <message>
+      <source>Go to page</source>
+      <translation>Sayfaya git</translation>
+    </message>
+    <message>
+      <source>Next</source>
+      <translation>Sonraki</translation>
+    </message>
+  </context>
+  <context>
+    <name>similar/similar</name>
+    <message>
+      <source>Visualy similar images to</source>
+      <translation>I&#xE7;in g&#xF6;rsel olarak benzer g&#xF6;r&#xFC;nt&#xFC;ler</translation>
+    </message>
+    <message>
+      <source>Search for visualy similar images</source>
+      <translation>G&#xF6;rsel olarak benzer g&#xF6;r&#xFC;nt&#xFC;ler ara</translation>
+    </message>
+    <message>
+      <source>Please enable JavaScript to upload image</source>
+      <translation>Please enable JavaScript resim upload</translation>
+    </message>
+    <message>
+      <source>Click to choose image, you can also Drag and Drop file here (Drag and drop only for FF, Chrome).</source>
+      <translation>G&#xF6;r&#xFC;nt&#xFC; se&#xE7;mek i&#xE7;in t&#x131;klay&#x131;n, ayn&#x131; zamanda S&#xFC;r&#xFC;kle ve burada dosya Kutu (Chrome S&#xFC;r&#xFC;kle ve FF i&#xE7;in sadece b&#x131;rak&#x131;n).</translation>
+    </message>
+    <message>
+      <source>Cancel</source>
+      <translation>Iptal</translation>
+    </message>
+    <message>
+      <source>Failed</source>
+      <translation>Ba&#x15F;ar&#x131;s&#x131;z</translation>
+    </message>
+  </context>
+  <context>
+    <name>similar/sketch</name>
+    <message>
+      <source>Search by sketch</source>
+      <translation>Kroki ile ara</translation>
+    </message>
+    <message>
+      <source>Sketch and find images by your sketch</source>
+      <translation>Kroki ile kroki ve g&#xF6;r&#xFC;nt&#xFC;leri bulmak</translation>
+    </message>
+  </context>
+  <context>
+    <name>statistic/view</name>
+    <message>
+      <source>hours</source>
+      <translation>saat</translation>
+    </message>
+    <message>
+      <source>Total pageviews</source>
+      <translation>Toplam sayfa g&#xF6;r&#xFC;n&#xFC;mleri</translation>
+    </message>
+    <message>
+      <source>Total visits</source>
+      <translation>Toplam Ziyaret</translation>
+    </message>
+    <message>
+      <source>Time spent</source>
+      <translation>Zaman ge&#xE7;irdim</translation>
+    </message>
+    <message>
+      <source>Last 31 days statistic, data resource - google analytics API</source>
+      <translation>Son 31 g&#xFC;n istatistik, veri kayna&#x11F;&#x131; - google analytics API</translation>
+    </message>
+    <message>
+      <source>Legend</source>
+      <translation>Efsane</translation>
+    </message>
+    <message>
+      <source>Pageviews</source>
+      <translation>G&#xF6;sterimler</translation>
+    </message>
+    <message>
+      <source>Visits</source>
+      <translation>Ziyaret</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/mapaccounts</name>
+    <message>
+      <source>Login with facebook</source>
+      <translation>Facebook ile giri&#x15F;</translation>
+    </message>
+    <message>
+      <source>Map to my account</source>
+      <translation>Harita hesab&#x131;ma</translation>
+    </message>
+    <message>
+      <source>my account</source>
+      <translation>Hesab&#x131;m&#x131;</translation>
+    </message>
+    <message>
+      <source>Login</source>
+      <translation>Giri&#x15F;</translation>
+    </message>
+    <message>
+      <source>map to my account</source>
+      <translation>Hesab&#x131;m&#x131; harita</translation>
+    </message>
+    <message>
+      <source>Incorrect login or password</source>
+      <translation>Yanl&#x131;&#x15F; giri&#x15F; ya da &#x15F;ifre</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Kullan&#x131;c&#x131; Ad&#x131;</translation>
+    </message>
+    <message>
+      <source>Password</source>
+      <translation>Parola</translation>
+    </message>
+    <message>
+      <source>OR</source>
+      <translation>YA</translation>
+    </message>
+    <message>
+      <source>create account</source>
+      <translation>hesap edin</translation>
+    </message>
+    <message>
+      <source>Next</source>
+      <translation>Sonraki</translation>
+    </message>
+    <message>
+      <source>Open ID</source>
+      <translation>Open ID</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/forgotpassword</name>
+    <message>
+      <source>Password remind</source>
+      <translation>&#x15E;ifre hat&#x131;rlatma</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-posta</translation>
+    </message>
+    <message>
+      <source>Restore password</source>
+      <translation>&#x15E;ifre geri</translation>
+    </message>
+    <message>
+      <source>Order confirmed</source>
+      <translation>Sipari&#x15F; do&#x11F;rulad&#x131;</translation>
+    </message>
+    <message>
+      <source>Credits order confirmed</source>
+      <translation>Kredi sipari&#x15F;i teyit</translation>
+    </message>
+    <message>
+      <source>Wrong e-mail address!</source>
+      <translation>Yanl&#x131;&#x15F; e-posta adresi!</translation>
+    </message>
+    <message>
+      <source>Click this link and to You will be send new password</source>
+      <translation>Bu linki t&#x131;klay&#x131;n ve size yeni bir &#x15F;ifre g&#xF6;nderece&#x11F;iz.</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/forgotpasswordsent</name>
+    <message>
+      <source>Password remind</source>
+      <translation>&#x15E;ifre hat&#x131;rlatma</translation>
+    </message>
+    <message>
+      <source>E-mail send. Click link in email and to You will be send out new password.</source>
+      <translation>E-posta g&#xF6;ndermek. E-posta ba&#x11F;lant&#x131;s&#x131;n&#x131; t&#x131;klay&#x131;n ve yeni bir &#x15F;ifre g&#xF6;ndermek olacak.</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/index</name>
+    <message>
+      <source>User home</source>
+      <translation>Kullan&#x131;c&#x131; ev</translation>
+    </message>
+    <message>
+      <source>Welcome. Here you can:</source>
+      <translation>Ho&#x15F; geldiniz. Burada:</translation>
+    </message>
+    <message>
+      <source>Edit personal settings</source>
+      <translation>Ki&#x15F;isel ayarlar&#x131;n&#x131; d&#xFC;zenleyin</translation>
+    </message>
+    <message>
+      <source>Manage personal albums</source>
+      <translation>Ki&#x15F;isel alb&#xFC;mleri y&#xF6;netin</translation>
+    </message>
+    <message>
+      <source>My account</source>
+      <translation>Hesab&#x131;m</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/remindpassword</name>
+    <message>
+      <source>New password</source>
+      <translation>Yeni &#x15F;ifre</translation>
+    </message>
+    <message>
+      <source>Hash not found or was used already</source>
+      <translation>Hash bulundu veya zaten kullan&#x131;lmakta</translation>
+    </message>
+    <message>
+      <source>Password remind - new password</source>
+      <translation>&#x15E;ifre hat&#x131;rlatmak - yeni &#x15F;ifre</translation>
+    </message>
+    <message>
+      <source>New password:</source>
+      <translation>Yeni &#x15F;ifre:</translation>
+    </message>
+    <message>
+      <source>New password has beend send to your email.</source>
+      <translation>Yeni &#x15F;ifre beend e-posta g&#xF6;ndermek.</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/basket</name>
+    <message>
+      <source>Basket</source>
+      <translation>Sepet</translation>
+    </message>
+    <message>
+      <source>Image name</source>
+      <translation>Resim ismi</translation>
+    </message>
+    <message>
+      <source>Version</source>
+      <translation>Versiyon</translation>
+    </message>
+    <message>
+      <source>Image size</source>
+      <translation>G&#xF6;r&#xFC;nt&#xFC; boyutu</translation>
+    </message>
+    <message>
+      <source>Format</source>
+      <translation>Format</translation>
+    </message>
+    <message>
+      <source>Price</source>
+      <translation>Fiyat</translation>
+    </message>
+    <message>
+      <source>Credits</source>
+      <translation>Kredi</translation>
+    </message>
+    <message>
+      <source>Remove from basket</source>
+      <translation>Sepetten Kald&#x131;r</translation>
+    </message>
+    <message>
+      <source>Choose payment option</source>
+      <translation>&#xD6;deme se&#xE7;ene&#x11F;i se&#xE7;in</translation>
+    </message>
+    <message>
+      <source>In order to checkout atlest one item have to be selected.</source>
+      <translation>Bir &#xF6;&#x11F;e se&#xE7;ili olmas&#x131; atlest &#xE7;&#x131;k&#x131;&#x15F; i&#xE7;in.</translation>
+    </message>
+    <message>
+      <source>In order to checkout you have to</source>
+      <translation>&#xC7;&#x131;k&#x131;&#x15F; i&#xE7;in yapman&#x131;z gereken</translation>
+    </message>
+    <message>
+      <source>sign in</source>
+      <translation>oturum</translation>
+    </message>
+    <message>
+      <source>or</source>
+      <translation>veya</translation>
+    </message>
+    <message>
+      <source>login</source>
+      <translation>giri&#x15F;</translation>
+    </message>
+    <message>
+      <source>if you have already created an account</source>
+      <translation>Zaten bir hesab&#x131;n&#x131;z varsa,</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/buycredits</name>
+    <message>
+      <source>Buy credits</source>
+      <translation>Kredi al</translation>
+    </message>
+    <message>
+      <source>How many credits do want to buy?</source>
+      <translation>Ka&#xE7; kredi sat&#x131;n almak ister misiniz?</translation>
+    </message>
+    <message>
+      <source>Choose payment method</source>
+      <translation>&#xD6;deme y&#xF6;ntemini se&#xE7;in</translation>
+    </message>
+  </context>
+  <context>
+    <name>credits_handler/accept</name>
+    <message>
+      <source>Order succesfull</source>
+      <translation>Sipari&#x15F; ba&#x15F;ar&#x131;l&#x131;</translation>
+    </message>
+    <message>
+      <source>Payment was succesfull</source>
+      <translation>&#xD6;deme ba&#x15F;ar&#x131;l&#x131;</translation>
+    </message>
+  </context>
+  <context>
+    <name>credits_handler/process</name>
+    <message>
+      <source>Checkout</source>
+      <translation>&#xC7;&#x131;k&#x131;&#x15F;</translation>
+    </message>
+    <message>
+      <source>Confirm payment</source>
+      <translation>&#xD6;demenizi onaylamak</translation>
+    </message>
+    <message>
+      <source>Not enouth credits to checkout</source>
+      <translation>Enouth &#xF6;deme i&#xE7;in kredi de&#x11F;il</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/cancel</name>
+    <message>
+      <source>Payment canceled</source>
+      <translation>&#xD6;deme iptal</translation>
+    </message>
+    <message>
+      <source>Paypal payment was canceled.</source>
+      <translation>Paypal &#xF6;deme iptal edildi.</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/error</name>
+    <message>
+      <source>Error</source>
+      <translation>Hata</translation>
+    </message>
+    <message>
+      <source>Execution was terminated unexpectedly.</source>
+      <translation>Y&#xFC;r&#xFC;tme beklenmedik bir &#x15F;ekilde sona erdirildi.</translation>
+    </message>
+  </context>
+  <context>
+    <name>paypal_handler/process</name>
+    <message>
+      <source>Checkout using Paypal</source>
+      <translation>Paypal ile &#xD6;deme</translation>
+    </message>
+    <message>
+      <source>Buyer\'s Email</source>
+      <translation>Al&#x131;c&#x131; \ &amp;#39;nin E-Posta</translation>
+    </message>
+    <message>
+      <source>Amount</source>
+      <translation>Miktar</translation>
+    </message>
+    <message>
+      <source>Currency</source>
+      <translation>Para</translation>
+    </message>
+    <message>
+      <source>Credits</source>
+      <translation>Kredi</translation>
+    </message>
+  </context>
+  <context>
+    <name>paypal_handler/review</name>
+    <message>
+      <source>Order payment confirmation</source>
+      <translation>Sipari&#x15F; &#xF6;deme onay</translation>
+    </message>
+    <message>
+      <source>Order amount</source>
+      <translation>Sipari&#x15F; miktar&#x131;</translation>
+    </message>
+    <message>
+      <source>Confirm payment</source>
+      <translation>&#xD6;demenizi onaylamak</translation>
+    </message>
+    <message>
+      <source>Thank you for your payment!</source>
+      <translation>&#xD6;demeniz i&#xE7;in te&#x15F;ekk&#xFC;r ederiz!</translation>
+    </message>
+    <message>
+      <source>credits</source>
+      <translation>kredi</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/mycredits</name>
+    <message>
+      <source>My credits balanse</source>
+      <translation>My kredi balanse</translation>
+    </message>
+    <message>
+      <source>You have</source>
+      <translation>&#x15E;u ana kadar</translation>
+    </message>
+    <message>
+      <source>in your account</source>
+      <translation>Hesab&#x131;n&#x131;zda</translation>
+    </message>
+    <message>
+      <source>Buy credits</source>
+      <translation>Kredi al</translation>
+    </message>
+    <message>
+      <source>My credits</source>
+      <translation>Benim kredi</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/myorders</name>
+    <message>
+      <source>My credits orders</source>
+      <translation>Benim kredi emirleri</translation>
+    </message>
+    <message>
+      <source>Date</source>
+      <translation>Tarih</translation>
+    </message>
+    <message>
+      <source>Order price</source>
+      <translation>Sipari&#x15F; fiyat</translation>
+    </message>
+    <message>
+      <source>Order credits</source>
+      <translation>Sipari&#x15F; kredi</translation>
+    </message>
+    <message>
+      <source>Order status</source>
+      <translation>Sipari&#x15F; durumu</translation>
+    </message>
+    <message>
+      <source>Payed</source>
+      <translation>&#xD6;denir</translation>
+    </message>
+    <message>
+      <source>Confirmed</source>
+      <translation>Onayland&#x131;</translation>
+    </message>
+    <message>
+      <source>My orders</source>
+      <translation>Bana verilen emir</translation>
+    </message>
+    <message>
+      <source>Order view</source>
+      <translation>Sipari&#x15F; g&#xF6;r&#xFC;n&#xFC;m&#xFC;</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/orderview</name>
+    <message>
+      <source>Order view</source>
+      <translation>Sipari&#x15F; g&#xF6;r&#xFC;n&#xFC;m&#xFC;</translation>
+    </message>
+    <message>
+      <source>Order time</source>
+      <translation>Sipari&#x15F; zaman</translation>
+    </message>
+    <message>
+      <source>Order price</source>
+      <translation>Sipari&#x15F; fiyat</translation>
+    </message>
+    <message>
+      <source>Order credits</source>
+      <translation>Sipari&#x15F; kredi</translation>
+    </message>
+    <message>
+      <source>Order status</source>
+      <translation>Sipari&#x15F; durumu</translation>
+    </message>
+    <message>
+      <source>Payed</source>
+      <translation>&#xD6;denir</translation>
+    </message>
+    <message>
+      <source>Confirmed</source>
+      <translation>Onayland&#x131;</translation>
+    </message>
+    <message>
+      <source>Ordered items</source>
+      <translation>S&#x131;ral&#x131; &#xF6;&#x11F;eleri</translation>
+    </message>
+    <message>
+      <source>Image name</source>
+      <translation>Resim ismi</translation>
+    </message>
+    <message>
+      <source>Version</source>
+      <translation>Versiyon</translation>
+    </message>
+    <message>
+      <source>Image size</source>
+      <translation>G&#xF6;r&#xFC;nt&#xFC; boyutu</translation>
+    </message>
+    <message>
+      <source>Format</source>
+      <translation>Format</translation>
+    </message>
+    <message>
+      <source>Price</source>
+      <translation>Fiyat</translation>
+    </message>
+    <message>
+      <source>Download count</source>
+      <translation>Saymak indirin</translation>
+    </message>
+    <message>
+      <source>Downloads left</source>
+      <translation>&#x130;ndirilme sol</translation>
+    </message>
+    <message>
+      <source>Credits</source>
+      <translation>Kredi</translation>
+    </message>
+    <message>
+      <source>Download image</source>
+      <translation>Resim y&#xFC;kle</translation>
+    </message>
+    <message>
+      <source>downloads left</source>
+      <translation>indirme sol</translation>
+    </message>
+    <message>
+      <source>No downloads available</source>
+      <translation>Hi&#xE7;bir&#x15F;ey indirmede</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/paymentoption</name>
+    <message>
+      <source>Payment option</source>
+      <translation>&#xD6;deme se&#xE7;ene&#x11F;i</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-posta</translation>
+    </message>
+    <message>
+      <source>Choose payment method</source>
+      <translation>&#xD6;deme y&#xF6;ntemini se&#xE7;in</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/paymentoptioncredit</name>
+    <message>
+      <source>Payment option</source>
+      <translation>&#xD6;deme se&#xE7;ene&#x11F;i</translation>
+    </message>
+    <message>
+      <source>Continue</source>
+      <translation>Devam etmek</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/category</name>
+    <message>
+      <source>Root category</source>
+      <translation>K&#xF6;k kategori</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Sayfa</translation>
+    </message>
+    <message>
+      <source>Forum</source>
+      <translation>Forum</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/category</name>
+    <message>
+      <source>Please enter topic name!</source>
+      <translation>Konu ad&#x131; girin!</translation>
+    </message>
+    <message>
+      <source>Please enter message!</source>
+      <translation>L&#xFC;tfen mesaj&#x131;n&#x131;z&#x131; girin!</translation>
+    </message>
+    <message>
+      <source>Please choose category!</source>
+      <translation>Kategori se&#xE7;iniz!</translation>
+    </message>
+    <message>
+      <source>Not parent category!</source>
+      <translation>&#xDC;st kategorisi de&#x11F;il!</translation>
+    </message>
+    <message>
+      <source>Invalid category!</source>
+      <translation>Kategori Ge&#xE7;ersiz!</translation>
+    </message>
+    <message>
+      <source>Forum</source>
+      <translation>Forum</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/createcategory</name>
+    <message>
+      <source>Please enter category name!</source>
+      <translation>Kategori ad&#x131;n&#x131; giriniz!</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>Ev</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/editmessage</name>
+    <message>
+      <source>Please enter message!</source>
+      <translation>L&#xFC;tfen mesaj&#x131;n&#x131;z&#x131; girin!</translation>
+    </message>
+    <message>
+      <source>Forum</source>
+      <translation>Forum</translation>
+    </message>
+    <message>
+      <source>Message edit</source>
+      <translation>Mesaj d&#xFC;zenleme</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/edittopic</name>
+    <message>
+      <source>Please enter topic name!</source>
+      <translation>Konu ad&#x131; girin!</translation>
+    </message>
+    <message>
+      <source>Please enter topic status!</source>
+      <translation>Ba&#x15F;l&#x131;k durumu giriniz!</translation>
+    </message>
+    <message>
+      <source>Forum</source>
+      <translation>Forum</translation>
+    </message>
+    <message>
+      <source>Topic edit</source>
+      <translation>Konu d&#xFC;zenleme</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/report</name>
+    <message>
+      <source>Please enter message!</source>
+      <translation>L&#xFC;tfen mesaj&#x131;n&#x131;z&#x131; girin!</translation>
+    </message>
+    <message>
+      <source>Forum message report</source>
+      <translation>Forum mesaj raporu</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/searchrss</name>
+    <message>
+      <source>Search results</source>
+      <translation>Arama sonu&#xE7;lar&#x131;</translation>
+    </message>
+    <message>
+      <source>Search</source>
+      <translation>Arama</translation>
+    </message>
+    <message>
+      <source>Search RSS by keyword</source>
+      <translation>Anahtar kelime ile arama RSS</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>View image</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/searchrss</name>
+    <message>
+      <source>Search</source>
+      <translation>Arama</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/albumeditadmin</name>
+    <message>
+      <source>Root category</source>
+      <translation>K&#xF6;k kategori</translation>
+    </message>
+    <message>
+      <source>Add images</source>
+      <translation>Resim ekleyin</translation>
+    </message>
+    <message>
+      <source>Album edit</source>
+      <translation>Alb&#xFC;m d&#xFC;zenleme</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/addvote</name>
+    <message>
+      <source>Thank you for your vote</source>
+      <translation>Oyunuzu i&#xE7;in te&#x15F;ekk&#xFC;r ederiz</translation>
+    </message>
+    <message>
+      <source>You are not allowed to vote!</source>
+      <translation>Oy kullanmak i&#xE7;in izin verilmez!</translation>
+    </message>
+    <message>
+      <source>You have already voted!</source>
+      <translation>Zaten oy var!</translation>
+    </message>
+    <message>
+      <source>Vote deducted!</source>
+      <translation>Mahsup Oy!</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/albumrss</name>
+    <message>
+      <source>Last uploaded images to album</source>
+      <translation>Alb&#xFC;me Son y&#xFC;klenen g&#xF6;r&#xFC;nt&#xFC;ler</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>View image</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lasthitsrss</name>
+    <message>
+      <source>watched</source>
+      <translation>izledi</translation>
+    </message>
+    <message>
+      <source>Last viewed images</source>
+      <translation>Son Bak&#x131;lan g&#xF6;r&#xFC;nt&#xFC;ler</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>View image</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastcommentedrss</name>
+    <message>
+      <source>Last commented images</source>
+      <translation>Son g&#xF6;r&#xFC;nt&#xFC;leri yorumlad&#x131;</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>View image</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastratedrss</name>
+    <message>
+      <source>Last rated images</source>
+      <translation>Son de&#x11F;erlendirilmi&#x15F; resimler</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>View image</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastuploadsrss</name>
+    <message>
+      <source>Last uploaded images</source>
+      <translation>Son y&#xFC;klenen g&#xF6;r&#xFC;nt&#xFC;ler</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>View image</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/movebyresolution</name>
+    <message>
+      <source>Move by resolution</source>
+      <translation>Karar&#x131; ile hareket</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/popularrecent</name>
+    <message>
+      <source>Most popular images in 24 hours</source>
+      <translation>24 saat i&#xE7;inde en pop&#xFC;ler g&#xF6;r&#xFC;nt&#xFC;</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Sayfa</translation>
+    </message>
+    <message>
+      <source>Most popular images in last 24 hours.</source>
+      <translation type="unfinished">Son 24 saat i&#xE7;inde en pop&#xFC;ler g&#xF6;r&#xFC;nt&#xFC;ler.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/popularrss</name>
+    <message>
+      <source>Most popular images</source>
+      <translation>En pop&#xFC;ler g&#xF6;r&#xFC;nt&#xFC;ler</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/tagphoto</name>
+    <message>
+      <source>Thank you a lot :)</source>
+      <translation>Size &#xE7;ok te&#x15F;ekk&#xFC;r ederiz:)</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/topratedrss</name>
+    <message>
+      <source>Top rated images</source>
+      <translation>En iyi de&#x11F;erlendirilmi&#x15F; resimler</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>View image</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/updateimage</name>
+    <message>
+      <source>Image updated</source>
+      <translation>G&#xFC;ncellenen G&#xF6;r&#xFC;nt&#xFC;</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/imagevariation</name>
+    <message>
+      <source>Basket</source>
+      <translation>Sepet</translation>
+    </message>
+    <message>
+      <source>Payment option</source>
+      <translation>&#xD6;deme se&#xE7;ene&#x11F;i</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/imagevariationform</name>
+    <message>
+      <source>Credits amount must be greater than 0!</source>
+      <translation>Kredi miktar&#x131; 0&amp;#39;dan b&#xFC;y&#xFC;k olmal&#x131;!</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/settingedit</name>
+    <message>
+      <source>Edit</source>
+      <translation>D&#xFC;zenle</translation>
+    </message>
+  </context>
+  <context>
+    <name>similar/image</name>
+    <message>
+      <source>Similar images to</source>
+      <translation>E benzer g&#xF6;r&#xFC;nt&#xFC;ler</translation>
+    </message>
+    <message>
+      <source>Search for visualy similar images</source>
+      <translation>G&#xF6;rsel olarak benzer g&#xF6;r&#xFC;nt&#xFC;ler ara</translation>
+    </message>
+  </context>
+  <context>
+    <name>system/index</name>
+    <message>
+      <source>System administration panel</source>
+      <translation>Sistem y&#xF6;netim paneli</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/profile</name>
+    <message>
+      <source>User profile</source>
+      <translation type="unfinished">Kullan&#x131;c&#x131; Profili</translation>
+    </message>
+    <message>
+      <source>Name and surname</source>
+      <translation type="unfinished">Ad&#x131; ve soyad&#x131;</translation>
+    </message>
+    <message>
+      <source>Website</source>
+      <translation type="unfinished">Web sitesi</translation>
+    </message>
+    <message>
+      <source>Introduction</source>
+      <translation type="unfinished">Giri&#x15F;</translation>
+    </message>
+    <message>
+      <source>Last updated albums</source>
+      <translation type="unfinished">Son g&#xFC;ncellenen alb&#xFC;mler</translation>
+    </message>
+    <message>
+      <source>Last uploaded images</source>
+      <translation type="unfinished">Son y&#xFC;klenen g&#xF6;r&#xFC;nt&#xFC;ler</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastuploadstoalbums</name>
+    <message>
+      <source>Last uploads to albums</source>
+      <translation type="unfinished">Alb&#xFC;mlere Son y&#xFC;klenenler</translation>
+    </message>
+    <message>
+      <source>Recently updated albums</source>
+      <translation type="unfinished">Son g&#xFC;ncellenen alb&#xFC;mler</translation>
+    </message>
+  </context>
+</TS>

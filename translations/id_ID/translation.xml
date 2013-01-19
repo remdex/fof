@@ -1,0 +1,4280 @@
+<?xml version="1.0"?>
+<!DOCTYPE TS>
+<TS>
+  <context>
+    <name>article/editstatic</name>
+    <message>
+      <source>Article name</source>
+      <translation>Pasal nama</translation>
+    </message>
+    <message>
+      <source>Body</source>
+      <translation>Tubuh</translation>
+    </message>
+    <message>
+      <source>Article edit</source>
+      <translation>Pasal mengedit</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Memperbarui</translation>
+    </message>
+  </context>
+  <context>
+    <name>article/newstatic</name>
+    <message>
+      <source>New article</source>
+      <translation>Artikel baru</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Simpan</translation>
+    </message>
+  </context>
+  <context>
+    <name>article/staticlist</name>
+    <message>
+      <source>Static articles</source>
+      <translation>Statis artikel</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Nama</translation>
+    </message>
+    <message>
+      <source>Edit</source>
+      <translation>Mengedit</translation>
+    </message>
+    <message>
+      <source>New article</source>
+      <translation>Artikel baru</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/admincategorys</name>
+    <message>
+      <source>Category</source>
+      <translation>Kategori</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Judul</translation>
+    </message>
+    <message>
+      <source>Owner</source>
+      <translation>Pemilik</translation>
+    </message>
+    <message>
+      <source>Topics</source>
+      <translation>Topik</translation>
+    </message>
+    <message>
+      <source>Messages</source>
+      <translation>Pesan</translation>
+    </message>
+    <message>
+      <source>Edit category</source>
+      <translation>Edit kategori</translation>
+    </message>
+    <message>
+      <source>Delete category</source>
+      <translation>Menghapus kategori</translation>
+    </message>
+    <message>
+      <source>Create a category</source>
+      <translation>Buat kategori</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>Rumah</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/album</name>
+    <message>
+      <source>No records</source>
+      <translation>Tidak ada catatan</translation>
+    </message>
+    <message>
+      <source>Search by color and keyword, just try to see how fun it is!</source>
+      <translation>Pencarian dengan warna dan kata kunci, hanya mencoba untuk melihat bagaimana menyenangkan itu!</translation>
+    </message>
+    <message>
+      <source>Enter keyword or phrase</source>
+      <translation>Masukkan kata kunci atau frase</translation>
+    </message>
+    <message>
+      <source>Search entire gallery</source>
+      <translation>Pencarian keseluruhan galeri</translation>
+    </message>
+    <message>
+      <source>Search</source>
+      <translation>Pencarian</translation>
+    </message>
+    <message>
+      <source>enter keyword and click color, or just click color</source>
+      <translation>masukkan kata kunci dan klik warna, atau cukup klik warna</translation>
+    </message>
+    <message>
+      <source>Include color</source>
+      <translation>Termasuk warna</translation>
+    </message>
+    <message>
+      <source>Exclude color</source>
+      <translation>Kecualikan warna</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Halaman</translation>
+    </message>
+    <message>
+      <source>Last uploaded last</source>
+      <translation>Terakhir diupload terakhir</translation>
+    </message>
+    <message>
+      <source>Most popular first</source>
+      <translation>Paling populer pertama</translation>
+    </message>
+    <message>
+      <source>Most popular last</source>
+      <translation>Paling populer terakhir</translation>
+    </message>
+    <message>
+      <source>Last hits first</source>
+      <translation>Terakhir hits pertama</translation>
+    </message>
+    <message>
+      <source>Last hits last</source>
+      <translation>Terakhir hit terakhir</translation>
+    </message>
+    <message>
+      <source>Last commented first</source>
+      <translation>Terakhir berkomentar pertama</translation>
+    </message>
+    <message>
+      <source>Last commented last</source>
+      <translation>Terakhir berkomentar terakhir</translation>
+    </message>
+    <message>
+      <source>Last rated first</source>
+      <translation>Terakhir dinilai pertama</translation>
+    </message>
+    <message>
+      <source>Last rated last</source>
+      <translation>Terakhir dinilai terakhir</translation>
+    </message>
+    <message>
+      <source>Top rated first</source>
+      <translation>Tertinggi pertama</translation>
+    </message>
+    <message>
+      <source>Top rated last Last</source>
+      <translation>Tertinggi terakhir terakhir</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Resolusi</translation>
+    </message>
+    <message>
+      <source>Last uploaded images to album</source>
+      <translation>Terakhir diupload gambar ke album</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/createcategory</name>
+    <message>
+      <source>New category</source>
+      <translation>Baru kategori</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Simpan</translation>
+    </message>
+    <message>
+      <source>back</source>
+      <translation>kembali</translation>
+    </message>
+    <message>
+      <source>Please enter message!</source>
+      <translation>Silahkan masukkan pesan!</translation>
+    </message>
+    <message>
+      <source>Please enter category name!</source>
+      <translation>Silakan masukkan nama kategori!</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>Rumah</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/editcategory</name>
+    <message>
+      <source>Category edit</source>
+      <translation>Kategori mengedit</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Memperbarui</translation>
+    </message>
+    <message>
+      <source>Please enter category name!</source>
+      <translation>Silakan masukkan nama kategori!</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/editcategory</name>
+    <message>
+      <source>back</source>
+      <translation>kembali</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Nama</translation>
+    </message>
+    <message>
+      <source>Description</source>
+      <translation>Deskripsi</translation>
+    </message>
+    <message>
+      <source>Owner</source>
+      <translation>Pemilik</translation>
+    </message>
+    <message>
+      <source>Category edit</source>
+      <translation>Kategori mengedit</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Memperbarui</translation>
+    </message>
+    <message>
+      <source>Hide subcategorys in frontpage</source>
+      <translation>Sembunyikan subcategorys di frontpage</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/albumedit</name>
+    <message>
+      <source>Edit topic</source>
+      <translation>Mengedit topik</translation>
+    </message>
+    <message>
+      <source>Topic name</source>
+      <translation>Topik nama</translation>
+    </message>
+    <message>
+      <source>Topic status</source>
+      <translation>Topik Status</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Memperbarui</translation>
+    </message>
+    <message>
+      <source>Album edit</source>
+      <translation>Album mengedit</translation>
+    </message>
+    <message>
+      <source>Album name</source>
+      <translation>Nama Album</translation>
+    </message>
+    <message>
+      <source>Album category</source>
+      <translation>Album kategori</translation>
+    </message>
+    <message>
+      <source>Album owner</source>
+      <translation>Album pemilik</translation>
+    </message>
+    <message>
+      <source>Description</source>
+      <translation>Deskripsi</translation>
+    </message>
+    <message>
+      <source>Keywords</source>
+      <translation>Kata kunci</translation>
+    </message>
+    <message>
+      <source>Public</source>
+      <translation>Publik</translation>
+    </message>
+    <message>
+      <source>All users can uploads images to this album</source>
+      <translation>Semua pengguna bisa upload gambar untuk album ini</translation>
+    </message>
+    <message>
+      <source>Hidden</source>
+      <translation>Tersembunyi</translation>
+    </message>
+    <message>
+      <source>Hide album from users</source>
+      <translation>Sembunyikan album dari pengguna</translation>
+    </message>
+    <message>
+      <source>Album thumbnail</source>
+      <translation>Album thumbnail</translation>
+    </message>
+    <message>
+      <source>Newest album image</source>
+      <translation>Album Terbaru gambar</translation>
+    </message>
+    <message>
+      <source>Revert to newest album image display mode</source>
+      <translation>Kembalikan ke mode album terbaru gambar tampilan</translation>
+    </message>
+    <message>
+      <source>Remove</source>
+      <translation>Hapus</translation>
+    </message>
+    <message>
+      <source>Edit message</source>
+      <translation>Edit pesan</translation>
+    </message>
+    <message>
+      <source>Message</source>
+      <translation>Pesan</translation>
+    </message>
+    <message>
+      <source>File</source>
+      <translation>File yang</translation>
+    </message>
+    <message>
+      <source>New message</source>
+      <translation>Pesan baru</translation>
+    </message>
+    <message>
+      <source>Publish</source>
+      <translation>Menerbitkan</translation>
+    </message>
+    <message>
+      <source>New topic</source>
+      <translation>Topik baru</translation>
+    </message>
+    <message>
+      <source>Choose topic category</source>
+      <translation>Pilih kategori topik</translation>
+    </message>
+    <message>
+      <source>Please enter album name!</source>
+      <translation>Silakan masukkan nama album!</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/album_list_admin</name>
+    <message>
+      <source>Are you sure?</source>
+      <translation>Apakah Anda yakin?</translation>
+    </message>
+    <message>
+      <source>Add images</source>
+      <translation>Tambahkan gambar</translation>
+    </message>
+    <message>
+      <source>Edit album</source>
+      <translation>Edit album</translation>
+    </message>
+    <message>
+      <source>Move all album photos to another album</source>
+      <translation>Pindahkan semua foto album untuk album lain</translation>
+    </message>
+    <message>
+      <source>Move photos by resolution</source>
+      <translation>Memindahkan foto dengan resolusi</translation>
+    </message>
+    <message>
+      <source>Delete album</source>
+      <translation>Hapus album</translation>
+    </message>
+    <message>
+      <source>Approve all images</source>
+      <translation>Menyetujui semua gambar</translation>
+    </message>
+    <message>
+      <source>Disapprove all images</source>
+      <translation>Menyetujui semua gambar</translation>
+    </message>
+    <message>
+      <source>View on site</source>
+      <translation>Lihat di situs</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/userlist</name>
+    <message>
+      <source>Report list</source>
+      <translation>Laporan daftar</translation>
+    </message>
+    <message>
+      <source>Report</source>
+      <translation>Laporan</translation>
+    </message>
+    <message>
+      <source>Topic</source>
+      <translation>Topik</translation>
+    </message>
+    <message>
+      <source>Topic message</source>
+      <translation>Topik pesan</translation>
+    </message>
+    <message>
+      <source>Date</source>
+      <translation>Tanggal</translation>
+    </message>
+    <message>
+      <source>Edit topic</source>
+      <translation>Mengedit topik</translation>
+    </message>
+    <message>
+      <source>Delete topic</source>
+      <translation>Hapus topik</translation>
+    </message>
+    <message>
+      <source>IP</source>
+      <translation>IP</translation>
+    </message>
+    <message>
+      <source>Users</source>
+      <translation>Pengguna</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Nama</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Edit user</source>
+      <translation>Mengedit pengguna</translation>
+    </message>
+    <message>
+      <source>Delete user</source>
+      <translation>Hapus pengguna</translation>
+    </message>
+    <message>
+      <source>New user</source>
+      <translation>Pengguna baru</translation>
+    </message>
+    <message>
+      <source>Replace image</source>
+      <translation>Mengganti gambar</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Sistem konfigurasi</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/subcategory_list</name>
+    <message>
+      <source>images</source>
+      <translation>gambar</translation>
+    </message>
+    <message>
+      <source>albums</source>
+      <translation>album</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/addimages</name>
+    <message>
+      <source>Add images to album</source>
+      <translation>Menambahkan foto ke album</translation>
+    </message>
+    <message>
+      <source>Move album images to another album</source>
+      <translation>Pindahkan gambar album ke album lain</translation>
+    </message>
+    <message>
+      <source>Move image to another album</source>
+      <translation>Memindahkan foto ke album lain</translation>
+    </message>
+  </context>
+  <context>
+    <name>lhad/orderitemdetails/orderitemdetails_display_ad_magazine</name>
+    <message>
+      <source>Please enable JavaScript to upload image</source>
+      <translation>Silahkan aktifkan JavaScript untuk meng-upload gambar</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/publicupload</name>
+    <message>
+      <source>Upload</source>
+      <translation>Upload</translation>
+    </message>
+    <message>
+      <source>Click to choose images to upload, you can also drop files here.</source>
+      <translation>Klik untuk memilih gambar untuk meng-upload, Anda juga bisa drop file di sini.</translation>
+    </message>
+    <message>
+      <source>Click to choose images to upload, you can also Drag and Drop files here (Darg and drop only for FF, Chrome).</source>
+      <translation>Klik untuk memilih gambar untuk meng-upload, Anda juga dapat Drag dan Drop file di sini (Darg dan drop hanya untuk FF, Chrome).</translation>
+    </message>
+    <message>
+      <source>Public images archive upload</source>
+      <translation>Publik gambar arsip meng-upload</translation>
+    </message>
+    <message>
+      <source>Click to choose zip to upload, you can also drop files here (Darg and drop only for FF, Chrome).</source>
+      <translation>Klik untuk memilih zip untuk meng-upload, Anda juga bisa drop file di sini (Darg dan drop hanya untuk FF, Chrome).</translation>
+    </message>
+    <message>
+      <source>Public images upload</source>
+      <translation>Meng-upload gambar Publik</translation>
+    </message>
+    <message>
+      <source>Max file size </source>
+      <translation type="unfinished">Max ukuran file</translation>
+    </message>
+  </context>
+  <context>
+    <name>lhad/uploadadorderitem_content</name>
+    <message>
+      <source>Cancel</source>
+      <translation>Membatalkan</translation>
+    </message>
+    <message>
+      <source>Failed</source>
+      <translation>Gagal</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/fileuploadcontainer</name>
+    <message>
+      <source>Title</source>
+      <translation>Judul</translation>
+    </message>
+    <message>
+      <source>Keywords</source>
+      <translation>Kata kunci</translation>
+    </message>
+    <message>
+      <source>Cross eye image</source>
+      <translation>Lintas mata gambar</translation>
+    </message>
+    <message>
+      <source>Caption</source>
+      <translation>Keterangan</translation>
+    </message>
+    <message>
+      <source>Enter new album name or choose public album</source>
+      <translation>Masukkan nama album baru atau memilih album publik</translation>
+    </message>
+    <message>
+      <source>description</source>
+      <translation>deskripsi</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/admincategorys</name>
+    <message>
+      <source>Category</source>
+      <translation>Kategori</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Judul</translation>
+    </message>
+    <message>
+      <source>Owner</source>
+      <translation>Pemilik</translation>
+    </message>
+    <message>
+      <source>Edit category</source>
+      <translation>Edit kategori</translation>
+    </message>
+    <message>
+      <source>Delete category</source>
+      <translation>Menghapus kategori</translation>
+    </message>
+    <message>
+      <source>Create a category</source>
+      <translation>Buat kategori</translation>
+    </message>
+    <message>
+      <source>Category albums</source>
+      <translation>Kategori album</translation>
+    </message>
+    <message>
+      <source>This category does not have an album.</source>
+      <translation>Kategori ini tidak memiliki album.</translation>
+    </message>
+    <message>
+      <source>Create an album</source>
+      <translation>Buat album</translation>
+    </message>
+    <message>
+      <source>Batch album create</source>
+      <translation>Album Batch menciptakan</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>Rumah</translation>
+    </message>
+    <message>
+      <source>Root category</source>
+      <translation>Akar kategori</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/album_list</name>
+    <message>
+      <source>files</source>
+      <translation>file</translation>
+    </message>
+    <message>
+      <source>Album priority</source>
+      <translation>Album prioritas</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/batchadd</name>
+    <message>
+      <source>I cannot write this directory</source>
+      <translation>Saya tidak bisa menulis direktori ini</translation>
+    </message>
+    <message>
+      <source>No image were found!</source>
+      <translation>Tidak ada gambar ditemukan!</translation>
+    </message>
+    <message>
+      <source>Import</source>
+      <translation>Impor</translation>
+    </message>
+    <message>
+      <source>Import recursive this directory</source>
+      <translation>Impor direktori rekursif ini</translation>
+    </message>
+    <message>
+      <source>Search</source>
+      <translation>Pencarian</translation>
+    </message>
+    <message>
+      <source>Please enter album name and click search</source>
+      <translation>Silakan masukkan nama album dan klik pencarian</translation>
+    </message>
+    <message>
+      <source>List images</source>
+      <translation>Daftar gambar</translation>
+    </message>
+    <message>
+      <source>List images recursive</source>
+      <translation>Daftar rekursif gambar</translation>
+    </message>
+    <message>
+      <source>Import images</source>
+      <translation>Impor gambar</translation>
+    </message>
+    <message>
+      <source>Click list images or list images recursive</source>
+      <translation>Klik gambar daftar atau daftar gambar rekursif</translation>
+    </message>
+    <message>
+      <source>Add images</source>
+      <translation>Tambahkan gambar</translation>
+    </message>
+    <message>
+      <source>Please choose album first!</source>
+      <translation>Silakan pilih album pertama!</translation>
+    </message>
+    <message>
+      <source>Mass image upload</source>
+      <translation>Misa upload foto</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/ratebanlist</name>
+    <message>
+      <source>Baned IP for rating</source>
+      <translation>Baned IP untuk rating</translation>
+    </message>
+    <message>
+      <source>Are you sure?</source>
+      <translation>Apakah Anda yakin?</translation>
+    </message>
+    <message>
+      <source>Delete ip</source>
+      <translation>Hapus ip</translation>
+    </message>
+    <message>
+      <source>New IP BAN</source>
+      <translation>BAN IP baru</translation>
+    </message>
+    <message>
+      <source>IP</source>
+      <translation>IP</translation>
+    </message>
+    <message>
+      <source>Add</source>
+      <translation>Tambahkan</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Sistem konfigurasi</translation>
+    </message>
+    <message>
+      <source>Comment ban IP</source>
+      <translation>Komentar IP larangan</translation>
+    </message>
+    <message>
+      <source>Rate ban IP</source>
+      <translation>Tingkat ban IP</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/grouplist</name>
+    <message>
+      <source>Delete comment</source>
+      <translation>Hapus komentar</translation>
+    </message>
+    <message>
+      <source>Edit comment</source>
+      <translation>Edit komentar</translation>
+    </message>
+    <message>
+      <source>Delete image</source>
+      <translation>Hapus gambar</translation>
+    </message>
+    <message>
+      <source>Groups</source>
+      <translation>Grup</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Nama</translation>
+    </message>
+    <message>
+      <source>Edit group</source>
+      <translation>Edit grup</translation>
+    </message>
+    <message>
+      <source>Delete group</source>
+      <translation>Hapus grup</translation>
+    </message>
+    <message>
+      <source>New group</source>
+      <translation>Grup baru</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Sistem konfigurasi</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/my_image_list</name>
+    <message>
+      <source>Delete comment</source>
+      <translation>Hapus komentar</translation>
+    </message>
+    <message>
+      <source>Edit comment</source>
+      <translation>Edit komentar</translation>
+    </message>
+    <message>
+      <source>Delete image</source>
+      <translation>Hapus gambar</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>Lihat gambar</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Judul</translation>
+    </message>
+    <message>
+      <source>Keywords</source>
+      <translation>Kata kunci</translation>
+    </message>
+    <message>
+      <source>Caption</source>
+      <translation>Keterangan</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Memperbarui</translation>
+    </message>
+    <message>
+      <source>Message author</source>
+      <translation>Pesan penulis</translation>
+    </message>
+    <message>
+      <source>Message</source>
+      <translation>Pesan</translation>
+    </message>
+    <message>
+      <source>Rotate image clockwise</source>
+      <translation>Putar gambar searah jarum jam</translation>
+    </message>
+    <message>
+      <source>Flip horizontaly</source>
+      <translation>Sandal horizontal</translation>
+    </message>
+    <message>
+      <source>Flip verticaly</source>
+      <translation>Sandal verticaly</translation>
+    </message>
+    <message>
+      <source>Upload new image</source>
+      <translation>Upload gambar baru</translation>
+    </message>
+    <message>
+      <source>Set as folder thumbnail</source>
+      <translation>Ditetapkan sebagai folder thumbnail</translation>
+    </message>
+    <message>
+      <source>Move image to another album</source>
+      <translation>Memindahkan foto ke album lain</translation>
+    </message>
+    <message>
+      <source>Anaglyph</source>
+      <translation>Anaglyph</translation>
+    </message>
+    <message>
+      <source>Approved</source>
+      <translation>Disetujui</translation>
+    </message>
+    <message>
+      <source>Select image</source>
+      <translation>Pilih gambar</translation>
+    </message>
+    <message>
+      <source>File</source>
+      <translation>File yang</translation>
+    </message>
+    <message>
+      <source>Upload</source>
+      <translation>Upload</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/createalbumadmin</name>
+    <message>
+      <source>New album</source>
+      <translation>Album Baru</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Simpan</translation>
+    </message>
+    <message>
+      <source>New batch album create</source>
+      <translation>Album batch baru membuat</translation>
+    </message>
+    <message>
+      <source>Paste album names separated by new line</source>
+      <translation>Tempel nama album dipisahkan oleh baris baru</translation>
+    </message>
+    <message>
+      <source>Public</source>
+      <translation>Publik</translation>
+    </message>
+    <message>
+      <source>All users can uploads images to this album</source>
+      <translation>Semua pengguna bisa upload gambar untuk album ini</translation>
+    </message>
+    <message>
+      <source>Please enter album name!</source>
+      <translation>Silakan masukkan nama album!</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/duplicates</name>
+    <message>
+      <source>Similar images number</source>
+      <translation>Mirip gambar nomor</translation>
+    </message>
+    <message>
+      <source>Details</source>
+      <translation>Detail</translation>
+    </message>
+    <message>
+      <source>More</source>
+      <translation>Lebih</translation>
+    </message>
+    <message>
+      <source>Delete duplicate session</source>
+      <translation>Hapus duplikat sesi</translation>
+    </message>
+    <message>
+      <source>No duplicates pending...</source>
+      <translation>Tidak ada duplikat tertunda ...</translation>
+    </message>
+    <message>
+      <source>Duplicates</source>
+      <translation>Duplikat</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/image</name>
+    <message>
+      <source>Picture comments</source>
+      <translation>Gambar komentar</translation>
+    </message>
+    <message>
+      <source>No comments</source>
+      <translation>Tidak ada komentar</translation>
+    </message>
+    <message>
+      <source>Comment stored</source>
+      <translation>Komentar disimpan</translation>
+    </message>
+    <message>
+      <source>Leave a reply</source>
+      <translation>Tinggalkan balasan</translation>
+    </message>
+    <message>
+      <source>Nick</source>
+      <translation>Mencuri</translation>
+    </message>
+    <message>
+      <source>Max 25 characters</source>
+      <translation>Max 25 karakter</translation>
+    </message>
+    <message>
+      <source>Message</source>
+      <translation>Pesan</translation>
+    </message>
+    <message>
+      <source>Send</source>
+      <translation>Kirim</translation>
+    </message>
+    <message>
+      <source>Image edit</source>
+      <translation>Edit</translation>
+    </message>
+    <message>
+      <source>Rate this picture</source>
+      <translation>Beri gambar ini</translation>
+    </message>
+    <message>
+      <source>star</source>
+      <translation>bintang</translation>
+    </message>
+    <message>
+      <source>stars</source>
+      <translation>bintang</translation>
+    </message>
+    <message>
+      <source>Vote!</source>
+      <translation>Vote!</translation>
+    </message>
+    <message>
+      <source>Deduct vote!</source>
+      <translation>Mengurangi suara!</translation>
+    </message>
+    <message>
+      <source>next image</source>
+      <translation>gambar berikutnya</translation>
+    </message>
+    <message>
+      <source>previous image</source>
+      <translation>gambar sebelumnya</translation>
+    </message>
+    <message>
+      <source>return to thumbnails</source>
+      <translation>kembali ke thumbnail</translation>
+    </message>
+    <message>
+      <source>Click to see fullsize</source>
+      <translation>Klik untuk melihat fullsize</translation>
+    </message>
+    <message>
+      <source>Supported BB Code style tags: [b] [i] [u] [quote] :) :D :( :o :p ;)</source>
+      <translation>Kode tag didukung gaya BB: [b] [i] [u] [quote]:): D: (: o: p;)</translation>
+    </message>
+    <message>
+      <source>Add to favorites</source>
+      <translation>Tambahkan ke favorit</translation>
+    </message>
+    <message>
+      <source>Share this page HTML code</source>
+      <translation>Berbagi halaman ini kode HTML</translation>
+    </message>
+    <message>
+      <source>Share PHPBB code</source>
+      <translation>PhpBB berbagi kode</translation>
+    </message>
+    <message>
+      <source>Anaglyph version</source>
+      <translation>Anaglyph versi</translation>
+    </message>
+    <message>
+      <source>Enter tags separated by space</source>
+      <translation>Masukkan tag dipisahkan dengan spasi</translation>
+    </message>
+    <message>
+      <source>Picture details</source>
+      <translation>Gambar detail</translation>
+    </message>
+    <message>
+      <source>Filename</source>
+      <translation>Filename</translation>
+    </message>
+    <message>
+      <source>File size</source>
+      <translation>Ukuran file</translation>
+    </message>
+    <message>
+      <source>Image rating</source>
+      <translation>Peringkat image</translation>
+    </message>
+    <message>
+      <source>Date added</source>
+      <translation>Tanggal ditambahkan</translation>
+    </message>
+    <message>
+      <source>Dimensions</source>
+      <translation>Ukuran</translation>
+    </message>
+    <message>
+      <source>Displayed</source>
+      <translation>Tampilkan</translation>
+    </message>
+    <message>
+      <source>times</source>
+      <translation>kali</translation>
+    </message>
+    <message>
+      <source>Album</source>
+      <translation>Album</translation>
+    </message>
+    <message>
+      <source>URL</source>
+      <translation>URL</translation>
+    </message>
+    <message>
+      <source>Owner</source>
+      <translation>Pemilik</translation>
+    </message>
+    <message>
+      <source>About user</source>
+      <translation>Tentang pengguna</translation>
+    </message>
+    <message>
+      <source>votes</source>
+      <translation>suara</translation>
+    </message>
+    <message>
+      <source>Search for similar colors images</source>
+      <translation>Mencari gambar warna yang sama</translation>
+    </message>
+    <message>
+      <source>Search for visualy similar images</source>
+      <translation>Mencari gambar visualy mirip</translation>
+    </message>
+    <message>
+      <source>More user images</source>
+      <translation>Lebih user gambar</translation>
+    </message>
+    <message>
+      <source>Version</source>
+      <translation>Versi</translation>
+    </message>
+    <message>
+      <source>Image size</source>
+      <translation>Ukuran gambar</translation>
+    </message>
+    <message>
+      <source>Format</source>
+      <translation>Format</translation>
+    </message>
+    <message>
+      <source>Price</source>
+      <translation>Harga</translation>
+    </message>
+    <message>
+      <source>credits</source>
+      <translation>kredit</translation>
+    </message>
+    <message>
+      <source>Remove from basket</source>
+      <translation>Hapus dari keranjang</translation>
+    </message>
+    <message>
+      <source>Add to basket</source>
+      <translation>Tambahkan ke keranjang</translation>
+    </message>
+    <message>
+      <source>Wrong captcha code!</source>
+      <translation>Salah captcha kode!</translation>
+    </message>
+    <message>
+      <source>Please enter nick!</source>
+      <translation>Silakan masukkan nick!</translation>
+    </message>
+    <message>
+      <source>Please enter comment!</source>
+      <translation>Harap masukkan komentar!</translation>
+    </message>
+    <message>
+      <source>You are not allowed to leave a comments!</source>
+      <translation>Anda tidak diizinkan untuk meninggalkan komentar!</translation>
+    </message>
+    <message>
+      <source>Guest_</source>
+      <translation>Guest_</translation>
+    </message>
+    <message>
+      <source>Last uploaded images</source>
+      <translation>Terakhir diupload gambar</translation>
+    </message>
+    <message>
+      <source>Last additions</source>
+      <translation>Upload Terakhir</translation>
+    </message>
+    <message>
+      <source>Last viewed images</source>
+      <translation>Terakhir dilihat gambar</translation>
+    </message>
+    <message>
+      <source>Last commented images</source>
+      <translation>Terakhir berkomentar gambar</translation>
+    </message>
+    <message>
+      <source>Last rated images</source>
+      <translation>Terakhir dinilai gambar</translation>
+    </message>
+    <message>
+      <source>Top rated images</source>
+      <translation>Gambar tertinggi</translation>
+    </message>
+    <message>
+      <source>Search by color</source>
+      <translation>Cari dengan warna</translation>
+    </message>
+    <message>
+      <source>Most popular images</source>
+      <translation>Paling populer gambar</translation>
+    </message>
+    <message>
+      <source>Search rss by keyword</source>
+      <translation>Cari dengan kata kunci rss</translation>
+    </message>
+    <message>
+      <source>Last uploaded first</source>
+      <translation>Terakhir upload pertama</translation>
+    </message>
+    <message>
+      <source>Last uploaded last</source>
+      <translation>Terakhir diupload terakhir</translation>
+    </message>
+    <message>
+      <source>Most popular first</source>
+      <translation>Paling populer pertama</translation>
+    </message>
+    <message>
+      <source>Most popular last</source>
+      <translation>Paling populer terakhir</translation>
+    </message>
+    <message>
+      <source>Last hits first</source>
+      <translation>Terakhir hits pertama</translation>
+    </message>
+    <message>
+      <source>Last hits last</source>
+      <translation>Terakhir hit terakhir</translation>
+    </message>
+    <message>
+      <source>Last commented first</source>
+      <translation>Terakhir berkomentar pertama</translation>
+    </message>
+    <message>
+      <source>Last commented last</source>
+      <translation>Terakhir berkomentar terakhir</translation>
+    </message>
+    <message>
+      <source>Top rated first</source>
+      <translation>Tertinggi pertama</translation>
+    </message>
+    <message>
+      <source>Top rated last Last</source>
+      <translation>Tertinggi terakhir terakhir</translation>
+    </message>
+    <message>
+      <source>Last rated first</source>
+      <translation>Terakhir dinilai pertama</translation>
+    </message>
+    <message>
+      <source>Last rated last</source>
+      <translation>Terakhir dinilai terakhir</translation>
+    </message>
+    <message>
+      <source>Most relevance images last</source>
+      <translation>Kebanyakan relevansi gambar terakhir</translation>
+    </message>
+    <message>
+      <source>search results</source>
+      <translation>hasil pencarian</translation>
+    </message>
+    <message>
+      <source>Last uploaded images to album</source>
+      <translation>Terakhir diupload gambar ke album</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/managealbum</name>
+    <message>
+      <source>No records.</source>
+      <translation>Tidak ada catatan.</translation>
+    </message>
+    <message>
+      <source>Category</source>
+      <translation>Kategori</translation>
+    </message>
+    <message>
+      <source>Create an album</source>
+      <translation>Buat album</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>Rumah</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/managealbumimages</name>
+    <message>
+      <source>Move selected images to</source>
+      <translation>Pindahkan gambar yang dipilih untuk</translation>
+    </message>
+    <message>
+      <source>Check all</source>
+      <translation>Periksa semua</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>Tidak ada catatan.</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>Rumah</translation>
+    </message>
+    <message>
+      <source>Root category</source>
+      <translation>Akar kategori</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/movealbumphotos</name>
+    <message>
+      <source>Search album</source>
+      <translation>Pencarian Album</translation>
+    </message>
+    <message>
+      <source>Move photos</source>
+      <translation>Memindahkan foto</translation>
+    </message>
+    <message>
+      <source>We moved</source>
+      <translation>Kami pindah</translation>
+    </message>
+    <message>
+      <source>images</source>
+      <translation>gambar</translation>
+    </message>
+    <message>
+      <source>Move album photos</source>
+      <translation>Memindahkan foto album</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/image_list</name>
+    <message>
+      <source>preview version</source>
+      <translation>versi preview</translation>
+    </message>
+    <message>
+      <source>See full size</source>
+      <translation>Lihat ukuran penuh</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/search</name>
+    <message>
+      <source>Last uploaded</source>
+      <translation>Terakhir diupload</translation>
+    </message>
+    <message>
+      <source>Most popular</source>
+      <translation>Paling populer</translation>
+    </message>
+    <message>
+      <source>Last hits</source>
+      <translation>Terakhir hit</translation>
+    </message>
+    <message>
+      <source>Top rated</source>
+      <translation>Tertinggi</translation>
+    </message>
+    <message>
+      <source>Last rated</source>
+      <translation>Terakhir dinilai</translation>
+    </message>
+    <message>
+      <source>Last commented</source>
+      <translation>Terakhir berkomentar</translation>
+    </message>
+    <message>
+      <source>Filename</source>
+      <translation>Filename</translation>
+    </message>
+    <message>
+      <source>Search results</source>
+      <translation>Search results</translation>
+    </message>
+    <message>
+      <source>Nothing found</source>
+      <translation>Tidak ditemukan</translation>
+    </message>
+    <message>
+      <source>Any resolution</source>
+      <translation>Setiap resolusi</translation>
+    </message>
+    <message>
+      <source>Relevance</source>
+      <translation>Relevansi</translation>
+    </message>
+    <message>
+      <source>Any keyword</source>
+      <translation>Setiap kata kunci</translation>
+    </message>
+    <message>
+      <source>All keywords</source>
+      <translation>Semua kata kunci</translation>
+    </message>
+    <message>
+      <source>search results</source>
+      <translation>hasil pencarian</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Halaman</translation>
+    </message>
+    <message>
+      <source>Last uploaded first</source>
+      <translation>Terakhir upload pertama</translation>
+    </message>
+    <message>
+      <source>Last uploaded last</source>
+      <translation>Terakhir diupload terakhir</translation>
+    </message>
+    <message>
+      <source>Most popular first</source>
+      <translation>Paling populer pertama</translation>
+    </message>
+    <message>
+      <source>Most popular last</source>
+      <translation>Paling populer terakhir</translation>
+    </message>
+    <message>
+      <source>Last hits first</source>
+      <translation>Terakhir hits pertama</translation>
+    </message>
+    <message>
+      <source>Last hits last</source>
+      <translation>Terakhir hit terakhir</translation>
+    </message>
+    <message>
+      <source>Last commented first</source>
+      <translation>Terakhir berkomentar pertama</translation>
+    </message>
+    <message>
+      <source>Last commented last</source>
+      <translation>Terakhir berkomentar terakhir</translation>
+    </message>
+    <message>
+      <source>Last rated first</source>
+      <translation>Terakhir dinilai pertama</translation>
+    </message>
+    <message>
+      <source>Last rated last</source>
+      <translation>Terakhir dinilai terakhir</translation>
+    </message>
+    <message>
+      <source>Top rated first</source>
+      <translation>Tertinggi pertama</translation>
+    </message>
+    <message>
+      <source>Top rated last</source>
+      <translation>Tertinggi terakhir</translation>
+    </message>
+    <message>
+      <source>Most relevance images last</source>
+      <translation>Kebanyakan relevansi gambar terakhir</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Resolusi</translation>
+    </message>
+    <message>
+      <source>Search RSS by keyword</source>
+      <translation>Cari dengan kata kunci RSS</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/editrole</name>
+    <message>
+      <source>Role edit</source>
+      <translation>Peran mengedit</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Judul</translation>
+    </message>
+    <message>
+      <source>Assigned functions</source>
+      <translation>Ditugaskan fungsi</translation>
+    </message>
+    <message>
+      <source>Module</source>
+      <translation>Modul</translation>
+    </message>
+    <message>
+      <source>Function</source>
+      <translation>Fungsi</translation>
+    </message>
+    <message>
+      <source>Remove selected</source>
+      <translation>Hapus yang dipilih</translation>
+    </message>
+    <message>
+      <source>New policy</source>
+      <translation>Kebijakan baru</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Memperbarui</translation>
+    </message>
+    <message>
+      <source>Cancel</source>
+      <translation>Membatalkan</translation>
+    </message>
+    <message>
+      <source>Role assigned groups</source>
+      <translation>Peran kelompok ditugaskan</translation>
+    </message>
+    <message>
+      <source>Group assignement to role</source>
+      <translation>Grup assignement peran</translation>
+    </message>
+    <message>
+      <source>Assign group</source>
+      <translation>Tetapkan kelompok</translation>
+    </message>
+    <message>
+      <source>Please enter role name</source>
+      <translation>Masukkan nama peran</translation>
+    </message>
+    <message>
+      <source>Please choose module</source>
+      <translation>Silahkan memilih modul</translation>
+    </message>
+    <message>
+      <source>Please choose module function</source>
+      <translation>Silahkan pilih fungsi modul</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Sistem konfigurasi</translation>
+    </message>
+    <message>
+      <source>List of roles</source>
+      <translation>Daftar peran</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/groupassignrole</name>
+    <message>
+      <source>Title</source>
+      <translation>Judul</translation>
+    </message>
+    <message>
+      <source>Assign</source>
+      <translation>Menetapkan</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/modulefunctions</name>
+    <message>
+      <source>All functions</source>
+      <translation>Semua fungsi</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/newpolicy</name>
+    <message>
+      <source>New policy</source>
+      <translation>Kebijakan baru</translation>
+    </message>
+    <message>
+      <source>Assigned functions</source>
+      <translation>Ditugaskan fungsi</translation>
+    </message>
+    <message>
+      <source>Choose module</source>
+      <translation>Pilih modul</translation>
+    </message>
+    <message>
+      <source>All modules</source>
+      <translation>Semua modul</translation>
+    </message>
+    <message>
+      <source>Choose module function</source>
+      <translation>Pilih fungsi modul</translation>
+    </message>
+    <message>
+      <source>All functions</source>
+      <translation>Semua fungsi</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Simpan</translation>
+    </message>
+    <message>
+      <source>Cancel</source>
+      <translation>Membatalkan</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/newrole</name>
+    <message>
+      <source>New role</source>
+      <translation>Peran baru</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Judul</translation>
+    </message>
+    <message>
+      <source>Policy list</source>
+      <translation>Kebijakan daftar</translation>
+    </message>
+    <message>
+      <source>Module</source>
+      <translation>Modul</translation>
+    </message>
+    <message>
+      <source>Function</source>
+      <translation>Fungsi</translation>
+    </message>
+    <message>
+      <source>New policy</source>
+      <translation>Kebijakan baru</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Simpan</translation>
+    </message>
+    <message>
+      <source>Cancel</source>
+      <translation>Membatalkan</translation>
+    </message>
+    <message>
+      <source>Please enter role name</source>
+      <translation>Masukkan nama peran</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Sistem konfigurasi</translation>
+    </message>
+    <message>
+      <source>List of roles</source>
+      <translation>Daftar peran</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/roleassigngroup</name>
+    <message>
+      <source>Title</source>
+      <translation>Judul</translation>
+    </message>
+    <message>
+      <source>Assign</source>
+      <translation>Menetapkan</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/roles</name>
+    <message>
+      <source>List of roles</source>
+      <translation>Daftar peran</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Judul</translation>
+    </message>
+    <message>
+      <source>Edit role</source>
+      <translation>Sunting Peran</translation>
+    </message>
+    <message>
+      <source>Delete role</source>
+      <translation>Hapus Peran</translation>
+    </message>
+    <message>
+      <source>New role</source>
+      <translation>Peran baru</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Sistem konfigurasi</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/index</name>
+    <message>
+      <source>Shop configuration</source>
+      <translation>Toko konfigurasi</translation>
+    </message>
+    <message>
+      <source>Images variations sizes</source>
+      <translation>Gambar variasi ukuran</translation>
+    </message>
+    <message>
+      <source>List payment options</source>
+      <translation>Daftar pilihan pembayaran</translation>
+    </message>
+    <message>
+      <source>Settings list</source>
+      <translation>Daftar pengaturan</translation>
+    </message>
+    <message>
+      <source>Orders list</source>
+      <translation>Daftar Pesanan</translation>
+    </message>
+    <message>
+      <source>Credits orders list</source>
+      <translation>Kredit daftar perintah</translation>
+    </message>
+    <message>
+      <source>Shop</source>
+      <translation>Toko</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/listpaymentoptions</name>
+    <message>
+      <source>Payment options</source>
+      <translation>Pembayaran opsi</translation>
+    </message>
+    <message>
+      <source>Identifier</source>
+      <translation>Identifier</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Nama</translation>
+    </message>
+    <message>
+      <source>Active</source>
+      <translation>Aktif</translation>
+    </message>
+    <message>
+      <source>Author</source>
+      <translation>Penulis</translation>
+    </message>
+    <message>
+      <source>Edit</source>
+      <translation>Mengedit</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/orderedit</name>
+    <message>
+      <source>Order view</source>
+      <translation>Urutan tampilan</translation>
+    </message>
+    <message>
+      <source>Order time</source>
+      <translation>Urutan waktu</translation>
+    </message>
+    <message>
+      <source>Order price</source>
+      <translation>Orde harga</translation>
+    </message>
+    <message>
+      <source>Order credits</source>
+      <translation>Orde kredit</translation>
+    </message>
+    <message>
+      <source>Order status</source>
+      <translation>Status order</translation>
+    </message>
+    <message>
+      <source>Payed.</source>
+      <translation>Diperhatikan.</translation>
+    </message>
+    <message>
+      <source>Confirmed</source>
+      <translation>Dikonfirmasi</translation>
+    </message>
+    <message>
+      <source>Ordered items</source>
+      <translation>Memerintahkan item</translation>
+    </message>
+    <message>
+      <source>Image name</source>
+      <translation>Nama foto</translation>
+    </message>
+    <message>
+      <source>Version</source>
+      <translation>Versi</translation>
+    </message>
+    <message>
+      <source>Image size</source>
+      <translation>Ukuran gambar</translation>
+    </message>
+    <message>
+      <source>Format</source>
+      <translation>Format</translation>
+    </message>
+    <message>
+      <source>Price</source>
+      <translation>Harga</translation>
+    </message>
+    <message>
+      <source>Download count</source>
+      <translation>Download lagu menghitung</translation>
+    </message>
+    <message>
+      <source>Downloads left</source>
+      <translation>Downloads kiri</translation>
+    </message>
+    <message>
+      <source>Credits</source>
+      <translation>Kredit</translation>
+    </message>
+  </context>
+  <context>
+    <name>systemconfig/list</name>
+    <message>
+      <source>Delete order item</source>
+      <translation>Untuk menghapus item</translation>
+    </message>
+    <message>
+      <source>Delete order</source>
+      <translation>Menghapus order</translation>
+    </message>
+    <message>
+      <source>Config list</source>
+      <translation>Config daftar</translation>
+    </message>
+    <message>
+      <source>Identifier</source>
+      <translation>Identifier</translation>
+    </message>
+    <message>
+      <source>Explain</source>
+      <translation>Menjelaskan</translation>
+    </message>
+    <message>
+      <source>Edit value</source>
+      <translation>Mengedit nilai</translation>
+    </message>
+    <message>
+      <source>System config options</source>
+      <translation>Sistem konfigurasi pilihan</translation>
+    </message>
+    <message>
+      <source>List</source>
+      <translation>Daftar</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/orderslist</name>
+    <message>
+      <source>Orders credits list</source>
+      <translation>Pesanan kredit daftar</translation>
+    </message>
+    <message>
+      <source>ID</source>
+      <translation>ID</translation>
+    </message>
+    <message>
+      <source>Date</source>
+      <translation>Tanggal</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Order price</source>
+      <translation>Orde harga</translation>
+    </message>
+    <message>
+      <source>Order credits</source>
+      <translation>Orde kredit</translation>
+    </message>
+    <message>
+      <source>Order status</source>
+      <translation>Status order</translation>
+    </message>
+    <message>
+      <source>Payed.</source>
+      <translation>Diperhatikan.</translation>
+    </message>
+    <message>
+      <source>Confirmed</source>
+      <translation>Dikonfirmasi</translation>
+    </message>
+    <message>
+      <source>No orders...</source>
+      <translation>Tidak ada perintah ...</translation>
+    </message>
+    <message>
+      <source>Orders list</source>
+      <translation>Daftar Pesanan</translation>
+    </message>
+    <message>
+      <source>Order view</source>
+      <translation>Urutan tampilan</translation>
+    </message>
+    <message>
+      <source>User orders list</source>
+      <translation>Perintah Daftar pengguna</translation>
+    </message>
+    <message>
+      <source>User credits orders list</source>
+      <translation>Pengguna kredit daftar perintah</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/paymentoptionedit</name>
+    <message>
+      <source>Payment option edit</source>
+      <translation>Pembayaran opsi mengedit</translation>
+    </message>
+    <message>
+      <source>Identifier</source>
+      <translation>Identifier</translation>
+    </message>
+    <message>
+      <source>Active</source>
+      <translation>Aktif</translation>
+    </message>
+    <message>
+      <source>Payment settings</source>
+      <translation>Pembayaran pengaturan</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Memperbarui</translation>
+    </message>
+  </context>
+  <context>
+    <name>systemconfig/edit</name>
+    <message>
+      <source>Edit</source>
+      <translation>Mengedit</translation>
+    </message>
+    <message>
+      <source>Data updated</source>
+      <translation>Data terbaru</translation>
+    </message>
+    <message>
+      <source>Identifier</source>
+      <translation>Identifier</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Memperbarui</translation>
+    </message>
+    <message>
+      <source>Values applies to</source>
+      <translation>Nilai berlaku untuk</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/settinglist</name>
+    <message>
+      <source>Shop config list</source>
+      <translation>Toko config daftar</translation>
+    </message>
+    <message>
+      <source>Identifier</source>
+      <translation>Identifier</translation>
+    </message>
+    <message>
+      <source>Explain</source>
+      <translation>Menjelaskan</translation>
+    </message>
+    <message>
+      <source>Value</source>
+      <translation>Nilai</translation>
+    </message>
+    <message>
+      <source>Edit value</source>
+      <translation>Mengedit nilai</translation>
+    </message>
+  </context>
+  <context>
+    <name>statistic/choosesite</name>
+    <message>
+      <source>Choose site you want to show statistic</source>
+      <translation>Pilih situs yang ingin Anda tampilkan statistik</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Simpan</translation>
+    </message>
+  </context>
+  <context>
+    <name>statistic/index</name>
+    <message>
+      <source>Google analytics statistic</source>
+      <translation>Google analisis statistik</translation>
+    </message>
+    <message>
+      <source>Grant access application to access google analytics API</source>
+      <translation>Berikan akses aplikasi untuk mengakses API Google Analytics</translation>
+    </message>
+    <message>
+      <source>Site choose</source>
+      <translation>Situs pilih</translation>
+    </message>
+    <message>
+      <source>View statistic</source>
+      <translation>Lihat statistik</translation>
+    </message>
+    <message>
+      <source>Statistic</source>
+      <translation>Statistik</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>Rumah</translation>
+    </message>
+  </context>
+  <context>
+    <name>system/configuration</name>
+    <message>
+      <source>System configuration</source>
+      <translation>Sistem konfigurasi</translation>
+    </message>
+    <message>
+      <source>Users</source>
+      <translation>Pengguna</translation>
+    </message>
+    <message>
+      <source>List of groups</source>
+      <translation>Daftar kelompok</translation>
+    </message>
+    <message>
+      <source>List of roles</source>
+      <translation>Daftar peran</translation>
+    </message>
+    <message>
+      <source>System configuration values</source>
+      <translation>Sistem konfigurasi nilai-nilai</translation>
+    </message>
+    <message>
+      <source>Watermark protection</source>
+      <translation>Watermark perlindungan</translation>
+    </message>
+    <message>
+      <source>Banned rating IP list</source>
+      <translation>Peringkat Banned IP daftar</translation>
+    </message>
+    <message>
+      <source>Banned commenting IP list</source>
+      <translation>Banned IP daftar komentar</translation>
+    </message>
+  </context>
+  <context>
+    <name>systemconfig/watermark</name>
+    <message>
+      <source>Watermark configuration</source>
+      <translation>Watermark konfigurasi</translation>
+    </message>
+    <message>
+      <source>Settings updated</source>
+      <translation>Pengaturan diperbarui</translation>
+    </message>
+    <message>
+      <source>Delete watermark</source>
+      <translation>Hapus watermark</translation>
+    </message>
+    <message>
+      <source>Image, it is recommended PNG type image</source>
+      <translation>Gambar, dianjurkan jenis gambar PNG</translation>
+    </message>
+    <message>
+      <source>Settings</source>
+      <translation>Pengaturan</translation>
+    </message>
+    <message>
+      <source>Watermark disabled</source>
+      <translation>Watermark dinonaktifkan</translation>
+    </message>
+    <message>
+      <source>Watermark enabled for normal size thumbnails</source>
+      <translation>Watermark thumbnail diaktifkan untuk ukuran normal</translation>
+    </message>
+    <message>
+      <source>Watermark enabled for all images</source>
+      <translation>Watermark diaktifkan untuk semua gambar</translation>
+    </message>
+    <message>
+      <source>Watermark position</source>
+      <translation>Watermark posisi</translation>
+    </message>
+    <message>
+      <source>Top left</source>
+      <translation>Kiri atas</translation>
+    </message>
+    <message>
+      <source>Top right</source>
+      <translation>Kanan atas</translation>
+    </message>
+    <message>
+      <source>Bottom left</source>
+      <translation>Kiri bawah</translation>
+    </message>
+    <message>
+      <source>Bottom right</source>
+      <translation>Kanan bawah</translation>
+    </message>
+    <message>
+      <source>Center</source>
+      <translation>Pusat</translation>
+    </message>
+    <message>
+      <source>Watermark padding from borders</source>
+      <translation>Watermark bantalan dari perbatasan</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Memperbarui</translation>
+    </message>
+    <message>
+      <source>Watermark</source>
+      <translation>Watermark</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/account</name>
+    <message>
+      <source>Logged user</source>
+      <translation>Login pengguna</translation>
+    </message>
+    <message>
+      <source>Account updated</source>
+      <translation>Rekening diperbarui</translation>
+    </message>
+    <message>
+      <source>Do not enter password unless you want to change it</source>
+      <translation>Jangan memasukkan password kecuali jika Anda ingin mengubahnya</translation>
+    </message>
+    <message>
+      <source>Login information</source>
+      <translation>Masuk Informasi</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Nama</translation>
+    </message>
+    <message>
+      <source>Password</source>
+      <translation>Sandi</translation>
+    </message>
+    <message>
+      <source>Repeat password</source>
+      <translation>Ulangi kata sandi</translation>
+    </message>
+    <message>
+      <source>Contact information</source>
+      <translation>Informasi kontak</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Memperbarui</translation>
+    </message>
+    <message>
+      <source>Message send</source>
+      <translation>Pesan kirim</translation>
+    </message>
+    <message>
+      <source>Add google account</source>
+      <translation>Tambahkan akun google</translation>
+    </message>
+    <message>
+      <source>Working</source>
+      <translation>Bekerja</translation>
+    </message>
+    <message>
+      <source>Profile page settings</source>
+      <translation>Halaman profil dari pengaturan</translation>
+    </message>
+    <message>
+      <source>Profile settings updated</source>
+      <translation>Pengaturan Profil diperbarui</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Nama</translation>
+    </message>
+    <message>
+      <source>Surname</source>
+      <translation>Nama keluarga</translation>
+    </message>
+    <message>
+      <source>Website</source>
+      <translation>Situs</translation>
+    </message>
+    <message>
+      <source>Information about you</source>
+      <translation>Informasi tentang Anda</translation>
+    </message>
+    <message>
+      <source>Profile photo</source>
+      <translation>Profil foto</translation>
+    </message>
+    <message>
+      <source>See how your profile looks to users</source>
+      <translation>Lihat bagaimana profil Anda terlihat ke pengguna</translation>
+    </message>
+    <message>
+      <source>View profile</source>
+      <translation>Lihat profil</translation>
+    </message>
+    <message>
+      <source>Wrong email address</source>
+      <translation>Salah alamat email</translation>
+    </message>
+    <message>
+      <source>Passwords mismatch</source>
+      <translation>Password mismatch</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/edit</name>
+    <message>
+      <source>User edit</source>
+      <translation>Pengguna mengedit</translation>
+    </message>
+    <message>
+      <source>Do not enter password unless you want to change it</source>
+      <translation>Jangan memasukkan password kecuali jika Anda ingin mengubahnya</translation>
+    </message>
+    <message>
+      <source>Login information</source>
+      <translation>Masuk Informasi</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Nama</translation>
+    </message>
+    <message>
+      <source>Password</source>
+      <translation>Sandi</translation>
+    </message>
+    <message>
+      <source>Repeat password</source>
+      <translation>Ulangi kata sandi</translation>
+    </message>
+    <message>
+      <source>Contact information</source>
+      <translation>Informasi kontak</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Memperbarui</translation>
+    </message>
+    <message>
+      <source>User prifle</source>
+      <translation>Pengguna prifle</translation>
+    </message>
+    <message>
+      <source>My account</source>
+      <translation>Akun saya</translation>
+    </message>
+    <message>
+      <source>Facebook albums</source>
+      <translation>Facebook album</translation>
+    </message>
+    <message>
+      <source>Facebook session has expired, please login</source>
+      <translation>Sesi Facebook telah berakhir, silahkan login</translation>
+    </message>
+    <message>
+      <source>Account</source>
+      <translation>Akun</translation>
+    </message>
+    <message>
+      <source>Albums</source>
+      <translation>Album</translation>
+    </message>
+    <message>
+      <source>My albums</source>
+      <translation>Saya album</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Sistem konfigurasi</translation>
+    </message>
+    <message>
+      <source>Account data</source>
+      <translation>Account data</translation>
+    </message>
+    <message>
+      <source>Wrong email address</source>
+      <translation>Salah alamat email</translation>
+    </message>
+    <message>
+      <source>Passwords mismatch</source>
+      <translation>Password mismatch</translation>
+    </message>
+    <message>
+      <source>Users</source>
+      <translation>Pengguna</translation>
+    </message>
+    <message>
+      <source>Authentifion with google</source>
+      <translation>Authentifion dengan google</translation>
+    </message>
+    <message>
+      <source>Profile settings</source>
+      <translation>Pengaturan profil</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/editgroup</name>
+    <message>
+      <source>Group edit</source>
+      <translation>Kelompok mengedit</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Judul</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Memperbarui</translation>
+    </message>
+    <message>
+      <source>Assigned users</source>
+      <translation>Ditugaskan pengguna</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Nama</translation>
+    </message>
+    <message>
+      <source>Remove user from group</source>
+      <translation>Hapus pengguna dari grup</translation>
+    </message>
+    <message>
+      <source>Assign user</source>
+      <translation>Menetapkan pengguna</translation>
+    </message>
+    <message>
+      <source>User assignment</source>
+      <translation>Pengguna tugas</translation>
+    </message>
+    <message>
+      <source>Assigned roles</source>
+      <translation>Ditugaskan peran</translation>
+    </message>
+    <message>
+      <source>Remove role from group</source>
+      <translation>Hapus peran dari kelompok</translation>
+    </message>
+    <message>
+      <source>Assign role</source>
+      <translation>Menetapkan peran</translation>
+    </message>
+    <message>
+      <source>Role assignment</source>
+      <translation>Peran tugas</translation>
+    </message>
+    <message>
+      <source>Please enter group name</source>
+      <translation>Masukkan nama grup</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Sistem konfigurasi</translation>
+    </message>
+    <message>
+      <source>Groups</source>
+      <translation>Grup</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/groupassignuser</name>
+    <message>
+      <source>User</source>
+      <translation>Pengguna</translation>
+    </message>
+    <message>
+      <source>Assign</source>
+      <translation>Menetapkan</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/login</name>
+    <message>
+      <source>Please login</source>
+      <translation>Silahkan login</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Nama</translation>
+    </message>
+    <message>
+      <source>Password</source>
+      <translation>Sandi</translation>
+    </message>
+    <message>
+      <source>Login</source>
+      <translation>Login</translation>
+    </message>
+    <message>
+      <source>Password remind</source>
+      <translation>Sandi mengingatkan</translation>
+    </message>
+    <message>
+      <source>Please login with your facebook account</source>
+      <translation>Silahkan login dengan akun facebook Anda</translation>
+    </message>
+    <message>
+      <source>Report abuse</source>
+      <translation>Laporkan penyalahgunaan</translation>
+    </message>
+    <message>
+      <source>Please write whats wrong within a post</source>
+      <translation>Silakan menulis apa yang salah dalam post</translation>
+    </message>
+    <message>
+      <source>Send</source>
+      <translation>Kirim</translation>
+    </message>
+    <message>
+      <source>Registration is complete</source>
+      <translation>Pendaftaran selesai</translation>
+    </message>
+    <message>
+      <source>Registration is complete please login.</source>
+      <translation>Pendaftaran selesai silahkan login.</translation>
+    </message>
+    <message>
+      <source>Checkout</source>
+      <translation>Pemeriksaan</translation>
+    </message>
+    <message>
+      <source>Incorrect username or password</source>
+      <translation>Username atau password salah</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/new</name>
+    <message>
+      <source>New user</source>
+      <translation>Pengguna baru</translation>
+    </message>
+    <message>
+      <source>Login information</source>
+      <translation>Masuk Informasi</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Nama</translation>
+    </message>
+    <message>
+      <source>Password</source>
+      <translation>Sandi</translation>
+    </message>
+    <message>
+      <source>Repeat password</source>
+      <translation>Ulangi kata sandi</translation>
+    </message>
+    <message>
+      <source>Contact information</source>
+      <translation>Informasi kontak</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Simpan</translation>
+    </message>
+    <message>
+      <source>OR login with</source>
+      <translation>ATAU login dengan</translation>
+    </message>
+    <message>
+      <source>Login with google account</source>
+      <translation>Login dengan akun google</translation>
+    </message>
+    <message>
+      <source>Working</source>
+      <translation>Bekerja</translation>
+    </message>
+    <message>
+      <source>Working...</source>
+      <translation>Bekerja ...</translation>
+    </message>
+    <message>
+      <source>Registration</source>
+      <translation>Pendaftaran</translation>
+    </message>
+    <message>
+      <source>Safe code</source>
+      <translation>Aman kode</translation>
+    </message>
+    <message>
+      <source>Register</source>
+      <translation>Daftar</translation>
+    </message>
+    <message>
+      <source>Sutch username is already taken!</source>
+      <translation>Sutch nama pengguna sudah diambil!</translation>
+    </message>
+    <message>
+      <source>Please enter album name!</source>
+      <translation>Silakan masukkan nama album!</translation>
+    </message>
+    <message>
+      <source>Please enter category name!</source>
+      <translation>Silakan masukkan nama kategori!</translation>
+    </message>
+    <message>
+      <source>User exists</source>
+      <translation>Pengguna ada</translation>
+    </message>
+    <message>
+      <source>Wrong email address</source>
+      <translation>Salah alamat email</translation>
+    </message>
+    <message>
+      <source>Please enter username</source>
+      <translation>Silakan masukkan nama pengguna</translation>
+    </message>
+    <message>
+      <source>Passwords mismatch</source>
+      <translation>Password mismatch</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Sistem konfigurasi</translation>
+    </message>
+    <message>
+      <source>Users</source>
+      <translation>Pengguna</translation>
+    </message>
+    <message>
+      <source>Please enter group name</source>
+      <translation>Masukkan nama grup</translation>
+    </message>
+    <message>
+      <source>E-mail taken!</source>
+      <translation>E-mail diambil!</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/newgroup</name>
+    <message>
+      <source>New group</source>
+      <translation>Grup baru</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Judul</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Simpan</translation>
+    </message>
+    <message>
+      <source>Save and assign user</source>
+      <translation>Simpan dan menetapkan pengguna</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Sistem konfigurasi</translation>
+    </message>
+    <message>
+      <source>Groups</source>
+      <translation>Grup</translation>
+    </message>
+  </context>
+  <context>
+    <name>pagelayout/pagelayout</name>
+    <message>
+      <source>Home</source>
+      <translation>Rumah</translation>
+    </message>
+    <message>
+      <source>Configuration</source>
+      <translation>Konfigurasi</translation>
+    </message>
+    <message>
+      <source>Gallery categorys</source>
+      <translation>Galeri categorys</translation>
+    </message>
+    <message>
+      <source>Last uploads to albums</source>
+      <translation>Terakhir di upload ke album</translation>
+    </message>
+    <message>
+      <source>Batch images add</source>
+      <translation>Batch gambar tambahkan</translation>
+    </message>
+    <message>
+      <source>Duplicates</source>
+      <translation>Duplikat</translation>
+    </message>
+    <message>
+      <source>Static articles</source>
+      <translation>Statis artikel</translation>
+    </message>
+    <message>
+      <source>Statistic</source>
+      <translation>Statistik</translation>
+    </message>
+    <message>
+      <source>Shop</source>
+      <translation>Toko</translation>
+    </message>
+    <message>
+      <source>Forum</source>
+      <translation>Forum</translation>
+    </message>
+    <message>
+      <source>Delete photo by ID</source>
+      <translation>Hapus foto dengan ID</translation>
+    </message>
+    <message>
+      <source>Photo was deleted</source>
+      <translation>Foto telah dihapus</translation>
+    </message>
+    <message>
+      <source>Go to album</source>
+      <translation>Pergi ke album</translation>
+    </message>
+    <message>
+      <source>Go to forum topic</source>
+      <translation>Pergi ke topik forum</translation>
+    </message>
+    <message>
+      <source>Go to forum category</source>
+      <translation>Pergi ke forum kategori</translation>
+    </message>
+    <message>
+      <source>Go to image</source>
+      <translation>Pergi ke gambar</translation>
+    </message>
+    <message>
+      <source>Root category</source>
+      <translation>Akar kategori</translation>
+    </message>
+    <message>
+      <source>Open</source>
+      <translation>Buka</translation>
+    </message>
+    <message>
+      <source>Edit</source>
+      <translation>Mengedit</translation>
+    </message>
+    <message>
+      <source>New album</source>
+      <translation>Album Baru</translation>
+    </message>
+    <message>
+      <source>New batch albums</source>
+      <translation>Baru bets album</translation>
+    </message>
+    <message>
+      <source>New category</source>
+      <translation>Baru kategori</translation>
+    </message>
+    <message>
+      <source>Delete album</source>
+      <translation>Hapus album</translation>
+    </message>
+    <message>
+      <source>Delete category</source>
+      <translation>Menghapus kategori</translation>
+    </message>
+    <message>
+      <source>Add images</source>
+      <translation>Tambahkan gambar</translation>
+    </message>
+    <message>
+      <source>Move images</source>
+      <translation>Pindahkan gambar</translation>
+    </message>
+    <message>
+      <source>It\'s NOT fake!</source>
+      <translation>Ini \ &amp;#39;s TIDAK palsu!</translation>
+    </message>
+    <message>
+      <source>Rendered in</source>
+      <translation>Diberikan dalam</translation>
+    </message>
+    <message>
+      <source>Logged user</source>
+      <translation>Login pengguna</translation>
+    </message>
+    <message>
+      <source>Account</source>
+      <translation>Akun</translation>
+    </message>
+    <message>
+      <source>Logout</source>
+      <translation>Keluar</translation>
+    </message>
+    <message>
+      <source>Login</source>
+      <translation>Login</translation>
+    </message>
+    <message>
+      <source>Enter keyword or phrase</source>
+      <translation>Masukkan kata kunci atau frase</translation>
+    </message>
+    <message>
+      <source>Search entire forum</source>
+      <translation>Cari forum keseluruhan</translation>
+    </message>
+    <message>
+      <source>Search</source>
+      <translation>Pencarian</translation>
+    </message>
+    <message>
+      <source>Last uploads</source>
+      <translation>Terakhir di upload</translation>
+    </message>
+    <message>
+      <source>Last commented</source>
+      <translation>Terakhir berkomentar</translation>
+    </message>
+    <message>
+      <source>Last hits</source>
+      <translation>Terakhir hit</translation>
+    </message>
+    <message>
+      <source>Last rated</source>
+      <translation>Terakhir dinilai</translation>
+    </message>
+    <message>
+      <source>Last 24 h.</source>
+      <translation>Terakhir 24 h.</translation>
+    </message>
+    <message>
+      <source>Most popular</source>
+      <translation>Paling populer</translation>
+    </message>
+    <message>
+      <source>Top rated</source>
+      <translation>Tertinggi</translation>
+    </message>
+    <message>
+      <source>Search entire gallery</source>
+      <translation>Pencarian keseluruhan galeri</translation>
+    </message>
+    <message>
+      <source>Last uploaded images</source>
+      <translation>Terakhir diupload gambar</translation>
+    </message>
+    <message>
+      <source>View all categorys</source>
+      <translation>Lihat semua categorys</translation>
+    </message>
+    <message>
+      <source>All time</source>
+      <translation>Setiap saat</translation>
+    </message>
+    <message>
+      <source>Interactive</source>
+      <translation>Interaktif</translation>
+    </message>
+    <message>
+      <source>Search by keyword</source>
+      <translation>Pencarian dengan kata kunci</translation>
+    </message>
+    <message>
+      <source>Search by color</source>
+      <translation>Cari dengan warna</translation>
+    </message>
+    <message>
+      <source>Search by similarity</source>
+      <translation>Pencarian oleh kesamaan</translation>
+    </message>
+    <message>
+      <source>Search by sketch</source>
+      <translation>Cari berdasarkan sketsa</translation>
+    </message>
+    <message>
+      <source>Last viewed images</source>
+      <translation>Terakhir dilihat gambar</translation>
+    </message>
+    <message>
+      <source>Last searches</source>
+      <translation>Terakhir pencarian</translation>
+    </message>
+    <message>
+      <source>My account</source>
+      <translation>Akun saya</translation>
+    </message>
+    <message>
+      <source>Profile page</source>
+      <translation>Halaman profil</translation>
+    </message>
+    <message>
+      <source>Manage albums</source>
+      <translation>Mengelola album</translation>
+    </message>
+    <message>
+      <source>Credits</source>
+      <translation>Kredit</translation>
+    </message>
+    <message>
+      <source>My orders</source>
+      <translation>Saya pesanan</translation>
+    </message>
+    <message>
+      <source>My credits orders</source>
+      <translation>Saya kredit perintah</translation>
+    </message>
+    <message>
+      <source>Import images from facebook</source>
+      <translation>Impor gambar dari facebook</translation>
+    </message>
+    <message>
+      <source>Register</source>
+      <translation>Daftar</translation>
+    </message>
+    <message>
+      <source>My favorites</source>
+      <translation>Favorit saya</translation>
+    </message>
+    <message>
+      <source>Basket</source>
+      <translation>Keranjang</translation>
+    </message>
+    <message>
+      <source>Upload</source>
+      <translation>Upload</translation>
+    </message>
+    <message>
+      <source>Upload zip</source>
+      <translation>Upload zip</translation>
+    </message>
+    <message>
+      <source>Search...</source>
+      <translation>Cari ...</translation>
+    </message>
+  </context>
+  <context>
+    <name>fb/album</name>
+    <message>
+      <source>Check photo to import</source>
+      <translation>Periksa foto untuk mengimpor</translation>
+    </message>
+    <message>
+      <source>Import selected images to</source>
+      <translation>Impor dipilih gambar untuk</translation>
+    </message>
+    <message>
+      <source>To what album you want to import images, start typing album name and click search</source>
+      <translation>Untuk apa album yang ingin Anda mengimpor gambar, mulai mengetik nama album dan klik pencarian</translation>
+    </message>
+    <message>
+      <source>Search for album</source>
+      <translation>Pencarian untuk album</translation>
+    </message>
+    <message>
+      <source>Check all</source>
+      <translation>Periksa semua</translation>
+    </message>
+    <message>
+      <source>Click to see target, new window will open</source>
+      <translation>Klik untuk melihat target, jendela baru akan terbuka</translation>
+    </message>
+    <message>
+      <source>Import selected images</source>
+      <translation>Impor gambar yang dipilih</translation>
+    </message>
+    <message>
+      <source>Please choose atleast one image!</source>
+      <translation>Silahkan pilih minimal satu gambar!</translation>
+    </message>
+    <message>
+      <source>images to import</source>
+      <translation>gambar untuk mengimpor</translation>
+    </message>
+    <message>
+      <source>All images were imported</source>
+      <translation>Semua gambar yang diimpor</translation>
+    </message>
+    <message>
+      <source>Please choose album</source>
+      <translation>Silakan pilih album</translation>
+    </message>
+    <message>
+      <source>Preview version</source>
+      <translation>Versi Preview</translation>
+    </message>
+  </context>
+  <context>
+    <name>feedback/form</name>
+    <message>
+      <source>Feedback</source>
+      <translation>Tanggapan</translation>
+    </message>
+    <message>
+      <source>Feedback was send</source>
+      <translation>Umpan balik adalah mengirim</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Nama</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Text</source>
+      <translation>Teks</translation>
+    </message>
+    <message>
+      <source>Captcha image</source>
+      <translation>Gambar captcha</translation>
+    </message>
+    <message>
+      <source>Captcha code</source>
+      <translation>Kode captcha</translation>
+    </message>
+    <message>
+      <source>Required fields</source>
+      <translation>Diperlukan bidang</translation>
+    </message>
+    <message>
+      <source>Send</source>
+      <translation>Kirim</translation>
+    </message>
+    <message>
+      <source>Please enter name!</source>
+      <translation>Silakan masukkan nama!</translation>
+    </message>
+    <message>
+      <source>Invalid e-mail address!</source>
+      <translation>Tidak valid alamat e-mail!</translation>
+    </message>
+    <message>
+      <source>Please enter text!</source>
+      <translation>Harap masukkan teks!</translation>
+    </message>
+    <message>
+      <source>Please enter captcha code!</source>
+      <translation>Silakan masukkan kode captcha!</translation>
+    </message>
+  </context>
+  <context>
+    <name>feedback/formsend</name>
+    <message>
+      <source>Feedback</source>
+      <translation>Tanggapan</translation>
+    </message>
+    <message>
+      <source>Your feedback was succesfuly send</source>
+      <translation>Tanggapan Anda berhasil mengirim</translation>
+    </message>
+    <message>
+      <source>Home page</source>
+      <translation>Home page</translation>
+    </message>
+  </context>
+  <context>
+    <name>feedback/mail</name>
+    <message>
+      <source>Hello</source>
+      <translation>Halo</translation>
+    </message>
+    <message>
+      <source>Feedback data</source>
+      <translation>Umpan Balik Data</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Nama</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Text</source>
+      <translation>Teks</translation>
+    </message>
+    <message>
+      <source>Bye</source>
+      <translation>Bye</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/anaglyph</name>
+    <message>
+      <source>Original</source>
+      <translation>Asli</translation>
+    </message>
+    <message>
+      <source>Anaglyph</source>
+      <translation>Anaglyph</translation>
+    </message>
+    <message>
+      <source>Animating</source>
+      <translation>Animating</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/color</name>
+    <message>
+      <source>Exclude color</source>
+      <translation>Kecualikan warna</translation>
+    </message>
+    <message>
+      <source>Maximum</source>
+      <translation>Maksimum</translation>
+    </message>
+    <message>
+      <source>filters</source>
+      <translation>filter</translation>
+    </message>
+    <message>
+      <source>Include color</source>
+      <translation>Termasuk warna</translation>
+    </message>
+    <message>
+      <source>Remove color</source>
+      <translation>Hapus warna</translation>
+    </message>
+    <message>
+      <source>Excluded colors in search</source>
+      <translation>Dikecualikan warna dalam pencarian</translation>
+    </message>
+    <message>
+      <source>colors</source>
+      <translation>warna</translation>
+    </message>
+    <message>
+      <source>More color</source>
+      <translation>Lebih warna</translation>
+    </message>
+    <message>
+      <source>Return to pallete</source>
+      <translation>Kembali ke pallete</translation>
+    </message>
+    <message>
+      <source>Images by color</source>
+      <translation>Gambar dengan warna</translation>
+    </message>
+    <message>
+      <source>Choose color</source>
+      <translation>Pilih warna</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>Tidak ada catatan.</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Halaman</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/createalbum</name>
+    <message>
+      <source>New album</source>
+      <translation>Album Baru</translation>
+    </message>
+    <message>
+      <source>Album name</source>
+      <translation>Nama Album</translation>
+    </message>
+    <message>
+      <source>Description</source>
+      <translation>Deskripsi</translation>
+    </message>
+    <message>
+      <source>Keywords</source>
+      <translation>Kata kunci</translation>
+    </message>
+    <message>
+      <source>Create</source>
+      <translation>Buat</translation>
+    </message>
+    <message>
+      <source>Create and upload photos</source>
+      <translation>Membuat dan meng-upload foto</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/myfavorites</name>
+    <message>
+      <source>Remove from favorites</source>
+      <translation>Hapus dari favorit</translation>
+    </message>
+    <message>
+      <source>My favorite images</source>
+      <translation>Gambar favorit saya</translation>
+    </message>
+    <message>
+      <source>Remove</source>
+      <translation>Hapus</translation>
+    </message>
+    <message>
+      <source>Remove Open ID</source>
+      <translation>Hapus ID Terbuka</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastcommented</name>
+    <message>
+      <source>Last commented images</source>
+      <translation>Terakhir berkomentar gambar</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>Tidak ada catatan.</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Resolusi</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Halaman</translation>
+    </message>
+    <message>
+      <source>Last commented gallery images.</source>
+      <translation type="unfinished">Terakhir berkomentar gallery images.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lasthits</name>
+    <message>
+      <source>Last viewed images</source>
+      <translation>Terakhir dilihat gambar</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>Tidak ada catatan.</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Resolusi</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Halaman</translation>
+    </message>
+    <message>
+      <source>Last viewed gallery images.</source>
+      <translation type="unfinished">Terakhir dilihat gallery images.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastrated</name>
+    <message>
+      <source>Last rated images</source>
+      <translation>Terakhir dinilai gambar</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>Tidak ada catatan.</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Resolusi</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Halaman</translation>
+    </message>
+    <message>
+      <source>Recently rated images.</source>
+      <translation type="unfinished">Baru-baru ini dinilai gambar.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastsearches</name>
+    <message>
+      <source>Last searches</source>
+      <translation>Terakhir pencarian</translation>
+    </message>
+    <message>
+      <source>No records</source>
+      <translation>Tidak ada catatan</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastuploads</name>
+    <message>
+      <source>Last uploaded images</source>
+      <translation>Terakhir diupload gambar</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>Tidak ada catatan.</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Resolusi</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Halaman</translation>
+    </message>
+    <message>
+      <source>Latest additions to gallery.</source>
+      <translation type="unfinished">Upload Terbaru ke galeri.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/my_albums_list</name>
+    <message>
+      <source>Edit album</source>
+      <translation>Edit album</translation>
+    </message>
+    <message>
+      <source>Are you sure?</source>
+      <translation>Apakah Anda yakin?</translation>
+    </message>
+    <message>
+      <source>Delete album</source>
+      <translation>Hapus album</translation>
+    </message>
+    <message>
+      <source>Add images</source>
+      <translation>Tambahkan gambar</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/myalbums</name>
+    <message>
+      <source>My albums</source>
+      <translation>Saya album</translation>
+    </message>
+    <message>
+      <source>New album</source>
+      <translation>Album Baru</translation>
+    </message>
+    <message>
+      <source>Update priority</source>
+      <translation>Pembaruan prioritas</translation>
+    </message>
+    <message>
+      <source>You do not have any album.</source>
+      <translation>Anda tidak memiliki album apapun.</translation>
+    </message>
+    <message>
+      <source>Create a new album.</source>
+      <translation>Buat album baru.</translation>
+    </message>
+    <message>
+      <source>Account</source>
+      <translation>Akun</translation>
+    </message>
+    <message>
+      <source>Albums</source>
+      <translation>Album</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/mylistalbum</name>
+    <message>
+      <source>No records.</source>
+      <translation>Tidak ada catatan.</translation>
+    </message>
+    <message>
+      <source>Account</source>
+      <translation>Akun</translation>
+    </message>
+    <message>
+      <source>Albums</source>
+      <translation>Album</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/popular</name>
+    <message>
+      <source>Most popular images</source>
+      <translation>Paling populer gambar</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>Tidak ada catatan.</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Resolusi</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Halaman</translation>
+    </message>
+    <message>
+      <source>All time most popular images.</source>
+      <translation type="unfinished">Semua waktu yang paling populer gambar.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/popularrecect</name>
+    <message>
+      <source>Most popular images in 24 hours.</source>
+      <translation>Paling populer gambar dalam 24 jam.</translation>
+    </message>
+    <message>
+      <source>There are no images.</source>
+      <translation>Tidak ada gambar.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/ratedrecent</name>
+    <message>
+      <source>Top rated images in 24 hours.</source>
+      <translation>Nilai Tertinggi gambar dalam 24 jam.</translation>
+    </message>
+    <message>
+      <source>Top rated images in 24 hours</source>
+      <translation>Gambar tertinggi dalam 24 jam</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Halaman</translation>
+    </message>
+    <message>
+      <source>Top rated images in last 24 hours.</source>
+      <translation type="unfinished">Nilai Tertinggi gambar dalam 24 jam terakhir.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/sharehtml</name>
+    <message>
+      <source>Link to image</source>
+      <translation>Link ke gambar</translation>
+    </message>
+    <message>
+      <source>Link to image with thumbnail</source>
+      <translation>Link ke gambar dengan thumbnail</translation>
+    </message>
+    <message>
+      <source>Link to image with medium size thumbnail</source>
+      <translation>Link ke gambar dengan ukuran medium thumbnail</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/sharephpbb</name>
+    <message>
+      <source>Link to image</source>
+      <translation>Link ke gambar</translation>
+    </message>
+    <message>
+      <source>Link to image with thumbnail</source>
+      <translation>Link ke gambar dengan thumbnail</translation>
+    </message>
+    <message>
+      <source>Link to image with medium size thumbnail</source>
+      <translation>Link ke gambar dengan ukuran medium thumbnail</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/subcategory_list_full</name>
+    <message>
+      <source>albums</source>
+      <translation>album</translation>
+    </message>
+    <message>
+      <source>images</source>
+      <translation>gambar</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/toprated</name>
+    <message>
+      <source>Top rated images</source>
+      <translation>Gambar tertinggi</translation>
+    </message>
+    <message>
+      <source>No records</source>
+      <translation>Tidak ada catatan</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Resolusi</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Halaman</translation>
+    </message>
+    <message>
+      <source>All time top rated images.</source>
+      <translation type="unfinished">Semua atas waktu dinilai gambar.</translation>
+    </message>
+  </context>
+  <context>
+    <name>kernel/nopermission</name>
+    <message>
+      <source>You do not have permission to access module</source>
+      <translation>Anda tidak memiliki izin untuk mengakses modul</translation>
+    </message>
+    <message>
+      <source>and use</source>
+      <translation>dan menggunakan</translation>
+    </message>
+    <message>
+      <source>function</source>
+      <translation>fungsi</translation>
+    </message>
+    <message>
+      <source>You do not have permission to access current object</source>
+      <translation>Anda tidak memiliki izin untuk mengakses objek saat ini</translation>
+    </message>
+  </context>
+  <context>
+    <name>core/paginator</name>
+    <message>
+      <source>Page</source>
+      <translation>Halaman</translation>
+    </message>
+    <message>
+      <source>of</source>
+      <translation>dari</translation>
+    </message>
+    <message>
+      <source>Found</source>
+      <translation>Ditemukan</translation>
+    </message>
+    <message>
+      <source>Previous</source>
+      <translation>Sebelumnya</translation>
+    </message>
+    <message>
+      <source>Go to page</source>
+      <translation>Pergi ke Halaman</translation>
+    </message>
+    <message>
+      <source>Next</source>
+      <translation>Berikutnya</translation>
+    </message>
+  </context>
+  <context>
+    <name>similar/similar</name>
+    <message>
+      <source>Visualy similar images to</source>
+      <translation>Visualy mirip gambar untuk</translation>
+    </message>
+    <message>
+      <source>Search for visualy similar images</source>
+      <translation>Mencari gambar visualy mirip</translation>
+    </message>
+    <message>
+      <source>Please enable JavaScript to upload image</source>
+      <translation>Silahkan aktifkan JavaScript untuk meng-upload gambar</translation>
+    </message>
+    <message>
+      <source>Click to choose image, you can also Drag and Drop file here (Drag and drop only for FF, Chrome).</source>
+      <translation>Klik untuk memilih gambar, Anda juga dapat Drag dan Drop file di sini (Drag dan drop hanya untuk FF, Chrome).</translation>
+    </message>
+    <message>
+      <source>Cancel</source>
+      <translation>Membatalkan</translation>
+    </message>
+    <message>
+      <source>Failed</source>
+      <translation>Gagal</translation>
+    </message>
+  </context>
+  <context>
+    <name>similar/sketch</name>
+    <message>
+      <source>Search by sketch</source>
+      <translation>Cari berdasarkan sketsa</translation>
+    </message>
+    <message>
+      <source>Sketch and find images by your sketch</source>
+      <translation>Sketsa dan menemukan gambar dengan sketsa Anda</translation>
+    </message>
+  </context>
+  <context>
+    <name>statistic/view</name>
+    <message>
+      <source>hours</source>
+      <translation>jam</translation>
+    </message>
+    <message>
+      <source>Total pageviews</source>
+      <translation>Jumlah tampilan halaman</translation>
+    </message>
+    <message>
+      <source>Total visits</source>
+      <translation>Jumlah kunjungan</translation>
+    </message>
+    <message>
+      <source>Time spent</source>
+      <translation>Waktu yang dihabiskan</translation>
+    </message>
+    <message>
+      <source>Last 31 days statistic, data resource - google analytics API</source>
+      <translation>Terakhir 31 hari statistik, data sumber daya - API Google Analytics</translation>
+    </message>
+    <message>
+      <source>Legend</source>
+      <translation>Legenda</translation>
+    </message>
+    <message>
+      <source>Pageviews</source>
+      <translation>Tampilan Halaman</translation>
+    </message>
+    <message>
+      <source>Visits</source>
+      <translation>Kunjungan</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/mapaccounts</name>
+    <message>
+      <source>Login with facebook</source>
+      <translation>Login dengan facebook</translation>
+    </message>
+    <message>
+      <source>Map to my account</source>
+      <translation>Peta ke akun saya</translation>
+    </message>
+    <message>
+      <source>my account</source>
+      <translation>account saya</translation>
+    </message>
+    <message>
+      <source>Login</source>
+      <translation>Login</translation>
+    </message>
+    <message>
+      <source>map to my account</source>
+      <translation>peta ke account saya</translation>
+    </message>
+    <message>
+      <source>Incorrect login or password</source>
+      <translation>Login atau kata sandi</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Nama</translation>
+    </message>
+    <message>
+      <source>Password</source>
+      <translation>Sandi</translation>
+    </message>
+    <message>
+      <source>OR</source>
+      <translation>ATAU</translation>
+    </message>
+    <message>
+      <source>create account</source>
+      <translation>buat akun</translation>
+    </message>
+    <message>
+      <source>Next</source>
+      <translation>Berikutnya</translation>
+    </message>
+    <message>
+      <source>Open ID</source>
+      <translation>Buka ID</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/forgotpassword</name>
+    <message>
+      <source>Password remind</source>
+      <translation>Sandi mengingatkan</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Restore password</source>
+      <translation>Mengembalikan password</translation>
+    </message>
+    <message>
+      <source>Order confirmed</source>
+      <translation>Orde dikonfirmasi</translation>
+    </message>
+    <message>
+      <source>Credits order confirmed</source>
+      <translation>Kredit untuk dikonfirmasi</translation>
+    </message>
+    <message>
+      <source>Wrong e-mail address!</source>
+      <translation>Salah alamat e-mail!</translation>
+    </message>
+    <message>
+      <source>Click this link and to You will be send new password</source>
+      <translation>Klik link ini dan Anda akan mengirimkan password baru</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/forgotpasswordsent</name>
+    <message>
+      <source>Password remind</source>
+      <translation>Sandi mengingatkan</translation>
+    </message>
+    <message>
+      <source>E-mail send. Click link in email and to You will be send out new password.</source>
+      <translation>E-mail kirim. Klik link dalam email dan Anda akan mengirimkan password baru.</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/index</name>
+    <message>
+      <source>User home</source>
+      <translation>Pengguna rumah</translation>
+    </message>
+    <message>
+      <source>Welcome. Here you can:</source>
+      <translation>Selamat Datang. Di sini Anda dapat:</translation>
+    </message>
+    <message>
+      <source>Edit personal settings</source>
+      <translation>Edit pengaturan pribadi</translation>
+    </message>
+    <message>
+      <source>Manage personal albums</source>
+      <translation>Mengelola album pribadi</translation>
+    </message>
+    <message>
+      <source>My account</source>
+      <translation>Akun saya</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/profile</name>
+    <message>
+      <source>User profile</source>
+      <translation>Profil pengguna</translation>
+    </message>
+    <message>
+      <source>Name and surname</source>
+      <translation>Nama dan nama keluarga</translation>
+    </message>
+    <message>
+      <source>Website</source>
+      <translation>Situs</translation>
+    </message>
+    <message>
+      <source>Introduction</source>
+      <translation>Pengantar</translation>
+    </message>
+    <message>
+      <source>Last updated albums</source>
+      <translation>Album terbaru</translation>
+    </message>
+    <message>
+      <source>Last uploaded images</source>
+      <translation>Terakhir diupload gambar</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/remindpassword</name>
+    <message>
+      <source>New password</source>
+      <translation>Kata sandi baru</translation>
+    </message>
+    <message>
+      <source>Hash not found or was used already</source>
+      <translation>Hash tidak ditemukan atau digunakan sudah</translation>
+    </message>
+    <message>
+      <source>Password remind - new password</source>
+      <translation>Sandi mengingatkan - password baru</translation>
+    </message>
+    <message>
+      <source>New password:</source>
+      <translation>New password:</translation>
+    </message>
+    <message>
+      <source>New password has beend send to your email.</source>
+      <translation>Sandi baru telah beend kirim ke email Anda.</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/basket</name>
+    <message>
+      <source>Basket</source>
+      <translation>Keranjang</translation>
+    </message>
+    <message>
+      <source>Image name</source>
+      <translation>Nama foto</translation>
+    </message>
+    <message>
+      <source>Version</source>
+      <translation>Versi</translation>
+    </message>
+    <message>
+      <source>Image size</source>
+      <translation>Ukuran gambar</translation>
+    </message>
+    <message>
+      <source>Format</source>
+      <translation>Format</translation>
+    </message>
+    <message>
+      <source>Price</source>
+      <translation>Harga</translation>
+    </message>
+    <message>
+      <source>Credits</source>
+      <translation>Kredit</translation>
+    </message>
+    <message>
+      <source>Remove from basket</source>
+      <translation>Hapus dari keranjang</translation>
+    </message>
+    <message>
+      <source>Choose payment option</source>
+      <translation>Pilih opsi pembayaran</translation>
+    </message>
+    <message>
+      <source>In order to checkout atlest one item have to be selected.</source>
+      <translation>Dalam rangka untuk checkout atlest satu item harus dipilih.</translation>
+    </message>
+    <message>
+      <source>In order to checkout you have to</source>
+      <translation>Dalam rangka untuk checkout Anda harus</translation>
+    </message>
+    <message>
+      <source>sign in</source>
+      <translation>masuk</translation>
+    </message>
+    <message>
+      <source>or</source>
+      <translation>atau</translation>
+    </message>
+    <message>
+      <source>login</source>
+      <translation>login</translation>
+    </message>
+    <message>
+      <source>if you have already created an account</source>
+      <translation>jika Anda sudah membuat account</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/buycredits</name>
+    <message>
+      <source>Buy credits</source>
+      <translation>Membeli kredit</translation>
+    </message>
+    <message>
+      <source>How many credits do want to buy?</source>
+      <translation>Berapa banyak kredit yang ingin membeli?</translation>
+    </message>
+    <message>
+      <source>Choose payment method</source>
+      <translation>Pilih metode pembayaran</translation>
+    </message>
+  </context>
+  <context>
+    <name>credits_handler/accept</name>
+    <message>
+      <source>Order succesfull</source>
+      <translation>Orde succesfull</translation>
+    </message>
+    <message>
+      <source>Payment was succesfull</source>
+      <translation>Pembayaran succesfull</translation>
+    </message>
+  </context>
+  <context>
+    <name>credits_handler/process</name>
+    <message>
+      <source>Checkout</source>
+      <translation>Pemeriksaan</translation>
+    </message>
+    <message>
+      <source>Confirm payment</source>
+      <translation>Konfirmasi pembayaran</translation>
+    </message>
+    <message>
+      <source>Not enouth credits to checkout</source>
+      <translation>Tidak enouth kredit untuk checkout</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/cancel</name>
+    <message>
+      <source>Payment canceled</source>
+      <translation>Pembayaran dibatalkan</translation>
+    </message>
+    <message>
+      <source>Paypal payment was canceled.</source>
+      <translation>Paypal pembayaran dibatalkan.</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/error</name>
+    <message>
+      <source>Error</source>
+      <translation>Kesalahan</translation>
+    </message>
+    <message>
+      <source>Execution was terminated unexpectedly.</source>
+      <translation>Eksekusi diakhiri terduga.</translation>
+    </message>
+  </context>
+  <context>
+    <name>paypal_handler/process</name>
+    <message>
+      <source>Checkout using Paypal</source>
+      <translation>Checkout menggunakan Paypal</translation>
+    </message>
+    <message>
+      <source>Buyer\'s Email</source>
+      <translation>Pembeli \ &amp;#39;s Email</translation>
+    </message>
+    <message>
+      <source>Amount</source>
+      <translation>Jumlah</translation>
+    </message>
+    <message>
+      <source>Currency</source>
+      <translation>Mata uang</translation>
+    </message>
+    <message>
+      <source>Credits</source>
+      <translation>Kredit</translation>
+    </message>
+  </context>
+  <context>
+    <name>paypal_handler/review</name>
+    <message>
+      <source>Order payment confirmation</source>
+      <translation>Perintah pembayaran konfirmasi</translation>
+    </message>
+    <message>
+      <source>Order amount</source>
+      <translation>Orde jumlah</translation>
+    </message>
+    <message>
+      <source>Confirm payment</source>
+      <translation>Konfirmasi pembayaran</translation>
+    </message>
+    <message>
+      <source>Thank you for your payment!</source>
+      <translation>Terima kasih untuk pembayaran Anda!</translation>
+    </message>
+    <message>
+      <source>credits</source>
+      <translation>kredit</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/mycredits</name>
+    <message>
+      <source>My credits balanse</source>
+      <translation>Saya kredit balanse</translation>
+    </message>
+    <message>
+      <source>You have</source>
+      <translation>Anda memiliki</translation>
+    </message>
+    <message>
+      <source>in your account</source>
+      <translation>dalam account Anda</translation>
+    </message>
+    <message>
+      <source>Buy credits</source>
+      <translation>Membeli kredit</translation>
+    </message>
+    <message>
+      <source>My credits</source>
+      <translation>Saya kredit</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/myorders</name>
+    <message>
+      <source>My credits orders</source>
+      <translation>Saya kredit perintah</translation>
+    </message>
+    <message>
+      <source>Date</source>
+      <translation>Tanggal</translation>
+    </message>
+    <message>
+      <source>Order price</source>
+      <translation>Orde harga</translation>
+    </message>
+    <message>
+      <source>Order credits</source>
+      <translation>Orde kredit</translation>
+    </message>
+    <message>
+      <source>Order status</source>
+      <translation>Status order</translation>
+    </message>
+    <message>
+      <source>Payed</source>
+      <translation>Payed</translation>
+    </message>
+    <message>
+      <source>Confirmed</source>
+      <translation>Dikonfirmasi</translation>
+    </message>
+    <message>
+      <source>My orders</source>
+      <translation>Saya pesanan</translation>
+    </message>
+    <message>
+      <source>Order view</source>
+      <translation>Urutan tampilan</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/orderview</name>
+    <message>
+      <source>Order view</source>
+      <translation>Urutan tampilan</translation>
+    </message>
+    <message>
+      <source>Order time</source>
+      <translation>Urutan waktu</translation>
+    </message>
+    <message>
+      <source>Order price</source>
+      <translation>Orde harga</translation>
+    </message>
+    <message>
+      <source>Order credits</source>
+      <translation>Orde kredit</translation>
+    </message>
+    <message>
+      <source>Order status</source>
+      <translation>Status order</translation>
+    </message>
+    <message>
+      <source>Payed</source>
+      <translation>Payed</translation>
+    </message>
+    <message>
+      <source>Confirmed</source>
+      <translation>Dikonfirmasi</translation>
+    </message>
+    <message>
+      <source>Ordered items</source>
+      <translation>Memerintahkan item</translation>
+    </message>
+    <message>
+      <source>Image name</source>
+      <translation>Nama foto</translation>
+    </message>
+    <message>
+      <source>Version</source>
+      <translation>Versi</translation>
+    </message>
+    <message>
+      <source>Image size</source>
+      <translation>Ukuran gambar</translation>
+    </message>
+    <message>
+      <source>Format</source>
+      <translation>Format</translation>
+    </message>
+    <message>
+      <source>Price</source>
+      <translation>Harga</translation>
+    </message>
+    <message>
+      <source>Download count</source>
+      <translation>Download lagu menghitung</translation>
+    </message>
+    <message>
+      <source>Downloads left</source>
+      <translation>Downloads kiri</translation>
+    </message>
+    <message>
+      <source>Credits</source>
+      <translation>Kredit</translation>
+    </message>
+    <message>
+      <source>Download image</source>
+      <translation>Download gambar</translation>
+    </message>
+    <message>
+      <source>downloads left</source>
+      <translation>download kiri</translation>
+    </message>
+    <message>
+      <source>No downloads available</source>
+      <translation>Tidak tersedia download</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/paymentoption</name>
+    <message>
+      <source>Payment option</source>
+      <translation>Pilihan pembayaran</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Choose payment method</source>
+      <translation>Pilih metode pembayaran</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/paymentoptioncredit</name>
+    <message>
+      <source>Payment option</source>
+      <translation>Pilihan pembayaran</translation>
+    </message>
+    <message>
+      <source>Continue</source>
+      <translation>Lanjutkan</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/category</name>
+    <message>
+      <source>Root category</source>
+      <translation>Akar kategori</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Halaman</translation>
+    </message>
+    <message>
+      <source>Forum</source>
+      <translation>Forum</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/category</name>
+    <message>
+      <source>Please enter topic name!</source>
+      <translation>Silahkan masukkan nama topik!</translation>
+    </message>
+    <message>
+      <source>Please enter message!</source>
+      <translation>Silahkan masukkan pesan!</translation>
+    </message>
+    <message>
+      <source>Please choose category!</source>
+      <translation>Silakan pilih kategori!</translation>
+    </message>
+    <message>
+      <source>Not parent category!</source>
+      <translation>Bukan orangtua kategori!</translation>
+    </message>
+    <message>
+      <source>Invalid category!</source>
+      <translation>Kategori tidak valid!</translation>
+    </message>
+    <message>
+      <source>Forum</source>
+      <translation>Forum</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/createcategory</name>
+    <message>
+      <source>Please enter category name!</source>
+      <translation>Silakan masukkan nama kategori!</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>Rumah</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/editmessage</name>
+    <message>
+      <source>Please enter message!</source>
+      <translation>Silahkan masukkan pesan!</translation>
+    </message>
+    <message>
+      <source>Forum</source>
+      <translation>Forum</translation>
+    </message>
+    <message>
+      <source>Message edit</source>
+      <translation>Pesan mengedit</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/edittopic</name>
+    <message>
+      <source>Please enter topic name!</source>
+      <translation>Silahkan masukkan nama topik!</translation>
+    </message>
+    <message>
+      <source>Please enter topic status!</source>
+      <translation>Silahkan masuk dalam status topik!</translation>
+    </message>
+    <message>
+      <source>Forum</source>
+      <translation>Forum</translation>
+    </message>
+    <message>
+      <source>Topic edit</source>
+      <translation>Topik mengedit</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/report</name>
+    <message>
+      <source>Please enter message!</source>
+      <translation>Silahkan masukkan pesan!</translation>
+    </message>
+    <message>
+      <source>Forum message report</source>
+      <translation>Laporan forum pesan</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/searchrss</name>
+    <message>
+      <source>Search results</source>
+      <translation>Search results</translation>
+    </message>
+    <message>
+      <source>Search</source>
+      <translation>Pencarian</translation>
+    </message>
+    <message>
+      <source>Search RSS by keyword</source>
+      <translation>Cari dengan kata kunci RSS</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>Lihat gambar</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/searchrss</name>
+    <message>
+      <source>Search</source>
+      <translation>Pencarian</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/albumeditadmin</name>
+    <message>
+      <source>Root category</source>
+      <translation>Akar kategori</translation>
+    </message>
+    <message>
+      <source>Add images</source>
+      <translation>Tambahkan gambar</translation>
+    </message>
+    <message>
+      <source>Album edit</source>
+      <translation>Album mengedit</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/addvote</name>
+    <message>
+      <source>Thank you for your vote</source>
+      <translation>Terima kasih untuk suara Anda</translation>
+    </message>
+    <message>
+      <source>You are not allowed to vote!</source>
+      <translation>Anda tidak diizinkan untuk memilih!</translation>
+    </message>
+    <message>
+      <source>You have already voted!</source>
+      <translation>Anda telah memilih!</translation>
+    </message>
+    <message>
+      <source>Vote deducted!</source>
+      <translation>Vote dipotong!</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/albumrss</name>
+    <message>
+      <source>Last uploaded images to album</source>
+      <translation>Terakhir diupload gambar ke album</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>Lihat gambar</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lasthitsrss</name>
+    <message>
+      <source>watched</source>
+      <translation>mengawasi</translation>
+    </message>
+    <message>
+      <source>Last viewed images</source>
+      <translation>Terakhir dilihat gambar</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>Lihat gambar</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastcommentedrss</name>
+    <message>
+      <source>Last commented images</source>
+      <translation>Terakhir berkomentar gambar</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>Lihat gambar</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastratedrss</name>
+    <message>
+      <source>Last rated images</source>
+      <translation>Terakhir dinilai gambar</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>Lihat gambar</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastuploadsrss</name>
+    <message>
+      <source>Last uploaded images</source>
+      <translation>Terakhir diupload gambar</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>Lihat gambar</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/movebyresolution</name>
+    <message>
+      <source>Move by resolution</source>
+      <translation>Pindahkan dengan resolusi</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/popularrecent</name>
+    <message>
+      <source>Most popular images in 24 hours</source>
+      <translation>Paling populer foto dalam 24 jam</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Halaman</translation>
+    </message>
+    <message>
+      <source>Most popular images in last 24 hours.</source>
+      <translation type="unfinished">Paling populer gambar dalam 24 jam terakhir.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/popularrss</name>
+    <message>
+      <source>Most popular images</source>
+      <translation>Paling populer gambar</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/tagphoto</name>
+    <message>
+      <source>Thank you a lot :)</source>
+      <translation>Terima kasih banyak:)</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/topratedrss</name>
+    <message>
+      <source>Top rated images</source>
+      <translation>Gambar tertinggi</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>Lihat gambar</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/updateimage</name>
+    <message>
+      <source>Image updated</source>
+      <translation>Gambar diperbarui</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/imagevariation</name>
+    <message>
+      <source>Basket</source>
+      <translation>Keranjang</translation>
+    </message>
+    <message>
+      <source>Payment option</source>
+      <translation>Pilihan pembayaran</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/imagevariationform</name>
+    <message>
+      <source>Credits amount must be greater than 0!</source>
+      <translation>Jumlah kredit harus lebih besar dari 0!</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/settingedit</name>
+    <message>
+      <source>Edit</source>
+      <translation>Mengedit</translation>
+    </message>
+  </context>
+  <context>
+    <name>similar/image</name>
+    <message>
+      <source>Similar images to</source>
+      <translation>Serupa gambar untuk</translation>
+    </message>
+    <message>
+      <source>Search for visualy similar images</source>
+      <translation>Mencari gambar visualy mirip</translation>
+    </message>
+  </context>
+  <context>
+    <name>system/index</name>
+    <message>
+      <source>System administration panel</source>
+      <translation>Sistem administrasi panel</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastuploadstoalbums</name>
+    <message>
+      <source>Last uploads to albums</source>
+      <translation type="unfinished">Terakhir di upload ke album</translation>
+    </message>
+    <message>
+      <source>Recently updated albums</source>
+      <translation type="unfinished">Baru Album terbaru</translation>
+    </message>
+  </context>
+</TS>

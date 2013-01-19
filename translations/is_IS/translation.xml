@@ -1,0 +1,4280 @@
+<?xml version="1.0"?>
+<!DOCTYPE TS>
+<TS>
+  <context>
+    <name>article/editstatic</name>
+    <message>
+      <source>Article name</source>
+      <translation>Grein Nafn</translation>
+    </message>
+    <message>
+      <source>Body</source>
+      <translation>Body</translation>
+    </message>
+    <message>
+      <source>Article edit</source>
+      <translation>Gr breyta</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+  </context>
+  <context>
+    <name>article/newstatic</name>
+    <message>
+      <source>New article</source>
+      <translation>N&#xFD; grein</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Vista</translation>
+    </message>
+  </context>
+  <context>
+    <name>article/staticlist</name>
+    <message>
+      <source>Static articles</source>
+      <translation>Static greinar</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Nafn</translation>
+    </message>
+    <message>
+      <source>Edit</source>
+      <translation>Breyta</translation>
+    </message>
+    <message>
+      <source>New article</source>
+      <translation>N&#xFD; grein</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/admincategorys</name>
+    <message>
+      <source>Category</source>
+      <translation>Flokkur</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Titill</translation>
+    </message>
+    <message>
+      <source>Owner</source>
+      <translation>Eigandi</translation>
+    </message>
+    <message>
+      <source>Topics</source>
+      <translation>Spjall&#xFE;r&#xE6;&#xF0;ir</translation>
+    </message>
+    <message>
+      <source>Messages</source>
+      <translation>Skilabo&#xF0;</translation>
+    </message>
+    <message>
+      <source>Edit category</source>
+      <translation>Breyta flokki</translation>
+    </message>
+    <message>
+      <source>Delete category</source>
+      <translation>Ey&#xF0;a flokki</translation>
+    </message>
+    <message>
+      <source>Create a category</source>
+      <translation>B&#xFA;a til flokk</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>Heim</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/album</name>
+    <message>
+      <source>No records</source>
+      <translation>Engar f&#xE6;rslur</translation>
+    </message>
+    <message>
+      <source>Search by color and keyword, just try to see how fun it is!</source>
+      <translation>Leita eftir lit og lykilor&#xF0;, bara a&#xF0; reyna a&#xF0; sj&#xE1; hvernig gaman &#xFE;a&#xF0; er!</translation>
+    </message>
+    <message>
+      <source>Enter keyword or phrase</source>
+      <translation>Sl&#xE1;&#xF0;u inn leitaror&#xF0; e&#xF0;a setningu</translation>
+    </message>
+    <message>
+      <source>Search entire gallery</source>
+      <translation>Leita allt gallery</translation>
+    </message>
+    <message>
+      <source>Search</source>
+      <translation>Leita</translation>
+    </message>
+    <message>
+      <source>enter keyword and click color, or just click color</source>
+      <translation>Sl&#xE1;&#xF0;u inn leitaror&#xF0; og smelltu &#xE1; lit, e&#xF0;a bara smella &#xE1; lit</translation>
+    </message>
+    <message>
+      <source>Include color</source>
+      <translation>Hafa lit</translation>
+    </message>
+    <message>
+      <source>Exclude color</source>
+      <translation>&#xDA;tiloka lit</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Page</translation>
+    </message>
+    <message>
+      <source>Last uploaded last</source>
+      <translation>S&#xED;&#xF0;ast hla&#xF0;i&#xF0; s&#xED;&#xF0;ast</translation>
+    </message>
+    <message>
+      <source>Most popular first</source>
+      <translation>Vins&#xE6;last fyrst</translation>
+    </message>
+    <message>
+      <source>Most popular last</source>
+      <translation>Vins&#xE6;last &#xE1; s&#xED;&#xF0;asta</translation>
+    </message>
+    <message>
+      <source>Last hits first</source>
+      <translation>S&#xED;&#xF0;ast smellir fyrst</translation>
+    </message>
+    <message>
+      <source>Last hits last</source>
+      <translation>S&#xED;&#xF0;ast smellir &#xE1; s&#xED;&#xF0;asta</translation>
+    </message>
+    <message>
+      <source>Last commented first</source>
+      <translation>S&#xED;&#xF0;asta athugasemd fyrst</translation>
+    </message>
+    <message>
+      <source>Last commented last</source>
+      <translation>S&#xED;&#xF0;asta athugasemd s&#xED;&#xF0;ast</translation>
+    </message>
+    <message>
+      <source>Last rated first</source>
+      <translation>S&#xED;&#xF0;ast einkunnir fyrst</translation>
+    </message>
+    <message>
+      <source>Last rated last</source>
+      <translation>S&#xED;&#xF0;ast gaf s&#xED;&#xF0;ast</translation>
+    </message>
+    <message>
+      <source>Top rated first</source>
+      <translation>H&#xE6;stu einkunnir fyrst</translation>
+    </message>
+    <message>
+      <source>Top rated last Last</source>
+      <translation>H&#xE6;stu einkunnir s&#xED;&#xF0;asta Last</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Upplausn</translation>
+    </message>
+    <message>
+      <source>Last uploaded images to album</source>
+      <translation>S&#xED;&#xF0;ast hla&#xF0;i&#xF0; myndir &#xED; alb&#xFA;m</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/createcategory</name>
+    <message>
+      <source>New category</source>
+      <translation>N&#xFD;r flokkur</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Vista</translation>
+    </message>
+    <message>
+      <source>back</source>
+      <translation>Til baka</translation>
+    </message>
+    <message>
+      <source>Please enter message!</source>
+      <translation>Vinsamlegast sl&#xE1;&#xF0;u inn skilabo&#xF0;!</translation>
+    </message>
+    <message>
+      <source>Please enter category name!</source>
+      <translation>Vinsamlega sl&#xE1;&#xF0;u inn flokkur nafn!</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>Heim</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/editcategory</name>
+    <message>
+      <source>Category edit</source>
+      <translation>Flokkur breyta</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+    <message>
+      <source>Please enter category name!</source>
+      <translation>Vinsamlega sl&#xE1;&#xF0;u inn flokkur nafn!</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/editcategory</name>
+    <message>
+      <source>back</source>
+      <translation>Til baka</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Nafn</translation>
+    </message>
+    <message>
+      <source>Description</source>
+      <translation>L&#xFD;sing</translation>
+    </message>
+    <message>
+      <source>Owner</source>
+      <translation>Eigandi</translation>
+    </message>
+    <message>
+      <source>Category edit</source>
+      <translation>Flokkur breyta</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+    <message>
+      <source>Hide subcategorys in frontpage</source>
+      <translation>Fela subcategorys &#xED; Frontpage</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/albumedit</name>
+    <message>
+      <source>Edit topic</source>
+      <translation>Breyta efni</translation>
+    </message>
+    <message>
+      <source>Topic name</source>
+      <translation>Topic nafn</translation>
+    </message>
+    <message>
+      <source>Topic status</source>
+      <translation>Topic st&#xF6;&#xF0;u</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+    <message>
+      <source>Album edit</source>
+      <translation>Album breyta</translation>
+    </message>
+    <message>
+      <source>Album name</source>
+      <translation>Nafn alb&#xFA;ms</translation>
+    </message>
+    <message>
+      <source>Album category</source>
+      <translation>Album flokki</translation>
+    </message>
+    <message>
+      <source>Album owner</source>
+      <translation>Album eigandi</translation>
+    </message>
+    <message>
+      <source>Description</source>
+      <translation>L&#xFD;sing</translation>
+    </message>
+    <message>
+      <source>Keywords</source>
+      <translation>Leitaror&#xF0;</translation>
+    </message>
+    <message>
+      <source>Public</source>
+      <translation>Almenn</translation>
+    </message>
+    <message>
+      <source>All users can uploads images to this album</source>
+      <translation>Allir notendur geta hla&#xF0;i&#xF0; myndum &#xED; &#xFE;essu alb&#xFA;mi</translation>
+    </message>
+    <message>
+      <source>Hidden</source>
+      <translation>Falinn</translation>
+    </message>
+    <message>
+      <source>Hide album from users</source>
+      <translation>Fela alb&#xFA;m fr&#xE1; notendum</translation>
+    </message>
+    <message>
+      <source>Album thumbnail</source>
+      <translation>Album thumbnail</translation>
+    </message>
+    <message>
+      <source>Newest album image</source>
+      <translation>N&#xFD;jasta plata mynd</translation>
+    </message>
+    <message>
+      <source>Revert to newest album image display mode</source>
+      <translation>Sn&#xFA;a s&#xE9;r a&#xF0; n&#xFD;justu pl&#xF6;tu mynd s&#xFD;na stillingu</translation>
+    </message>
+    <message>
+      <source>Remove</source>
+      <translation>Fjarl&#xE6;gja</translation>
+    </message>
+    <message>
+      <source>Edit message</source>
+      <translation>Breyta skilabo&#xF0;</translation>
+    </message>
+    <message>
+      <source>Message</source>
+      <translation>Skilabo&#xF0;</translation>
+    </message>
+    <message>
+      <source>File</source>
+      <translation>Skr&#xE1;</translation>
+    </message>
+    <message>
+      <source>New message</source>
+      <translation>N&#xFD; skilabo&#xF0;</translation>
+    </message>
+    <message>
+      <source>Publish</source>
+      <translation>Birta</translation>
+    </message>
+    <message>
+      <source>New topic</source>
+      <translation>New Topic</translation>
+    </message>
+    <message>
+      <source>Choose topic category</source>
+      <translation>Veldu &#xFE;r&#xE1;&#xF0; flokk</translation>
+    </message>
+    <message>
+      <source>Please enter album name!</source>
+      <translation>Vinsamlega sl&#xE1;&#xF0;u inn alb&#xFA;m nafn!</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/album_list_admin</name>
+    <message>
+      <source>Are you sure?</source>
+      <translation>Ertu viss?</translation>
+    </message>
+    <message>
+      <source>Add images</source>
+      <translation>B&#xE6;ta vi&#xF0; myndum</translation>
+    </message>
+    <message>
+      <source>Edit album</source>
+      <translation>Breyta alb&#xFA;mi</translation>
+    </message>
+    <message>
+      <source>Move all album photos to another album</source>
+      <translation>F&#xE6;ra &#xF6;ll alb&#xFA;m myndir &#xED; anna&#xF0; alb&#xFA;m</translation>
+    </message>
+    <message>
+      <source>Move photos by resolution</source>
+      <translation>F&#xE6;ra myndir me&#xF0; &#xE1;lyktun</translation>
+    </message>
+    <message>
+      <source>Delete album</source>
+      <translation>Ey&#xF0;a alb&#xFA;mi</translation>
+    </message>
+    <message>
+      <source>Approve all images</source>
+      <translation>Sam&#xFE;ykkja allar myndir</translation>
+    </message>
+    <message>
+      <source>Disapprove all images</source>
+      <translation>Hafna &#xF6;llum myndum</translation>
+    </message>
+    <message>
+      <source>View on site</source>
+      <translation>Sko&#xF0;a &#xE1; sta&#xF0;num</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/userlist</name>
+    <message>
+      <source>Report list</source>
+      <translation>Sk&#xFD;rsla lista</translation>
+    </message>
+    <message>
+      <source>Report</source>
+      <translation>Sk&#xFD;rsla</translation>
+    </message>
+    <message>
+      <source>Topic</source>
+      <translation>Topic</translation>
+    </message>
+    <message>
+      <source>Topic message</source>
+      <translation>Topic skilabo&#xF0;</translation>
+    </message>
+    <message>
+      <source>Date</source>
+      <translation>Dagsetning</translation>
+    </message>
+    <message>
+      <source>Edit topic</source>
+      <translation>Breyta efni</translation>
+    </message>
+    <message>
+      <source>Delete topic</source>
+      <translation>Ey&#xF0;a &#xFE;r&#xE1;&#xF0;</translation>
+    </message>
+    <message>
+      <source>IP</source>
+      <translation>IP</translation>
+    </message>
+    <message>
+      <source>Users</source>
+      <translation>Notendur</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Notandanafn</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Edit user</source>
+      <translation>Breyta notanda</translation>
+    </message>
+    <message>
+      <source>Delete user</source>
+      <translation>Ey&#xF0;a notanda</translation>
+    </message>
+    <message>
+      <source>New user</source>
+      <translation>N&#xFD;r notandi</translation>
+    </message>
+    <message>
+      <source>Replace image</source>
+      <translation>Skipta mynd</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Uppsetningu kerfisins</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/subcategory_list</name>
+    <message>
+      <source>images</source>
+      <translation>myndir</translation>
+    </message>
+    <message>
+      <source>albums</source>
+      <translation>alb&#xFA;m</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/addimages</name>
+    <message>
+      <source>Add images to album</source>
+      <translation>B&#xE6;ta vi&#xF0; myndum &#xED; alb&#xFA;m</translation>
+    </message>
+    <message>
+      <source>Move album images to another album</source>
+      <translation>F&#xE6;ra alb&#xFA;m myndir &#xED; anna&#xF0; alb&#xFA;m</translation>
+    </message>
+    <message>
+      <source>Move image to another album</source>
+      <translation>F&#xE6;ra mynd &#xED; anna&#xF0; alb&#xFA;m</translation>
+    </message>
+  </context>
+  <context>
+    <name>lhad/orderitemdetails/orderitemdetails_display_ad_magazine</name>
+    <message>
+      <source>Please enable JavaScript to upload image</source>
+      <translation>Vinsamlega virkja&#xF0;u JavaScript til a&#xF0; senda inn mynd</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/publicupload</name>
+    <message>
+      <source>Upload</source>
+      <translation>Hla&#xF0;a</translation>
+    </message>
+    <message>
+      <source>Click to choose images to upload, you can also drop files here.</source>
+      <translation>Smelltu til a&#xF0; velja myndir til a&#xF0; hla&#xF0;a upp, getur &#xFE;&#xFA; einnig sleppa skr&#xE1;m h&#xE9;r.</translation>
+    </message>
+    <message>
+      <source>Click to choose images to upload, you can also Drag and Drop files here (Darg and drop only for FF, Chrome).</source>
+      <translation>Smelltu til a&#xF0; velja myndir til a&#xF0; hla&#xF0;a upp, getur &#xFE;&#xFA; einnig draga og sleppa skr&#xE1;m h&#xE9;r (Darg og falla einungis fyrir FF, Kr&#xF3;m).</translation>
+    </message>
+    <message>
+      <source>Public images archive upload</source>
+      <translation>Almenn myndir skjalasafn hla&#xF0;a</translation>
+    </message>
+    <message>
+      <source>Click to choose zip to upload, you can also drop files here (Darg and drop only for FF, Chrome).</source>
+      <translation>Smelltu til a&#xF0; velja zip a&#xF0; hla&#xF0;a inn, &#xFE;&#xFA; getur l&#xED;ka sleppa skr&#xE1;m h&#xE9;r (Darg og falla einungis fyrir FF, Kr&#xF3;m).</translation>
+    </message>
+    <message>
+      <source>Public images upload</source>
+      <translation>Almenn myndir hla&#xF0;a</translation>
+    </message>
+    <message>
+      <source>Max file size </source>
+      <translation type="unfinished">Max st&#xE6;r&#xF0;</translation>
+    </message>
+  </context>
+  <context>
+    <name>lhad/uploadadorderitem_content</name>
+    <message>
+      <source>Cancel</source>
+      <translation>H&#xE6;tta vi&#xF0;</translation>
+    </message>
+    <message>
+      <source>Failed</source>
+      <translation>Mist&#xF3;kst</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/fileuploadcontainer</name>
+    <message>
+      <source>Title</source>
+      <translation>Titill</translation>
+    </message>
+    <message>
+      <source>Keywords</source>
+      <translation>Leitaror&#xF0;</translation>
+    </message>
+    <message>
+      <source>Cross eye image</source>
+      <translation>Cross auga mynd</translation>
+    </message>
+    <message>
+      <source>Caption</source>
+      <translation>Yfirskrift</translation>
+    </message>
+    <message>
+      <source>Enter new album name or choose public album</source>
+      <translation>Sl&#xE1;&#xF0;u inn n&#xFD;ja pl&#xF6;tu nafni&#xF0; e&#xF0;a velja almenna alb&#xFA;minu</translation>
+    </message>
+    <message>
+      <source>description</source>
+      <translation>L&#xFD;sing</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/admincategorys</name>
+    <message>
+      <source>Category</source>
+      <translation>Flokkur</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Titill</translation>
+    </message>
+    <message>
+      <source>Owner</source>
+      <translation>Eigandi</translation>
+    </message>
+    <message>
+      <source>Edit category</source>
+      <translation>Breyta flokki</translation>
+    </message>
+    <message>
+      <source>Delete category</source>
+      <translation>Ey&#xF0;a flokki</translation>
+    </message>
+    <message>
+      <source>Create a category</source>
+      <translation>B&#xFA;a til flokk</translation>
+    </message>
+    <message>
+      <source>Category albums</source>
+      <translation>Flokkur alb&#xFA;m</translation>
+    </message>
+    <message>
+      <source>This category does not have an album.</source>
+      <translation>&#xDE;essi flokkur er ekki me&#xF0; pl&#xF6;tu.</translation>
+    </message>
+    <message>
+      <source>Create an album</source>
+      <translation>B&#xFA;a til alb&#xFA;m</translation>
+    </message>
+    <message>
+      <source>Batch album create</source>
+      <translation>H&#xF3;pur alb&#xFA;m B&#xFA;a til</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>Heim</translation>
+    </message>
+    <message>
+      <source>Root category</source>
+      <translation>Root flokki</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/album_list</name>
+    <message>
+      <source>files</source>
+      <translation>skr&#xE1;r</translation>
+    </message>
+    <message>
+      <source>Album priority</source>
+      <translation>Album forgang</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/batchadd</name>
+    <message>
+      <source>I cannot write this directory</source>
+      <translation>&#xC9;g get ekki skrifa&#xF0; &#xFE;essa skr&#xE1;</translation>
+    </message>
+    <message>
+      <source>No image were found!</source>
+      <translation>Engin mynd fannst!</translation>
+    </message>
+    <message>
+      <source>Import</source>
+      <translation>Innflutningur</translation>
+    </message>
+    <message>
+      <source>Import recursive this directory</source>
+      <translation>Flytja endurkv&#xE6;ma &#xFE;essari m&#xF6;ppu</translation>
+    </message>
+    <message>
+      <source>Search</source>
+      <translation>Leita</translation>
+    </message>
+    <message>
+      <source>Please enter album name and click search</source>
+      <translation>Vinsamlega sl&#xE1;&#xF0;u inn nafn alb&#xFA;ms og smelltu &#xE1; leita</translation>
+    </message>
+    <message>
+      <source>List images</source>
+      <translation>Listi myndir</translation>
+    </message>
+    <message>
+      <source>List images recursive</source>
+      <translation>Listi myndir endurkv&#xE6;ma</translation>
+    </message>
+    <message>
+      <source>Import images</source>
+      <translation>Flytja inn myndir</translation>
+    </message>
+    <message>
+      <source>Click list images or list images recursive</source>
+      <translation>Smelltu lista myndir e&#xF0;a lista myndir endurkv&#xE6;ma</translation>
+    </message>
+    <message>
+      <source>Add images</source>
+      <translation>B&#xE6;ta vi&#xF0; myndum</translation>
+    </message>
+    <message>
+      <source>Please choose album first!</source>
+      <translation>Veldu alb&#xFA;m fyrst!</translation>
+    </message>
+    <message>
+      <source>Mass image upload</source>
+      <translation>Mass mynd hla&#xF0;a</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/ratebanlist</name>
+    <message>
+      <source>Baned IP for rating</source>
+      <translation>Baned IP fyrir einkunn</translation>
+    </message>
+    <message>
+      <source>Are you sure?</source>
+      <translation>Ertu viss?</translation>
+    </message>
+    <message>
+      <source>Delete ip</source>
+      <translation>Ey&#xF0;a IP</translation>
+    </message>
+    <message>
+      <source>New IP BAN</source>
+      <translation>N&#xFD; IP Ban</translation>
+    </message>
+    <message>
+      <source>IP</source>
+      <translation>IP</translation>
+    </message>
+    <message>
+      <source>Add</source>
+      <translation>B&#xE6;ta vi&#xF0;</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Uppsetningu kerfisins</translation>
+    </message>
+    <message>
+      <source>Comment ban IP</source>
+      <translation>Athugasemd bann IP</translation>
+    </message>
+    <message>
+      <source>Rate ban IP</source>
+      <translation>Gefa bann IP</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/grouplist</name>
+    <message>
+      <source>Delete comment</source>
+      <translation>Ey&#xF0;a athugasemd</translation>
+    </message>
+    <message>
+      <source>Edit comment</source>
+      <translation>Breyta athugasemd</translation>
+    </message>
+    <message>
+      <source>Delete image</source>
+      <translation>Ey&#xF0;a mynd</translation>
+    </message>
+    <message>
+      <source>Groups</source>
+      <translation>H&#xF3;par</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Nafn</translation>
+    </message>
+    <message>
+      <source>Edit group</source>
+      <translation>Breyta h&#xF3;p</translation>
+    </message>
+    <message>
+      <source>Delete group</source>
+      <translation>Ey&#xF0;a h&#xF3;pi</translation>
+    </message>
+    <message>
+      <source>New group</source>
+      <translation>N&#xFD;r h&#xF3;pur</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Uppsetningu kerfisins</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/my_image_list</name>
+    <message>
+      <source>Delete comment</source>
+      <translation>Ey&#xF0;a athugasemd</translation>
+    </message>
+    <message>
+      <source>Edit comment</source>
+      <translation>Breyta athugasemd</translation>
+    </message>
+    <message>
+      <source>Delete image</source>
+      <translation>Ey&#xF0;a mynd</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>Sko&#xF0;a mynd</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Titill</translation>
+    </message>
+    <message>
+      <source>Keywords</source>
+      <translation>Leitaror&#xF0;</translation>
+    </message>
+    <message>
+      <source>Caption</source>
+      <translation>Yfirskrift</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+    <message>
+      <source>Message author</source>
+      <translation>Message h&#xF6;fundur</translation>
+    </message>
+    <message>
+      <source>Message</source>
+      <translation>Skilabo&#xF0;</translation>
+    </message>
+    <message>
+      <source>Rotate image clockwise</source>
+      <translation>Sn&#xFA;a mynd r&#xE9;tts&#xE6;lis</translation>
+    </message>
+    <message>
+      <source>Flip horizontaly</source>
+      <translation>Flip horizontaly</translation>
+    </message>
+    <message>
+      <source>Flip verticaly</source>
+      <translation>Flip verticaly</translation>
+    </message>
+    <message>
+      <source>Upload new image</source>
+      <translation>Hla&#xF0;a n&#xFD;ja mynd</translation>
+    </message>
+    <message>
+      <source>Set as folder thumbnail</source>
+      <translation>Setja sem sm&#xE1;mynd m&#xF6;ppu</translation>
+    </message>
+    <message>
+      <source>Move image to another album</source>
+      <translation>F&#xE6;ra mynd &#xED; anna&#xF0; alb&#xFA;m</translation>
+    </message>
+    <message>
+      <source>Anaglyph</source>
+      <translation>Anaglyph</translation>
+    </message>
+    <message>
+      <source>Approved</source>
+      <translation>Sam&#xFE;ykkt</translation>
+    </message>
+    <message>
+      <source>Select image</source>
+      <translation>Veldu mynd</translation>
+    </message>
+    <message>
+      <source>File</source>
+      <translation>Skr&#xE1;</translation>
+    </message>
+    <message>
+      <source>Upload</source>
+      <translation>Hla&#xF0;a</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/createalbumadmin</name>
+    <message>
+      <source>New album</source>
+      <translation>N&#xFD;tt alb&#xFA;m</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Vista</translation>
+    </message>
+    <message>
+      <source>New batch album create</source>
+      <translation>N&#xFD;tt h&#xF3;pur alb&#xFA;m B&#xFA;a til</translation>
+    </message>
+    <message>
+      <source>Paste album names separated by new line</source>
+      <translation>L&#xED;ma pl&#xF6;tuheitum a&#xF0;skilin me&#xF0; n&#xFD;ja l&#xED;nu</translation>
+    </message>
+    <message>
+      <source>Public</source>
+      <translation>Almenn</translation>
+    </message>
+    <message>
+      <source>All users can uploads images to this album</source>
+      <translation>Allir notendur geta hla&#xF0;i&#xF0; myndum &#xED; &#xFE;essu alb&#xFA;mi</translation>
+    </message>
+    <message>
+      <source>Please enter album name!</source>
+      <translation>Vinsamlega sl&#xE1;&#xF0;u inn alb&#xFA;m nafn!</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/duplicates</name>
+    <message>
+      <source>Similar images number</source>
+      <translation>Svipa&#xF0;ar myndir n&#xFA;mer</translation>
+    </message>
+    <message>
+      <source>Details</source>
+      <translation>Uppl&#xFD;singar</translation>
+    </message>
+    <message>
+      <source>More</source>
+      <translation>Meira</translation>
+    </message>
+    <message>
+      <source>Delete duplicate session</source>
+      <translation>Ey&#xF0;a afrit fundur</translation>
+    </message>
+    <message>
+      <source>No duplicates pending...</source>
+      <translation>Engar tv&#xED;tekningar bi&#xF0; ...</translation>
+    </message>
+    <message>
+      <source>Duplicates</source>
+      <translation>Tv&#xED;tekningar</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/image</name>
+    <message>
+      <source>Picture comments</source>
+      <translation>Mynd athugasemdir</translation>
+    </message>
+    <message>
+      <source>No comments</source>
+      <translation>Engar athugasemdir</translation>
+    </message>
+    <message>
+      <source>Comment stored</source>
+      <translation>Athugasemd geymd</translation>
+    </message>
+    <message>
+      <source>Leave a reply</source>
+      <translation>Skildu eftir svar</translation>
+    </message>
+    <message>
+      <source>Nick</source>
+      <translation>Nick</translation>
+    </message>
+    <message>
+      <source>Max 25 characters</source>
+      <translation>Max 25 stafir</translation>
+    </message>
+    <message>
+      <source>Message</source>
+      <translation>Skilabo&#xF0;</translation>
+    </message>
+    <message>
+      <source>Send</source>
+      <translation>Senda</translation>
+    </message>
+    <message>
+      <source>Image edit</source>
+      <translation>Mynd breytt</translation>
+    </message>
+    <message>
+      <source>Rate this picture</source>
+      <translation>Gefa &#xFE;essari mynd</translation>
+    </message>
+    <message>
+      <source>star</source>
+      <translation>stj&#xF6;rnu</translation>
+    </message>
+    <message>
+      <source>stars</source>
+      <translation>stj&#xF6;rnur</translation>
+    </message>
+    <message>
+      <source>Vote!</source>
+      <translation>Vote!</translation>
+    </message>
+    <message>
+      <source>Deduct vote!</source>
+      <translation>Draga atkv&#xE6;&#xF0;i!</translation>
+    </message>
+    <message>
+      <source>next image</source>
+      <translation>N&#xE6;sta mynd</translation>
+    </message>
+    <message>
+      <source>previous image</source>
+      <translation>Fyrri mynd</translation>
+    </message>
+    <message>
+      <source>return to thumbnails</source>
+      <translation>aftur &#xED; sm&#xE1;myndir</translation>
+    </message>
+    <message>
+      <source>Click to see fullsize</source>
+      <translation>Smelltu til a&#xF0; sj&#xE1; fullsize</translation>
+    </message>
+    <message>
+      <source>Supported BB Code style tags: [b] [i] [u] [quote] :) :D :( :o :p ;)</source>
+      <translation>Sty&#xF0;ur BB Code st&#xED;l tags: [b] [i] [u] [quote]:): D: (: o: p;)</translation>
+    </message>
+    <message>
+      <source>Add to favorites</source>
+      <translation>Setja &#xED; upp&#xE1;hald</translation>
+    </message>
+    <message>
+      <source>Share this page HTML code</source>
+      <translation>Deila &#xFE;essari s&#xED;&#xF0;u HTML k&#xF3;&#xF0;a</translation>
+    </message>
+    <message>
+      <source>Share PHPBB code</source>
+      <translation>Share phpBB k&#xF3;&#xF0;a</translation>
+    </message>
+    <message>
+      <source>Anaglyph version</source>
+      <translation>Anaglyph &#xFA;tg&#xE1;fa</translation>
+    </message>
+    <message>
+      <source>Enter tags separated by space</source>
+      <translation>Sl&#xE1;&#xF0;u tags a&#xF0;skilin me&#xF0; bili</translation>
+    </message>
+    <message>
+      <source>Picture details</source>
+      <translation>Mynd uppl&#xFD;singar</translation>
+    </message>
+    <message>
+      <source>Filename</source>
+      <translation>Skr&#xE1;arnafn</translation>
+    </message>
+    <message>
+      <source>File size</source>
+      <translation>Skr&#xE1;arst&#xE6;r&#xF0;</translation>
+    </message>
+    <message>
+      <source>Image rating</source>
+      <translation>Image einkunn</translation>
+    </message>
+    <message>
+      <source>Date added</source>
+      <translation>B&#xE6;tt vi&#xF0;</translation>
+    </message>
+    <message>
+      <source>Dimensions</source>
+      <translation>M&#xE1;l</translation>
+    </message>
+    <message>
+      <source>Displayed</source>
+      <translation>Til s&#xFD;nis</translation>
+    </message>
+    <message>
+      <source>times</source>
+      <translation>sinnum</translation>
+    </message>
+    <message>
+      <source>Album</source>
+      <translation>Album</translation>
+    </message>
+    <message>
+      <source>URL</source>
+      <translation>URL</translation>
+    </message>
+    <message>
+      <source>Owner</source>
+      <translation>Eigandi</translation>
+    </message>
+    <message>
+      <source>About user</source>
+      <translation type="unfinished">Um notanda</translation>
+    </message>
+    <message>
+      <source>votes</source>
+      <translation>stig</translation>
+    </message>
+    <message>
+      <source>Search for similar colors images</source>
+      <translation>Leita a&#xF0; svipu&#xF0;um litum myndir</translation>
+    </message>
+    <message>
+      <source>Search for visualy similar images</source>
+      <translation>Leita eftir visualy a&#xF0; svipu&#xF0;um myndum</translation>
+    </message>
+    <message>
+      <source>More user images</source>
+      <translation>Fleiri notanda myndir</translation>
+    </message>
+    <message>
+      <source>Version</source>
+      <translation>&#xDA;tg&#xE1;fa</translation>
+    </message>
+    <message>
+      <source>Image size</source>
+      <translation>St&#xE6;r&#xF0; myndar</translation>
+    </message>
+    <message>
+      <source>Format</source>
+      <translation>Sni&#xF0;</translation>
+    </message>
+    <message>
+      <source>Price</source>
+      <translation>Ver&#xF0;</translation>
+    </message>
+    <message>
+      <source>credits</source>
+      <translation>ein</translation>
+    </message>
+    <message>
+      <source>Remove from basket</source>
+      <translation>Fjarl&#xE6;gja &#xFA;r k&#xF6;rfu</translation>
+    </message>
+    <message>
+      <source>Add to basket</source>
+      <translation>Setja &#xED; k&#xF6;rfu</translation>
+    </message>
+    <message>
+      <source>Wrong captcha code!</source>
+      <translation>Rangt Kapteinn merkjam&#xE1;l!</translation>
+    </message>
+    <message>
+      <source>Please enter nick!</source>
+      <translation>Vinsamlega sl&#xE1;&#xF0;u inn Nick!</translation>
+    </message>
+    <message>
+      <source>Please enter comment!</source>
+      <translation>Vinsamlegast sl&#xE1;&#xF0;u inn athugasemd!</translation>
+    </message>
+    <message>
+      <source>You are not allowed to leave a comments!</source>
+      <translation>&#xDE;&#xFA; ert ekki leyfi til a&#xF0; skilja eftir athugasemdir!</translation>
+    </message>
+    <message>
+      <source>Guest_</source>
+      <translation>Guest_</translation>
+    </message>
+    <message>
+      <source>Last uploaded images</source>
+      <translation>S&#xED;&#xF0;ast hla&#xF0;i&#xF0; myndum</translation>
+    </message>
+    <message>
+      <source>Last additions</source>
+      <translation>N&#xFD;justu vi&#xF0;b&#xE6;tur</translation>
+    </message>
+    <message>
+      <source>Last viewed images</source>
+      <translation>S&#xED;&#xF0;ast sko&#xF0;a&#xF0; myndir</translation>
+    </message>
+    <message>
+      <source>Last commented images</source>
+      <translation>S&#xED;&#xF0;asta athugasemd myndir</translation>
+    </message>
+    <message>
+      <source>Last rated images</source>
+      <translation>S&#xED;&#xF0;asta einkunn myndir</translation>
+    </message>
+    <message>
+      <source>Top rated images</source>
+      <translation>H&#xE6;stu einkunnir myndir</translation>
+    </message>
+    <message>
+      <source>Search by color</source>
+      <translation>Leita eftir lit</translation>
+    </message>
+    <message>
+      <source>Most popular images</source>
+      <translation>Vins&#xE6;last myndir</translation>
+    </message>
+    <message>
+      <source>Search rss by keyword</source>
+      <translation>Leita RSS eftir leitaror&#xF0;i</translation>
+    </message>
+    <message>
+      <source>Last uploaded first</source>
+      <translation>S&#xED;&#xF0;ast hla&#xF0;i&#xF0; fyrst</translation>
+    </message>
+    <message>
+      <source>Last uploaded last</source>
+      <translation>S&#xED;&#xF0;ast hla&#xF0;i&#xF0; s&#xED;&#xF0;ast</translation>
+    </message>
+    <message>
+      <source>Most popular first</source>
+      <translation>Vins&#xE6;last fyrst</translation>
+    </message>
+    <message>
+      <source>Most popular last</source>
+      <translation>Vins&#xE6;last &#xE1; s&#xED;&#xF0;asta</translation>
+    </message>
+    <message>
+      <source>Last hits first</source>
+      <translation>S&#xED;&#xF0;ast smellir fyrst</translation>
+    </message>
+    <message>
+      <source>Last hits last</source>
+      <translation>S&#xED;&#xF0;ast smellir &#xE1; s&#xED;&#xF0;asta</translation>
+    </message>
+    <message>
+      <source>Last commented first</source>
+      <translation>S&#xED;&#xF0;asta athugasemd fyrst</translation>
+    </message>
+    <message>
+      <source>Last commented last</source>
+      <translation>S&#xED;&#xF0;asta athugasemd s&#xED;&#xF0;ast</translation>
+    </message>
+    <message>
+      <source>Top rated first</source>
+      <translation>H&#xE6;stu einkunnir fyrst</translation>
+    </message>
+    <message>
+      <source>Top rated last Last</source>
+      <translation>H&#xE6;stu einkunnir s&#xED;&#xF0;asta Last</translation>
+    </message>
+    <message>
+      <source>Last rated first</source>
+      <translation>S&#xED;&#xF0;ast einkunnir fyrst</translation>
+    </message>
+    <message>
+      <source>Last rated last</source>
+      <translation>S&#xED;&#xF0;ast gaf s&#xED;&#xF0;ast</translation>
+    </message>
+    <message>
+      <source>Most relevance images last</source>
+      <translation>Flest &#xFE;&#xFD;&#xF0;ingu myndir s&#xED;&#xF0;ast</translation>
+    </message>
+    <message>
+      <source>search results</source>
+      <translation>leitarni&#xF0;urst&#xF6;&#xF0;ur</translation>
+    </message>
+    <message>
+      <source>Last uploaded images to album</source>
+      <translation>S&#xED;&#xF0;ast hla&#xF0;i&#xF0; myndir &#xED; alb&#xFA;m</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/managealbum</name>
+    <message>
+      <source>No records.</source>
+      <translation>Engar f&#xE6;rslur.</translation>
+    </message>
+    <message>
+      <source>Category</source>
+      <translation>Flokkur</translation>
+    </message>
+    <message>
+      <source>Create an album</source>
+      <translation>B&#xFA;a til alb&#xFA;m</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>Heim</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/managealbumimages</name>
+    <message>
+      <source>Move selected images to</source>
+      <translation>F&#xE6;ra valdar myndir</translation>
+    </message>
+    <message>
+      <source>Check all</source>
+      <translation>Merktu vi&#xF0; allt</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>Engar f&#xE6;rslur.</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>Heim</translation>
+    </message>
+    <message>
+      <source>Root category</source>
+      <translation>Root flokki</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/movealbumphotos</name>
+    <message>
+      <source>Search album</source>
+      <translation>Leita alb&#xFA;m</translation>
+    </message>
+    <message>
+      <source>Move photos</source>
+      <translation>F&#xE6;ra myndir</translation>
+    </message>
+    <message>
+      <source>We moved</source>
+      <translation>Vi&#xF0; fluttum</translation>
+    </message>
+    <message>
+      <source>images</source>
+      <translation>myndir</translation>
+    </message>
+    <message>
+      <source>Move album photos</source>
+      <translation>F&#xE6;ra alb&#xFA;m myndir</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/image_list</name>
+    <message>
+      <source>preview version</source>
+      <translation>fors&#xFD;ning &#xFA;tg&#xE1;fa</translation>
+    </message>
+    <message>
+      <source>See full size</source>
+      <translation>Sj&#xE1; fulla st&#xE6;r&#xF0;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/search</name>
+    <message>
+      <source>Last uploaded</source>
+      <translation>S&#xED;&#xF0;ast hla&#xF0;i&#xF0;</translation>
+    </message>
+    <message>
+      <source>Most popular</source>
+      <translation>Vins&#xE6;last</translation>
+    </message>
+    <message>
+      <source>Last hits</source>
+      <translation>S&#xED;&#xF0;ast smellir</translation>
+    </message>
+    <message>
+      <source>Top rated</source>
+      <translation>H&#xE6;stu einkunnir</translation>
+    </message>
+    <message>
+      <source>Last rated</source>
+      <translation>S&#xED;&#xF0;asta einkunn</translation>
+    </message>
+    <message>
+      <source>Last commented</source>
+      <translation>S&#xED;&#xF0;asta athugasemd</translation>
+    </message>
+    <message>
+      <source>Filename</source>
+      <translation>Skr&#xE1;arnafn</translation>
+    </message>
+    <message>
+      <source>Search results</source>
+      <translation>Leitarni&#xF0;urst&#xF6;&#xF0;ur</translation>
+    </message>
+    <message>
+      <source>Nothing found</source>
+      <translation>Ekkert fannst</translation>
+    </message>
+    <message>
+      <source>Any resolution</source>
+      <translation>Neinum &#xE1;lyktunum</translation>
+    </message>
+    <message>
+      <source>Relevance</source>
+      <translation>Samsv&#xF6;run</translation>
+    </message>
+    <message>
+      <source>Any keyword</source>
+      <translation>Hva&#xF0;a leitaror&#xF0;</translation>
+    </message>
+    <message>
+      <source>All keywords</source>
+      <translation>&#xD6;ll leitaror&#xF0;</translation>
+    </message>
+    <message>
+      <source>search results</source>
+      <translation>leitarni&#xF0;urst&#xF6;&#xF0;ur</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Page</translation>
+    </message>
+    <message>
+      <source>Last uploaded first</source>
+      <translation>S&#xED;&#xF0;ast hla&#xF0;i&#xF0; fyrst</translation>
+    </message>
+    <message>
+      <source>Last uploaded last</source>
+      <translation>S&#xED;&#xF0;ast hla&#xF0;i&#xF0; s&#xED;&#xF0;ast</translation>
+    </message>
+    <message>
+      <source>Most popular first</source>
+      <translation>Vins&#xE6;last fyrst</translation>
+    </message>
+    <message>
+      <source>Most popular last</source>
+      <translation>Vins&#xE6;last &#xE1; s&#xED;&#xF0;asta</translation>
+    </message>
+    <message>
+      <source>Last hits first</source>
+      <translation>S&#xED;&#xF0;ast smellir fyrst</translation>
+    </message>
+    <message>
+      <source>Last hits last</source>
+      <translation>S&#xED;&#xF0;ast smellir &#xE1; s&#xED;&#xF0;asta</translation>
+    </message>
+    <message>
+      <source>Last commented first</source>
+      <translation>S&#xED;&#xF0;asta athugasemd fyrst</translation>
+    </message>
+    <message>
+      <source>Last commented last</source>
+      <translation>S&#xED;&#xF0;asta athugasemd s&#xED;&#xF0;ast</translation>
+    </message>
+    <message>
+      <source>Last rated first</source>
+      <translation>S&#xED;&#xF0;ast einkunnir fyrst</translation>
+    </message>
+    <message>
+      <source>Last rated last</source>
+      <translation>S&#xED;&#xF0;ast gaf s&#xED;&#xF0;ast</translation>
+    </message>
+    <message>
+      <source>Top rated first</source>
+      <translation>H&#xE6;stu einkunnir fyrst</translation>
+    </message>
+    <message>
+      <source>Top rated last</source>
+      <translation>H&#xE6;stu einkunnir s&#xED;&#xF0;asta</translation>
+    </message>
+    <message>
+      <source>Most relevance images last</source>
+      <translation>Flest &#xFE;&#xFD;&#xF0;ingu myndir s&#xED;&#xF0;ast</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Upplausn</translation>
+    </message>
+    <message>
+      <source>Search RSS by keyword</source>
+      <translation>Leita RSS eftir leitaror&#xF0;i</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/editrole</name>
+    <message>
+      <source>Role edit</source>
+      <translation>Hlutverk breyta</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Titill</translation>
+    </message>
+    <message>
+      <source>Assigned functions</source>
+      <translation>&#xDA;thluta&#xF0; a&#xF0;ger&#xF0;ir</translation>
+    </message>
+    <message>
+      <source>Module</source>
+      <translation>Module</translation>
+    </message>
+    <message>
+      <source>Function</source>
+      <translation>Virka</translation>
+    </message>
+    <message>
+      <source>Remove selected</source>
+      <translation>Fjarl&#xE6;gja vali&#xF0;</translation>
+    </message>
+    <message>
+      <source>New policy</source>
+      <translation>N&#xFD; stefna</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+    <message>
+      <source>Cancel</source>
+      <translation>H&#xE6;tta vi&#xF0;</translation>
+    </message>
+    <message>
+      <source>Role assigned groups</source>
+      <translation>Hlutverk h&#xF3;pa</translation>
+    </message>
+    <message>
+      <source>Group assignement to role</source>
+      <translation>Group assignement a&#xF0; hlutverk</translation>
+    </message>
+    <message>
+      <source>Assign group</source>
+      <translation>&#xDA;thluta h&#xF3;p</translation>
+    </message>
+    <message>
+      <source>Please enter role name</source>
+      <translation>Vinsamlega sl&#xE1;&#xF0;u inn hlutverk heiti</translation>
+    </message>
+    <message>
+      <source>Please choose module</source>
+      <translation>Vinsamlegast veldu m&#xE1;t</translation>
+    </message>
+    <message>
+      <source>Please choose module function</source>
+      <translation>Vinsamlegast veldu m&#xE1;t virka</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Uppsetningu kerfisins</translation>
+    </message>
+    <message>
+      <source>List of roles</source>
+      <translation>Listi yfir hlutverk</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/groupassignrole</name>
+    <message>
+      <source>Title</source>
+      <translation>Titill</translation>
+    </message>
+    <message>
+      <source>Assign</source>
+      <translation>&#xDA;thluta</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/modulefunctions</name>
+    <message>
+      <source>All functions</source>
+      <translation>Allar a&#xF0;ger&#xF0;ir</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/newpolicy</name>
+    <message>
+      <source>New policy</source>
+      <translation>N&#xFD; stefna</translation>
+    </message>
+    <message>
+      <source>Assigned functions</source>
+      <translation>&#xDA;thluta&#xF0; a&#xF0;ger&#xF0;ir</translation>
+    </message>
+    <message>
+      <source>Choose module</source>
+      <translation>Veldu m&#xE1;t</translation>
+    </message>
+    <message>
+      <source>All modules</source>
+      <translation>Allar einingar</translation>
+    </message>
+    <message>
+      <source>Choose module function</source>
+      <translation>Veldu m&#xE1;t virka</translation>
+    </message>
+    <message>
+      <source>All functions</source>
+      <translation>Allar a&#xF0;ger&#xF0;ir</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Vista</translation>
+    </message>
+    <message>
+      <source>Cancel</source>
+      <translation>H&#xE6;tta vi&#xF0;</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/newrole</name>
+    <message>
+      <source>New role</source>
+      <translation>N&#xFD;tt hlutverk</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Titill</translation>
+    </message>
+    <message>
+      <source>Policy list</source>
+      <translation>Stefna lista</translation>
+    </message>
+    <message>
+      <source>Module</source>
+      <translation>Module</translation>
+    </message>
+    <message>
+      <source>Function</source>
+      <translation>Virka</translation>
+    </message>
+    <message>
+      <source>New policy</source>
+      <translation>N&#xFD; stefna</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Vista</translation>
+    </message>
+    <message>
+      <source>Cancel</source>
+      <translation>H&#xE6;tta vi&#xF0;</translation>
+    </message>
+    <message>
+      <source>Please enter role name</source>
+      <translation>Vinsamlega sl&#xE1;&#xF0;u inn hlutverk heiti</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Uppsetningu kerfisins</translation>
+    </message>
+    <message>
+      <source>List of roles</source>
+      <translation>Listi yfir hlutverk</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/roleassigngroup</name>
+    <message>
+      <source>Title</source>
+      <translation>Titill</translation>
+    </message>
+    <message>
+      <source>Assign</source>
+      <translation>&#xDA;thluta</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/roles</name>
+    <message>
+      <source>List of roles</source>
+      <translation>Listi yfir hlutverk</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Titill</translation>
+    </message>
+    <message>
+      <source>Edit role</source>
+      <translation>Breyta hlutverki</translation>
+    </message>
+    <message>
+      <source>Delete role</source>
+      <translation>Ey&#xF0;a hlutverki</translation>
+    </message>
+    <message>
+      <source>New role</source>
+      <translation>N&#xFD;tt hlutverk</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Uppsetningu kerfisins</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/index</name>
+    <message>
+      <source>Shop configuration</source>
+      <translation>Shop stillingar</translation>
+    </message>
+    <message>
+      <source>Images variations sizes</source>
+      <translation>Myndir tilbrig&#xF0;i st&#xE6;r&#xF0;um</translation>
+    </message>
+    <message>
+      <source>List payment options</source>
+      <translation>Listi grei&#xF0;slum&#xF6;guleika</translation>
+    </message>
+    <message>
+      <source>Settings list</source>
+      <translation>Stillingar lista</translation>
+    </message>
+    <message>
+      <source>Orders list</source>
+      <translation>Pantanir lista</translation>
+    </message>
+    <message>
+      <source>Credits orders list</source>
+      <translation>Credits pantanir lista</translation>
+    </message>
+    <message>
+      <source>Shop</source>
+      <translation>Shop</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/listpaymentoptions</name>
+    <message>
+      <source>Payment options</source>
+      <translation>Grei&#xF0;slum&#xF6;guleika</translation>
+    </message>
+    <message>
+      <source>Identifier</source>
+      <translation>Identifier</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Nafn</translation>
+    </message>
+    <message>
+      <source>Active</source>
+      <translation>Active</translation>
+    </message>
+    <message>
+      <source>Author</source>
+      <translation>Author</translation>
+    </message>
+    <message>
+      <source>Edit</source>
+      <translation>Breyta</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/orderedit</name>
+    <message>
+      <source>Order view</source>
+      <translation>Order sko&#xF0;a</translation>
+    </message>
+    <message>
+      <source>Order time</source>
+      <translation>Panta t&#xED;ma</translation>
+    </message>
+    <message>
+      <source>Order price</source>
+      <translation>Order ver&#xF0;</translation>
+    </message>
+    <message>
+      <source>Order credits</source>
+      <translation>Order ein</translation>
+    </message>
+    <message>
+      <source>Order status</source>
+      <translation>P&#xF6;ntunar sta&#xF0;a</translation>
+    </message>
+    <message>
+      <source>Payed.</source>
+      <translation>Borga&#xF0;.</translation>
+    </message>
+    <message>
+      <source>Confirmed</source>
+      <translation>Sta&#xF0;fest</translation>
+    </message>
+    <message>
+      <source>Ordered items</source>
+      <translation>Panta&#xF0;i hluti</translation>
+    </message>
+    <message>
+      <source>Image name</source>
+      <translation>Heiti myndar</translation>
+    </message>
+    <message>
+      <source>Version</source>
+      <translation>&#xDA;tg&#xE1;fa</translation>
+    </message>
+    <message>
+      <source>Image size</source>
+      <translation>St&#xE6;r&#xF0; myndar</translation>
+    </message>
+    <message>
+      <source>Format</source>
+      <translation>Sni&#xF0;</translation>
+    </message>
+    <message>
+      <source>Price</source>
+      <translation>Ver&#xF0;</translation>
+    </message>
+    <message>
+      <source>Download count</source>
+      <translation>S&#xE6;kja telja</translation>
+    </message>
+    <message>
+      <source>Downloads left</source>
+      <translation>Ni&#xF0;urhal vinstri</translation>
+    </message>
+    <message>
+      <source>Credits</source>
+      <translation>Credits</translation>
+    </message>
+  </context>
+  <context>
+    <name>systemconfig/list</name>
+    <message>
+      <source>Delete order item</source>
+      <translation>Ey&#xF0;a r&#xF6;&#xF0; atri&#xF0;i</translation>
+    </message>
+    <message>
+      <source>Delete order</source>
+      <translation>Ey&#xF0;a r&#xF6;&#xF0;</translation>
+    </message>
+    <message>
+      <source>Config list</source>
+      <translation>Config skr&#xE1;</translation>
+    </message>
+    <message>
+      <source>Identifier</source>
+      <translation>Identifier</translation>
+    </message>
+    <message>
+      <source>Explain</source>
+      <translation>&#xDA;tsk&#xFD;ri&#xF0;</translation>
+    </message>
+    <message>
+      <source>Edit value</source>
+      <translation>Breyta gildi</translation>
+    </message>
+    <message>
+      <source>System config options</source>
+      <translation>System stillingar m&#xF6;guleikar</translation>
+    </message>
+    <message>
+      <source>List</source>
+      <translation>Listi</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/orderslist</name>
+    <message>
+      <source>Orders credits list</source>
+      <translation>Pantanir ein lista</translation>
+    </message>
+    <message>
+      <source>ID</source>
+      <translation>ID</translation>
+    </message>
+    <message>
+      <source>Date</source>
+      <translation>Dagsetning</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Order price</source>
+      <translation>Order ver&#xF0;</translation>
+    </message>
+    <message>
+      <source>Order credits</source>
+      <translation>Order ein</translation>
+    </message>
+    <message>
+      <source>Order status</source>
+      <translation>P&#xF6;ntunar sta&#xF0;a</translation>
+    </message>
+    <message>
+      <source>Payed.</source>
+      <translation>Borga&#xF0;.</translation>
+    </message>
+    <message>
+      <source>Confirmed</source>
+      <translation>Sta&#xF0;fest</translation>
+    </message>
+    <message>
+      <source>No orders...</source>
+      <translation>Engar pantanir ...</translation>
+    </message>
+    <message>
+      <source>Orders list</source>
+      <translation>Pantanir lista</translation>
+    </message>
+    <message>
+      <source>Order view</source>
+      <translation>Order sko&#xF0;a</translation>
+    </message>
+    <message>
+      <source>User orders list</source>
+      <translation>Notandi pantanir lista</translation>
+    </message>
+    <message>
+      <source>User credits orders list</source>
+      <translation>Notandi ein pantanir lista</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/paymentoptionedit</name>
+    <message>
+      <source>Payment option edit</source>
+      <translation>Grei&#xF0;slua&#xF0;fer&#xF0; breyta</translation>
+    </message>
+    <message>
+      <source>Identifier</source>
+      <translation>Identifier</translation>
+    </message>
+    <message>
+      <source>Active</source>
+      <translation>Active</translation>
+    </message>
+    <message>
+      <source>Payment settings</source>
+      <translation>Grei&#xF0;sla stillingar</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+  </context>
+  <context>
+    <name>systemconfig/edit</name>
+    <message>
+      <source>Edit</source>
+      <translation>Breyta</translation>
+    </message>
+    <message>
+      <source>Data updated</source>
+      <translation>G&#xF6;gn Uppf&#xE6;rt</translation>
+    </message>
+    <message>
+      <source>Identifier</source>
+      <translation>Identifier</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+    <message>
+      <source>Values applies to</source>
+      <translation>Gildi vi&#xF0;</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/settinglist</name>
+    <message>
+      <source>Shop config list</source>
+      <translation>Shop samsk lista</translation>
+    </message>
+    <message>
+      <source>Identifier</source>
+      <translation>Identifier</translation>
+    </message>
+    <message>
+      <source>Explain</source>
+      <translation>&#xDA;tsk&#xFD;ri&#xF0;</translation>
+    </message>
+    <message>
+      <source>Value</source>
+      <translation>Gildi</translation>
+    </message>
+    <message>
+      <source>Edit value</source>
+      <translation>Breyta gildi</translation>
+    </message>
+  </context>
+  <context>
+    <name>statistic/choosesite</name>
+    <message>
+      <source>Choose site you want to show statistic</source>
+      <translation>Veldu s&#xED;&#xF0;una sem &#xFE;&#xFA; vilt s&#xFD;na t&#xF6;lfr&#xE6;&#xF0;i</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Vista</translation>
+    </message>
+  </context>
+  <context>
+    <name>statistic/index</name>
+    <message>
+      <source>Google analytics statistic</source>
+      <translation>Google Analytics t&#xF6;lfr&#xE6;&#xF0;i</translation>
+    </message>
+    <message>
+      <source>Grant access application to access google analytics API</source>
+      <translation>Veita a&#xF0;gang forrit til a&#xF0; opna Google Analytics API</translation>
+    </message>
+    <message>
+      <source>Site choose</source>
+      <translation>Site vali&#xF0;</translation>
+    </message>
+    <message>
+      <source>View statistic</source>
+      <translation>Sko&#xF0;a t&#xF6;lfr&#xE6;&#xF0;i</translation>
+    </message>
+    <message>
+      <source>Statistic</source>
+      <translation>T&#xF6;lfr&#xE6;&#xF0;i</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>Heim</translation>
+    </message>
+  </context>
+  <context>
+    <name>system/configuration</name>
+    <message>
+      <source>System configuration</source>
+      <translation>Uppsetningu kerfisins</translation>
+    </message>
+    <message>
+      <source>Users</source>
+      <translation>Notendur</translation>
+    </message>
+    <message>
+      <source>List of groups</source>
+      <translation>Listi yfir h&#xF3;pa</translation>
+    </message>
+    <message>
+      <source>List of roles</source>
+      <translation>Listi yfir hlutverk</translation>
+    </message>
+    <message>
+      <source>System configuration values</source>
+      <translation>Uppsetningu kerfisins gildi</translation>
+    </message>
+    <message>
+      <source>Watermark protection</source>
+      <translation>Vatnsmerki verndun</translation>
+    </message>
+    <message>
+      <source>Banned rating IP list</source>
+      <translation>Banna&#xF0;ur einkunn IP lista</translation>
+    </message>
+    <message>
+      <source>Banned commenting IP list</source>
+      <translation>Banna&#xF0;ur athugasemd IP lista</translation>
+    </message>
+  </context>
+  <context>
+    <name>systemconfig/watermark</name>
+    <message>
+      <source>Watermark configuration</source>
+      <translation>Vatnsmerki stillingar</translation>
+    </message>
+    <message>
+      <source>Settings updated</source>
+      <translation>Stillingar Uppf&#xE6;rt</translation>
+    </message>
+    <message>
+      <source>Delete watermark</source>
+      <translation>Ey&#xF0;a vatnsmerki</translation>
+    </message>
+    <message>
+      <source>Image, it is recommended PNG type image</source>
+      <translation>Mynd, &#xFE;a&#xF0; er m&#xE6;lt me&#xF0; PNG fer&#xF0;ar mynd</translation>
+    </message>
+    <message>
+      <source>Settings</source>
+      <translation>Stillingar</translation>
+    </message>
+    <message>
+      <source>Watermark disabled</source>
+      <translation>Vatnsmerki fatla&#xF0;a</translation>
+    </message>
+    <message>
+      <source>Watermark enabled for normal size thumbnails</source>
+      <translation>Vatnsmerki virkt fyrir e&#xF0;lilega sm&#xE1;myndir st&#xE6;r&#xF0;</translation>
+    </message>
+    <message>
+      <source>Watermark enabled for all images</source>
+      <translation>Vatnsmerki virkt fyrir allar myndir</translation>
+    </message>
+    <message>
+      <source>Watermark position</source>
+      <translation>Vatnsmerki st&#xF6;&#xF0;u</translation>
+    </message>
+    <message>
+      <source>Top left</source>
+      <translation>Efst til vinstri</translation>
+    </message>
+    <message>
+      <source>Top right</source>
+      <translation>Efst til h&#xE6;gri</translation>
+    </message>
+    <message>
+      <source>Bottom left</source>
+      <translation>Ne&#xF0;st til vinstri</translation>
+    </message>
+    <message>
+      <source>Bottom right</source>
+      <translation>Ne&#xF0;st til h&#xE6;gri</translation>
+    </message>
+    <message>
+      <source>Center</source>
+      <translation>Center</translation>
+    </message>
+    <message>
+      <source>Watermark padding from borders</source>
+      <translation>Vatnsmerki padding fr&#xE1; landam&#xE6;rum</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+    <message>
+      <source>Watermark</source>
+      <translation>Vatnsmerkis</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/account</name>
+    <message>
+      <source>Logged user</source>
+      <translation>Logged notanda</translation>
+    </message>
+    <message>
+      <source>Account updated</source>
+      <translation>Reikningur Uppf&#xE6;rt</translation>
+    </message>
+    <message>
+      <source>Do not enter password unless you want to change it</source>
+      <translation>Ekki sl&#xE1; inn lykilor&#xF0;i&#xF0; nema &#xFE;&#xFA; viljir breyta henni</translation>
+    </message>
+    <message>
+      <source>Login information</source>
+      <translation>Innskr&#xE1;ningaruppl&#xFD;singum</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Notandanafn</translation>
+    </message>
+    <message>
+      <source>Password</source>
+      <translation>Lykilor&#xF0;</translation>
+    </message>
+    <message>
+      <source>Repeat password</source>
+      <translation>Endurtaktu lykilor&#xF0;</translation>
+    </message>
+    <message>
+      <source>Contact information</source>
+      <translation>Uppl&#xFD;singar um tengili&#xF0;</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+    <message>
+      <source>Message send</source>
+      <translation>Senda</translation>
+    </message>
+    <message>
+      <source>Add google account</source>
+      <translation>B&#xE6;ta vi&#xF0; Google reikningi</translation>
+    </message>
+    <message>
+      <source>Working</source>
+      <translation>Vinna</translation>
+    </message>
+    <message>
+      <source>Profile page settings</source>
+      <translation type="unfinished">Pr&#xF3;f&#xED;l stillingar</translation>
+    </message>
+    <message>
+      <source>Profile settings updated</source>
+      <translation type="unfinished">Sni&#xF0;stillingum Uppf&#xE6;rt</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation type="unfinished">Nafn</translation>
+    </message>
+    <message>
+      <source>Surname</source>
+      <translation type="unfinished">Eftirnafn</translation>
+    </message>
+    <message>
+      <source>Website</source>
+      <translation type="unfinished">Website</translation>
+    </message>
+    <message>
+      <source>Information about you</source>
+      <translation type="unfinished">Uppl&#xFD;singar um &#xFE;ig</translation>
+    </message>
+    <message>
+      <source>Profile photo</source>
+      <translation type="unfinished">Profile photo</translation>
+    </message>
+    <message>
+      <source>See how your profile looks to users</source>
+      <translation type="unfinished">Sj&#xE1; hvernig pr&#xF3;f&#xED;l &#xFE;&#xED;num l&#xED;tur &#xFA;t fyrir a&#xF0; notendur</translation>
+    </message>
+    <message>
+      <source>View profile</source>
+      <translation type="unfinished">Sko&#xF0;a pr&#xF3;f&#xED;l</translation>
+    </message>
+    <message>
+      <source>Wrong email address</source>
+      <translation>Rangt netfang</translation>
+    </message>
+    <message>
+      <source>Passwords mismatch</source>
+      <translation>Lykilor&#xF0; misr&#xE6;mi</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/edit</name>
+    <message>
+      <source>User edit</source>
+      <translation>Notandi breyta</translation>
+    </message>
+    <message>
+      <source>Do not enter password unless you want to change it</source>
+      <translation>Ekki sl&#xE1; inn lykilor&#xF0;i&#xF0; nema &#xFE;&#xFA; viljir breyta henni</translation>
+    </message>
+    <message>
+      <source>Login information</source>
+      <translation>Innskr&#xE1;ningaruppl&#xFD;singum</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Notandanafn</translation>
+    </message>
+    <message>
+      <source>Password</source>
+      <translation>Lykilor&#xF0;</translation>
+    </message>
+    <message>
+      <source>Repeat password</source>
+      <translation>Endurtaktu lykilor&#xF0;</translation>
+    </message>
+    <message>
+      <source>Contact information</source>
+      <translation>Uppl&#xFD;singar um tengili&#xF0;</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+    <message>
+      <source>User prifle</source>
+      <translation>Notandi prifle</translation>
+    </message>
+    <message>
+      <source>My account</source>
+      <translation>Minn a&#xF0;gangur</translation>
+    </message>
+    <message>
+      <source>Facebook albums</source>
+      <translation>Facebook alb&#xFA;m</translation>
+    </message>
+    <message>
+      <source>Facebook session has expired, please login</source>
+      <translation>Facebook fundur hefur runni&#xF0; &#xFA;t, vinsamlegast innskr&#xE1;ningu</translation>
+    </message>
+    <message>
+      <source>Account</source>
+      <translation>Reikningur</translation>
+    </message>
+    <message>
+      <source>Albums</source>
+      <translation>Albums</translation>
+    </message>
+    <message>
+      <source>My albums</source>
+      <translation>My Albums</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Uppsetningu kerfisins</translation>
+    </message>
+    <message>
+      <source>Account data</source>
+      <translation>Reikningur g&#xF6;gn</translation>
+    </message>
+    <message>
+      <source>Wrong email address</source>
+      <translation>Rangt netfang</translation>
+    </message>
+    <message>
+      <source>Passwords mismatch</source>
+      <translation>Lykilor&#xF0; misr&#xE6;mi</translation>
+    </message>
+    <message>
+      <source>Users</source>
+      <translation>Notendur</translation>
+    </message>
+    <message>
+      <source>Authentifion with google</source>
+      <translation>Authentifion me&#xF0; Google</translation>
+    </message>
+    <message>
+      <source>Profile settings</source>
+      <translation type="unfinished">Sni&#xF0;stillingum</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/editgroup</name>
+    <message>
+      <source>Group edit</source>
+      <translation>H&#xF3;pur breyta</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Titill</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+    <message>
+      <source>Assigned users</source>
+      <translation>&#xDA;thluta&#xF0; notendur</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Notandanafn</translation>
+    </message>
+    <message>
+      <source>Remove user from group</source>
+      <translation>Fjarl&#xE6;gja notanda &#xFA;r h&#xF3;pi</translation>
+    </message>
+    <message>
+      <source>Assign user</source>
+      <translation>&#xDA;thluta notanda</translation>
+    </message>
+    <message>
+      <source>User assignment</source>
+      <translation>Notandi verkefni</translation>
+    </message>
+    <message>
+      <source>Assigned roles</source>
+      <translation>&#xDA;thluta&#xF0; hlutverk</translation>
+    </message>
+    <message>
+      <source>Remove role from group</source>
+      <translation>Fjarl&#xE6;gja hlutverk &#xFA;r h&#xF3;pi</translation>
+    </message>
+    <message>
+      <source>Assign role</source>
+      <translation>&#xDA;thluta hlutverk</translation>
+    </message>
+    <message>
+      <source>Role assignment</source>
+      <translation>Hlutverk verkefni</translation>
+    </message>
+    <message>
+      <source>Please enter group name</source>
+      <translation>Vinsamlega sl&#xE1;&#xF0;u inn heiti h&#xF3;psins</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Uppsetningu kerfisins</translation>
+    </message>
+    <message>
+      <source>Groups</source>
+      <translation>H&#xF3;par</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/groupassignuser</name>
+    <message>
+      <source>User</source>
+      <translation>Notandi</translation>
+    </message>
+    <message>
+      <source>Assign</source>
+      <translation>&#xDA;thluta</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/login</name>
+    <message>
+      <source>Please login</source>
+      <translation>Vinsamlegast skr&#xE1;&#xF0;u &#xFE;ig inn</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Notandanafn</translation>
+    </message>
+    <message>
+      <source>Password</source>
+      <translation>Lykilor&#xF0;</translation>
+    </message>
+    <message>
+      <source>Login</source>
+      <translation>Innskr&#xE1;ning</translation>
+    </message>
+    <message>
+      <source>Password remind</source>
+      <translation>Lykilor&#xF0; minna</translation>
+    </message>
+    <message>
+      <source>Please login with your facebook account</source>
+      <translation>Vinsamlegast skr&#xE1;&#xF0;u &#xFE;ig inn me&#xF0; Facebook reikning &#xFE;inn</translation>
+    </message>
+    <message>
+      <source>Report abuse</source>
+      <translation>Tilkynna misnotkun</translation>
+    </message>
+    <message>
+      <source>Please write whats wrong within a post</source>
+      <translation>Vinsamlega skrifa&#xF0;u hva&#xF0;a rangt innan sta&#xF0;a</translation>
+    </message>
+    <message>
+      <source>Send</source>
+      <translation>Senda</translation>
+    </message>
+    <message>
+      <source>Registration is complete</source>
+      <translation>Skr&#xE1;ning er loki&#xF0;</translation>
+    </message>
+    <message>
+      <source>Registration is complete please login.</source>
+      <translation>Skr&#xE1;ning er loki&#xF0; skaltu skr&#xE1; &#xFE;ig inn.</translation>
+    </message>
+    <message>
+      <source>Checkout</source>
+      <translation>Grei&#xF0;a</translation>
+    </message>
+    <message>
+      <source>Incorrect username or password</source>
+      <translation>Rangt notendanafn e&#xF0;a lykilor&#xF0;</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/new</name>
+    <message>
+      <source>New user</source>
+      <translation>N&#xFD;r notandi</translation>
+    </message>
+    <message>
+      <source>Login information</source>
+      <translation>Innskr&#xE1;ningaruppl&#xFD;singum</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Notandanafn</translation>
+    </message>
+    <message>
+      <source>Password</source>
+      <translation>Lykilor&#xF0;</translation>
+    </message>
+    <message>
+      <source>Repeat password</source>
+      <translation>Endurtaktu lykilor&#xF0;</translation>
+    </message>
+    <message>
+      <source>Contact information</source>
+      <translation>Uppl&#xFD;singar um tengili&#xF0;</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Vista</translation>
+    </message>
+    <message>
+      <source>OR login with</source>
+      <translation>OR tenging vi&#xF0;</translation>
+    </message>
+    <message>
+      <source>Login with google account</source>
+      <translation>Innskr&#xE1;ning me&#xF0; Google reikning</translation>
+    </message>
+    <message>
+      <source>Working</source>
+      <translation>Vinna</translation>
+    </message>
+    <message>
+      <source>Working...</source>
+      <translation>Vinna ...</translation>
+    </message>
+    <message>
+      <source>Registration</source>
+      <translation>Skr&#xE1;ning</translation>
+    </message>
+    <message>
+      <source>Safe code</source>
+      <translation>Safe k&#xF3;&#xF0;a</translation>
+    </message>
+    <message>
+      <source>Register</source>
+      <translation>N&#xFD;skr&#xE1;ning</translation>
+    </message>
+    <message>
+      <source>Sutch username is already taken!</source>
+      <translation>Sutch notendanafn er &#xFE;egar &#xED; notkun!</translation>
+    </message>
+    <message>
+      <source>Please enter album name!</source>
+      <translation>Vinsamlega sl&#xE1;&#xF0;u inn alb&#xFA;m nafn!</translation>
+    </message>
+    <message>
+      <source>Please enter category name!</source>
+      <translation>Vinsamlega sl&#xE1;&#xF0;u inn flokkur nafn!</translation>
+    </message>
+    <message>
+      <source>User exists</source>
+      <translation>Notandi er</translation>
+    </message>
+    <message>
+      <source>Wrong email address</source>
+      <translation>Rangt netfang</translation>
+    </message>
+    <message>
+      <source>Please enter username</source>
+      <translation>Vinsamlega sl&#xE1;&#xF0;u inn notandanafn</translation>
+    </message>
+    <message>
+      <source>Passwords mismatch</source>
+      <translation>Lykilor&#xF0; misr&#xE6;mi</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Uppsetningu kerfisins</translation>
+    </message>
+    <message>
+      <source>Users</source>
+      <translation>Notendur</translation>
+    </message>
+    <message>
+      <source>Please enter group name</source>
+      <translation>Vinsamlega sl&#xE1;&#xF0;u inn heiti h&#xF3;psins</translation>
+    </message>
+    <message>
+      <source>E-mail taken!</source>
+      <translation>E-mail teki&#xF0;!</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/newgroup</name>
+    <message>
+      <source>New group</source>
+      <translation>N&#xFD;r h&#xF3;pur</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Titill</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Vista</translation>
+    </message>
+    <message>
+      <source>Save and assign user</source>
+      <translation>Vista og &#xFA;thluta notanda</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Uppsetningu kerfisins</translation>
+    </message>
+    <message>
+      <source>Groups</source>
+      <translation>H&#xF3;par</translation>
+    </message>
+  </context>
+  <context>
+    <name>pagelayout/pagelayout</name>
+    <message>
+      <source>Home</source>
+      <translation>Heim</translation>
+    </message>
+    <message>
+      <source>Configuration</source>
+      <translation>Stillingar</translation>
+    </message>
+    <message>
+      <source>Gallery categorys</source>
+      <translation>Gallery categorys</translation>
+    </message>
+    <message>
+      <source>Last uploads to albums</source>
+      <translation>S&#xED;&#xF0;ustu uppf&#xE6;rslur &#xE1; myndaalb&#xFA;m</translation>
+    </message>
+    <message>
+      <source>Batch images add</source>
+      <translation>H&#xF3;pur myndir b&#xE6;ta vi&#xF0;</translation>
+    </message>
+    <message>
+      <source>Duplicates</source>
+      <translation>Tv&#xED;tekningar</translation>
+    </message>
+    <message>
+      <source>Static articles</source>
+      <translation>Static greinar</translation>
+    </message>
+    <message>
+      <source>Statistic</source>
+      <translation>T&#xF6;lfr&#xE6;&#xF0;i</translation>
+    </message>
+    <message>
+      <source>Shop</source>
+      <translation>Shop</translation>
+    </message>
+    <message>
+      <source>Forum</source>
+      <translation>Forum</translation>
+    </message>
+    <message>
+      <source>Delete photo by ID</source>
+      <translation>Ey&#xF0;a mynd af ID</translation>
+    </message>
+    <message>
+      <source>Photo was deleted</source>
+      <translation>Mynd var eytt</translation>
+    </message>
+    <message>
+      <source>Go to album</source>
+      <translation>Fara &#xED; alb&#xFA;m</translation>
+    </message>
+    <message>
+      <source>Go to forum topic</source>
+      <translation>Fara &#xE1; vettvang spjall&#xFE;r&#xE1;&#xF0;</translation>
+    </message>
+    <message>
+      <source>Go to forum category</source>
+      <translation>Fara &#xE1; umr&#xE6;&#xF0;ur Almennt</translation>
+    </message>
+    <message>
+      <source>Go to image</source>
+      <translation>Fara &#xE1; mynd</translation>
+    </message>
+    <message>
+      <source>Root category</source>
+      <translation>Root flokki</translation>
+    </message>
+    <message>
+      <source>Open</source>
+      <translation>Open</translation>
+    </message>
+    <message>
+      <source>Edit</source>
+      <translation>Breyta</translation>
+    </message>
+    <message>
+      <source>New album</source>
+      <translation>N&#xFD;tt alb&#xFA;m</translation>
+    </message>
+    <message>
+      <source>New batch albums</source>
+      <translation>N&#xFD;tt alb&#xFA;m h&#xF3;pur</translation>
+    </message>
+    <message>
+      <source>New category</source>
+      <translation>N&#xFD;r flokkur</translation>
+    </message>
+    <message>
+      <source>Delete album</source>
+      <translation>Ey&#xF0;a alb&#xFA;mi</translation>
+    </message>
+    <message>
+      <source>Delete category</source>
+      <translation>Ey&#xF0;a flokki</translation>
+    </message>
+    <message>
+      <source>Add images</source>
+      <translation>B&#xE6;ta vi&#xF0; myndum</translation>
+    </message>
+    <message>
+      <source>Move images</source>
+      <translation>F&#xE6;ra myndir</translation>
+    </message>
+    <message>
+      <source>It\'s NOT fake!</source>
+      <translation>&#xDE;a&#xF0; \ &amp;#39;er ekki falsa!</translation>
+    </message>
+    <message>
+      <source>Rendered in</source>
+      <translation>Veitt &#xED;</translation>
+    </message>
+    <message>
+      <source>Logged user</source>
+      <translation>Logged notanda</translation>
+    </message>
+    <message>
+      <source>Account</source>
+      <translation>Reikningur</translation>
+    </message>
+    <message>
+      <source>Logout</source>
+      <translation>&#xDA;tskr&#xE1;</translation>
+    </message>
+    <message>
+      <source>Login</source>
+      <translation>Innskr&#xE1;ning</translation>
+    </message>
+    <message>
+      <source>Enter keyword or phrase</source>
+      <translation>Sl&#xE1;&#xF0;u inn leitaror&#xF0; e&#xF0;a setningu</translation>
+    </message>
+    <message>
+      <source>Search entire forum</source>
+      <translation>Leita&#xF0;u &#xED; &#xF6;llum umr&#xE6;&#xF0;um</translation>
+    </message>
+    <message>
+      <source>Search</source>
+      <translation>Leita</translation>
+    </message>
+    <message>
+      <source>Last uploads</source>
+      <translation>S&#xED;&#xF0;ustu uppf&#xE6;rslur</translation>
+    </message>
+    <message>
+      <source>Last commented</source>
+      <translation>S&#xED;&#xF0;asta athugasemd</translation>
+    </message>
+    <message>
+      <source>Last hits</source>
+      <translation>S&#xED;&#xF0;ast smellir</translation>
+    </message>
+    <message>
+      <source>Last rated</source>
+      <translation>S&#xED;&#xF0;asta einkunn</translation>
+    </message>
+    <message>
+      <source>Last 24 h.</source>
+      <translation>S&#xED;&#xF0;ustu 24 klst</translation>
+    </message>
+    <message>
+      <source>Most popular</source>
+      <translation>Vins&#xE6;last</translation>
+    </message>
+    <message>
+      <source>Top rated</source>
+      <translation>H&#xE6;stu einkunnir</translation>
+    </message>
+    <message>
+      <source>Search entire gallery</source>
+      <translation>Leita allt gallery</translation>
+    </message>
+    <message>
+      <source>Last uploaded images</source>
+      <translation>S&#xED;&#xF0;ast hla&#xF0;i&#xF0; myndum</translation>
+    </message>
+    <message>
+      <source>View all categorys</source>
+      <translation>Sko&#xF0;a allt categorys</translation>
+    </message>
+    <message>
+      <source>All time</source>
+      <translation>Allra t&#xED;ma</translation>
+    </message>
+    <message>
+      <source>Interactive</source>
+      <translation>Interactive</translation>
+    </message>
+    <message>
+      <source>Search by keyword</source>
+      <translation>Leita eftir leitaror&#xF0;i</translation>
+    </message>
+    <message>
+      <source>Search by color</source>
+      <translation>Leita eftir lit</translation>
+    </message>
+    <message>
+      <source>Search by similarity</source>
+      <translation>Leita eftir l&#xED;kt</translation>
+    </message>
+    <message>
+      <source>Search by sketch</source>
+      <translation>Leita eftir skissu</translation>
+    </message>
+    <message>
+      <source>Last viewed images</source>
+      <translation>S&#xED;&#xF0;ast sko&#xF0;a&#xF0; myndir</translation>
+    </message>
+    <message>
+      <source>Last searches</source>
+      <translation>S&#xED;&#xF0;asta leit</translation>
+    </message>
+    <message>
+      <source>My account</source>
+      <translation>Minn a&#xF0;gangur</translation>
+    </message>
+    <message>
+      <source>Profile page</source>
+      <translation type="unfinished">Pr&#xF3;f&#xED;l</translation>
+    </message>
+    <message>
+      <source>Manage albums</source>
+      <translation>Stj&#xF3;rna alb&#xFA;m</translation>
+    </message>
+    <message>
+      <source>Credits</source>
+      <translation>Credits</translation>
+    </message>
+    <message>
+      <source>My orders</source>
+      <translation>Pantanir minn</translation>
+    </message>
+    <message>
+      <source>My credits orders</source>
+      <translation>Ein pantanir minn</translation>
+    </message>
+    <message>
+      <source>Import images from facebook</source>
+      <translation>Flytja inn myndir fr&#xE1; Facebook</translation>
+    </message>
+    <message>
+      <source>Register</source>
+      <translation>N&#xFD;skr&#xE1;ning</translation>
+    </message>
+    <message>
+      <source>My favorites</source>
+      <translation>M&#xED;nir</translation>
+    </message>
+    <message>
+      <source>Basket</source>
+      <translation>Karfa</translation>
+    </message>
+    <message>
+      <source>Upload</source>
+      <translation>Hla&#xF0;a</translation>
+    </message>
+    <message>
+      <source>Upload zip</source>
+      <translation>Hla&#xF0;a zip</translation>
+    </message>
+    <message>
+      <source>Search...</source>
+      <translation>Leita ...</translation>
+    </message>
+  </context>
+  <context>
+    <name>fb/album</name>
+    <message>
+      <source>Check photo to import</source>
+      <translation>Athuga&#xF0;u photo a&#xF0; flytja</translation>
+    </message>
+    <message>
+      <source>Import selected images to</source>
+      <translation>Flytja inn valdar myndir</translation>
+    </message>
+    <message>
+      <source>To what album you want to import images, start typing album name and click search</source>
+      <translation>A&#xF0; hva&#xF0;a pl&#xF6;tu sem &#xFE;&#xFA; vilt flytja inn myndir, byrja a&#xF0; skrifa Album name og smelltu &#xE1; leita</translation>
+    </message>
+    <message>
+      <source>Search for album</source>
+      <translation>Leita alb&#xFA;m</translation>
+    </message>
+    <message>
+      <source>Check all</source>
+      <translation>Merktu vi&#xF0; allt</translation>
+    </message>
+    <message>
+      <source>Click to see target, new window will open</source>
+      <translation>Smelltu til a&#xF0; sj&#xE1; mi&#xF0;a n&#xFD;jum glugga opnast</translation>
+    </message>
+    <message>
+      <source>Import selected images</source>
+      <translation>Flytja inn valdar myndir</translation>
+    </message>
+    <message>
+      <source>Please choose atleast one image!</source>
+      <translation>Vinsamlegast veldu atleast eina mynd!</translation>
+    </message>
+    <message>
+      <source>images to import</source>
+      <translation>myndir til a&#xF0; flytja</translation>
+    </message>
+    <message>
+      <source>All images were imported</source>
+      <translation>Allar myndir voru flutt</translation>
+    </message>
+    <message>
+      <source>Please choose album</source>
+      <translation>Veldu alb&#xFA;m</translation>
+    </message>
+    <message>
+      <source>Preview version</source>
+      <translation>Fors&#xFD;ning &#xFA;tg&#xE1;fa</translation>
+    </message>
+  </context>
+  <context>
+    <name>feedback/form</name>
+    <message>
+      <source>Feedback</source>
+      <translation>Feedback</translation>
+    </message>
+    <message>
+      <source>Feedback was send</source>
+      <translation>Feedback var sent</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Nafn</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Text</source>
+      <translation>Texti</translation>
+    </message>
+    <message>
+      <source>Captcha image</source>
+      <translation>CAPTCHA mynd</translation>
+    </message>
+    <message>
+      <source>Captcha code</source>
+      <translation>Kapteinn k&#xF3;&#xF0;a</translation>
+    </message>
+    <message>
+      <source>Required fields</source>
+      <translation>Nau&#xF0;synlegir reitir</translation>
+    </message>
+    <message>
+      <source>Send</source>
+      <translation>Senda</translation>
+    </message>
+    <message>
+      <source>Please enter name!</source>
+      <translation>Vinsamlega sl&#xE1;&#xF0;u inn nafn!</translation>
+    </message>
+    <message>
+      <source>Invalid e-mail address!</source>
+      <translation>&#xD3;gilt netfang!</translation>
+    </message>
+    <message>
+      <source>Please enter text!</source>
+      <translation>Vinsamlega sl&#xE1;&#xF0;u inn textann!</translation>
+    </message>
+    <message>
+      <source>Please enter captcha code!</source>
+      <translation>Vinsamlega sl&#xE1;&#xF0;u inn Kapteinn merkjam&#xE1;l!</translation>
+    </message>
+  </context>
+  <context>
+    <name>feedback/formsend</name>
+    <message>
+      <source>Feedback</source>
+      <translation>Feedback</translation>
+    </message>
+    <message>
+      <source>Your feedback was succesfuly send</source>
+      <translation>Athugasemdir t&#xF3;kst senda</translation>
+    </message>
+    <message>
+      <source>Home page</source>
+      <translation>Heim</translation>
+    </message>
+  </context>
+  <context>
+    <name>feedback/mail</name>
+    <message>
+      <source>Hello</source>
+      <translation>Hall&#xF3;</translation>
+    </message>
+    <message>
+      <source>Feedback data</source>
+      <translation>&#xC1;lit &#xE1; g&#xF6;gnum</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Nafn</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Text</source>
+      <translation>Texti</translation>
+    </message>
+    <message>
+      <source>Bye</source>
+      <translation>Bless</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/anaglyph</name>
+    <message>
+      <source>Original</source>
+      <translation>Original</translation>
+    </message>
+    <message>
+      <source>Anaglyph</source>
+      <translation>Anaglyph</translation>
+    </message>
+    <message>
+      <source>Animating</source>
+      <translation>Hreyfingar</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/color</name>
+    <message>
+      <source>Exclude color</source>
+      <translation>&#xDA;tiloka lit</translation>
+    </message>
+    <message>
+      <source>Maximum</source>
+      <translation>H&#xE1;marks</translation>
+    </message>
+    <message>
+      <source>filters</source>
+      <translation>filters</translation>
+    </message>
+    <message>
+      <source>Include color</source>
+      <translation>Hafa lit</translation>
+    </message>
+    <message>
+      <source>Remove color</source>
+      <translation>Fjarl&#xE6;gja lit</translation>
+    </message>
+    <message>
+      <source>Excluded colors in search</source>
+      <translation>&#xDA;tiloka&#xF0; litir &#xED; leit</translation>
+    </message>
+    <message>
+      <source>colors</source>
+      <translation>litir</translation>
+    </message>
+    <message>
+      <source>More color</source>
+      <translation>Meira lit</translation>
+    </message>
+    <message>
+      <source>Return to pallete</source>
+      <translation>Til baka &#xE1; pallete</translation>
+    </message>
+    <message>
+      <source>Images by color</source>
+      <translation>Myndir eftir lit</translation>
+    </message>
+    <message>
+      <source>Choose color</source>
+      <translation>Veldu lit</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>Engar f&#xE6;rslur.</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Page</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/createalbum</name>
+    <message>
+      <source>New album</source>
+      <translation>N&#xFD;tt alb&#xFA;m</translation>
+    </message>
+    <message>
+      <source>Album name</source>
+      <translation>Nafn alb&#xFA;ms</translation>
+    </message>
+    <message>
+      <source>Description</source>
+      <translation>L&#xFD;sing</translation>
+    </message>
+    <message>
+      <source>Keywords</source>
+      <translation>Leitaror&#xF0;</translation>
+    </message>
+    <message>
+      <source>Create</source>
+      <translation>B&#xFA;a til</translation>
+    </message>
+    <message>
+      <source>Create and upload photos</source>
+      <translation>B&#xFA;a til og senda inn myndir</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/myfavorites</name>
+    <message>
+      <source>Remove from favorites</source>
+      <translation>Fjarl&#xE6;gja &#xFA;r upp&#xE1;halds</translation>
+    </message>
+    <message>
+      <source>My favorite images</source>
+      <translation>Upp&#xE1;halds myndir m&#xED;nar</translation>
+    </message>
+    <message>
+      <source>Remove</source>
+      <translation>Fjarl&#xE6;gja</translation>
+    </message>
+    <message>
+      <source>Remove Open ID</source>
+      <translation>Fjarl&#xE6;gja Open ID</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastcommented</name>
+    <message>
+      <source>Last commented images</source>
+      <translation>S&#xED;&#xF0;asta athugasemd myndir</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>Engar f&#xE6;rslur.</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Upplausn</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Page</translation>
+    </message>
+    <message>
+      <source>Last commented gallery images.</source>
+      <translation type="unfinished">S&#xED;&#xF0;asta athugasemd gallery images.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lasthits</name>
+    <message>
+      <source>Last viewed images</source>
+      <translation>S&#xED;&#xF0;ast sko&#xF0;a&#xF0; myndir</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>Engar f&#xE6;rslur.</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Upplausn</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Page</translation>
+    </message>
+    <message>
+      <source>Last viewed gallery images.</source>
+      <translation type="unfinished">S&#xED;&#xF0;ast sko&#xF0;a&#xF0; gallery images.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastrated</name>
+    <message>
+      <source>Last rated images</source>
+      <translation>S&#xED;&#xF0;asta einkunn myndir</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>Engar f&#xE6;rslur.</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Upplausn</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Page</translation>
+    </message>
+    <message>
+      <source>Recently rated images.</source>
+      <translation type="unfinished">N&#xFD;lega gaf myndum.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastsearches</name>
+    <message>
+      <source>Last searches</source>
+      <translation>S&#xED;&#xF0;asta leit</translation>
+    </message>
+    <message>
+      <source>No records</source>
+      <translation>Engar f&#xE6;rslur</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastuploads</name>
+    <message>
+      <source>Last uploaded images</source>
+      <translation>S&#xED;&#xF0;ast hla&#xF0;i&#xF0; myndum</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>Engar f&#xE6;rslur.</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Upplausn</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Page</translation>
+    </message>
+    <message>
+      <source>Latest additions to gallery.</source>
+      <translation type="unfinished">N&#xFD;justu vi&#xF0;b&#xE6;tur &#xED; galler&#xED;.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/my_albums_list</name>
+    <message>
+      <source>Edit album</source>
+      <translation>Breyta alb&#xFA;mi</translation>
+    </message>
+    <message>
+      <source>Are you sure?</source>
+      <translation>Ertu viss?</translation>
+    </message>
+    <message>
+      <source>Delete album</source>
+      <translation>Ey&#xF0;a alb&#xFA;mi</translation>
+    </message>
+    <message>
+      <source>Add images</source>
+      <translation>B&#xE6;ta vi&#xF0; myndum</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/myalbums</name>
+    <message>
+      <source>My albums</source>
+      <translation>My Albums</translation>
+    </message>
+    <message>
+      <source>New album</source>
+      <translation>N&#xFD;tt alb&#xFA;m</translation>
+    </message>
+    <message>
+      <source>Update priority</source>
+      <translation>Uppf&#xE6;ra forgang</translation>
+    </message>
+    <message>
+      <source>You do not have any album.</source>
+      <translation>&#xDE;&#xFA; ert ekki me&#xF0; neina pl&#xF6;tu.</translation>
+    </message>
+    <message>
+      <source>Create a new album.</source>
+      <translation>B&#xFA;a til n&#xFD;tt alb&#xFA;m.</translation>
+    </message>
+    <message>
+      <source>Account</source>
+      <translation>Reikningur</translation>
+    </message>
+    <message>
+      <source>Albums</source>
+      <translation>Albums</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/mylistalbum</name>
+    <message>
+      <source>No records.</source>
+      <translation>Engar f&#xE6;rslur.</translation>
+    </message>
+    <message>
+      <source>Account</source>
+      <translation>Reikningur</translation>
+    </message>
+    <message>
+      <source>Albums</source>
+      <translation>Albums</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/popular</name>
+    <message>
+      <source>Most popular images</source>
+      <translation>Vins&#xE6;last myndir</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>Engar f&#xE6;rslur.</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Upplausn</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Page</translation>
+    </message>
+    <message>
+      <source>All time most popular images.</source>
+      <translation type="unfinished">Allra t&#xED;ma vins&#xE6;lustu myndum.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/popularrecect</name>
+    <message>
+      <source>Most popular images in 24 hours.</source>
+      <translation>Vins&#xE6;last myndir &#xED; 24 klst.</translation>
+    </message>
+    <message>
+      <source>There are no images.</source>
+      <translation>&#xDE;a&#xF0; eru engar myndir.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/ratedrecent</name>
+    <message>
+      <source>Top rated images in 24 hours.</source>
+      <translation>H&#xE6;stu einkunnir myndir &#xED; 24 klst.</translation>
+    </message>
+    <message>
+      <source>Top rated images in 24 hours</source>
+      <translation>H&#xE6;stu einkunnir myndir &#xED; 24 klst</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Page</translation>
+    </message>
+    <message>
+      <source>Top rated images in last 24 hours.</source>
+      <translation type="unfinished">H&#xE6;stu einkunnir myndir &#xED; s&#xED;&#xF0;ustu 24 klst.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/sharehtml</name>
+    <message>
+      <source>Link to image</source>
+      <translation>Tengill &#xE1; mynd</translation>
+    </message>
+    <message>
+      <source>Link to image with thumbnail</source>
+      <translation>Link &#xE1; mynd me&#xF0; thumbnail</translation>
+    </message>
+    <message>
+      <source>Link to image with medium size thumbnail</source>
+      <translation>Tengill &#xE1; mynd me&#xF0; mi&#xF0;lungs st&#xE6;r&#xF0; thumbnail</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/sharephpbb</name>
+    <message>
+      <source>Link to image</source>
+      <translation>Tengill &#xE1; mynd</translation>
+    </message>
+    <message>
+      <source>Link to image with thumbnail</source>
+      <translation>Link &#xE1; mynd me&#xF0; thumbnail</translation>
+    </message>
+    <message>
+      <source>Link to image with medium size thumbnail</source>
+      <translation>Tengill &#xE1; mynd me&#xF0; mi&#xF0;lungs st&#xE6;r&#xF0; thumbnail</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/subcategory_list_full</name>
+    <message>
+      <source>albums</source>
+      <translation>alb&#xFA;m</translation>
+    </message>
+    <message>
+      <source>images</source>
+      <translation>myndir</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/toprated</name>
+    <message>
+      <source>Top rated images</source>
+      <translation>H&#xE6;stu einkunnir myndir</translation>
+    </message>
+    <message>
+      <source>No records</source>
+      <translation>Engar f&#xE6;rslur</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Upplausn</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Page</translation>
+    </message>
+    <message>
+      <source>All time top rated images.</source>
+      <translation type="unfinished">Allra t&#xED;ma toppur hlutfall myndir.</translation>
+    </message>
+  </context>
+  <context>
+    <name>kernel/nopermission</name>
+    <message>
+      <source>You do not have permission to access module</source>
+      <translation>&#xDE;&#xFA; hefur ekki leyfi til a&#xF0; opna m&#xE1;t</translation>
+    </message>
+    <message>
+      <source>and use</source>
+      <translation>og nota</translation>
+    </message>
+    <message>
+      <source>function</source>
+      <translation>virka</translation>
+    </message>
+    <message>
+      <source>You do not have permission to access current object</source>
+      <translation>&#xDE;&#xFA; hefur ekki leyfi til a&#xF0; f&#xE1; a&#xF0;gang n&#xFA;verandi m&#xF3;tm&#xE6;la</translation>
+    </message>
+  </context>
+  <context>
+    <name>core/paginator</name>
+    <message>
+      <source>Page</source>
+      <translation>Page</translation>
+    </message>
+    <message>
+      <source>of</source>
+      <translation>&#xE1;</translation>
+    </message>
+    <message>
+      <source>Found</source>
+      <translation>Fann</translation>
+    </message>
+    <message>
+      <source>Previous</source>
+      <translation>Fyrri</translation>
+    </message>
+    <message>
+      <source>Go to page</source>
+      <translation>Fara &#xE1; s&#xED;&#xF0;u</translation>
+    </message>
+    <message>
+      <source>Next</source>
+      <translation>N&#xE6;sta</translation>
+    </message>
+  </context>
+  <context>
+    <name>similar/similar</name>
+    <message>
+      <source>Visualy similar images to</source>
+      <translation>Visualy svipu&#xF0;um myndum til</translation>
+    </message>
+    <message>
+      <source>Search for visualy similar images</source>
+      <translation>Leita eftir visualy a&#xF0; svipu&#xF0;um myndum</translation>
+    </message>
+    <message>
+      <source>Please enable JavaScript to upload image</source>
+      <translation>Vinsamlega virkja&#xF0;u JavaScript til a&#xF0; senda inn mynd</translation>
+    </message>
+    <message>
+      <source>Click to choose image, you can also Drag and Drop file here (Drag and drop only for FF, Chrome).</source>
+      <translation>Smelltu til a&#xF0; velja mynd, &#xFE;&#xFA; getur einnig draga og sleppa skr&#xE1; h&#xE9;r (Draga og sleppa a&#xF0;eins fyrir FF, Kr&#xF3;m).</translation>
+    </message>
+    <message>
+      <source>Cancel</source>
+      <translation>H&#xE6;tta vi&#xF0;</translation>
+    </message>
+    <message>
+      <source>Failed</source>
+      <translation>Mist&#xF3;kst</translation>
+    </message>
+  </context>
+  <context>
+    <name>similar/sketch</name>
+    <message>
+      <source>Search by sketch</source>
+      <translation>Leita eftir skissu</translation>
+    </message>
+    <message>
+      <source>Sketch and find images by your sketch</source>
+      <translation>Skissa og finna myndir af skissu &#xFE;itt</translation>
+    </message>
+  </context>
+  <context>
+    <name>statistic/view</name>
+    <message>
+      <source>hours</source>
+      <translation>klukkustundir</translation>
+    </message>
+    <message>
+      <source>Total pageviews</source>
+      <translation>Samtals flettingar</translation>
+    </message>
+    <message>
+      <source>Total visits</source>
+      <translation>Samtals heims&#xF3;knir</translation>
+    </message>
+    <message>
+      <source>Time spent</source>
+      <translation>T&#xED;ma</translation>
+    </message>
+    <message>
+      <source>Last 31 days statistic, data resource - google analytics API</source>
+      <translation>Last 31 dagar t&#xF6;lfr&#xE6;&#xF0;i, uppl&#xFD;singar um vefs&#xED;&#xF0;una - Google Analytics API</translation>
+    </message>
+    <message>
+      <source>Legend</source>
+      <translation>Legend</translation>
+    </message>
+    <message>
+      <source>Pageviews</source>
+      <translation>Pageviews</translation>
+    </message>
+    <message>
+      <source>Visits</source>
+      <translation>Heims&#xF3;knir</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/mapaccounts</name>
+    <message>
+      <source>Login with facebook</source>
+      <translation>Innskr&#xE1;ning me&#xF0; Facebook</translation>
+    </message>
+    <message>
+      <source>Map to my account</source>
+      <translation>Kort &#xE1; reikninginn minn</translation>
+    </message>
+    <message>
+      <source>my account</source>
+      <translation>reikninginn minn</translation>
+    </message>
+    <message>
+      <source>Login</source>
+      <translation>Innskr&#xE1;ning</translation>
+    </message>
+    <message>
+      <source>map to my account</source>
+      <translation>kortinu &#xE1; reikninginn minn</translation>
+    </message>
+    <message>
+      <source>Incorrect login or password</source>
+      <translation>Rangt notandanafni e&#xF0;a a&#xF0;gangsor&#xF0;i</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Notandanafn</translation>
+    </message>
+    <message>
+      <source>Password</source>
+      <translation>Lykilor&#xF0;</translation>
+    </message>
+    <message>
+      <source>OR</source>
+      <translation>OR</translation>
+    </message>
+    <message>
+      <source>create account</source>
+      <translation>B&#xFA;a til a&#xF0;gang</translation>
+    </message>
+    <message>
+      <source>Next</source>
+      <translation>N&#xE6;sta</translation>
+    </message>
+    <message>
+      <source>Open ID</source>
+      <translation>Opna ID</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/forgotpassword</name>
+    <message>
+      <source>Password remind</source>
+      <translation>Lykilor&#xF0; minna</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Restore password</source>
+      <translation>Endurheimta lykilor&#xF0;</translation>
+    </message>
+    <message>
+      <source>Order confirmed</source>
+      <translation>Order sta&#xF0;fest</translation>
+    </message>
+    <message>
+      <source>Credits order confirmed</source>
+      <translation>Einingar til sta&#xF0;fest</translation>
+    </message>
+    <message>
+      <source>Wrong e-mail address!</source>
+      <translation>Rangt netfang!</translation>
+    </message>
+    <message>
+      <source>Click this link and to You will be send new password</source>
+      <translation>Smelltu &#xE1; &#xFE;ennan tengil og &#xFE;&#xFA; ver&#xF0;ur a&#xF0; senda n&#xFD;tt lykilor&#xF0;</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/forgotpasswordsent</name>
+    <message>
+      <source>Password remind</source>
+      <translation>Lykilor&#xF0; minna</translation>
+    </message>
+    <message>
+      <source>E-mail send. Click link in email and to You will be send out new password.</source>
+      <translation>E-mail senda. Smelltu &#xE1; tengilinn &#xED; t&#xF6;lvup&#xF3;sti og &#xFE;&#xFA; ver&#xF0;ur a&#xF0; senda &#xFA;t n&#xFD;tt lykilor&#xF0;.</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/index</name>
+    <message>
+      <source>User home</source>
+      <translation>Notandi heim</translation>
+    </message>
+    <message>
+      <source>Welcome. Here you can:</source>
+      <translation>Velkomin. H&#xE9;r getur &#xFE;&#xFA;:</translation>
+    </message>
+    <message>
+      <source>Edit personal settings</source>
+      <translation>Breyta pers&#xF3;nulegar stillingar</translation>
+    </message>
+    <message>
+      <source>Manage personal albums</source>
+      <translation>Stj&#xF3;rna pers&#xF3;nulega alb&#xFA;m</translation>
+    </message>
+    <message>
+      <source>My account</source>
+      <translation>Minn a&#xF0;gangur</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/remindpassword</name>
+    <message>
+      <source>New password</source>
+      <translation>N&#xFD;tt lykilor&#xF0;</translation>
+    </message>
+    <message>
+      <source>Hash not found or was used already</source>
+      <translation>Hash fannst ekki e&#xF0;a var nota&#xF0; &#xFE;egar</translation>
+    </message>
+    <message>
+      <source>Password remind - new password</source>
+      <translation>Lykilor&#xF0; minna - n&#xFD;tt lykilor&#xF0;</translation>
+    </message>
+    <message>
+      <source>New password:</source>
+      <translation>N&#xFD;tt lykilor&#xF0;:</translation>
+    </message>
+    <message>
+      <source>New password has beend send to your email.</source>
+      <translation>N&#xFD;tt lykilor&#xF0; hefur beend senda t&#xF6;lvup&#xF3;stinn &#xFE;inn.</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/basket</name>
+    <message>
+      <source>Basket</source>
+      <translation>Karfa</translation>
+    </message>
+    <message>
+      <source>Image name</source>
+      <translation>Heiti myndar</translation>
+    </message>
+    <message>
+      <source>Version</source>
+      <translation>&#xDA;tg&#xE1;fa</translation>
+    </message>
+    <message>
+      <source>Image size</source>
+      <translation>St&#xE6;r&#xF0; myndar</translation>
+    </message>
+    <message>
+      <source>Format</source>
+      <translation>Sni&#xF0;</translation>
+    </message>
+    <message>
+      <source>Price</source>
+      <translation>Ver&#xF0;</translation>
+    </message>
+    <message>
+      <source>Credits</source>
+      <translation>Credits</translation>
+    </message>
+    <message>
+      <source>Remove from basket</source>
+      <translation>Fjarl&#xE6;gja &#xFA;r k&#xF6;rfu</translation>
+    </message>
+    <message>
+      <source>Choose payment option</source>
+      <translation>Veldu grei&#xF0;slum&#xE1;ta</translation>
+    </message>
+    <message>
+      <source>In order to checkout atlest one item have to be selected.</source>
+      <translation>&#xCD; &#xFE;v&#xED; skyni a&#xF0; st&#xF6;&#xF0;va atlest eitt atri&#xF0;i ver&#xF0;a a&#xF0; vera vali&#xF0;.</translation>
+    </message>
+    <message>
+      <source>In order to checkout you have to</source>
+      <translation>Til &#xFE;ess a&#xF0; st&#xF6;&#xF0;va &#xFE;arftu a&#xF0;</translation>
+    </message>
+    <message>
+      <source>sign in</source>
+      <translation>Skr&#xE1; &#xED;</translation>
+    </message>
+    <message>
+      <source>or</source>
+      <translation>e&#xF0;a</translation>
+    </message>
+    <message>
+      <source>login</source>
+      <translation>innskr&#xE1;ning</translation>
+    </message>
+    <message>
+      <source>if you have already created an account</source>
+      <translation>Ef &#xFE;&#xFA; hefur &#xFE;egar stofna&#xF0; reikning</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/buycredits</name>
+    <message>
+      <source>Buy credits</source>
+      <translation>Kaupa inneign</translation>
+    </message>
+    <message>
+      <source>How many credits do want to buy?</source>
+      <translation>Hversu margar einingar vilt a&#xF0; kaupa?</translation>
+    </message>
+    <message>
+      <source>Choose payment method</source>
+      <translation>Veldu grei&#xF0;slum&#xE1;ta</translation>
+    </message>
+  </context>
+  <context>
+    <name>credits_handler/accept</name>
+    <message>
+      <source>Order succesfull</source>
+      <translation>Order succesfull</translation>
+    </message>
+    <message>
+      <source>Payment was succesfull</source>
+      <translation>Grei&#xF0;sla var succesfull</translation>
+    </message>
+  </context>
+  <context>
+    <name>credits_handler/process</name>
+    <message>
+      <source>Checkout</source>
+      <translation>Grei&#xF0;a</translation>
+    </message>
+    <message>
+      <source>Confirm payment</source>
+      <translation>Sta&#xF0;festa grei&#xF0;slu</translation>
+    </message>
+    <message>
+      <source>Not enouth credits to checkout</source>
+      <translation>Ekki enouth ein me&#xF0; kaup</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/cancel</name>
+    <message>
+      <source>Payment canceled</source>
+      <translation>H&#xE6;tt vi&#xF0; grei&#xF0;slu</translation>
+    </message>
+    <message>
+      <source>Paypal payment was canceled.</source>
+      <translation>Paypal grei&#xF0;slu var loka&#xF0;.</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/error</name>
+    <message>
+      <source>Error</source>
+      <translation>Villa</translation>
+    </message>
+    <message>
+      <source>Execution was terminated unexpectedly.</source>
+      <translation>Framkv&#xE6;md var sliti&#xF0; &#xF3;v&#xE6;nt.</translation>
+    </message>
+  </context>
+  <context>
+    <name>paypal_handler/process</name>
+    <message>
+      <source>Checkout using Paypal</source>
+      <translation>Grei&#xF0;a me&#xF0; Paypal</translation>
+    </message>
+    <message>
+      <source>Buyer\'s Email</source>
+      <translation>Kaupandi \ &amp;#39;s Email</translation>
+    </message>
+    <message>
+      <source>Amount</source>
+      <translation>Upph&#xE6;&#xF0;</translation>
+    </message>
+    <message>
+      <source>Currency</source>
+      <translation>Gjaldmi&#xF0;ill</translation>
+    </message>
+    <message>
+      <source>Credits</source>
+      <translation>Credits</translation>
+    </message>
+  </context>
+  <context>
+    <name>paypal_handler/review</name>
+    <message>
+      <source>Order payment confirmation</source>
+      <translation>Order grei&#xF0;slu sta&#xF0;festingu</translation>
+    </message>
+    <message>
+      <source>Order amount</source>
+      <translation>Order upph&#xE6;&#xF0;</translation>
+    </message>
+    <message>
+      <source>Confirm payment</source>
+      <translation>Sta&#xF0;festa grei&#xF0;slu</translation>
+    </message>
+    <message>
+      <source>Thank you for your payment!</source>
+      <translation>&#xDE;akka &#xFE;&#xE9;r fyrir grei&#xF0;slu!</translation>
+    </message>
+    <message>
+      <source>credits</source>
+      <translation>ein</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/mycredits</name>
+    <message>
+      <source>My credits balanse</source>
+      <translation>Ein balanse My</translation>
+    </message>
+    <message>
+      <source>You have</source>
+      <translation>&#xDE;&#xFA; hefur</translation>
+    </message>
+    <message>
+      <source>in your account</source>
+      <translation>&#xE1; reikningnum &#xFE;&#xED;num</translation>
+    </message>
+    <message>
+      <source>Buy credits</source>
+      <translation>Kaupa inneign</translation>
+    </message>
+    <message>
+      <source>My credits</source>
+      <translation>Ein My</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/myorders</name>
+    <message>
+      <source>My credits orders</source>
+      <translation>Ein pantanir minn</translation>
+    </message>
+    <message>
+      <source>Date</source>
+      <translation>Dagsetning</translation>
+    </message>
+    <message>
+      <source>Order price</source>
+      <translation>Order ver&#xF0;</translation>
+    </message>
+    <message>
+      <source>Order credits</source>
+      <translation>Order ein</translation>
+    </message>
+    <message>
+      <source>Order status</source>
+      <translation>P&#xF6;ntunar sta&#xF0;a</translation>
+    </message>
+    <message>
+      <source>Payed</source>
+      <translation>Borga&#xF0;</translation>
+    </message>
+    <message>
+      <source>Confirmed</source>
+      <translation>Sta&#xF0;fest</translation>
+    </message>
+    <message>
+      <source>My orders</source>
+      <translation>Pantanir minn</translation>
+    </message>
+    <message>
+      <source>Order view</source>
+      <translation>Order sko&#xF0;a</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/orderview</name>
+    <message>
+      <source>Order view</source>
+      <translation>Order sko&#xF0;a</translation>
+    </message>
+    <message>
+      <source>Order time</source>
+      <translation>Panta t&#xED;ma</translation>
+    </message>
+    <message>
+      <source>Order price</source>
+      <translation>Order ver&#xF0;</translation>
+    </message>
+    <message>
+      <source>Order credits</source>
+      <translation>Order ein</translation>
+    </message>
+    <message>
+      <source>Order status</source>
+      <translation>P&#xF6;ntunar sta&#xF0;a</translation>
+    </message>
+    <message>
+      <source>Payed</source>
+      <translation>Borga&#xF0;</translation>
+    </message>
+    <message>
+      <source>Confirmed</source>
+      <translation>Sta&#xF0;fest</translation>
+    </message>
+    <message>
+      <source>Ordered items</source>
+      <translation>Panta&#xF0;i hluti</translation>
+    </message>
+    <message>
+      <source>Image name</source>
+      <translation>Heiti myndar</translation>
+    </message>
+    <message>
+      <source>Version</source>
+      <translation>&#xDA;tg&#xE1;fa</translation>
+    </message>
+    <message>
+      <source>Image size</source>
+      <translation>St&#xE6;r&#xF0; myndar</translation>
+    </message>
+    <message>
+      <source>Format</source>
+      <translation>Sni&#xF0;</translation>
+    </message>
+    <message>
+      <source>Price</source>
+      <translation>Ver&#xF0;</translation>
+    </message>
+    <message>
+      <source>Download count</source>
+      <translation>S&#xE6;kja telja</translation>
+    </message>
+    <message>
+      <source>Downloads left</source>
+      <translation>Ni&#xF0;urhal vinstri</translation>
+    </message>
+    <message>
+      <source>Credits</source>
+      <translation>Credits</translation>
+    </message>
+    <message>
+      <source>Download image</source>
+      <translation>S&#xE6;kja mynd</translation>
+    </message>
+    <message>
+      <source>downloads left</source>
+      <translation>ni&#xF0;urhal vinstri</translation>
+    </message>
+    <message>
+      <source>No downloads available</source>
+      <translation>Pr&#xF3;f&#xED;ll bo&#xF0;i</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/paymentoption</name>
+    <message>
+      <source>Payment option</source>
+      <translation>Grei&#xF0;slua&#xF0;fer&#xF0;</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Choose payment method</source>
+      <translation>Veldu grei&#xF0;slum&#xE1;ta</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/paymentoptioncredit</name>
+    <message>
+      <source>Payment option</source>
+      <translation>Grei&#xF0;slua&#xF0;fer&#xF0;</translation>
+    </message>
+    <message>
+      <source>Continue</source>
+      <translation>&#xC1;fram</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/category</name>
+    <message>
+      <source>Root category</source>
+      <translation>Root flokki</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Page</translation>
+    </message>
+    <message>
+      <source>Forum</source>
+      <translation>Forum</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/category</name>
+    <message>
+      <source>Please enter topic name!</source>
+      <translation>Vinsamlega sl&#xE1;&#xF0;u inn topic nafn!</translation>
+    </message>
+    <message>
+      <source>Please enter message!</source>
+      <translation>Vinsamlegast sl&#xE1;&#xF0;u inn skilabo&#xF0;!</translation>
+    </message>
+    <message>
+      <source>Please choose category!</source>
+      <translation>Vinsamlegast veldu flokk!</translation>
+    </message>
+    <message>
+      <source>Not parent category!</source>
+      <translation>Ekki foreldri flokki!</translation>
+    </message>
+    <message>
+      <source>Invalid category!</source>
+      <translation>&#xD3;gild flokk!</translation>
+    </message>
+    <message>
+      <source>Forum</source>
+      <translation>Forum</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/createcategory</name>
+    <message>
+      <source>Please enter category name!</source>
+      <translation>Vinsamlega sl&#xE1;&#xF0;u inn flokkur nafn!</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>Heim</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/editmessage</name>
+    <message>
+      <source>Please enter message!</source>
+      <translation>Vinsamlegast sl&#xE1;&#xF0;u inn skilabo&#xF0;!</translation>
+    </message>
+    <message>
+      <source>Forum</source>
+      <translation>Forum</translation>
+    </message>
+    <message>
+      <source>Message edit</source>
+      <translation>Message breyta</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/edittopic</name>
+    <message>
+      <source>Please enter topic name!</source>
+      <translation>Vinsamlega sl&#xE1;&#xF0;u inn topic nafn!</translation>
+    </message>
+    <message>
+      <source>Please enter topic status!</source>
+      <translation>Vinsamlega sl&#xE1;&#xF0;u inn topic st&#xF6;&#xF0;u!</translation>
+    </message>
+    <message>
+      <source>Forum</source>
+      <translation>Forum</translation>
+    </message>
+    <message>
+      <source>Topic edit</source>
+      <translation>Topic breyta</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/report</name>
+    <message>
+      <source>Please enter message!</source>
+      <translation>Vinsamlegast sl&#xE1;&#xF0;u inn skilabo&#xF0;!</translation>
+    </message>
+    <message>
+      <source>Forum message report</source>
+      <translation>Forum skilabo&#xF0; sk&#xFD;rsla</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/searchrss</name>
+    <message>
+      <source>Search results</source>
+      <translation>Leitarni&#xF0;urst&#xF6;&#xF0;ur</translation>
+    </message>
+    <message>
+      <source>Search</source>
+      <translation>Leita</translation>
+    </message>
+    <message>
+      <source>Search RSS by keyword</source>
+      <translation>Leita RSS eftir leitaror&#xF0;i</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>Sko&#xF0;a mynd</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/searchrss</name>
+    <message>
+      <source>Search</source>
+      <translation>Leita</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/albumeditadmin</name>
+    <message>
+      <source>Root category</source>
+      <translation>Root flokki</translation>
+    </message>
+    <message>
+      <source>Add images</source>
+      <translation>B&#xE6;ta vi&#xF0; myndum</translation>
+    </message>
+    <message>
+      <source>Album edit</source>
+      <translation>Album breyta</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/addvote</name>
+    <message>
+      <source>Thank you for your vote</source>
+      <translation>&#xDE;akka &#xFE;&#xE9;r fyrir &#xFE;&#xE1;tt&#xF6;kuna</translation>
+    </message>
+    <message>
+      <source>You are not allowed to vote!</source>
+      <translation>&#xDE;&#xFA; ert ekki leyft a&#xF0; kj&#xF3;sa!</translation>
+    </message>
+    <message>
+      <source>You have already voted!</source>
+      <translation>&#xDE;&#xFA; hefur &#xFE;egar greitt atkv&#xE6;&#xF0;i!</translation>
+    </message>
+    <message>
+      <source>Vote deducted!</source>
+      <translation>Vote dregin!</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/albumrss</name>
+    <message>
+      <source>Last uploaded images to album</source>
+      <translation>S&#xED;&#xF0;ast hla&#xF0;i&#xF0; myndir &#xED; alb&#xFA;m</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>Sko&#xF0;a mynd</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lasthitsrss</name>
+    <message>
+      <source>watched</source>
+      <translation>horf&#xF0;i</translation>
+    </message>
+    <message>
+      <source>Last viewed images</source>
+      <translation>S&#xED;&#xF0;ast sko&#xF0;a&#xF0; myndir</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>Sko&#xF0;a mynd</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastcommentedrss</name>
+    <message>
+      <source>Last commented images</source>
+      <translation>S&#xED;&#xF0;asta athugasemd myndir</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>Sko&#xF0;a mynd</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastratedrss</name>
+    <message>
+      <source>Last rated images</source>
+      <translation>S&#xED;&#xF0;asta einkunn myndir</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>Sko&#xF0;a mynd</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastuploadsrss</name>
+    <message>
+      <source>Last uploaded images</source>
+      <translation>S&#xED;&#xF0;ast hla&#xF0;i&#xF0; myndum</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>Sko&#xF0;a mynd</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/movebyresolution</name>
+    <message>
+      <source>Move by resolution</source>
+      <translation>F&#xE6;ra me&#xF0; &#xE1;lyktun</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/popularrecent</name>
+    <message>
+      <source>Most popular images in 24 hours</source>
+      <translation>Vins&#xE6;last myndir &#xED; 24 klst</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Page</translation>
+    </message>
+    <message>
+      <source>Most popular images in last 24 hours.</source>
+      <translation type="unfinished">Vins&#xE6;last myndir &#xED; s&#xED;&#xF0;ustu 24 klst.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/popularrss</name>
+    <message>
+      <source>Most popular images</source>
+      <translation>Vins&#xE6;last myndir</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/tagphoto</name>
+    <message>
+      <source>Thank you a lot :)</source>
+      <translation>&#xDE;akka &#xFE;&#xE9;r miki&#xF0;:)</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/topratedrss</name>
+    <message>
+      <source>Top rated images</source>
+      <translation>H&#xE6;stu einkunnir myndir</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>Sko&#xF0;a mynd</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/updateimage</name>
+    <message>
+      <source>Image updated</source>
+      <translation>Image Uppf&#xE6;rt</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/imagevariation</name>
+    <message>
+      <source>Basket</source>
+      <translation>Karfa</translation>
+    </message>
+    <message>
+      <source>Payment option</source>
+      <translation>Grei&#xF0;slua&#xF0;fer&#xF0;</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/imagevariationform</name>
+    <message>
+      <source>Credits amount must be greater than 0!</source>
+      <translation>Einingar upph&#xE6;&#xF0; ver&#xF0;ur a&#xF0; vera h&#xE6;rri en 0!</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/settingedit</name>
+    <message>
+      <source>Edit</source>
+      <translation>Breyta</translation>
+    </message>
+  </context>
+  <context>
+    <name>similar/image</name>
+    <message>
+      <source>Similar images to</source>
+      <translation>L&#xED;kur myndir</translation>
+    </message>
+    <message>
+      <source>Search for visualy similar images</source>
+      <translation>Leita eftir visualy a&#xF0; svipu&#xF0;um myndum</translation>
+    </message>
+  </context>
+  <context>
+    <name>system/index</name>
+    <message>
+      <source>System administration panel</source>
+      <translation>System stj&#xF3;rn pallbor&#xF0;</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/profile</name>
+    <message>
+      <source>User profile</source>
+      <translation type="unfinished">User Profile</translation>
+    </message>
+    <message>
+      <source>Name and surname</source>
+      <translation type="unfinished">Nafn og eftirnafn</translation>
+    </message>
+    <message>
+      <source>Website</source>
+      <translation type="unfinished">Website</translation>
+    </message>
+    <message>
+      <source>Introduction</source>
+      <translation type="unfinished">Inngangur</translation>
+    </message>
+    <message>
+      <source>Last updated albums</source>
+      <translation type="unfinished">S&#xED;&#xF0;ast uppf&#xE6;rt alb&#xFA;m</translation>
+    </message>
+    <message>
+      <source>Last uploaded images</source>
+      <translation type="unfinished">S&#xED;&#xF0;ast hla&#xF0;i&#xF0; myndum</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastuploadstoalbums</name>
+    <message>
+      <source>Last uploads to albums</source>
+      <translation type="unfinished">S&#xED;&#xF0;ustu uppf&#xE6;rslur &#xE1; myndaalb&#xFA;m</translation>
+    </message>
+    <message>
+      <source>Recently updated albums</source>
+      <translation type="unfinished">N&#xFD;lega uppf&#xE6;r&#xF0; alb&#xFA;m</translation>
+    </message>
+  </context>
+</TS>

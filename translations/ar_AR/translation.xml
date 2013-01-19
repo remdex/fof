@@ -1,0 +1,4280 @@
+<?xml version="1.0"?>
+<!DOCTYPE TS>
+<TS>
+  <context>
+    <name>article/editstatic</name>
+    <message>
+      <source>Article name</source>
+      <translation>&#x627;&#x633;&#x645; &#x627;&#x644;&#x645;&#x627;&#x62F;&#x629;</translation>
+    </message>
+    <message>
+      <source>Body</source>
+      <translation>&#x647;&#x64A;&#x626;&#x629;</translation>
+    </message>
+    <message>
+      <source>Article edit</source>
+      <translation>&#x627;&#x644;&#x645;&#x627;&#x62F;&#x629; &#x62A;&#x62D;&#x631;&#x64A;&#x631;</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>&#x627;&#x644;&#x62A;&#x62D;&#x62F;&#x64A;&#x62B;</translation>
+    </message>
+  </context>
+  <context>
+    <name>article/newstatic</name>
+    <message>
+      <source>New article</source>
+      <translation>&#x645;&#x627;&#x62F;&#x629; &#x62C;&#x62F;&#x64A;&#x62F;&#x629;</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>&#x62D;&#x641;&#x638;</translation>
+    </message>
+  </context>
+  <context>
+    <name>article/staticlist</name>
+    <message>
+      <source>Static articles</source>
+      <translation>&#x62B;&#x627;&#x628;&#x62A; &#x627;&#x644;&#x645;&#x642;&#x627;&#x644;&#x627;&#x62A;</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>&#x627;&#x633;&#x645;</translation>
+    </message>
+    <message>
+      <source>Edit</source>
+      <translation>&#x62A;&#x62D;&#x631;&#x64A;&#x631;</translation>
+    </message>
+    <message>
+      <source>New article</source>
+      <translation>&#x645;&#x627;&#x62F;&#x629; &#x62C;&#x62F;&#x64A;&#x62F;&#x629;</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/admincategorys</name>
+    <message>
+      <source>Category</source>
+      <translation>&#x641;&#x626;&#x629;</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>&#x644;&#x642;&#x628;</translation>
+    </message>
+    <message>
+      <source>Owner</source>
+      <translation>&#x645;&#x627;&#x644;&#x643;</translation>
+    </message>
+    <message>
+      <source>Topics</source>
+      <translation>&#x627;&#x644;&#x645;&#x648;&#x627;&#x636;&#x64A;&#x639;</translation>
+    </message>
+    <message>
+      <source>Messages</source>
+      <translation>&#x631;&#x633;&#x627;&#x626;&#x644;</translation>
+    </message>
+    <message>
+      <source>Edit category</source>
+      <translation>&#x62A;&#x639;&#x62F;&#x64A;&#x644; &#x627;&#x644;&#x641;&#x626;&#x629;</translation>
+    </message>
+    <message>
+      <source>Delete category</source>
+      <translation>&#x62D;&#x630;&#x641; &#x641;&#x626;&#x629;</translation>
+    </message>
+    <message>
+      <source>Create a category</source>
+      <translation>&#x625;&#x646;&#x634;&#x627;&#x621; &#x641;&#x626;&#x629;</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>&#x645;&#x646;&#x632;&#x644;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/album</name>
+    <message>
+      <source>No records</source>
+      <translation>&#x644;&#x627; &#x64A;&#x648;&#x62C;&#x62F; &#x633;&#x62C;&#x644;&#x627;&#x62A;</translation>
+    </message>
+    <message>
+      <source>Search by color and keyword, just try to see how fun it is!</source>
+      <translation>&#x627;&#x644;&#x628;&#x62D;&#x62B; &#x639;&#x646; &#x637;&#x631;&#x64A;&#x642; &#x627;&#x644;&#x644;&#x648;&#x646; &#x648;&#x627;&#x644;&#x643;&#x644;&#x645;&#x629; &#x60C; &#x645;&#x62C;&#x631;&#x62F; &#x645;&#x62D;&#x627;&#x648;&#x644;&#x629; &#x644;&#x645;&#x639;&#x631;&#x641;&#x629; &#x643;&#x64A;&#x641; &#x647;&#x648; &#x645;&#x62A;&#x639;&#x629;!</translation>
+    </message>
+    <message>
+      <source>Enter keyword or phrase</source>
+      <translation>&#x623;&#x62F;&#x62E;&#x644; &#x627;&#x644;&#x643;&#x644;&#x645;&#x629; &#x623;&#x648; &#x627;&#x644;&#x639;&#x628;&#x627;&#x631;&#x629;</translation>
+    </message>
+    <message>
+      <source>Search entire gallery</source>
+      <translation>&#x627;&#x628;&#x62D;&#x62B; &#x639;&#x646; &#x645;&#x639;&#x631;&#x636; &#x643;&#x627;&#x645;&#x644;</translation>
+    </message>
+    <message>
+      <source>Search</source>
+      <translation>&#x628;&#x62D;&#x62B;</translation>
+    </message>
+    <message>
+      <source>enter keyword and click color, or just click color</source>
+      <translation>&#x623;&#x62F;&#x62E;&#x644; &#x627;&#x644;&#x643;&#x644;&#x645;&#x629; &#x648;&#x627;&#x644;&#x644;&#x648;&#x646; &#x60C; &#x627;&#x646;&#x642;&#x631; &#x641;&#x648;&#x642; &#x623;&#x648; &#x645;&#x62C;&#x631;&#x62F; &#x644;&#x648;&#x646;</translation>
+    </message>
+    <message>
+      <source>Include color</source>
+      <translation>&#x648;&#x62A;&#x634;&#x645;&#x644; &#x627;&#x644;&#x623;&#x644;&#x648;&#x627;&#x646;</translation>
+    </message>
+    <message>
+      <source>Exclude color</source>
+      <translation>&#x627;&#x633;&#x62A;&#x628;&#x639;&#x627;&#x62F; &#x627;&#x644;&#x644;&#x648;&#x646;</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>&#x635;&#x641;&#x62D;&#x629;</translation>
+    </message>
+    <message>
+      <source>Last uploaded last</source>
+      <translation>&#x62A;&#x645; &#x627;&#x644;&#x631;&#x641;&#x639; &#x627;&#x644;&#x623;&#x62E;&#x64A;&#x631;&#x629;</translation>
+    </message>
+    <message>
+      <source>Most popular first</source>
+      <translation>&#x645;&#x639;&#x638;&#x645; &#x627;&#x644;&#x634;&#x639;&#x628;&#x64A;&#x629; &#x627;&#x644;&#x623;&#x648;&#x644;&#x649;</translation>
+    </message>
+    <message>
+      <source>Most popular last</source>
+      <translation>&#x627;&#x644;&#x623;&#x643;&#x62B;&#x631; &#x634;&#x639;&#x628;&#x64A;&#x629; &#x645;&#x634;&#x627;&#x631;&#x643;&#x629;</translation>
+    </message>
+    <message>
+      <source>Last hits first</source>
+      <translation>&#x645;&#x634;&#x627;&#x631;&#x643;&#x629; &#x64A;&#x636;&#x631;&#x628; first</translation>
+    </message>
+    <message>
+      <source>Last hits last</source>
+      <translation>&#x622;&#x62E;&#x631; &#x645;&#x634;&#x627;&#x631;&#x643;&#x629; &#x645;&#x634;&#x627;&#x647;&#x62F;&#x627;&#x62A;</translation>
+    </message>
+    <message>
+      <source>Last commented first</source>
+      <translation>&#x648;&#x639;&#x644;&#x642; &#x627;&#x644;&#x623;&#x62E;&#x64A;&#x631; &#x623;&#x648;&#x644;&#x627;</translation>
+    </message>
+    <message>
+      <source>Last commented last</source>
+      <translation>&#x648;&#x639;&#x644;&#x642; &#x622;&#x62E;&#x631; &#x645;&#x634;&#x627;&#x631;&#x643;&#x629;</translation>
+    </message>
+    <message>
+      <source>Last rated first</source>
+      <translation>&#x627;&#x644;&#x62A;&#x635;&#x646;&#x64A;&#x641; &#x627;&#x644;&#x623;&#x62E;&#x64A;&#x631; &#x623;&#x648;&#x644;&#x627;</translation>
+    </message>
+    <message>
+      <source>Last rated last</source>
+      <translation>&#x62A;&#x635;&#x646;&#x64A;&#x641; &#x622;&#x62E;&#x631; &#x645;&#x634;&#x627;&#x631;&#x643;&#x629;</translation>
+    </message>
+    <message>
+      <source>Top rated first</source>
+      <translation>&#x623;&#x639;&#x644;&#x649; &#x62A;&#x635;&#x646;&#x64A;&#x641; first</translation>
+    </message>
+    <message>
+      <source>Top rated last Last</source>
+      <translation>&#x623;&#x639;&#x644;&#x649; &#x62A;&#x635;&#x646;&#x64A;&#x641; &#x622;&#x62E;&#x631;</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>&#x642;&#x631;&#x627;&#x631;</translation>
+    </message>
+    <message>
+      <source>Last uploaded images to album</source>
+      <translation>&#x645;&#x634;&#x627;&#x631;&#x643;&#x629; &#x627;&#x644;&#x635;&#x648;&#x631; &#x627;&#x644;&#x62A;&#x64A; &#x64A;&#x62A;&#x645; &#x62A;&#x62D;&#x645;&#x64A;&#x644;&#x647;&#x627; &#x625;&#x644;&#x649; &#x623;&#x644;&#x628;&#x648;&#x645;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/createcategory</name>
+    <message>
+      <source>New category</source>
+      <translation>&#x641;&#x626;&#x629; &#x62C;&#x62F;&#x64A;&#x62F;&#x629;</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>&#x62D;&#x641;&#x638;</translation>
+    </message>
+    <message>
+      <source>back</source>
+      <translation>&#x638;&#x647;&#x631;</translation>
+    </message>
+    <message>
+      <source>Please enter message!</source>
+      <translation>&#x627;&#x644;&#x631;&#x62C;&#x627;&#x621; &#x643;&#x62A;&#x627;&#x628;&#x629; &#x627;&#x644;&#x631;&#x633;&#x627;&#x644;&#x629;!</translation>
+    </message>
+    <message>
+      <source>Please enter category name!</source>
+      <translation>&#x627;&#x644;&#x631;&#x62C;&#x627;&#x621; &#x625;&#x62F;&#x62E;&#x627;&#x644; &#x627;&#x633;&#x645; &#x627;&#x644;&#x641;&#x626;&#x629;!</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>&#x645;&#x646;&#x632;&#x644;</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/editcategory</name>
+    <message>
+      <source>Category edit</source>
+      <translation>&#x627;&#x644;&#x641;&#x626;&#x629; &#x62A;&#x62D;&#x631;&#x64A;&#x631;</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>&#x627;&#x644;&#x62A;&#x62D;&#x62F;&#x64A;&#x62B;</translation>
+    </message>
+    <message>
+      <source>Please enter category name!</source>
+      <translation>&#x627;&#x644;&#x631;&#x62C;&#x627;&#x621; &#x625;&#x62F;&#x62E;&#x627;&#x644; &#x627;&#x633;&#x645; &#x627;&#x644;&#x641;&#x626;&#x629;!</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/editcategory</name>
+    <message>
+      <source>back</source>
+      <translation>&#x638;&#x647;&#x631;</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>&#x627;&#x633;&#x645;</translation>
+    </message>
+    <message>
+      <source>Description</source>
+      <translation>&#x648;&#x635;&#x641;</translation>
+    </message>
+    <message>
+      <source>Owner</source>
+      <translation>&#x645;&#x627;&#x644;&#x643;</translation>
+    </message>
+    <message>
+      <source>Category edit</source>
+      <translation>&#x627;&#x644;&#x641;&#x626;&#x629; &#x62A;&#x62D;&#x631;&#x64A;&#x631;</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>&#x627;&#x644;&#x62A;&#x62D;&#x62F;&#x64A;&#x62B;</translation>
+    </message>
+    <message>
+      <source>Hide subcategorys in frontpage</source>
+      <translation>&#x625;&#x62E;&#x641;&#x627;&#x621; subcategorys &#x641;&#x64A; &#x635;&#x641;&#x62D;&#x62A;&#x647;&#x627; &#x627;&#x644;&#x627;&#x648;&#x644;&#x649;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/albumedit</name>
+    <message>
+      <source>Edit topic</source>
+      <translation>&#x62A;&#x62D;&#x631;&#x64A;&#x631; &#x627;&#x644;&#x645;&#x648;&#x636;&#x648;&#x639;</translation>
+    </message>
+    <message>
+      <source>Topic name</source>
+      <translation>&#x627;&#x633;&#x645; &#x627;&#x644;&#x645;&#x648;&#x636;&#x648;&#x639;</translation>
+    </message>
+    <message>
+      <source>Topic status</source>
+      <translation>&#x645;&#x648;&#x636;&#x648;&#x639; &#x627;&#x644;&#x62D;&#x627;&#x644;&#x629;</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>&#x627;&#x644;&#x62A;&#x62D;&#x62F;&#x64A;&#x62B;</translation>
+    </message>
+    <message>
+      <source>Album edit</source>
+      <translation>&#x627;&#x644;&#x623;&#x644;&#x628;&#x648;&#x645; &#x62A;&#x62D;&#x631;&#x64A;&#x631;</translation>
+    </message>
+    <message>
+      <source>Album name</source>
+      <translation>&#x627;&#x633;&#x645; &#x627;&#x644;&#x623;&#x644;&#x628;&#x648;&#x645;</translation>
+    </message>
+    <message>
+      <source>Album category</source>
+      <translation>&#x627;&#x644;&#x623;&#x644;&#x628;&#x648;&#x645; &#x627;&#x644;&#x641;&#x626;&#x629;</translation>
+    </message>
+    <message>
+      <source>Album owner</source>
+      <translation>&#x635;&#x627;&#x62D;&#x628; &#x627;&#x644;&#x623;&#x644;&#x628;&#x648;&#x645;</translation>
+    </message>
+    <message>
+      <source>Description</source>
+      <translation>&#x648;&#x635;&#x641;</translation>
+    </message>
+    <message>
+      <source>Keywords</source>
+      <translation>&#x627;&#x644;&#x643;&#x644;&#x645;&#x627;&#x62A; &#x627;&#x644;&#x631;&#x626;&#x64A;&#x633;&#x64A;&#x629;</translation>
+    </message>
+    <message>
+      <source>Public</source>
+      <translation>&#x62C;&#x645;&#x647;&#x648;&#x631;</translation>
+    </message>
+    <message>
+      <source>All users can uploads images to this album</source>
+      <translation>&#x64A;&#x645;&#x643;&#x646; &#x644;&#x62C;&#x645;&#x64A;&#x639; &#x627;&#x644;&#x645;&#x633;&#x62A;&#x62E;&#x62F;&#x645;&#x64A;&#x646; &#x62A;&#x62D;&#x645;&#x64A;&#x644; &#x627;&#x644;&#x635;&#x648;&#x631; &#x625;&#x644;&#x649; &#x647;&#x630;&#x627; &#x627;&#x644;&#x623;&#x644;&#x628;&#x648;&#x645;</translation>
+    </message>
+    <message>
+      <source>Hidden</source>
+      <translation>&#x645;&#x62E;&#x641;&#x64A;</translation>
+    </message>
+    <message>
+      <source>Hide album from users</source>
+      <translation>&#x625;&#x62E;&#x641;&#x627;&#x621; &#x627;&#x644;&#x623;&#x644;&#x628;&#x648;&#x645; &#x645;&#x646; &#x627;&#x644;&#x645;&#x633;&#x62A;&#x62E;&#x62F;&#x645;&#x64A;&#x646;</translation>
+    </message>
+    <message>
+      <source>Album thumbnail</source>
+      <translation>&#x627;&#x644;&#x623;&#x644;&#x628;&#x648;&#x645; &#x645;&#x635;&#x63A;&#x631;&#x629;</translation>
+    </message>
+    <message>
+      <source>Newest album image</source>
+      <translation>&#x623;&#x62D;&#x62F;&#x62B; &#x623;&#x644;&#x628;&#x648;&#x645; &#x627;&#x644;&#x635;&#x648;&#x631;</translation>
+    </message>
+    <message>
+      <source>Revert to newest album image display mode</source>
+      <translation>&#x627;&#x644;&#x639;&#x648;&#x62F;&#x629; &#x625;&#x644;&#x649; &#x623;&#x644;&#x628;&#x648;&#x645; &#x627;&#x644;&#x635;&#x648;&#x631; &#x627;&#x62D;&#x62F;&#x62B; &#x648;&#x636;&#x639; &#x627;&#x644;&#x639;&#x631;&#x636;</translation>
+    </message>
+    <message>
+      <source>Remove</source>
+      <translation>&#x625;&#x632;&#x627;&#x644;&#x629;</translation>
+    </message>
+    <message>
+      <source>Edit message</source>
+      <translation>&#x62A;&#x62D;&#x631;&#x64A;&#x631; &#x627;&#x644;&#x631;&#x633;&#x627;&#x644;&#x629;</translation>
+    </message>
+    <message>
+      <source>Message</source>
+      <translation>&#x631;&#x633;&#x627;&#x644;&#x629;</translation>
+    </message>
+    <message>
+      <source>File</source>
+      <translation>&#x645;&#x644;&#x641;</translation>
+    </message>
+    <message>
+      <source>New message</source>
+      <translation>&#x631;&#x633;&#x627;&#x644;&#x629; &#x62C;&#x62F;&#x64A;&#x62F;&#x629;</translation>
+    </message>
+    <message>
+      <source>Publish</source>
+      <translation>&#x646;&#x634;&#x631;</translation>
+    </message>
+    <message>
+      <source>New topic</source>
+      <translation>&#x645;&#x648;&#x636;&#x648;&#x639; &#x62C;&#x62F;&#x64A;&#x62F;</translation>
+    </message>
+    <message>
+      <source>Choose topic category</source>
+      <translation>&#x627;&#x62E;&#x62A;&#x631; &#x641;&#x626;&#x629; &#x627;&#x644;&#x645;&#x648;&#x636;&#x648;&#x639;</translation>
+    </message>
+    <message>
+      <source>Please enter album name!</source>
+      <translation>&#x645;&#x646; &#x641;&#x636;&#x644;&#x643; &#x627;&#x62F;&#x62E;&#x644; &#x627;&#x633;&#x645; &#x627;&#x644;&#x623;&#x644;&#x628;&#x648;&#x645;!</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/album_list_admin</name>
+    <message>
+      <source>Are you sure?</source>
+      <translation>&#x647;&#x644; &#x623;&#x646;&#x62A; &#x645;&#x62A;&#x623;&#x643;&#x62F;&#x61F;</translation>
+    </message>
+    <message>
+      <source>Add images</source>
+      <translation>&#x625;&#x636;&#x627;&#x641;&#x629; &#x635;&#x648;&#x631;</translation>
+    </message>
+    <message>
+      <source>Edit album</source>
+      <translation>&#x62A;&#x62D;&#x631;&#x64A;&#x631; &#x627;&#x644;&#x623;&#x644;&#x628;&#x648;&#x645;</translation>
+    </message>
+    <message>
+      <source>Move all album photos to another album</source>
+      <translation>&#x646;&#x642;&#x644; &#x643;&#x627;&#x641;&#x629; &#x627;&#x644;&#x635;&#x648;&#x631; &#x623;&#x644;&#x628;&#x648;&#x645; &#x625;&#x644;&#x649; &#x623;&#x644;&#x628;&#x648;&#x645; &#x622;&#x62E;&#x631;</translation>
+    </message>
+    <message>
+      <source>Move photos by resolution</source>
+      <translation>&#x646;&#x642;&#x644; &#x627;&#x644;&#x635;&#x648;&#x631; &#x645;&#x646; &#x627;&#x644;&#x642;&#x631;&#x627;&#x631;</translation>
+    </message>
+    <message>
+      <source>Delete album</source>
+      <translation>&#x62D;&#x630;&#x641; &#x627;&#x644;&#x623;&#x644;&#x628;&#x648;&#x645;</translation>
+    </message>
+    <message>
+      <source>Approve all images</source>
+      <translation>&#x627;&#x644;&#x645;&#x648;&#x627;&#x641;&#x642;&#x629; &#x639;&#x644;&#x649; &#x62C;&#x645;&#x64A;&#x639; &#x627;&#x644;&#x635;&#x648;&#x631;</translation>
+    </message>
+    <message>
+      <source>Disapprove all images</source>
+      <translation>&#x64A;&#x631;&#x641;&#x636; &#x643;&#x644; &#x627;&#x644;&#x635;&#x648;&#x631;</translation>
+    </message>
+    <message>
+      <source>View on site</source>
+      <translation>&#x639;&#x631;&#x636; &#x639;&#x644;&#x649; &#x645;&#x648;&#x642;&#x639;</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/userlist</name>
+    <message>
+      <source>Report list</source>
+      <translation>&#x627;&#x644;&#x62A;&#x642;&#x631;&#x64A;&#x631; &#x642;&#x627;&#x626;&#x645;&#x629;</translation>
+    </message>
+    <message>
+      <source>Report</source>
+      <translation>&#x62A;&#x642;&#x631;&#x64A;&#x631;</translation>
+    </message>
+    <message>
+      <source>Topic</source>
+      <translation>&#x645;&#x648;&#x636;&#x648;&#x639;</translation>
+    </message>
+    <message>
+      <source>Topic message</source>
+      <translation>&#x645;&#x648;&#x636;&#x648;&#x639; &#x627;&#x644;&#x631;&#x633;&#x627;&#x644;&#x629;</translation>
+    </message>
+    <message>
+      <source>Date</source>
+      <translation>&#x62A;&#x627;&#x631;&#x64A;&#x62E;</translation>
+    </message>
+    <message>
+      <source>Edit topic</source>
+      <translation>&#x62A;&#x62D;&#x631;&#x64A;&#x631; &#x627;&#x644;&#x645;&#x648;&#x636;&#x648;&#x639;</translation>
+    </message>
+    <message>
+      <source>Delete topic</source>
+      <translation>&#x62D;&#x630;&#x641; &#x627;&#x644;&#x645;&#x648;&#x636;&#x648;&#x639;</translation>
+    </message>
+    <message>
+      <source>IP</source>
+      <translation>&#x627;&#x644;&#x645;&#x644;&#x643;&#x64A;&#x629; &#x627;&#x644;&#x641;&#x643;&#x631;&#x64A;&#x629;</translation>
+    </message>
+    <message>
+      <source>Users</source>
+      <translation>&#x627;&#x644;&#x645;&#x633;&#x62A;&#x62E;&#x62F;&#x645;&#x64A;&#x646;</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>&#x627;&#x633;&#x645; &#x627;&#x644;&#x645;&#x633;&#x62A;&#x62E;&#x62F;&#x645;</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>&#x627;&#x644;&#x628;&#x631;&#x64A;&#x62F; &#x627;&#x644;&#x625;&#x644;&#x643;&#x62A;&#x631;&#x648;&#x646;&#x64A;</translation>
+    </message>
+    <message>
+      <source>Edit user</source>
+      <translation>&#x62A;&#x62D;&#x631;&#x64A;&#x631; &#x645;&#x633;&#x62A;&#x62E;&#x62F;&#x645;</translation>
+    </message>
+    <message>
+      <source>Delete user</source>
+      <translation>&#x62D;&#x630;&#x641; &#x627;&#x644;&#x645;&#x633;&#x62A;&#x62E;&#x62F;&#x645;</translation>
+    </message>
+    <message>
+      <source>New user</source>
+      <translation>&#x645;&#x633;&#x62A;&#x62E;&#x62F;&#x645; &#x62C;&#x62F;&#x64A;&#x62F;</translation>
+    </message>
+    <message>
+      <source>Replace image</source>
+      <translation>&#x627;&#x633;&#x62A;&#x628;&#x62F;&#x627;&#x644; &#x635;&#x648;&#x631;&#x629;</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>&#x646;&#x638;&#x627;&#x645; &#x627;&#x644;&#x62A;&#x643;&#x648;&#x64A;&#x646;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/subcategory_list</name>
+    <message>
+      <source>images</source>
+      <translation>&#x627;&#x644;&#x635;&#x648;&#x631;</translation>
+    </message>
+    <message>
+      <source>albums</source>
+      <translation>&#x627;&#x644;&#x628;&#x648;&#x645;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/addimages</name>
+    <message>
+      <source>Add images to album</source>
+      <translation>&#x625;&#x636;&#x627;&#x641;&#x629; &#x625;&#x644;&#x649; &#x623;&#x644;&#x628;&#x648;&#x645; &#x627;&#x644;&#x635;&#x648;&#x631;</translation>
+    </message>
+    <message>
+      <source>Move album images to another album</source>
+      <translation>&#x646;&#x642;&#x644; &#x627;&#x644;&#x635;&#x648;&#x631; &#x623;&#x644;&#x628;&#x648;&#x645; &#x625;&#x644;&#x649; &#x623;&#x644;&#x628;&#x648;&#x645; &#x622;&#x62E;&#x631;</translation>
+    </message>
+    <message>
+      <source>Move image to another album</source>
+      <translation>&#x646;&#x642;&#x644; &#x627;&#x644;&#x635;&#x648;&#x631;&#x629; &#x625;&#x644;&#x649; &#x623;&#x644;&#x628;&#x648;&#x645; &#x622;&#x62E;&#x631;</translation>
+    </message>
+  </context>
+  <context>
+    <name>lhad/orderitemdetails/orderitemdetails_display_ad_magazine</name>
+    <message>
+      <source>Please enable JavaScript to upload image</source>
+      <translation>&#x627;&#x644;&#x631;&#x62C;&#x627;&#x621; &#x62A;&#x645;&#x643;&#x64A;&#x646; &#x62C;&#x627;&#x641;&#x627; &#x633;&#x643;&#x631;&#x64A;&#x628;&#x62A; &#x644;&#x62A;&#x62D;&#x645;&#x64A;&#x644; &#x627;&#x644;&#x635;&#x648;&#x631;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/publicupload</name>
+    <message>
+      <source>Upload</source>
+      <translation>&#x62A;&#x62D;&#x645;&#x64A;&#x644;</translation>
+    </message>
+    <message>
+      <source>Click to choose images to upload, you can also drop files here.</source>
+      <translation>&#x627;&#x646;&#x642;&#x631; &#x644;&#x627;&#x62E;&#x62A;&#x64A;&#x627;&#x631; &#x644;&#x62A;&#x62D;&#x645;&#x64A;&#x644; &#x627;&#x644;&#x635;&#x648;&#x631; &#x60C; &#x64A;&#x645;&#x643;&#x646;&#x643; &#x623;&#x64A;&#x636;&#x627; &#x627;&#x646;&#x62E;&#x641;&#x627;&#x636; &#x627;&#x644;&#x645;&#x644;&#x641;&#x627;&#x62A; &#x647;&#x646;&#x627;.</translation>
+    </message>
+    <message>
+      <source>Click to choose images to upload, you can also Drag and Drop files here (Darg and drop only for FF, Chrome).</source>
+      <translation>&#x627;&#x646;&#x642;&#x631; &#x644;&#x627;&#x62E;&#x62A;&#x64A;&#x627;&#x631; &#x644;&#x62A;&#x62D;&#x645;&#x64A;&#x644; &#x627;&#x644;&#x635;&#x648;&#x631; &#x60C; &#x64A;&#x645;&#x643;&#x646;&#x643; &#x623;&#x64A;&#x636;&#x627; &#x633;&#x62D;&#x628; &#x648;&#x625;&#x633;&#x642;&#x627;&#x637; &#x627;&#x644;&#x645;&#x644;&#x641;&#x627;&#x62A; &#x647;&#x646;&#x627; (Darg &#x648;&#x625;&#x633;&#x642;&#x627;&#x637; &#x641;&#x642;&#x637; &#x644;&#x644;&#x641;&#x631;&#x646;&#x643; &#x641;&#x631;&#x646;&#x633;&#x64A; &#x60C; &#x648;&#x627;&#x644;&#x643;&#x631;&#x648;&#x645;).</translation>
+    </message>
+    <message>
+      <source>Public images archive upload</source>
+      <translation>&#x623;&#x631;&#x634;&#x64A;&#x641; &#x627;&#x644;&#x635;&#x648;&#x631; &#x627;&#x644;&#x639;&#x627;&#x645;&#x629; &#x62A;&#x62D;&#x645;&#x64A;&#x644;</translation>
+    </message>
+    <message>
+      <source>Click to choose zip to upload, you can also drop files here (Darg and drop only for FF, Chrome).</source>
+      <translation>&#x627;&#x646;&#x642;&#x631; &#x644;&#x627;&#x62E;&#x62A;&#x64A;&#x627;&#x631; &#x627;&#x644;&#x631;&#x645;&#x632; &#x644;&#x62A;&#x62D;&#x645;&#x64A;&#x644; &#x60C; &#x64A;&#x645;&#x643;&#x646;&#x643; &#x625;&#x633;&#x642;&#x627;&#x637; &#x623;&#x64A;&#x636;&#x627; &#x639;&#x644;&#x649; &#x645;&#x644;&#x641;&#x627;&#x62A; &#x647;&#x646;&#x627; (Darg &#x648;&#x625;&#x633;&#x642;&#x627;&#x637; &#x641;&#x642;&#x637; &#x644;&#x644;&#x641;&#x631;&#x646;&#x643; &#x641;&#x631;&#x646;&#x633;&#x64A; &#x60C; &#x648;&#x627;&#x644;&#x643;&#x631;&#x648;&#x645;).</translation>
+    </message>
+    <message>
+      <source>Public images upload</source>
+      <translation>&#x62A;&#x62D;&#x645;&#x64A;&#x644; &#x627;&#x644;&#x635;&#x648;&#x631; &#x627;&#x644;&#x639;&#x627;&#x645;&#x629;</translation>
+    </message>
+    <message>
+      <source>Max file size </source>
+      <translation type="unfinished">&#x623;&#x642;&#x635;&#x649; &#x62D;&#x62C;&#x645; &#x627;&#x644;&#x645;&#x644;&#x641;</translation>
+    </message>
+  </context>
+  <context>
+    <name>lhad/uploadadorderitem_content</name>
+    <message>
+      <source>Cancel</source>
+      <translation>&#x625;&#x644;&#x63A;&#x627;&#x621;</translation>
+    </message>
+    <message>
+      <source>Failed</source>
+      <translation>&#x641;&#x634;&#x644;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/fileuploadcontainer</name>
+    <message>
+      <source>Title</source>
+      <translation>&#x644;&#x642;&#x628;</translation>
+    </message>
+    <message>
+      <source>Keywords</source>
+      <translation>&#x627;&#x644;&#x643;&#x644;&#x645;&#x627;&#x62A; &#x627;&#x644;&#x631;&#x626;&#x64A;&#x633;&#x64A;&#x629;</translation>
+    </message>
+    <message>
+      <source>Cross eye image</source>
+      <translation>&#x635;&#x648;&#x631;&#x629; &#x639;&#x628;&#x631; &#x627;&#x644;&#x639;&#x64A;&#x646;</translation>
+    </message>
+    <message>
+      <source>Caption</source>
+      <translation>&#x634;&#x631;&#x62D;</translation>
+    </message>
+    <message>
+      <source>Enter new album name or choose public album</source>
+      <translation>&#x623;&#x62F;&#x62E;&#x644; &#x627;&#x633;&#x645; &#x627;&#x644;&#x623;&#x644;&#x628;&#x648;&#x645; &#x627;&#x644;&#x62C;&#x62F;&#x64A;&#x62F; &#x623;&#x648; &#x627;&#x62E;&#x62A;&#x64A;&#x627;&#x631; &#x627;&#x644;&#x627;&#x644;&#x628;&#x648;&#x645; &#x627;&#x644;&#x639;&#x627;&#x645;</translation>
+    </message>
+    <message>
+      <source>description</source>
+      <translation>&#x648;&#x635;&#x641;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/admincategorys</name>
+    <message>
+      <source>Category</source>
+      <translation>&#x641;&#x626;&#x629;</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>&#x644;&#x642;&#x628;</translation>
+    </message>
+    <message>
+      <source>Owner</source>
+      <translation>&#x645;&#x627;&#x644;&#x643;</translation>
+    </message>
+    <message>
+      <source>Edit category</source>
+      <translation>&#x62A;&#x639;&#x62F;&#x64A;&#x644; &#x627;&#x644;&#x641;&#x626;&#x629;</translation>
+    </message>
+    <message>
+      <source>Delete category</source>
+      <translation>&#x62D;&#x630;&#x641; &#x641;&#x626;&#x629;</translation>
+    </message>
+    <message>
+      <source>Create a category</source>
+      <translation>&#x625;&#x646;&#x634;&#x627;&#x621; &#x641;&#x626;&#x629;</translation>
+    </message>
+    <message>
+      <source>Category albums</source>
+      <translation>&#x627;&#x644;&#x641;&#x626;&#x629; &#x627;&#x644;&#x623;&#x644;&#x628;&#x648;&#x645;&#x627;&#x62A;</translation>
+    </message>
+    <message>
+      <source>This category does not have an album.</source>
+      <translation>&#x647;&#x630;&#x647; &#x627;&#x644;&#x641;&#x626;&#x629; &#x644;&#x64A;&#x633; &#x644;&#x62F;&#x64A;&#x647;&#x627; &#x627;&#x644;&#x623;&#x644;&#x628;&#x648;&#x645;.</translation>
+    </message>
+    <message>
+      <source>Create an album</source>
+      <translation>&#x625;&#x646;&#x634;&#x627;&#x621; &#x627;&#x644;&#x623;&#x644;&#x628;&#x648;&#x645;</translation>
+    </message>
+    <message>
+      <source>Batch album create</source>
+      <translation>&#x627;&#x644;&#x623;&#x644;&#x628;&#x648;&#x645; &#x62F;&#x641;&#x639;&#x629; &#x62E;&#x644;&#x642;</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>&#x645;&#x646;&#x632;&#x644;</translation>
+    </message>
+    <message>
+      <source>Root category</source>
+      <translation>&#x627;&#x644;&#x641;&#x626;&#x629; &#x627;&#x644;&#x62C;&#x630;&#x631;&#x64A;&#x629;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/album_list</name>
+    <message>
+      <source>files</source>
+      <translation>&#x645;&#x644;&#x641;&#x627;&#x62A;</translation>
+    </message>
+    <message>
+      <source>Album priority</source>
+      <translation>&#x627;&#x644;&#x623;&#x644;&#x628;&#x648;&#x645; &#x627;&#x644;&#x623;&#x648;&#x644;&#x648;&#x64A;&#x629;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/batchadd</name>
+    <message>
+      <source>I cannot write this directory</source>
+      <translation>&#x644;&#x627; &#x623;&#x633;&#x62A;&#x637;&#x64A;&#x639; &#x623;&#x646; &#x623;&#x643;&#x62A;&#x628; &#x647;&#x630;&#x627; &#x627;&#x644;&#x62F;&#x644;&#x64A;&#x644;</translation>
+    </message>
+    <message>
+      <source>No image were found!</source>
+      <translation>&#x62A;&#x645; &#x627;&#x644;&#x639;&#x62B;&#x648;&#x631; &#x639;&#x644;&#x649; &#x623;&#x64A; &#x635;&#x648;&#x631;&#x629;!</translation>
+    </message>
+    <message>
+      <source>Import</source>
+      <translation>&#x627;&#x633;&#x62A;&#x64A;&#x631;&#x627;&#x62F;</translation>
+    </message>
+    <message>
+      <source>Import recursive this directory</source>
+      <translation>&#x627;&#x633;&#x62A;&#x64A;&#x631;&#x627;&#x62F; &#x627;&#x644;&#x639;&#x648;&#x62F;&#x64A;&#x629; &#x647;&#x630;&#x627; &#x627;&#x644;&#x62F;&#x644;&#x64A;&#x644;</translation>
+    </message>
+    <message>
+      <source>Search</source>
+      <translation>&#x628;&#x62D;&#x62B;</translation>
+    </message>
+    <message>
+      <source>Please enter album name and click search</source>
+      <translation>&#x645;&#x646; &#x641;&#x636;&#x644;&#x643; &#x627;&#x62F;&#x62E;&#x644; &#x627;&#x633;&#x645; &#x627;&#x644;&#x623;&#x644;&#x628;&#x648;&#x645; &#x648;&#x641;&#x648;&#x642; &#x627;&#x644;&#x628;&#x62D;&#x62B;</translation>
+    </message>
+    <message>
+      <source>List images</source>
+      <translation>&#x642;&#x627;&#x626;&#x645;&#x629; &#x627;&#x644;&#x635;&#x648;&#x631;</translation>
+    </message>
+    <message>
+      <source>List images recursive</source>
+      <translation>&#x635;&#x648;&#x631; &#x642;&#x627;&#x626;&#x645;&#x629; &#x627;&#x644;&#x639;&#x648;&#x62F;&#x64A;&#x629;</translation>
+    </message>
+    <message>
+      <source>Import images</source>
+      <translation>&#x627;&#x633;&#x62A;&#x64A;&#x631;&#x627;&#x62F; &#x627;&#x644;&#x635;&#x648;&#x631;</translation>
+    </message>
+    <message>
+      <source>Click list images or list images recursive</source>
+      <translation>&#x641;&#x648;&#x642; &#x642;&#x627;&#x626;&#x645;&#x629; &#x627;&#x644;&#x635;&#x648;&#x631; &#x623;&#x648; &#x627;&#x644;&#x635;&#x648;&#x631; &#x642;&#x627;&#x626;&#x645;&#x629; &#x627;&#x644;&#x639;&#x648;&#x62F;&#x64A;&#x629;</translation>
+    </message>
+    <message>
+      <source>Add images</source>
+      <translation>&#x625;&#x636;&#x627;&#x641;&#x629; &#x635;&#x648;&#x631;</translation>
+    </message>
+    <message>
+      <source>Please choose album first!</source>
+      <translation>&#x627;&#x644;&#x631;&#x62C;&#x627;&#x621; &#x627;&#x62E;&#x62A;&#x64A;&#x627;&#x631; &#x623;&#x648;&#x644; &#x623;&#x644;&#x628;&#x648;&#x645;!</translation>
+    </message>
+    <message>
+      <source>Mass image upload</source>
+      <translation>&#x62A;&#x62D;&#x645;&#x64A;&#x644; &#x635;&#x648;&#x631;&#x629; &#x62C;&#x645;&#x627;&#x639;&#x64A;&#x629;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/ratebanlist</name>
+    <message>
+      <source>Baned IP for rating</source>
+      <translation>Baned &#x627;&#x644;&#x645;&#x644;&#x643;&#x64A;&#x629; &#x627;&#x644;&#x641;&#x643;&#x631;&#x64A;&#x629; &#x644;&#x644;&#x62A;&#x635;&#x646;&#x64A;&#x641;</translation>
+    </message>
+    <message>
+      <source>Are you sure?</source>
+      <translation>&#x647;&#x644; &#x623;&#x646;&#x62A; &#x645;&#x62A;&#x623;&#x643;&#x62F;&#x61F;</translation>
+    </message>
+    <message>
+      <source>Delete ip</source>
+      <translation>&#x62D;&#x630;&#x641; IP</translation>
+    </message>
+    <message>
+      <source>New IP BAN</source>
+      <translation>IP BAN &#x62C;&#x62F;&#x64A;&#x62F;&#x629;</translation>
+    </message>
+    <message>
+      <source>IP</source>
+      <translation>&#x627;&#x644;&#x645;&#x644;&#x643;&#x64A;&#x629; &#x627;&#x644;&#x641;&#x643;&#x631;&#x64A;&#x629;</translation>
+    </message>
+    <message>
+      <source>Add</source>
+      <translation>&#x625;&#x636;&#x627;&#x641;&#x629;</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>&#x646;&#x638;&#x627;&#x645; &#x627;&#x644;&#x62A;&#x643;&#x648;&#x64A;&#x646;</translation>
+    </message>
+    <message>
+      <source>Comment ban IP</source>
+      <translation>&#x62A;&#x639;&#x644;&#x64A;&#x642; &#x627;&#x644;&#x62D;&#x638;&#x631; IP</translation>
+    </message>
+    <message>
+      <source>Rate ban IP</source>
+      <translation>&#x645;&#x639;&#x62F;&#x644; &#x62D;&#x638;&#x631; IP</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/grouplist</name>
+    <message>
+      <source>Delete comment</source>
+      <translation>&#x62D;&#x630;&#x641; &#x627;&#x644;&#x62A;&#x639;&#x644;&#x64A;&#x642;</translation>
+    </message>
+    <message>
+      <source>Edit comment</source>
+      <translation>&#x62A;&#x62D;&#x631;&#x64A;&#x631; &#x62A;&#x639;&#x644;&#x64A;&#x642;</translation>
+    </message>
+    <message>
+      <source>Delete image</source>
+      <translation>&#x62D;&#x630;&#x641; &#x635;&#x648;&#x631;&#x629;</translation>
+    </message>
+    <message>
+      <source>Groups</source>
+      <translation>&#x627;&#x644;&#x645;&#x62C;&#x645;&#x648;&#x639;&#x627;&#x62A;</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>&#x627;&#x633;&#x645;</translation>
+    </message>
+    <message>
+      <source>Edit group</source>
+      <translation>&#x62A;&#x62D;&#x631;&#x64A;&#x631; &#x627;&#x644;&#x645;&#x62C;&#x645;&#x648;&#x639;&#x629;</translation>
+    </message>
+    <message>
+      <source>Delete group</source>
+      <translation>&#x62D;&#x630;&#x641; &#x645;&#x62C;&#x645;&#x648;&#x639;&#x629;</translation>
+    </message>
+    <message>
+      <source>New group</source>
+      <translation>&#x645;&#x62C;&#x645;&#x648;&#x639;&#x629; &#x62C;&#x62F;&#x64A;&#x62F;&#x629;</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>&#x646;&#x638;&#x627;&#x645; &#x627;&#x644;&#x62A;&#x643;&#x648;&#x64A;&#x646;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/my_image_list</name>
+    <message>
+      <source>Delete comment</source>
+      <translation>&#x62D;&#x630;&#x641; &#x627;&#x644;&#x62A;&#x639;&#x644;&#x64A;&#x642;</translation>
+    </message>
+    <message>
+      <source>Edit comment</source>
+      <translation>&#x62A;&#x62D;&#x631;&#x64A;&#x631; &#x62A;&#x639;&#x644;&#x64A;&#x642;</translation>
+    </message>
+    <message>
+      <source>Delete image</source>
+      <translation>&#x62D;&#x630;&#x641; &#x635;&#x648;&#x631;&#x629;</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>&#x639;&#x631;&#x636; &#x627;&#x644;&#x635;&#x648;&#x631;</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>&#x644;&#x642;&#x628;</translation>
+    </message>
+    <message>
+      <source>Keywords</source>
+      <translation>&#x627;&#x644;&#x643;&#x644;&#x645;&#x627;&#x62A; &#x627;&#x644;&#x631;&#x626;&#x64A;&#x633;&#x64A;&#x629;</translation>
+    </message>
+    <message>
+      <source>Caption</source>
+      <translation>&#x634;&#x631;&#x62D;</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>&#x627;&#x644;&#x62A;&#x62D;&#x62F;&#x64A;&#x62B;</translation>
+    </message>
+    <message>
+      <source>Message author</source>
+      <translation>&#x643;&#x627;&#x62A;&#x628; &#x627;&#x644;&#x631;&#x633;&#x627;&#x644;&#x629;</translation>
+    </message>
+    <message>
+      <source>Message</source>
+      <translation>&#x631;&#x633;&#x627;&#x644;&#x629;</translation>
+    </message>
+    <message>
+      <source>Rotate image clockwise</source>
+      <translation>&#x62A;&#x62F;&#x648;&#x64A;&#x631; &#x627;&#x644;&#x635;&#x648;&#x631;&#x629; &#x641;&#x64A; &#x627;&#x62A;&#x62C;&#x627;&#x647; &#x639;&#x642;&#x627;&#x631;&#x628; &#x627;&#x644;&#x633;&#x627;&#x639;&#x629;</translation>
+    </message>
+    <message>
+      <source>Flip horizontaly</source>
+      <translation>&#x627;&#x644;&#x648;&#x62C;&#x647; horizontaly</translation>
+    </message>
+    <message>
+      <source>Flip verticaly</source>
+      <translation>&#x627;&#x644;&#x648;&#x62C;&#x647; verticaly</translation>
+    </message>
+    <message>
+      <source>Upload new image</source>
+      <translation>&#x62A;&#x62D;&#x645;&#x64A;&#x644; &#x635;&#x648;&#x631;&#x629; &#x62C;&#x62F;&#x64A;&#x62F;&#x629;</translation>
+    </message>
+    <message>
+      <source>Set as folder thumbnail</source>
+      <translation>&#x639;&#x644;&#x649; &#x627;&#x644;&#x646;&#x62D;&#x648; &#x627;&#x644;&#x645;&#x635;&#x63A;&#x631;&#x629; &#x627;&#x644;&#x645;&#x62C;&#x644;&#x62F;</translation>
+    </message>
+    <message>
+      <source>Move image to another album</source>
+      <translation>&#x646;&#x642;&#x644; &#x627;&#x644;&#x635;&#x648;&#x631;&#x629; &#x625;&#x644;&#x649; &#x623;&#x644;&#x628;&#x648;&#x645; &#x622;&#x62E;&#x631;</translation>
+    </message>
+    <message>
+      <source>Anaglyph</source>
+      <translation>&#x627;&#x644;&#x646;&#x642;&#x634;</translation>
+    </message>
+    <message>
+      <source>Approved</source>
+      <translation>&#x648;&#x627;&#x641;&#x642;</translation>
+    </message>
+    <message>
+      <source>Select image</source>
+      <translation>&#x62D;&#x62F;&#x62F; &#x627;&#x644;&#x635;&#x648;&#x631;&#x629;</translation>
+    </message>
+    <message>
+      <source>File</source>
+      <translation>&#x645;&#x644;&#x641;</translation>
+    </message>
+    <message>
+      <source>Upload</source>
+      <translation>&#x62A;&#x62D;&#x645;&#x64A;&#x644;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/createalbumadmin</name>
+    <message>
+      <source>New album</source>
+      <translation>&#x627;&#x644;&#x623;&#x644;&#x628;&#x648;&#x645; &#x627;&#x644;&#x62C;&#x62F;&#x64A;&#x62F;</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>&#x62D;&#x641;&#x638;</translation>
+    </message>
+    <message>
+      <source>New batch album create</source>
+      <translation>&#x627;&#x644;&#x623;&#x644;&#x628;&#x648;&#x645; &#x627;&#x644;&#x62C;&#x62F;&#x64A;&#x62F; &#x625;&#x646;&#x634;&#x627;&#x621; &#x627;&#x644;&#x62F;&#x641;&#x639;&#x64A;</translation>
+    </message>
+    <message>
+      <source>Paste album names separated by new line</source>
+      <translation>&#x627;&#x644;&#x623;&#x644;&#x628;&#x648;&#x645; &#x644;&#x635;&#x642; &#x623;&#x633;&#x645;&#x627;&#x621; &#x645;&#x641;&#x635;&#x648;&#x644;&#x629; &#x633;&#x637;&#x631; &#x62C;&#x62F;&#x64A;&#x62F;</translation>
+    </message>
+    <message>
+      <source>Public</source>
+      <translation>&#x62C;&#x645;&#x647;&#x648;&#x631;</translation>
+    </message>
+    <message>
+      <source>All users can uploads images to this album</source>
+      <translation>&#x64A;&#x645;&#x643;&#x646; &#x644;&#x62C;&#x645;&#x64A;&#x639; &#x627;&#x644;&#x645;&#x633;&#x62A;&#x62E;&#x62F;&#x645;&#x64A;&#x646; &#x62A;&#x62D;&#x645;&#x64A;&#x644; &#x627;&#x644;&#x635;&#x648;&#x631; &#x625;&#x644;&#x649; &#x647;&#x630;&#x627; &#x627;&#x644;&#x623;&#x644;&#x628;&#x648;&#x645;</translation>
+    </message>
+    <message>
+      <source>Please enter album name!</source>
+      <translation>&#x645;&#x646; &#x641;&#x636;&#x644;&#x643; &#x627;&#x62F;&#x62E;&#x644; &#x627;&#x633;&#x645; &#x627;&#x644;&#x623;&#x644;&#x628;&#x648;&#x645;!</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/duplicates</name>
+    <message>
+      <source>Similar images number</source>
+      <translation>&#x639;&#x62F;&#x62F; &#x645;&#x645;&#x627;&#x62B;&#x644; &#x627;&#x644;&#x635;&#x648;&#x631;</translation>
+    </message>
+    <message>
+      <source>Details</source>
+      <translation>&#x62A;&#x641;&#x627;&#x635;&#x64A;&#x644;</translation>
+    </message>
+    <message>
+      <source>More</source>
+      <translation>&#x623;&#x643;&#x62B;&#x631;</translation>
+    </message>
+    <message>
+      <source>Delete duplicate session</source>
+      <translation>&#x62D;&#x630;&#x641; &#x645;&#x643;&#x631;&#x631;&#x629; &#x627;&#x644;&#x62F;&#x648;&#x631;&#x629;</translation>
+    </message>
+    <message>
+      <source>No duplicates pending...</source>
+      <translation>&#x644;&#x627; &#x627;&#x644;&#x62A;&#x643;&#x631;&#x627;&#x631;&#x627;&#x62A; &#x641;&#x64A; &#x627;&#x646;&#x62A;&#x638;&#x627;&#x631;...</translation>
+    </message>
+    <message>
+      <source>Duplicates</source>
+      <translation>&#x627;&#x644;&#x62A;&#x643;&#x631;&#x627;&#x631;&#x627;&#x62A;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/image</name>
+    <message>
+      <source>Picture comments</source>
+      <translation>&#x62A;&#x639;&#x644;&#x64A;&#x642; &#x627;&#x644;&#x635;&#x648;&#x631;&#x629;</translation>
+    </message>
+    <message>
+      <source>No comments</source>
+      <translation>&#x644;&#x627; &#x62A;&#x648;&#x62C;&#x62F; &#x62A;&#x639;&#x644;&#x64A;&#x642;&#x627;&#x62A;</translation>
+    </message>
+    <message>
+      <source>Comment stored</source>
+      <translation>&#x62A;&#x639;&#x644;&#x64A;&#x642; &#x627;&#x644;&#x645;&#x62E;&#x632;&#x646;&#x629;</translation>
+    </message>
+    <message>
+      <source>Leave a reply</source>
+      <translation>&#x62A;&#x631;&#x643; &#x627;&#x644;&#x631;&#x62F;</translation>
+    </message>
+    <message>
+      <source>Nick</source>
+      <translation>&#x646;&#x64A;&#x643;</translation>
+    </message>
+    <message>
+      <source>Max 25 characters</source>
+      <translation>&#x628;&#x62D;&#x62F; &#x623;&#x642;&#x635;&#x649; 25 &#x62D;&#x631;&#x641;&#x627;</translation>
+    </message>
+    <message>
+      <source>Message</source>
+      <translation>&#x631;&#x633;&#x627;&#x644;&#x629;</translation>
+    </message>
+    <message>
+      <source>Send</source>
+      <translation>&#x625;&#x631;&#x633;&#x627;&#x644;</translation>
+    </message>
+    <message>
+      <source>Image edit</source>
+      <translation>&#x62A;&#x62D;&#x631;&#x64A;&#x631; &#x627;&#x644;&#x635;&#x648;&#x631;</translation>
+    </message>
+    <message>
+      <source>Rate this picture</source>
+      <translation>&#x633;&#x639;&#x631; &#x647;&#x630;&#x647; &#x627;&#x644;&#x635;&#x648;&#x631;&#x629;</translation>
+    </message>
+    <message>
+      <source>star</source>
+      <translation>&#x646;&#x62C;&#x645;</translation>
+    </message>
+    <message>
+      <source>stars</source>
+      <translation>&#x646;&#x62C;&#x648;&#x645;</translation>
+    </message>
+    <message>
+      <source>Vote!</source>
+      <translation>&#x62A;&#x635;&#x648;&#x64A;&#x62A;!</translation>
+    </message>
+    <message>
+      <source>Deduct vote!</source>
+      <translation>&#x62E;&#x635;&#x645; &#x627;&#x644;&#x62A;&#x635;&#x648;&#x64A;&#x62A;!</translation>
+    </message>
+    <message>
+      <source>next image</source>
+      <translation>&#x627;&#x644;&#x635;&#x648;&#x631;&#x629; &#x627;&#x644;&#x62A;&#x627;&#x644;&#x64A;&#x629;</translation>
+    </message>
+    <message>
+      <source>previous image</source>
+      <translation>&#x627;&#x644;&#x635;&#x648;&#x631;&#x629; &#x627;&#x644;&#x633;&#x627;&#x628;&#x642;&#x629;</translation>
+    </message>
+    <message>
+      <source>return to thumbnails</source>
+      <translation>&#x639;&#x648;&#x62F;&#x629; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x635;&#x63A;&#x631;&#x627;&#x62A;</translation>
+    </message>
+    <message>
+      <source>Click to see fullsize</source>
+      <translation>&#x627;&#x646;&#x642;&#x631; &#x644;&#x631;&#x624;&#x64A;&#x629; &#x627;&#x644;&#x635;&#x648;&#x631;&#x629; &#x628;&#x62D;&#x62C;&#x645;&#x647;&#x627; &#x627;&#x644;&#x637;&#x628;&#x64A;&#x639;&#x64A;</translation>
+    </message>
+    <message>
+      <source>Supported BB Code style tags: [b] [i] [u] [quote] :) :D :( :o :p ;)</source>
+      <translation>&#x64A;&#x624;&#x64A;&#x62F; &#x627;&#x633;&#x644;&#x648;&#x628; &#x642;&#x627;&#x646;&#x648;&#x646; &#x627;&#x644;&#x639;&#x644;&#x627;&#x645;&#x627;&#x62A; &#x627;&#x644;&#x645;&#x646;&#x62A;&#x62F;&#x649; : [&#x628;] [&#x637;] [U] [&#x627;&#x644;&#x627;&#x642;&#x62A;&#x628;&#x627;&#x633;] :) : D : (: &#x633; : &#x639; &#x61B;)</translation>
+    </message>
+    <message>
+      <source>Add to favorites</source>
+      <translation>&#x623;&#x636;&#x641; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x641;&#x636;&#x644;&#x629;</translation>
+    </message>
+    <message>
+      <source>Share this page HTML code</source>
+      <translation>&#x62D;&#x635;&#x629; &#x647;&#x630;&#x647; &#x627;&#x644;&#x635;&#x641;&#x62D;&#x629; &#x631;&#x645;&#x632; HTML</translation>
+    </message>
+    <message>
+      <source>Share PHPBB code</source>
+      <translation>PHPBB &#x631;&#x645;&#x632; &#x627;&#x644;&#x633;&#x647;&#x645;</translation>
+    </message>
+    <message>
+      <source>Anaglyph version</source>
+      <translation>&#x627;&#x644;&#x646;&#x642;&#x634; &#x627;&#x644;&#x625;&#x635;&#x62F;&#x627;&#x631;</translation>
+    </message>
+    <message>
+      <source>Enter tags separated by space</source>
+      <translation>&#x623;&#x62F;&#x62E;&#x644; &#x628;&#x647; &#x645;&#x641;&#x635;&#x648;&#x644;&#x629; &#x627;&#x644;&#x641;&#x636;&#x627;&#x621;</translation>
+    </message>
+    <message>
+      <source>Picture details</source>
+      <translation>&#x62A;&#x641;&#x627;&#x635;&#x64A;&#x644; &#x627;&#x644;&#x635;&#x648;&#x631;&#x629;</translation>
+    </message>
+    <message>
+      <source>Filename</source>
+      <translation>&#x627;&#x633;&#x645; &#x627;&#x644;&#x645;&#x644;&#x641;</translation>
+    </message>
+    <message>
+      <source>File size</source>
+      <translation>&#x62D;&#x62C;&#x645; &#x627;&#x644;&#x645;&#x644;&#x641;</translation>
+    </message>
+    <message>
+      <source>Image rating</source>
+      <translation>&#x62A;&#x635;&#x646;&#x64A;&#x641; &#x627;&#x644;&#x635;&#x648;&#x631;</translation>
+    </message>
+    <message>
+      <source>Date added</source>
+      <translation>&#x62A;&#x627;&#x631;&#x64A;&#x62E; &#x627;&#x644;&#x627;&#x636;&#x627;&#x641;&#x629;</translation>
+    </message>
+    <message>
+      <source>Dimensions</source>
+      <translation>&#x623;&#x628;&#x639;&#x627;&#x62F;</translation>
+    </message>
+    <message>
+      <source>Displayed</source>
+      <translation>&#x639;&#x631;&#x636;</translation>
+    </message>
+    <message>
+      <source>times</source>
+      <translation>&#x645;&#x631;&#x627;&#x62A;</translation>
+    </message>
+    <message>
+      <source>Album</source>
+      <translation>&#x627;&#x644;&#x623;&#x644;&#x628;&#x648;&#x645;</translation>
+    </message>
+    <message>
+      <source>URL</source>
+      <translation>URL</translation>
+    </message>
+    <message>
+      <source>Owner</source>
+      <translation>&#x645;&#x627;&#x644;&#x643;</translation>
+    </message>
+    <message>
+      <source>About user</source>
+      <translation>&#x639;&#x646; &#x627;&#x644;&#x645;&#x633;&#x62A;&#x62E;&#x62F;&#x645;</translation>
+    </message>
+    <message>
+      <source>votes</source>
+      <translation>&#x627;&#x644;&#x623;&#x635;&#x648;&#x627;&#x62A;</translation>
+    </message>
+    <message>
+      <source>Search for similar colors images</source>
+      <translation>&#x628;&#x62D;&#x62B; &#x639;&#x646; &#x627;&#x644;&#x635;&#x648;&#x631; &#x627;&#x644;&#x623;&#x644;&#x648;&#x627;&#x646; &#x645;&#x634;&#x627;&#x628;&#x647;&#x629;</translation>
+    </message>
+    <message>
+      <source>Search for visualy similar images</source>
+      <translation>&#x627;&#x644;&#x628;&#x62D;&#x62B; &#x639;&#x646; &#x635;&#x648;&#x631; &#x645;&#x634;&#x627;&#x628;&#x647;&#x629; visualy</translation>
+    </message>
+    <message>
+      <source>More user images</source>
+      <translation>&#x627;&#x644;&#x635;&#x648;&#x631; &#x623;&#x643;&#x62B;&#x631; &#x633;&#x647;&#x648;&#x644;&#x629;</translation>
+    </message>
+    <message>
+      <source>Version</source>
+      <translation>&#x627;&#x644;&#x625;&#x635;&#x62F;&#x627;&#x631;</translation>
+    </message>
+    <message>
+      <source>Image size</source>
+      <translation>&#x62D;&#x62C;&#x645; &#x627;&#x644;&#x635;&#x648;&#x631;&#x629;</translation>
+    </message>
+    <message>
+      <source>Format</source>
+      <translation>&#x634;&#x643;&#x644;</translation>
+    </message>
+    <message>
+      <source>Price</source>
+      <translation>&#x627;&#x644;&#x633;&#x639;&#x631;</translation>
+    </message>
+    <message>
+      <source>credits</source>
+      <translation>&#x627;&#x644;&#x627;&#x639;&#x62A;&#x645;&#x627;&#x62F;&#x627;&#x62A;</translation>
+    </message>
+    <message>
+      <source>Remove from basket</source>
+      <translation>&#x625;&#x632;&#x627;&#x644;&#x629; &#x645;&#x646; &#x633;&#x644;&#x629;</translation>
+    </message>
+    <message>
+      <source>Add to basket</source>
+      <translation>&#x623;&#x636;&#x641; &#x625;&#x644;&#x649; &#x627;&#x644;&#x633;&#x644;&#x629;</translation>
+    </message>
+    <message>
+      <source>Wrong captcha code!</source>
+      <translation>CAPTCHA &#x631;&#x645;&#x632; &#x627;&#x644;&#x62E;&#x637;&#x623;!</translation>
+    </message>
+    <message>
+      <source>Please enter nick!</source>
+      <translation>&#x645;&#x646; &#x641;&#x636;&#x644;&#x643; &#x627;&#x62F;&#x62E;&#x644; &#x627;&#x644;&#x646;&#x643;!</translation>
+    </message>
+    <message>
+      <source>Please enter comment!</source>
+      <translation>&#x627;&#x644;&#x631;&#x62C;&#x627;&#x621; &#x625;&#x62F;&#x62E;&#x627;&#x644; &#x62A;&#x639;&#x644;&#x64A;&#x642;!</translation>
+    </message>
+    <message>
+      <source>You are not allowed to leave a comments!</source>
+      <translation>&#x644;&#x627; &#x64A;&#x633;&#x645;&#x62D; &#x644;&#x643; &#x644;&#x62A;&#x631;&#x643; &#x62A;&#x639;&#x644;&#x64A;&#x642;!</translation>
+    </message>
+    <message>
+      <source>Guest_</source>
+      <translation>Guest_</translation>
+    </message>
+    <message>
+      <source>Last uploaded images</source>
+      <translation>&#x645;&#x634;&#x627;&#x631;&#x643;&#x629; &#x627;&#x644;&#x635;&#x648;&#x631; &#x627;&#x644;&#x62A;&#x64A; &#x62A;&#x645; &#x62A;&#x62D;&#x645;&#x64A;&#x644;&#x647;&#x627;</translation>
+    </message>
+    <message>
+      <source>Last additions</source>
+      <translation>&#x622;&#x62E;&#x631; &#x645;&#x627; &#x623;&#x636;&#x64A;&#x641;</translation>
+    </message>
+    <message>
+      <source>Last viewed images</source>
+      <translation>&#x645;&#x634;&#x627;&#x631;&#x643;&#x629; &#x627;&#x644;&#x635;&#x648;&#x631; &#x634;&#x648;&#x647;&#x62F;&#x62A;</translation>
+    </message>
+    <message>
+      <source>Last commented images</source>
+      <translation>&#x648;&#x639;&#x644;&#x642; &#x645;&#x634;&#x627;&#x631;&#x643;&#x629; &#x627;&#x644;&#x635;&#x648;&#x631;</translation>
+    </message>
+    <message>
+      <source>Last rated images</source>
+      <translation>&#x645;&#x634;&#x627;&#x631;&#x643;&#x629; &#x627;&#x644;&#x635;&#x648;&#x631; &#x641;&#x64A; &#x627;&#x644;&#x62A;&#x635;&#x646;&#x64A;&#x641;</translation>
+    </message>
+    <message>
+      <source>Top rated images</source>
+      <translation>&#x623;&#x639;&#x644;&#x649; &#x62A;&#x635;&#x646;&#x64A;&#x641; &#x627;&#x644;&#x635;&#x648;&#x631;</translation>
+    </message>
+    <message>
+      <source>Search by color</source>
+      <translation>&#x627;&#x644;&#x628;&#x62D;&#x62B; &#x639;&#x646; &#x637;&#x631;&#x64A;&#x642; &#x627;&#x644;&#x644;&#x648;&#x646;</translation>
+    </message>
+    <message>
+      <source>Most popular images</source>
+      <translation>&#x627;&#x644;&#x635;&#x648;&#x631; &#x627;&#x644;&#x623;&#x643;&#x62B;&#x631; &#x634;&#x639;&#x628;&#x64A;&#x629;</translation>
+    </message>
+    <message>
+      <source>Search rss by keyword</source>
+      <translation>&#x628;&#x62D;&#x62B; RSS &#x62D;&#x633;&#x628; &#x627;&#x644;&#x643;&#x644;&#x645;&#x629;</translation>
+    </message>
+    <message>
+      <source>Last uploaded first</source>
+      <translation>&#x62A;&#x645; &#x627;&#x644;&#x631;&#x641;&#x639; &#x627;&#x644;&#x623;&#x62E;&#x64A;&#x631;&#x629; &#x623;&#x648;&#x644;&#x627;</translation>
+    </message>
+    <message>
+      <source>Last uploaded last</source>
+      <translation>&#x62A;&#x645; &#x627;&#x644;&#x631;&#x641;&#x639; &#x627;&#x644;&#x623;&#x62E;&#x64A;&#x631;&#x629;</translation>
+    </message>
+    <message>
+      <source>Most popular first</source>
+      <translation>&#x645;&#x639;&#x638;&#x645; &#x627;&#x644;&#x634;&#x639;&#x628;&#x64A;&#x629; &#x627;&#x644;&#x623;&#x648;&#x644;&#x649;</translation>
+    </message>
+    <message>
+      <source>Most popular last</source>
+      <translation>&#x627;&#x644;&#x623;&#x643;&#x62B;&#x631; &#x634;&#x639;&#x628;&#x64A;&#x629; &#x645;&#x634;&#x627;&#x631;&#x643;&#x629;</translation>
+    </message>
+    <message>
+      <source>Last hits first</source>
+      <translation>&#x645;&#x634;&#x627;&#x631;&#x643;&#x629; &#x64A;&#x636;&#x631;&#x628; first</translation>
+    </message>
+    <message>
+      <source>Last hits last</source>
+      <translation>&#x622;&#x62E;&#x631; &#x645;&#x634;&#x627;&#x631;&#x643;&#x629; &#x645;&#x634;&#x627;&#x647;&#x62F;&#x627;&#x62A;</translation>
+    </message>
+    <message>
+      <source>Last commented first</source>
+      <translation>&#x648;&#x639;&#x644;&#x642; &#x627;&#x644;&#x623;&#x62E;&#x64A;&#x631; &#x623;&#x648;&#x644;&#x627;</translation>
+    </message>
+    <message>
+      <source>Last commented last</source>
+      <translation>&#x648;&#x639;&#x644;&#x642; &#x622;&#x62E;&#x631; &#x645;&#x634;&#x627;&#x631;&#x643;&#x629;</translation>
+    </message>
+    <message>
+      <source>Top rated first</source>
+      <translation>&#x623;&#x639;&#x644;&#x649; &#x62A;&#x635;&#x646;&#x64A;&#x641; first</translation>
+    </message>
+    <message>
+      <source>Top rated last Last</source>
+      <translation>&#x623;&#x639;&#x644;&#x649; &#x62A;&#x635;&#x646;&#x64A;&#x641; &#x622;&#x62E;&#x631;</translation>
+    </message>
+    <message>
+      <source>Last rated first</source>
+      <translation>&#x627;&#x644;&#x62A;&#x635;&#x646;&#x64A;&#x641; &#x627;&#x644;&#x623;&#x62E;&#x64A;&#x631; &#x623;&#x648;&#x644;&#x627;</translation>
+    </message>
+    <message>
+      <source>Last rated last</source>
+      <translation>&#x62A;&#x635;&#x646;&#x64A;&#x641; &#x622;&#x62E;&#x631; &#x645;&#x634;&#x627;&#x631;&#x643;&#x629;</translation>
+    </message>
+    <message>
+      <source>Most relevance images last</source>
+      <translation>&#x627;&#x644;&#x635;&#x648;&#x631; &#x627;&#x644;&#x623;&#x643;&#x62B;&#x631; &#x623;&#x647;&#x645;&#x64A;&#x629; &#x645;&#x634;&#x627;&#x631;&#x643;&#x629;</translation>
+    </message>
+    <message>
+      <source>search results</source>
+      <translation>&#x646;&#x62A;&#x627;&#x626;&#x62C; &#x627;&#x644;&#x628;&#x62D;&#x62B;</translation>
+    </message>
+    <message>
+      <source>Last uploaded images to album</source>
+      <translation>&#x645;&#x634;&#x627;&#x631;&#x643;&#x629; &#x627;&#x644;&#x635;&#x648;&#x631; &#x627;&#x644;&#x62A;&#x64A; &#x64A;&#x62A;&#x645; &#x62A;&#x62D;&#x645;&#x64A;&#x644;&#x647;&#x627; &#x625;&#x644;&#x649; &#x623;&#x644;&#x628;&#x648;&#x645;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/managealbum</name>
+    <message>
+      <source>No records.</source>
+      <translation>&#x623;&#x64A;&#x629; &#x633;&#x62C;&#x644;&#x627;&#x62A;.</translation>
+    </message>
+    <message>
+      <source>Category</source>
+      <translation>&#x641;&#x626;&#x629;</translation>
+    </message>
+    <message>
+      <source>Create an album</source>
+      <translation>&#x625;&#x646;&#x634;&#x627;&#x621; &#x627;&#x644;&#x623;&#x644;&#x628;&#x648;&#x645;</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>&#x645;&#x646;&#x632;&#x644;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/managealbumimages</name>
+    <message>
+      <source>Move selected images to</source>
+      <translation>&#x646;&#x642;&#x644; &#x627;&#x644;&#x635;&#x648;&#x631; &#x627;&#x644;&#x645;&#x62E;&#x62A;&#x627;&#x631;&#x629; &#x644;</translation>
+    </message>
+    <message>
+      <source>Check all</source>
+      <translation>&#x641;&#x62D;&#x635; &#x62C;&#x645;&#x64A;&#x639;</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>&#x623;&#x64A;&#x629; &#x633;&#x62C;&#x644;&#x627;&#x62A;.</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>&#x645;&#x646;&#x632;&#x644;</translation>
+    </message>
+    <message>
+      <source>Root category</source>
+      <translation>&#x627;&#x644;&#x641;&#x626;&#x629; &#x627;&#x644;&#x62C;&#x630;&#x631;&#x64A;&#x629;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/movealbumphotos</name>
+    <message>
+      <source>Search album</source>
+      <translation>&#x628;&#x62D;&#x62B; &#x627;&#x644;&#x623;&#x644;&#x628;&#x648;&#x645;</translation>
+    </message>
+    <message>
+      <source>Move photos</source>
+      <translation>&#x646;&#x642;&#x644; &#x627;&#x644;&#x635;&#x648;&#x631;</translation>
+    </message>
+    <message>
+      <source>We moved</source>
+      <translation>&#x627;&#x646;&#x62A;&#x642;&#x644;&#x646;&#x627;</translation>
+    </message>
+    <message>
+      <source>images</source>
+      <translation>&#x627;&#x644;&#x635;&#x648;&#x631;</translation>
+    </message>
+    <message>
+      <source>Move album photos</source>
+      <translation>&#x646;&#x642;&#x644; &#x635;&#x648;&#x631; &#x627;&#x644;&#x623;&#x644;&#x628;&#x648;&#x645;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/image_list</name>
+    <message>
+      <source>preview version</source>
+      <translation>&#x645;&#x639;&#x627;&#x64A;&#x646;&#x629; &#x627;&#x644;&#x646;&#x633;&#x62E;&#x629;</translation>
+    </message>
+    <message>
+      <source>See full size</source>
+      <translation>&#x627;&#x646;&#x638;&#x631; &#x62D;&#x62C;&#x645; &#x627;&#x644;&#x643;&#x627;&#x645;&#x644;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/search</name>
+    <message>
+      <source>Last uploaded</source>
+      <translation>&#x62A;&#x645; &#x627;&#x644;&#x631;&#x641;&#x639; &#x645;&#x634;&#x627;&#x631;&#x643;&#x629;</translation>
+    </message>
+    <message>
+      <source>Most popular</source>
+      <translation>&#x627;&#x644;&#x623;&#x643;&#x62B;&#x631; &#x634;&#x639;&#x628;&#x64A;&#x629;</translation>
+    </message>
+    <message>
+      <source>Last hits</source>
+      <translation>&#x645;&#x634;&#x627;&#x631;&#x643;&#x629; &#x645;&#x634;&#x627;&#x647;&#x62F;&#x627;&#x62A;</translation>
+    </message>
+    <message>
+      <source>Top rated</source>
+      <translation>&#x623;&#x639;&#x644;&#x649; &#x62A;&#x635;&#x646;&#x64A;&#x641;</translation>
+    </message>
+    <message>
+      <source>Last rated</source>
+      <translation>&#x622;&#x62E;&#x631; &#x62A;&#x635;&#x646;&#x64A;&#x641;</translation>
+    </message>
+    <message>
+      <source>Last commented</source>
+      <translation>&#x639;&#x644;&#x642; &#x627;&#x644;&#x645;&#x627;&#x636;&#x64A;</translation>
+    </message>
+    <message>
+      <source>Filename</source>
+      <translation>&#x627;&#x633;&#x645; &#x627;&#x644;&#x645;&#x644;&#x641;</translation>
+    </message>
+    <message>
+      <source>Search results</source>
+      <translation>&#x646;&#x62A;&#x627;&#x626;&#x62C; &#x627;&#x644;&#x628;&#x62D;&#x62B;</translation>
+    </message>
+    <message>
+      <source>Nothing found</source>
+      <translation>&#x648;&#x62C;&#x62F;&#x62A; &#x634;&#x64A;&#x626;&#x627;</translation>
+    </message>
+    <message>
+      <source>Any resolution</source>
+      <translation>&#x623;&#x64A; &#x642;&#x631;&#x627;&#x631;</translation>
+    </message>
+    <message>
+      <source>Relevance</source>
+      <translation>&#x639;&#x644;&#x627;&#x642;&#x629;</translation>
+    </message>
+    <message>
+      <source>Any keyword</source>
+      <translation>&#x623;&#x64A; &#x643;&#x644;&#x645;&#x629; &#x631;&#x626;&#x64A;&#x633;&#x64A;&#x629;</translation>
+    </message>
+    <message>
+      <source>All keywords</source>
+      <translation>&#x62C;&#x645;&#x64A;&#x639; &#x627;&#x644;&#x643;&#x644;&#x645;&#x627;&#x62A;</translation>
+    </message>
+    <message>
+      <source>search results</source>
+      <translation>&#x646;&#x62A;&#x627;&#x626;&#x62C; &#x627;&#x644;&#x628;&#x62D;&#x62B;</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>&#x635;&#x641;&#x62D;&#x629;</translation>
+    </message>
+    <message>
+      <source>Last uploaded first</source>
+      <translation>&#x62A;&#x645; &#x627;&#x644;&#x631;&#x641;&#x639; &#x627;&#x644;&#x623;&#x62E;&#x64A;&#x631;&#x629; &#x623;&#x648;&#x644;&#x627;</translation>
+    </message>
+    <message>
+      <source>Last uploaded last</source>
+      <translation>&#x62A;&#x645; &#x627;&#x644;&#x631;&#x641;&#x639; &#x627;&#x644;&#x623;&#x62E;&#x64A;&#x631;&#x629;</translation>
+    </message>
+    <message>
+      <source>Most popular first</source>
+      <translation>&#x645;&#x639;&#x638;&#x645; &#x627;&#x644;&#x634;&#x639;&#x628;&#x64A;&#x629; &#x627;&#x644;&#x623;&#x648;&#x644;&#x649;</translation>
+    </message>
+    <message>
+      <source>Most popular last</source>
+      <translation>&#x627;&#x644;&#x623;&#x643;&#x62B;&#x631; &#x634;&#x639;&#x628;&#x64A;&#x629; &#x645;&#x634;&#x627;&#x631;&#x643;&#x629;</translation>
+    </message>
+    <message>
+      <source>Last hits first</source>
+      <translation>&#x645;&#x634;&#x627;&#x631;&#x643;&#x629; &#x64A;&#x636;&#x631;&#x628; first</translation>
+    </message>
+    <message>
+      <source>Last hits last</source>
+      <translation>&#x622;&#x62E;&#x631; &#x645;&#x634;&#x627;&#x631;&#x643;&#x629; &#x645;&#x634;&#x627;&#x647;&#x62F;&#x627;&#x62A;</translation>
+    </message>
+    <message>
+      <source>Last commented first</source>
+      <translation>&#x648;&#x639;&#x644;&#x642; &#x627;&#x644;&#x623;&#x62E;&#x64A;&#x631; &#x623;&#x648;&#x644;&#x627;</translation>
+    </message>
+    <message>
+      <source>Last commented last</source>
+      <translation>&#x648;&#x639;&#x644;&#x642; &#x622;&#x62E;&#x631; &#x645;&#x634;&#x627;&#x631;&#x643;&#x629;</translation>
+    </message>
+    <message>
+      <source>Last rated first</source>
+      <translation>&#x627;&#x644;&#x62A;&#x635;&#x646;&#x64A;&#x641; &#x627;&#x644;&#x623;&#x62E;&#x64A;&#x631; &#x623;&#x648;&#x644;&#x627;</translation>
+    </message>
+    <message>
+      <source>Last rated last</source>
+      <translation>&#x62A;&#x635;&#x646;&#x64A;&#x641; &#x622;&#x62E;&#x631; &#x645;&#x634;&#x627;&#x631;&#x643;&#x629;</translation>
+    </message>
+    <message>
+      <source>Top rated first</source>
+      <translation>&#x623;&#x639;&#x644;&#x649; &#x62A;&#x635;&#x646;&#x64A;&#x641; first</translation>
+    </message>
+    <message>
+      <source>Top rated last</source>
+      <translation>&#x623;&#x639;&#x644;&#x649; &#x62A;&#x635;&#x646;&#x64A;&#x641; &#x622;&#x62E;&#x631;</translation>
+    </message>
+    <message>
+      <source>Most relevance images last</source>
+      <translation>&#x627;&#x644;&#x635;&#x648;&#x631; &#x627;&#x644;&#x623;&#x643;&#x62B;&#x631; &#x623;&#x647;&#x645;&#x64A;&#x629; &#x645;&#x634;&#x627;&#x631;&#x643;&#x629;</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>&#x642;&#x631;&#x627;&#x631;</translation>
+    </message>
+    <message>
+      <source>Search RSS by keyword</source>
+      <translation>&#x627;&#x644;&#x628;&#x62D;&#x62B; &#x639;&#x646; &#x637;&#x631;&#x64A;&#x642; &#x627;&#x644;&#x643;&#x644;&#x645;&#x627;&#x62A; &#x627;&#x644;&#x631;&#x626;&#x64A;&#x633;&#x64A;&#x629; RSS</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/editrole</name>
+    <message>
+      <source>Role edit</source>
+      <translation>&#x62A;&#x62D;&#x631;&#x64A;&#x631; &#x627;&#x644;&#x62F;&#x648;&#x631;</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>&#x644;&#x642;&#x628;</translation>
+    </message>
+    <message>
+      <source>Assigned functions</source>
+      <translation>&#x62A;&#x639;&#x64A;&#x64A;&#x646; &#x648;&#x638;&#x627;&#x626;&#x641;</translation>
+    </message>
+    <message>
+      <source>Module</source>
+      <translation>&#x648;&#x62D;&#x62F;&#x629;</translation>
+    </message>
+    <message>
+      <source>Function</source>
+      <translation>&#x648;&#x638;&#x64A;&#x641;&#x629;</translation>
+    </message>
+    <message>
+      <source>Remove selected</source>
+      <translation>&#x625;&#x632;&#x627;&#x644;&#x629; &#x645;&#x62E;&#x62A;&#x627;&#x631;&#x629;</translation>
+    </message>
+    <message>
+      <source>New policy</source>
+      <translation>&#x633;&#x64A;&#x627;&#x633;&#x629; &#x62C;&#x62F;&#x64A;&#x62F;&#x629;</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>&#x627;&#x644;&#x62A;&#x62D;&#x62F;&#x64A;&#x62B;</translation>
+    </message>
+    <message>
+      <source>Cancel</source>
+      <translation>&#x625;&#x644;&#x63A;&#x627;&#x621;</translation>
+    </message>
+    <message>
+      <source>Role assigned groups</source>
+      <translation>&#x645;&#x62C;&#x645;&#x648;&#x639;&#x627;&#x62A; &#x627;&#x644;&#x62F;&#x648;&#x631; &#x627;&#x644;&#x645;&#x646;&#x648;&#x637;</translation>
+    </message>
+    <message>
+      <source>Group assignement to role</source>
+      <translation>assignement &#x627;&#x644;&#x645;&#x62C;&#x645;&#x648;&#x639;&#x629; &#x625;&#x644;&#x649; &#x62F;&#x648;&#x631;</translation>
+    </message>
+    <message>
+      <source>Assign group</source>
+      <translation>&#x62A;&#x639;&#x64A;&#x64A;&#x646; &#x645;&#x62C;&#x645;&#x648;&#x639;&#x629;</translation>
+    </message>
+    <message>
+      <source>Please enter role name</source>
+      <translation>&#x627;&#x644;&#x631;&#x62C;&#x627;&#x621; &#x625;&#x62F;&#x62E;&#x627;&#x644; &#x627;&#x633;&#x645; &#x627;&#x644;&#x62F;&#x648;&#x631;</translation>
+    </message>
+    <message>
+      <source>Please choose module</source>
+      <translation>&#x64A;&#x631;&#x62C;&#x649; &#x627;&#x62E;&#x62A;&#x64A;&#x627;&#x631; &#x648;&#x62D;&#x62F;&#x629;</translation>
+    </message>
+    <message>
+      <source>Please choose module function</source>
+      <translation>&#x627;&#x644;&#x631;&#x62C;&#x627;&#x621; &#x627;&#x62E;&#x62A;&#x64A;&#x627;&#x631; &#x648;&#x638;&#x64A;&#x641;&#x629; &#x648;&#x62D;&#x62F;&#x629;</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>&#x646;&#x638;&#x627;&#x645; &#x627;&#x644;&#x62A;&#x643;&#x648;&#x64A;&#x646;</translation>
+    </message>
+    <message>
+      <source>List of roles</source>
+      <translation>&#x642;&#x627;&#x626;&#x645;&#x629; &#x627;&#x644;&#x623;&#x62F;&#x648;&#x627;&#x631;</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/groupassignrole</name>
+    <message>
+      <source>Title</source>
+      <translation>&#x644;&#x642;&#x628;</translation>
+    </message>
+    <message>
+      <source>Assign</source>
+      <translation>&#x62A;&#x639;&#x64A;&#x64A;&#x646;</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/modulefunctions</name>
+    <message>
+      <source>All functions</source>
+      <translation>&#x62C;&#x645;&#x64A;&#x639; &#x627;&#x644;&#x648;&#x638;&#x627;&#x626;&#x641;</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/newpolicy</name>
+    <message>
+      <source>New policy</source>
+      <translation>&#x633;&#x64A;&#x627;&#x633;&#x629; &#x62C;&#x62F;&#x64A;&#x62F;&#x629;</translation>
+    </message>
+    <message>
+      <source>Assigned functions</source>
+      <translation>&#x62A;&#x639;&#x64A;&#x64A;&#x646; &#x648;&#x638;&#x627;&#x626;&#x641;</translation>
+    </message>
+    <message>
+      <source>Choose module</source>
+      <translation>&#x627;&#x62E;&#x62A;&#x64A;&#x627;&#x631; &#x648;&#x62D;&#x62F;&#x629;</translation>
+    </message>
+    <message>
+      <source>All modules</source>
+      <translation>&#x62C;&#x645;&#x64A;&#x639; &#x627;&#x644;&#x648;&#x62D;&#x62F;&#x627;&#x62A;</translation>
+    </message>
+    <message>
+      <source>Choose module function</source>
+      <translation>&#x627;&#x62E;&#x62A;&#x64A;&#x627;&#x631; &#x648;&#x638;&#x64A;&#x641;&#x629; &#x648;&#x62D;&#x62F;&#x629;</translation>
+    </message>
+    <message>
+      <source>All functions</source>
+      <translation>&#x62C;&#x645;&#x64A;&#x639; &#x627;&#x644;&#x648;&#x638;&#x627;&#x626;&#x641;</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>&#x62D;&#x641;&#x638;</translation>
+    </message>
+    <message>
+      <source>Cancel</source>
+      <translation>&#x625;&#x644;&#x63A;&#x627;&#x621;</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/newrole</name>
+    <message>
+      <source>New role</source>
+      <translation>&#x627;&#x644;&#x62F;&#x648;&#x631; &#x627;&#x644;&#x62C;&#x62F;&#x64A;&#x62F;</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>&#x644;&#x642;&#x628;</translation>
+    </message>
+    <message>
+      <source>Policy list</source>
+      <translation>&#x633;&#x64A;&#x627;&#x633;&#x629; &#x642;&#x627;&#x626;&#x645;&#x629;</translation>
+    </message>
+    <message>
+      <source>Module</source>
+      <translation>&#x648;&#x62D;&#x62F;&#x629;</translation>
+    </message>
+    <message>
+      <source>Function</source>
+      <translation>&#x648;&#x638;&#x64A;&#x641;&#x629;</translation>
+    </message>
+    <message>
+      <source>New policy</source>
+      <translation>&#x633;&#x64A;&#x627;&#x633;&#x629; &#x62C;&#x62F;&#x64A;&#x62F;&#x629;</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>&#x62D;&#x641;&#x638;</translation>
+    </message>
+    <message>
+      <source>Cancel</source>
+      <translation>&#x625;&#x644;&#x63A;&#x627;&#x621;</translation>
+    </message>
+    <message>
+      <source>Please enter role name</source>
+      <translation>&#x627;&#x644;&#x631;&#x62C;&#x627;&#x621; &#x625;&#x62F;&#x62E;&#x627;&#x644; &#x627;&#x633;&#x645; &#x627;&#x644;&#x62F;&#x648;&#x631;</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>&#x646;&#x638;&#x627;&#x645; &#x627;&#x644;&#x62A;&#x643;&#x648;&#x64A;&#x646;</translation>
+    </message>
+    <message>
+      <source>List of roles</source>
+      <translation>&#x642;&#x627;&#x626;&#x645;&#x629; &#x627;&#x644;&#x623;&#x62F;&#x648;&#x627;&#x631;</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/roleassigngroup</name>
+    <message>
+      <source>Title</source>
+      <translation>&#x644;&#x642;&#x628;</translation>
+    </message>
+    <message>
+      <source>Assign</source>
+      <translation>&#x62A;&#x639;&#x64A;&#x64A;&#x646;</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/roles</name>
+    <message>
+      <source>List of roles</source>
+      <translation>&#x642;&#x627;&#x626;&#x645;&#x629; &#x627;&#x644;&#x623;&#x62F;&#x648;&#x627;&#x631;</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>&#x644;&#x642;&#x628;</translation>
+    </message>
+    <message>
+      <source>Edit role</source>
+      <translation>&#x62A;&#x62D;&#x631;&#x64A;&#x631; &#x627;&#x644;&#x62F;&#x648;&#x631;</translation>
+    </message>
+    <message>
+      <source>Delete role</source>
+      <translation>&#x62D;&#x630;&#x641; &#x62F;&#x648;&#x631;</translation>
+    </message>
+    <message>
+      <source>New role</source>
+      <translation>&#x627;&#x644;&#x62F;&#x648;&#x631; &#x627;&#x644;&#x62C;&#x62F;&#x64A;&#x62F;</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>&#x646;&#x638;&#x627;&#x645; &#x627;&#x644;&#x62A;&#x643;&#x648;&#x64A;&#x646;</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/index</name>
+    <message>
+      <source>Shop configuration</source>
+      <translation>&#x645;&#x62A;&#x62C;&#x631; &#x627;&#x644;&#x62A;&#x643;&#x648;&#x64A;&#x646;</translation>
+    </message>
+    <message>
+      <source>Images variations sizes</source>
+      <translation>&#x627;&#x644;&#x627;&#x62E;&#x62A;&#x644;&#x627;&#x641;&#x627;&#x62A; &#x623;&#x62D;&#x62C;&#x627;&#x645; &#x627;&#x644;&#x635;&#x648;&#x631;</translation>
+    </message>
+    <message>
+      <source>List payment options</source>
+      <translation>&#x642;&#x627;&#x626;&#x645;&#x629; &#x62E;&#x64A;&#x627;&#x631;&#x627;&#x62A; &#x627;&#x644;&#x62F;&#x641;&#x639;</translation>
+    </message>
+    <message>
+      <source>Settings list</source>
+      <translation>&#x636;&#x628;&#x637; &#x642;&#x627;&#x626;&#x645;&#x629;</translation>
+    </message>
+    <message>
+      <source>Orders list</source>
+      <translation>&#x623;&#x648;&#x627;&#x645;&#x631; &#x642;&#x627;&#x626;&#x645;&#x629;</translation>
+    </message>
+    <message>
+      <source>Credits orders list</source>
+      <translation>&#x627;&#x639;&#x62A;&#x645;&#x627;&#x62F;&#x627;&#x62A; &#x623;&#x648;&#x627;&#x645;&#x631; &#x642;&#x627;&#x626;&#x645;&#x629;</translation>
+    </message>
+    <message>
+      <source>Shop</source>
+      <translation>&#x645;&#x62A;&#x62C;&#x631;</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/listpaymentoptions</name>
+    <message>
+      <source>Payment options</source>
+      <translation>&#x62E;&#x64A;&#x627;&#x631;&#x627;&#x62A; &#x627;&#x644;&#x62F;&#x641;&#x639;</translation>
+    </message>
+    <message>
+      <source>Identifier</source>
+      <translation>&#x627;&#x644;&#x645;&#x639;&#x631;&#x641;</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>&#x627;&#x633;&#x645;</translation>
+    </message>
+    <message>
+      <source>Active</source>
+      <translation>&#x646;&#x634;&#x637;</translation>
+    </message>
+    <message>
+      <source>Author</source>
+      <translation>&#x643;&#x627;&#x62A;&#x628;</translation>
+    </message>
+    <message>
+      <source>Edit</source>
+      <translation>&#x62A;&#x62D;&#x631;&#x64A;&#x631;</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/orderedit</name>
+    <message>
+      <source>Order view</source>
+      <translation>&#x623;&#x62C;&#x644; &#x639;&#x631;&#x636;</translation>
+    </message>
+    <message>
+      <source>Order time</source>
+      <translation>&#x62A;&#x631;&#x62A;&#x64A;&#x628; &#x627;&#x644;&#x648;&#x642;&#x62A;</translation>
+    </message>
+    <message>
+      <source>Order price</source>
+      <translation>&#x633;&#x639;&#x631; &#x627;&#x644;&#x646;&#x638;&#x627;&#x645;</translation>
+    </message>
+    <message>
+      <source>Order credits</source>
+      <translation>&#x62A;&#x631;&#x62A;&#x64A;&#x628; &#x627;&#x644;&#x642;&#x631;&#x648;&#x636;</translation>
+    </message>
+    <message>
+      <source>Order status</source>
+      <translation>&#x623;&#x62C;&#x644; &#x648;&#x636;&#x639;</translation>
+    </message>
+    <message>
+      <source>Payed.</source>
+      <translation>&#x633;&#x64A;&#x648;&#x644;&#x64A;.</translation>
+    </message>
+    <message>
+      <source>Confirmed</source>
+      <translation>&#x648;&#x623;&#x643;&#x62F;&#x62A;</translation>
+    </message>
+    <message>
+      <source>Ordered items</source>
+      <translation>&#x623;&#x645;&#x631;&#x62A; &#x627;&#x644;&#x628;&#x646;&#x648;&#x62F;</translation>
+    </message>
+    <message>
+      <source>Image name</source>
+      <translation>&#x627;&#x633;&#x645; &#x627;&#x644;&#x635;&#x648;&#x631;&#x629;</translation>
+    </message>
+    <message>
+      <source>Version</source>
+      <translation>&#x627;&#x644;&#x625;&#x635;&#x62F;&#x627;&#x631;</translation>
+    </message>
+    <message>
+      <source>Image size</source>
+      <translation>&#x62D;&#x62C;&#x645; &#x627;&#x644;&#x635;&#x648;&#x631;&#x629;</translation>
+    </message>
+    <message>
+      <source>Format</source>
+      <translation>&#x634;&#x643;&#x644;</translation>
+    </message>
+    <message>
+      <source>Price</source>
+      <translation>&#x627;&#x644;&#x633;&#x639;&#x631;</translation>
+    </message>
+    <message>
+      <source>Download count</source>
+      <translation>&#x62A;&#x62D;&#x645;&#x64A;&#x644; &#x627;&#x644;&#x639;&#x62F;</translation>
+    </message>
+    <message>
+      <source>Downloads left</source>
+      <translation>&#x627;&#x644;&#x62A;&#x646;&#x632;&#x64A;&#x644;&#x627;&#x62A; &#x627;&#x644;&#x64A;&#x633;&#x627;&#x631;</translation>
+    </message>
+    <message>
+      <source>Credits</source>
+      <translation>&#x627;&#x644;&#x627;&#x639;&#x62A;&#x645;&#x627;&#x62F;&#x627;&#x62A;</translation>
+    </message>
+  </context>
+  <context>
+    <name>systemconfig/list</name>
+    <message>
+      <source>Delete order item</source>
+      <translation>&#x62D;&#x630;&#x641; &#x627;&#x644;&#x628;&#x646;&#x62F; &#x62A;&#x631;&#x62A;&#x64A;&#x628;</translation>
+    </message>
+    <message>
+      <source>Delete order</source>
+      <translation>&#x62D;&#x630;&#x641; &#x627;&#x644;&#x646;&#x638;&#x627;&#x645;</translation>
+    </message>
+    <message>
+      <source>Config list</source>
+      <translation>&#x62A;&#x647;&#x64A;&#x626;&#x629; &#x642;&#x627;&#x626;&#x645;&#x629;</translation>
+    </message>
+    <message>
+      <source>Identifier</source>
+      <translation>&#x627;&#x644;&#x645;&#x639;&#x631;&#x641;</translation>
+    </message>
+    <message>
+      <source>Explain</source>
+      <translation>&#x634;&#x631;&#x62D;</translation>
+    </message>
+    <message>
+      <source>Edit value</source>
+      <translation>&#x62A;&#x639;&#x62F;&#x64A;&#x644; &#x627;&#x644;&#x642;&#x64A;&#x645;&#x629;</translation>
+    </message>
+    <message>
+      <source>System config options</source>
+      <translation>&#x62E;&#x64A;&#x627;&#x631;&#x627;&#x62A; &#x646;&#x638;&#x627;&#x645; &#x627;&#x644;&#x62A;&#x643;&#x648;&#x64A;&#x646;</translation>
+    </message>
+    <message>
+      <source>List</source>
+      <translation>&#x642;&#x627;&#x626;&#x645;&#x629;</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/orderslist</name>
+    <message>
+      <source>Orders credits list</source>
+      <translation>&#x623;&#x648;&#x627;&#x645;&#x631; &#x642;&#x627;&#x626;&#x645;&#x629; &#x627;&#x644;&#x627;&#x639;&#x62A;&#x645;&#x627;&#x62F;&#x627;&#x62A;</translation>
+    </message>
+    <message>
+      <source>ID</source>
+      <translation>&#x645;&#x639;&#x631;&#x641;</translation>
+    </message>
+    <message>
+      <source>Date</source>
+      <translation>&#x62A;&#x627;&#x631;&#x64A;&#x62E;</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>&#x627;&#x644;&#x628;&#x631;&#x64A;&#x62F; &#x627;&#x644;&#x625;&#x644;&#x643;&#x62A;&#x631;&#x648;&#x646;&#x64A;</translation>
+    </message>
+    <message>
+      <source>Order price</source>
+      <translation>&#x633;&#x639;&#x631; &#x627;&#x644;&#x646;&#x638;&#x627;&#x645;</translation>
+    </message>
+    <message>
+      <source>Order credits</source>
+      <translation>&#x62A;&#x631;&#x62A;&#x64A;&#x628; &#x627;&#x644;&#x642;&#x631;&#x648;&#x636;</translation>
+    </message>
+    <message>
+      <source>Order status</source>
+      <translation>&#x623;&#x62C;&#x644; &#x648;&#x636;&#x639;</translation>
+    </message>
+    <message>
+      <source>Payed.</source>
+      <translation>&#x633;&#x64A;&#x648;&#x644;&#x64A;.</translation>
+    </message>
+    <message>
+      <source>Confirmed</source>
+      <translation>&#x648;&#x623;&#x643;&#x62F;&#x62A;</translation>
+    </message>
+    <message>
+      <source>No orders...</source>
+      <translation>&#x623;&#x64A; &#x623;&#x648;&#x627;&#x645;&#x631;...</translation>
+    </message>
+    <message>
+      <source>Orders list</source>
+      <translation>&#x623;&#x648;&#x627;&#x645;&#x631; &#x642;&#x627;&#x626;&#x645;&#x629;</translation>
+    </message>
+    <message>
+      <source>Order view</source>
+      <translation>&#x623;&#x62C;&#x644; &#x639;&#x631;&#x636;</translation>
+    </message>
+    <message>
+      <source>User orders list</source>
+      <translation>&#x623;&#x648;&#x627;&#x645;&#x631; &#x642;&#x627;&#x626;&#x645;&#x629; &#x627;&#x644;&#x645;&#x633;&#x62A;&#x62E;&#x62F;&#x645;&#x64A;&#x646;</translation>
+    </message>
+    <message>
+      <source>User credits orders list</source>
+      <translation>&#x642;&#x627;&#x626;&#x645;&#x629; &#x627;&#x644;&#x645;&#x633;&#x62A;&#x62E;&#x62F;&#x645;&#x64A;&#x646; &#x627;&#x639;&#x62A;&#x645;&#x627;&#x62F;&#x627;&#x62A; &#x623;&#x648;&#x627;&#x645;&#x631;</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/paymentoptionedit</name>
+    <message>
+      <source>Payment option edit</source>
+      <translation>&#x62A;&#x62D;&#x631;&#x64A;&#x631; &#x62E;&#x64A;&#x627;&#x631; &#x627;&#x644;&#x62F;&#x641;&#x639;</translation>
+    </message>
+    <message>
+      <source>Identifier</source>
+      <translation>&#x627;&#x644;&#x645;&#x639;&#x631;&#x641;</translation>
+    </message>
+    <message>
+      <source>Active</source>
+      <translation>&#x646;&#x634;&#x637;</translation>
+    </message>
+    <message>
+      <source>Payment settings</source>
+      <translation>&#x636;&#x628;&#x637; &#x627;&#x644;&#x62F;&#x641;&#x639;</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>&#x627;&#x644;&#x62A;&#x62D;&#x62F;&#x64A;&#x62B;</translation>
+    </message>
+  </context>
+  <context>
+    <name>systemconfig/edit</name>
+    <message>
+      <source>Edit</source>
+      <translation>&#x62A;&#x62D;&#x631;&#x64A;&#x631;</translation>
+    </message>
+    <message>
+      <source>Data updated</source>
+      <translation>&#x627;&#x644;&#x628;&#x64A;&#x627;&#x646;&#x627;&#x62A; &#x627;&#x644;&#x645;&#x62D;&#x62F;&#x62B;&#x629;</translation>
+    </message>
+    <message>
+      <source>Identifier</source>
+      <translation>&#x627;&#x644;&#x645;&#x639;&#x631;&#x641;</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>&#x627;&#x644;&#x62A;&#x62D;&#x62F;&#x64A;&#x62B;</translation>
+    </message>
+    <message>
+      <source>Values applies to</source>
+      <translation>&#x64A;&#x646;&#x637;&#x628;&#x642; &#x639;&#x644;&#x649; &#x627;&#x644;&#x642;&#x64A;&#x645;</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/settinglist</name>
+    <message>
+      <source>Shop config list</source>
+      <translation>&#x645;&#x62A;&#x62C;&#x631; &#x627;&#x644;&#x62A;&#x643;&#x648;&#x64A;&#x646; &#x642;&#x627;&#x626;&#x645;&#x629;</translation>
+    </message>
+    <message>
+      <source>Identifier</source>
+      <translation>&#x627;&#x644;&#x645;&#x639;&#x631;&#x641;</translation>
+    </message>
+    <message>
+      <source>Explain</source>
+      <translation>&#x634;&#x631;&#x62D;</translation>
+    </message>
+    <message>
+      <source>Value</source>
+      <translation>&#x642;&#x64A;&#x645;&#x629;</translation>
+    </message>
+    <message>
+      <source>Edit value</source>
+      <translation>&#x62A;&#x639;&#x62F;&#x64A;&#x644; &#x627;&#x644;&#x642;&#x64A;&#x645;&#x629;</translation>
+    </message>
+  </context>
+  <context>
+    <name>statistic/choosesite</name>
+    <message>
+      <source>Choose site you want to show statistic</source>
+      <translation>&#x627;&#x62E;&#x62A;&#x64A;&#x627;&#x631; &#x627;&#x644;&#x645;&#x648;&#x642;&#x639; &#x627;&#x644;&#x630;&#x64A; &#x62A;&#x631;&#x64A;&#x62F; &#x623;&#x646; &#x62A;&#x638;&#x647;&#x631; &#x627;&#x644;&#x625;&#x62D;&#x635;&#x627;&#x621;&#x627;&#x62A;</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>&#x62D;&#x641;&#x638;</translation>
+    </message>
+  </context>
+  <context>
+    <name>statistic/index</name>
+    <message>
+      <source>Google analytics statistic</source>
+      <translation>&#x62C;&#x648;&#x62C;&#x644; &#x62A;&#x62D;&#x644;&#x64A;&#x644;&#x627;&#x62A; &#x625;&#x62D;&#x635;&#x627;&#x626;&#x64A;&#x629;</translation>
+    </message>
+    <message>
+      <source>Grant access application to access google analytics API</source>
+      <translation>&#x645;&#x646;&#x62D; &#x627;&#x644;&#x62A;&#x637;&#x628;&#x64A;&#x642; &#x627;&#x644;&#x648;&#x635;&#x648;&#x644; &#x644;&#x644;&#x648;&#x635;&#x648;&#x644; &#x625;&#x644;&#x649; &#x628;&#x631;&#x646;&#x627;&#x645;&#x62C; Google Analytics API</translation>
+    </message>
+    <message>
+      <source>Site choose</source>
+      <translation>&#x627;&#x62E;&#x62A;&#x64A;&#x627;&#x631; &#x645;&#x648;&#x642;&#x639;</translation>
+    </message>
+    <message>
+      <source>View statistic</source>
+      <translation>&#x639;&#x631;&#x636; &#x627;&#x644;&#x625;&#x62D;&#x635;&#x627;&#x626;&#x64A;&#x629;</translation>
+    </message>
+    <message>
+      <source>Statistic</source>
+      <translation>&#x625;&#x62D;&#x635;&#x627;&#x626;&#x64A;&#x629;</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>&#x645;&#x646;&#x632;&#x644;</translation>
+    </message>
+  </context>
+  <context>
+    <name>system/configuration</name>
+    <message>
+      <source>System configuration</source>
+      <translation>&#x646;&#x638;&#x627;&#x645; &#x627;&#x644;&#x62A;&#x643;&#x648;&#x64A;&#x646;</translation>
+    </message>
+    <message>
+      <source>Users</source>
+      <translation>&#x627;&#x644;&#x645;&#x633;&#x62A;&#x62E;&#x62F;&#x645;&#x64A;&#x646;</translation>
+    </message>
+    <message>
+      <source>List of groups</source>
+      <translation>&#x642;&#x627;&#x626;&#x645;&#x629; &#x627;&#x644;&#x645;&#x62C;&#x645;&#x648;&#x639;&#x627;&#x62A;</translation>
+    </message>
+    <message>
+      <source>List of roles</source>
+      <translation>&#x642;&#x627;&#x626;&#x645;&#x629; &#x627;&#x644;&#x623;&#x62F;&#x648;&#x627;&#x631;</translation>
+    </message>
+    <message>
+      <source>System configuration values</source>
+      <translation>&#x642;&#x64A;&#x645; &#x646;&#x638;&#x627;&#x645; &#x627;&#x644;&#x62A;&#x643;&#x648;&#x64A;&#x646;</translation>
+    </message>
+    <message>
+      <source>Watermark protection</source>
+      <translation>&#x62D;&#x645;&#x627;&#x64A;&#x629; &#x645;&#x627;&#x626;&#x64A;&#x629;</translation>
+    </message>
+    <message>
+      <source>Banned rating IP list</source>
+      <translation>&#x62D;&#x638;&#x631;&#x62A; &#x642;&#x627;&#x626;&#x645;&#x629; &#x62A;&#x635;&#x646;&#x64A;&#x641; &#x627;&#x644;&#x645;&#x644;&#x643;&#x64A;&#x629; &#x627;&#x644;&#x641;&#x643;&#x631;&#x64A;&#x629;</translation>
+    </message>
+    <message>
+      <source>Banned commenting IP list</source>
+      <translation>&#x62D;&#x638;&#x631;&#x62A; &#x642;&#x627;&#x626;&#x645;&#x629; IP &#x627;&#x644;&#x62A;&#x639;&#x644;&#x64A;&#x642;</translation>
+    </message>
+  </context>
+  <context>
+    <name>systemconfig/watermark</name>
+    <message>
+      <source>Watermark configuration</source>
+      <translation>&#x645;&#x627;&#x626;&#x64A;&#x629; &#x627;&#x644;&#x62A;&#x643;&#x648;&#x64A;&#x646;</translation>
+    </message>
+    <message>
+      <source>Settings updated</source>
+      <translation>&#x62A;&#x62D;&#x62F;&#x64A;&#x62B; &#x627;&#x644;&#x625;&#x639;&#x62F;&#x627;&#x62F;&#x627;&#x62A;</translation>
+    </message>
+    <message>
+      <source>Delete watermark</source>
+      <translation>&#x62D;&#x630;&#x641; &#x639;&#x644;&#x627;&#x645;&#x629; &#x645;&#x627;&#x626;&#x64A;&#x629;</translation>
+    </message>
+    <message>
+      <source>Image, it is recommended PNG type image</source>
+      <translation>&#x627;&#x644;&#x635;&#x648;&#x631;&#x629; &#x60C; &#x641;&#x645;&#x646; &#x627;&#x644;&#x645;&#x633;&#x62A;&#x62D;&#x633;&#x646; &#x635;&#x648;&#x631;&#x629; PNG &#x646;&#x648;&#x639;</translation>
+    </message>
+    <message>
+      <source>Settings</source>
+      <translation>&#x625;&#x639;&#x62F;&#x627;&#x62F;&#x627;&#x62A;</translation>
+    </message>
+    <message>
+      <source>Watermark disabled</source>
+      <translation>&#x62A;&#x639;&#x637;&#x64A;&#x644; &#x645;&#x627;&#x626;&#x64A;&#x629;</translation>
+    </message>
+    <message>
+      <source>Watermark enabled for normal size thumbnails</source>
+      <translation>&#x627;&#x644;&#x639;&#x644;&#x627;&#x645;&#x629; &#x627;&#x644;&#x645;&#x627;&#x626;&#x64A;&#x629; &#x644;&#x62A;&#x645;&#x643;&#x64A;&#x646; &#x627;&#x644;&#x645;&#x635;&#x63A;&#x631;&#x629; &#x627;&#x644;&#x62D;&#x62C;&#x645; &#x627;&#x644;&#x639;&#x627;&#x62F;&#x64A;</translation>
+    </message>
+    <message>
+      <source>Watermark enabled for all images</source>
+      <translation>&#x62A;&#x645;&#x643;&#x64A;&#x646; &#x639;&#x644;&#x627;&#x645;&#x629; &#x645;&#x627;&#x626;&#x64A;&#x629; &#x644;&#x62C;&#x645;&#x64A;&#x639; &#x627;&#x644;&#x635;&#x648;&#x631;</translation>
+    </message>
+    <message>
+      <source>Watermark position</source>
+      <translation>&#x645;&#x648;&#x642;&#x641; &#x627;&#x644;&#x639;&#x644;&#x627;&#x645;&#x629; &#x627;&#x644;&#x645;&#x627;&#x626;&#x64A;&#x629;</translation>
+    </message>
+    <message>
+      <source>Top left</source>
+      <translation>&#x623;&#x639;&#x644;&#x649; &#x627;&#x644;&#x64A;&#x633;&#x627;&#x631;</translation>
+    </message>
+    <message>
+      <source>Top right</source>
+      <translation>&#x623;&#x639;&#x644;&#x649; &#x627;&#x644;&#x64A;&#x645;&#x64A;&#x646;</translation>
+    </message>
+    <message>
+      <source>Bottom left</source>
+      <translation>&#x623;&#x633;&#x641;&#x644; &#x64A;&#x633;&#x627;&#x631;</translation>
+    </message>
+    <message>
+      <source>Bottom right</source>
+      <translation>&#x623;&#x633;&#x641;&#x644; &#x627;&#x644;&#x64A;&#x645;&#x64A;&#x646;</translation>
+    </message>
+    <message>
+      <source>Center</source>
+      <translation>&#x645;&#x631;&#x643;&#x632;</translation>
+    </message>
+    <message>
+      <source>Watermark padding from borders</source>
+      <translation>&#x627;&#x644;&#x62D;&#x634;&#x648; &#x645;&#x627;&#x626;&#x64A;&#x629; &#x645;&#x646; &#x627;&#x644;&#x62D;&#x62F;&#x648;&#x62F;</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>&#x627;&#x644;&#x62A;&#x62D;&#x62F;&#x64A;&#x62B;</translation>
+    </message>
+    <message>
+      <source>Watermark</source>
+      <translation>&#x627;&#x644;&#x639;&#x644;&#x627;&#x645;&#x629; &#x627;&#x644;&#x645;&#x627;&#x626;&#x64A;&#x629;</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/account</name>
+    <message>
+      <source>Logged user</source>
+      <translation>&#x62A;&#x633;&#x62C;&#x64A;&#x644; &#x627;&#x644;&#x645;&#x633;&#x62A;&#x62E;&#x62F;&#x645;</translation>
+    </message>
+    <message>
+      <source>Account updated</source>
+      <translation>&#x627;&#x644;&#x62D;&#x633;&#x627;&#x628; &#x627;&#x644;&#x645;&#x62D;&#x62F;&#x62B;&#x629;</translation>
+    </message>
+    <message>
+      <source>Do not enter password unless you want to change it</source>
+      <translation>&#x644;&#x627; &#x62A;&#x642;&#x645; &#x628;&#x625;&#x62F;&#x62E;&#x627;&#x644; &#x643;&#x644;&#x645;&#x629; &#x627;&#x644;&#x645;&#x631;&#x648;&#x631; &#x625;&#x644;&#x627; &#x625;&#x630;&#x627; &#x643;&#x646;&#x62A; &#x62A;&#x631;&#x64A;&#x62F; &#x62A;&#x63A;&#x64A;&#x64A;&#x631;&#x647;</translation>
+    </message>
+    <message>
+      <source>Login information</source>
+      <translation>&#x645;&#x639;&#x644;&#x648;&#x645;&#x627;&#x62A; &#x62A;&#x633;&#x62C;&#x64A;&#x644; &#x627;&#x644;&#x62F;&#x62E;&#x648;&#x644;</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>&#x627;&#x633;&#x645; &#x627;&#x644;&#x645;&#x633;&#x62A;&#x62E;&#x62F;&#x645;</translation>
+    </message>
+    <message>
+      <source>Password</source>
+      <translation>&#x643;&#x644;&#x645;&#x629; &#x627;&#x644;&#x633;&#x631;</translation>
+    </message>
+    <message>
+      <source>Repeat password</source>
+      <translation>&#x643;&#x631;&#x631; &#x643;&#x644;&#x645;&#x629; &#x627;&#x644;&#x633;&#x631;</translation>
+    </message>
+    <message>
+      <source>Contact information</source>
+      <translation>&#x645;&#x639;&#x644;&#x648;&#x645;&#x627;&#x62A; &#x627;&#x644;&#x627;&#x62A;&#x635;&#x627;&#x644;</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>&#x627;&#x644;&#x628;&#x631;&#x64A;&#x62F; &#x627;&#x644;&#x625;&#x644;&#x643;&#x62A;&#x631;&#x648;&#x646;&#x64A;</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>&#x627;&#x644;&#x62A;&#x62D;&#x62F;&#x64A;&#x62B;</translation>
+    </message>
+    <message>
+      <source>Message send</source>
+      <translation>&#x627;&#x631;&#x633;&#x627;&#x644; &#x631;&#x633;&#x627;&#x644;&#x629;</translation>
+    </message>
+    <message>
+      <source>Add google account</source>
+      <translation>&#x625;&#x636;&#x627;&#x641;&#x629; &#x62D;&#x633;&#x627;&#x628; Google</translation>
+    </message>
+    <message>
+      <source>Working</source>
+      <translation>&#x639;&#x627;&#x645;&#x644;</translation>
+    </message>
+    <message>
+      <source>Profile page settings</source>
+      <translation>&#x636;&#x628;&#x637; &#x648;&#x636;&#x639; &#x627;&#x644;&#x635;&#x641;&#x62D;&#x629;</translation>
+    </message>
+    <message>
+      <source>Profile settings updated</source>
+      <translation>&#x636;&#x628;&#x637; &#x648;&#x636;&#x639; &#x627;&#x644;&#x645;&#x62D;&#x62F;&#x62B;&#x629;</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>&#x627;&#x633;&#x645;</translation>
+    </message>
+    <message>
+      <source>Surname</source>
+      <translation>&#x644;&#x642;&#x628;</translation>
+    </message>
+    <message>
+      <source>Website</source>
+      <translation>&#x627;&#x644;&#x645;&#x648;&#x642;&#x639;</translation>
+    </message>
+    <message>
+      <source>Information about you</source>
+      <translation>&#x645;&#x639;&#x644;&#x648;&#x645;&#x627;&#x62A; &#x639;&#x646;&#x643;</translation>
+    </message>
+    <message>
+      <source>Profile photo</source>
+      <translation>&#x635;&#x648;&#x631;&#x629; &#x627;&#x644;&#x635;&#x648;&#x631;&#x629;</translation>
+    </message>
+    <message>
+      <source>See how your profile looks to users</source>
+      <translation>&#x62A;&#x631;&#x649; &#x643;&#x64A;&#x641; &#x64A;&#x628;&#x62F;&#x648; &#x627;&#x644;&#x62A;&#x634;&#x643;&#x64A;&#x644; &#x627;&#x644;&#x62C;&#x627;&#x646;&#x628;&#x64A; &#x644;&#x644;&#x645;&#x633;&#x62A;&#x62E;&#x62F;&#x645;&#x64A;&#x646;</translation>
+    </message>
+    <message>
+      <source>View profile</source>
+      <translation>&#x645;&#x634;&#x627;&#x647;&#x62F;&#x629; &#x627;&#x644;&#x645;&#x644;&#x641; &#x627;&#x644;&#x634;&#x62E;&#x635;&#x64A;</translation>
+    </message>
+    <message>
+      <source>Wrong email address</source>
+      <translation>&#x639;&#x646;&#x648;&#x627;&#x646; &#x628;&#x631;&#x64A;&#x62F; &#x625;&#x644;&#x643;&#x62A;&#x631;&#x648;&#x646;&#x64A; &#x62E;&#x627;&#x637;&#x626;</translation>
+    </message>
+    <message>
+      <source>Passwords mismatch</source>
+      <translation>&#x639;&#x62F;&#x645; &#x62A;&#x637;&#x627;&#x628;&#x642; &#x643;&#x644;&#x645;&#x627;&#x62A; &#x627;&#x644;&#x645;&#x631;&#x648;&#x631;</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/edit</name>
+    <message>
+      <source>User edit</source>
+      <translation>&#x62A;&#x62D;&#x631;&#x64A;&#x631; &#x645;&#x633;&#x62A;&#x62E;&#x62F;&#x645;</translation>
+    </message>
+    <message>
+      <source>Do not enter password unless you want to change it</source>
+      <translation>&#x644;&#x627; &#x62A;&#x642;&#x645; &#x628;&#x625;&#x62F;&#x62E;&#x627;&#x644; &#x643;&#x644;&#x645;&#x629; &#x627;&#x644;&#x645;&#x631;&#x648;&#x631; &#x625;&#x644;&#x627; &#x625;&#x630;&#x627; &#x643;&#x646;&#x62A; &#x62A;&#x631;&#x64A;&#x62F; &#x62A;&#x63A;&#x64A;&#x64A;&#x631;&#x647;</translation>
+    </message>
+    <message>
+      <source>Login information</source>
+      <translation>&#x645;&#x639;&#x644;&#x648;&#x645;&#x627;&#x62A; &#x62A;&#x633;&#x62C;&#x64A;&#x644; &#x627;&#x644;&#x62F;&#x62E;&#x648;&#x644;</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>&#x627;&#x633;&#x645; &#x627;&#x644;&#x645;&#x633;&#x62A;&#x62E;&#x62F;&#x645;</translation>
+    </message>
+    <message>
+      <source>Password</source>
+      <translation>&#x643;&#x644;&#x645;&#x629; &#x627;&#x644;&#x633;&#x631;</translation>
+    </message>
+    <message>
+      <source>Repeat password</source>
+      <translation>&#x643;&#x631;&#x631; &#x643;&#x644;&#x645;&#x629; &#x627;&#x644;&#x633;&#x631;</translation>
+    </message>
+    <message>
+      <source>Contact information</source>
+      <translation>&#x645;&#x639;&#x644;&#x648;&#x645;&#x627;&#x62A; &#x627;&#x644;&#x627;&#x62A;&#x635;&#x627;&#x644;</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>&#x627;&#x644;&#x628;&#x631;&#x64A;&#x62F; &#x627;&#x644;&#x625;&#x644;&#x643;&#x62A;&#x631;&#x648;&#x646;&#x64A;</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>&#x627;&#x644;&#x62A;&#x62D;&#x62F;&#x64A;&#x62B;</translation>
+    </message>
+    <message>
+      <source>User prifle</source>
+      <translation>&#x627;&#x644;&#x645;&#x633;&#x62A;&#x62E;&#x62F;&#x645; prifle</translation>
+    </message>
+    <message>
+      <source>My account</source>
+      <translation>&#x62D;&#x633;&#x627;&#x628;&#x64A;</translation>
+    </message>
+    <message>
+      <source>Facebook albums</source>
+      <translation>&#x627;&#x644;&#x628;&#x648;&#x645; &#x627;&#x644;&#x641;&#x64A;&#x633;&#x628;&#x648;&#x643;</translation>
+    </message>
+    <message>
+      <source>Facebook session has expired, please login</source>
+      <translation>&#x627;&#x644;&#x641;&#x64A;&#x633;&#x628;&#x648;&#x643; &#x627;&#x644;&#x62F;&#x648;&#x631;&#x629; &#x642;&#x62F; &#x627;&#x646;&#x62A;&#x647;&#x62A; &#x60C; &#x627;&#x644;&#x631;&#x62C;&#x627;&#x621; &#x62A;&#x633;&#x62C;&#x64A;&#x644; &#x627;&#x644;&#x62F;&#x62E;&#x648;&#x644;</translation>
+    </message>
+    <message>
+      <source>Account</source>
+      <translation>&#x62D;&#x633;&#x627;&#x628;</translation>
+    </message>
+    <message>
+      <source>Albums</source>
+      <translation>&#x627;&#x644;&#x628;&#x648;&#x645;</translation>
+    </message>
+    <message>
+      <source>My albums</source>
+      <translation>&#x628;&#x644;&#x62F;&#x64A; &#x623;&#x644;&#x628;&#x648;&#x645;&#x627;&#x62A;</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>&#x646;&#x638;&#x627;&#x645; &#x627;&#x644;&#x62A;&#x643;&#x648;&#x64A;&#x646;</translation>
+    </message>
+    <message>
+      <source>Account data</source>
+      <translation>&#x62D;&#x633;&#x627;&#x628; &#x627;&#x644;&#x628;&#x64A;&#x627;&#x646;&#x627;&#x62A;</translation>
+    </message>
+    <message>
+      <source>Wrong email address</source>
+      <translation>&#x639;&#x646;&#x648;&#x627;&#x646; &#x628;&#x631;&#x64A;&#x62F; &#x625;&#x644;&#x643;&#x62A;&#x631;&#x648;&#x646;&#x64A; &#x62E;&#x627;&#x637;&#x626;</translation>
+    </message>
+    <message>
+      <source>Passwords mismatch</source>
+      <translation>&#x639;&#x62F;&#x645; &#x62A;&#x637;&#x627;&#x628;&#x642; &#x643;&#x644;&#x645;&#x627;&#x62A; &#x627;&#x644;&#x645;&#x631;&#x648;&#x631;</translation>
+    </message>
+    <message>
+      <source>Users</source>
+      <translation>&#x627;&#x644;&#x645;&#x633;&#x62A;&#x62E;&#x62F;&#x645;&#x64A;&#x646;</translation>
+    </message>
+    <message>
+      <source>Authentifion with google</source>
+      <translation>Authentifion &#x645;&#x639; google</translation>
+    </message>
+    <message>
+      <source>Profile settings</source>
+      <translation>&#x625;&#x639;&#x62F;&#x627;&#x62F;&#x627;&#x62A; &#x645;&#x644;&#x641; &#x627;&#x644;&#x62A;&#x639;&#x631;&#x64A;&#x641;</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/editgroup</name>
+    <message>
+      <source>Group edit</source>
+      <translation>&#x627;&#x644;&#x645;&#x62C;&#x645;&#x648;&#x639;&#x629; &#x62A;&#x62D;&#x631;&#x64A;&#x631;</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>&#x644;&#x642;&#x628;</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>&#x627;&#x644;&#x62A;&#x62D;&#x62F;&#x64A;&#x62B;</translation>
+    </message>
+    <message>
+      <source>Assigned users</source>
+      <translation>&#x62A;&#x639;&#x64A;&#x64A;&#x646; &#x627;&#x644;&#x645;&#x633;&#x62A;&#x62E;&#x62F;&#x645;&#x64A;&#x646;</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>&#x627;&#x633;&#x645; &#x627;&#x644;&#x645;&#x633;&#x62A;&#x62E;&#x62F;&#x645;</translation>
+    </message>
+    <message>
+      <source>Remove user from group</source>
+      <translation>&#x625;&#x632;&#x627;&#x644;&#x629; &#x645;&#x633;&#x62A;&#x62E;&#x62F;&#x645; &#x645;&#x646; &#x645;&#x62C;&#x645;&#x648;&#x639;&#x629;</translation>
+    </message>
+    <message>
+      <source>Assign user</source>
+      <translation>&#x62A;&#x639;&#x64A;&#x64A;&#x646; &#x627;&#x644;&#x645;&#x633;&#x62A;&#x62E;&#x62F;&#x645;</translation>
+    </message>
+    <message>
+      <source>User assignment</source>
+      <translation>&#x627;&#x644;&#x645;&#x633;&#x62A;&#x62E;&#x62F;&#x645; &#x627;&#x644;&#x627;&#x62D;&#x627;&#x644;&#x629;</translation>
+    </message>
+    <message>
+      <source>Assigned roles</source>
+      <translation>&#x62A;&#x639;&#x64A;&#x64A;&#x646; &#x627;&#x644;&#x623;&#x62F;&#x648;&#x627;&#x631;</translation>
+    </message>
+    <message>
+      <source>Remove role from group</source>
+      <translation>&#x625;&#x632;&#x627;&#x644;&#x629; &#x627;&#x644;&#x62F;&#x648;&#x631; &#x645;&#x646; &#x627;&#x644;&#x645;&#x62C;&#x645;&#x648;&#x639;&#x629;</translation>
+    </message>
+    <message>
+      <source>Assign role</source>
+      <translation>&#x62A;&#x639;&#x64A;&#x64A;&#x646; &#x62F;&#x648;&#x631;</translation>
+    </message>
+    <message>
+      <source>Role assignment</source>
+      <translation>&#x62F;&#x648;&#x631; &#x627;&#x644;&#x627;&#x62D;&#x627;&#x644;&#x629;</translation>
+    </message>
+    <message>
+      <source>Please enter group name</source>
+      <translation>&#x64A;&#x631;&#x62C;&#x649; &#x625;&#x62F;&#x62E;&#x627;&#x644; &#x627;&#x633;&#x645; &#x627;&#x644;&#x645;&#x62C;&#x645;&#x648;&#x639;&#x629;</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>&#x646;&#x638;&#x627;&#x645; &#x627;&#x644;&#x62A;&#x643;&#x648;&#x64A;&#x646;</translation>
+    </message>
+    <message>
+      <source>Groups</source>
+      <translation>&#x627;&#x644;&#x645;&#x62C;&#x645;&#x648;&#x639;&#x627;&#x62A;</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/groupassignuser</name>
+    <message>
+      <source>User</source>
+      <translation>&#x627;&#x644;&#x645;&#x633;&#x62A;&#x62E;&#x62F;&#x645;</translation>
+    </message>
+    <message>
+      <source>Assign</source>
+      <translation>&#x62A;&#x639;&#x64A;&#x64A;&#x646;</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/login</name>
+    <message>
+      <source>Please login</source>
+      <translation>&#x627;&#x644;&#x631;&#x62C;&#x627;&#x621; &#x627;&#x644;&#x62F;&#x62E;&#x648;&#x644;</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>&#x627;&#x633;&#x645; &#x627;&#x644;&#x645;&#x633;&#x62A;&#x62E;&#x62F;&#x645;</translation>
+    </message>
+    <message>
+      <source>Password</source>
+      <translation>&#x643;&#x644;&#x645;&#x629; &#x627;&#x644;&#x633;&#x631;</translation>
+    </message>
+    <message>
+      <source>Login</source>
+      <translation>&#x62F;&#x62E;&#x648;&#x644;</translation>
+    </message>
+    <message>
+      <source>Password remind</source>
+      <translation>&#x623;&#x630;&#x643;&#x631; &#x643;&#x644;&#x645;&#x629; &#x627;&#x644;&#x633;&#x631;</translation>
+    </message>
+    <message>
+      <source>Please login with your facebook account</source>
+      <translation>&#x627;&#x644;&#x631;&#x62C;&#x627;&#x621; &#x62A;&#x633;&#x62C;&#x64A;&#x644; &#x627;&#x644;&#x62F;&#x62E;&#x648;&#x644; &#x645;&#x639; &#x62D;&#x633;&#x627;&#x628; &#x627;&#x644;&#x641;&#x64A;&#x633;&#x628;&#x648;&#x643; &#x627;&#x644;&#x62E;&#x627;&#x635;</translation>
+    </message>
+    <message>
+      <source>Report abuse</source>
+      <translation>&#x62A;&#x642;&#x631;&#x64A;&#x631; &#x62A;&#x639;&#x627;&#x637;&#x64A;</translation>
+    </message>
+    <message>
+      <source>Please write whats wrong within a post</source>
+      <translation>&#x64A;&#x631;&#x62C;&#x649; &#x627;&#x644;&#x643;&#x62A;&#x627;&#x628;&#x629; &#x645;&#x627;&#x630;&#x627; &#x64A;&#x643;&#x648;&#x646; &#x62E;&#x637;&#x623; &#x622;&#x62E;&#x631; &#x641;&#x64A; &#x63A;&#x636;&#x648;&#x646;</translation>
+    </message>
+    <message>
+      <source>Send</source>
+      <translation>&#x625;&#x631;&#x633;&#x627;&#x644;</translation>
+    </message>
+    <message>
+      <source>Registration is complete</source>
+      <translation>&#x627;&#x643;&#x62A;&#x645;&#x627;&#x644; &#x627;&#x644;&#x62A;&#x633;&#x62C;&#x64A;&#x644;</translation>
+    </message>
+    <message>
+      <source>Registration is complete please login.</source>
+      <translation>&#x627;&#x643;&#x62A;&#x645;&#x627;&#x644; &#x627;&#x644;&#x62A;&#x633;&#x62C;&#x64A;&#x644; &#x64A;&#x631;&#x62C;&#x649; &#x627;&#x644;&#x62F;&#x62E;&#x648;&#x644;.</translation>
+    </message>
+    <message>
+      <source>Checkout</source>
+      <translation>&#x627;&#x644;&#x62E;&#x631;&#x648;&#x62C;</translation>
+    </message>
+    <message>
+      <source>Incorrect username or password</source>
+      <translation>&#x627;&#x633;&#x645; &#x627;&#x644;&#x645;&#x633;&#x62A;&#x62E;&#x62F;&#x645; &#x623;&#x648; &#x643;&#x644;&#x645;&#x629; &#x627;&#x644;&#x633;&#x631; &#x63A;&#x64A;&#x631; &#x635;&#x62D;&#x64A;&#x62D;&#x629;</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/new</name>
+    <message>
+      <source>New user</source>
+      <translation>&#x645;&#x633;&#x62A;&#x62E;&#x62F;&#x645; &#x62C;&#x62F;&#x64A;&#x62F;</translation>
+    </message>
+    <message>
+      <source>Login information</source>
+      <translation>&#x645;&#x639;&#x644;&#x648;&#x645;&#x627;&#x62A; &#x62A;&#x633;&#x62C;&#x64A;&#x644; &#x627;&#x644;&#x62F;&#x62E;&#x648;&#x644;</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>&#x627;&#x633;&#x645; &#x627;&#x644;&#x645;&#x633;&#x62A;&#x62E;&#x62F;&#x645;</translation>
+    </message>
+    <message>
+      <source>Password</source>
+      <translation>&#x643;&#x644;&#x645;&#x629; &#x627;&#x644;&#x633;&#x631;</translation>
+    </message>
+    <message>
+      <source>Repeat password</source>
+      <translation>&#x643;&#x631;&#x631; &#x643;&#x644;&#x645;&#x629; &#x627;&#x644;&#x633;&#x631;</translation>
+    </message>
+    <message>
+      <source>Contact information</source>
+      <translation>&#x645;&#x639;&#x644;&#x648;&#x645;&#x627;&#x62A; &#x627;&#x644;&#x627;&#x62A;&#x635;&#x627;&#x644;</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>&#x627;&#x644;&#x628;&#x631;&#x64A;&#x62F; &#x627;&#x644;&#x625;&#x644;&#x643;&#x62A;&#x631;&#x648;&#x646;&#x64A;</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>&#x62D;&#x641;&#x638;</translation>
+    </message>
+    <message>
+      <source>OR login with</source>
+      <translation>&#x623;&#x648; &#x627;&#x644;&#x62F;&#x62E;&#x648;&#x644; &#x645;&#x639;</translation>
+    </message>
+    <message>
+      <source>Login with google account</source>
+      <translation>&#x62A;&#x633;&#x62C;&#x64A;&#x644; &#x627;&#x644;&#x62F;&#x62E;&#x648;&#x644; &#x628;&#x627;&#x633;&#x62A;&#x62E;&#x62F;&#x627;&#x645; &#x62D;&#x633;&#x627;&#x628; Google</translation>
+    </message>
+    <message>
+      <source>Working</source>
+      <translation>&#x639;&#x627;&#x645;&#x644;</translation>
+    </message>
+    <message>
+      <source>Working...</source>
+      <translation>&#x627;&#x644;&#x639;&#x645;&#x644;...</translation>
+    </message>
+    <message>
+      <source>Registration</source>
+      <translation>&#x62A;&#x633;&#x62C;&#x64A;&#x644;</translation>
+    </message>
+    <message>
+      <source>Safe code</source>
+      <translation>&#x631;&#x645;&#x632; &#x622;&#x645;&#x646;&#x629;</translation>
+    </message>
+    <message>
+      <source>Register</source>
+      <translation>&#x62A;&#x633;&#x62C;&#x64A;&#x644;</translation>
+    </message>
+    <message>
+      <source>Sutch username is already taken!</source>
+      <translation>&#x648;&#x627;&#x62A;&#x62E;&#x630;&#x62A; &#x628;&#x627;&#x644;&#x641;&#x639;&#x644; Sutch &#x627;&#x644;&#x645;&#x633;&#x62A;&#x62E;&#x62F;&#x645;!</translation>
+    </message>
+    <message>
+      <source>Please enter album name!</source>
+      <translation>&#x645;&#x646; &#x641;&#x636;&#x644;&#x643; &#x627;&#x62F;&#x62E;&#x644; &#x627;&#x633;&#x645; &#x627;&#x644;&#x623;&#x644;&#x628;&#x648;&#x645;!</translation>
+    </message>
+    <message>
+      <source>Please enter category name!</source>
+      <translation>&#x627;&#x644;&#x631;&#x62C;&#x627;&#x621; &#x625;&#x62F;&#x62E;&#x627;&#x644; &#x627;&#x633;&#x645; &#x627;&#x644;&#x641;&#x626;&#x629;!</translation>
+    </message>
+    <message>
+      <source>User exists</source>
+      <translation>&#x627;&#x644;&#x645;&#x633;&#x62A;&#x62E;&#x62F;&#x645; &#x645;&#x648;&#x62C;&#x648;&#x62F;</translation>
+    </message>
+    <message>
+      <source>Wrong email address</source>
+      <translation>&#x639;&#x646;&#x648;&#x627;&#x646; &#x628;&#x631;&#x64A;&#x62F; &#x625;&#x644;&#x643;&#x62A;&#x631;&#x648;&#x646;&#x64A; &#x62E;&#x627;&#x637;&#x626;</translation>
+    </message>
+    <message>
+      <source>Please enter username</source>
+      <translation>&#x627;&#x644;&#x631;&#x62C;&#x627;&#x621; &#x625;&#x62F;&#x62E;&#x627;&#x644; &#x627;&#x633;&#x645; &#x627;&#x644;&#x645;&#x633;&#x62A;&#x62E;&#x62F;&#x645;</translation>
+    </message>
+    <message>
+      <source>Passwords mismatch</source>
+      <translation>&#x639;&#x62F;&#x645; &#x62A;&#x637;&#x627;&#x628;&#x642; &#x643;&#x644;&#x645;&#x627;&#x62A; &#x627;&#x644;&#x645;&#x631;&#x648;&#x631;</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>&#x646;&#x638;&#x627;&#x645; &#x627;&#x644;&#x62A;&#x643;&#x648;&#x64A;&#x646;</translation>
+    </message>
+    <message>
+      <source>Users</source>
+      <translation>&#x627;&#x644;&#x645;&#x633;&#x62A;&#x62E;&#x62F;&#x645;&#x64A;&#x646;</translation>
+    </message>
+    <message>
+      <source>Please enter group name</source>
+      <translation>&#x64A;&#x631;&#x62C;&#x649; &#x625;&#x62F;&#x62E;&#x627;&#x644; &#x627;&#x633;&#x645; &#x627;&#x644;&#x645;&#x62C;&#x645;&#x648;&#x639;&#x629;</translation>
+    </message>
+    <message>
+      <source>E-mail taken!</source>
+      <translation>&#x627;&#x644;&#x628;&#x631;&#x64A;&#x62F; &#x627;&#x644;&#x625;&#x644;&#x643;&#x62A;&#x631;&#x648;&#x646;&#x64A; &#x627;&#x644;&#x62A;&#x64A; &#x627;&#x62A;&#x62E;&#x630;&#x62A;!</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/newgroup</name>
+    <message>
+      <source>New group</source>
+      <translation>&#x645;&#x62C;&#x645;&#x648;&#x639;&#x629; &#x62C;&#x62F;&#x64A;&#x62F;&#x629;</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>&#x644;&#x642;&#x628;</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>&#x62D;&#x641;&#x638;</translation>
+    </message>
+    <message>
+      <source>Save and assign user</source>
+      <translation>&#x62D;&#x641;&#x638; &#x648;&#x62A;&#x639;&#x64A;&#x64A;&#x646; &#x627;&#x644;&#x645;&#x633;&#x62A;&#x62E;&#x62F;&#x645;</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>&#x646;&#x638;&#x627;&#x645; &#x627;&#x644;&#x62A;&#x643;&#x648;&#x64A;&#x646;</translation>
+    </message>
+    <message>
+      <source>Groups</source>
+      <translation>&#x627;&#x644;&#x645;&#x62C;&#x645;&#x648;&#x639;&#x627;&#x62A;</translation>
+    </message>
+  </context>
+  <context>
+    <name>pagelayout/pagelayout</name>
+    <message>
+      <source>Home</source>
+      <translation>&#x645;&#x646;&#x632;&#x644;</translation>
+    </message>
+    <message>
+      <source>Configuration</source>
+      <translation>&#x627;&#x644;&#x62A;&#x643;&#x648;&#x64A;&#x646;</translation>
+    </message>
+    <message>
+      <source>Gallery categorys</source>
+      <translation>&#x645;&#x639;&#x631;&#x636; categorys</translation>
+    </message>
+    <message>
+      <source>Last uploads to albums</source>
+      <translation>&#x645;&#x634;&#x627;&#x631;&#x643;&#x629; &#x644;&#x62A;&#x62D;&#x645;&#x64A;&#x644; &#x623;&#x644;&#x628;&#x648;&#x645;&#x627;&#x62A;</translation>
+    </message>
+    <message>
+      <source>Batch images add</source>
+      <translation>&#x625;&#x636;&#x627;&#x641;&#x629; &#x627;&#x644;&#x635;&#x648;&#x631; &#x62F;&#x641;&#x639;&#x629;</translation>
+    </message>
+    <message>
+      <source>Duplicates</source>
+      <translation>&#x627;&#x644;&#x62A;&#x643;&#x631;&#x627;&#x631;&#x627;&#x62A;</translation>
+    </message>
+    <message>
+      <source>Static articles</source>
+      <translation>&#x62B;&#x627;&#x628;&#x62A; &#x627;&#x644;&#x645;&#x642;&#x627;&#x644;&#x627;&#x62A;</translation>
+    </message>
+    <message>
+      <source>Statistic</source>
+      <translation>&#x625;&#x62D;&#x635;&#x627;&#x626;&#x64A;&#x629;</translation>
+    </message>
+    <message>
+      <source>Shop</source>
+      <translation>&#x645;&#x62A;&#x62C;&#x631;</translation>
+    </message>
+    <message>
+      <source>Forum</source>
+      <translation>&#x645;&#x646;&#x62A;&#x62F;&#x649;</translation>
+    </message>
+    <message>
+      <source>Delete photo by ID</source>
+      <translation>&#x62D;&#x630;&#x641; &#x627;&#x644;&#x635;&#x648;&#x631;&#x629; &#x628;&#x648;&#x627;&#x633;&#x637;&#x629; &#x645;&#x639;&#x631;&#x641;</translation>
+    </message>
+    <message>
+      <source>Photo was deleted</source>
+      <translation>&#x62A;&#x645; &#x62D;&#x630;&#x641; &#x627;&#x644;&#x635;&#x648;&#x631;&#x629;</translation>
+    </message>
+    <message>
+      <source>Go to album</source>
+      <translation>&#x627;&#x646;&#x62A;&#x642;&#x644; &#x625;&#x644;&#x649; &#x627;&#x644;&#x623;&#x644;&#x628;&#x648;&#x645;</translation>
+    </message>
+    <message>
+      <source>Go to forum topic</source>
+      <translation>&#x627;&#x646;&#x62A;&#x642;&#x644; &#x625;&#x644;&#x649; &#x645;&#x648;&#x636;&#x648;&#x639; &#x627;&#x644;&#x645;&#x646;&#x62A;&#x62F;&#x649;</translation>
+    </message>
+    <message>
+      <source>Go to forum category</source>
+      <translation>&#x627;&#x646;&#x62A;&#x642;&#x644; &#x625;&#x644;&#x649; &#x641;&#x626;&#x629; &#x627;&#x644;&#x645;&#x646;&#x62A;&#x62F;&#x649;</translation>
+    </message>
+    <message>
+      <source>Go to image</source>
+      <translation>&#x627;&#x646;&#x62A;&#x642;&#x644; &#x625;&#x644;&#x649; &#x627;&#x644;&#x635;&#x648;&#x631;&#x629;</translation>
+    </message>
+    <message>
+      <source>Root category</source>
+      <translation>&#x627;&#x644;&#x641;&#x626;&#x629; &#x627;&#x644;&#x62C;&#x630;&#x631;&#x64A;&#x629;</translation>
+    </message>
+    <message>
+      <source>Open</source>
+      <translation>&#x641;&#x62A;&#x62D;</translation>
+    </message>
+    <message>
+      <source>Edit</source>
+      <translation>&#x62A;&#x62D;&#x631;&#x64A;&#x631;</translation>
+    </message>
+    <message>
+      <source>New album</source>
+      <translation>&#x627;&#x644;&#x623;&#x644;&#x628;&#x648;&#x645; &#x627;&#x644;&#x62C;&#x62F;&#x64A;&#x62F;</translation>
+    </message>
+    <message>
+      <source>New batch albums</source>
+      <translation>&#x623;&#x644;&#x628;&#x648;&#x645;&#x627;&#x62A; &#x62F;&#x641;&#x639;&#x629; &#x62C;&#x62F;&#x64A;&#x62F;&#x629;</translation>
+    </message>
+    <message>
+      <source>New category</source>
+      <translation>&#x641;&#x626;&#x629; &#x62C;&#x62F;&#x64A;&#x62F;&#x629;</translation>
+    </message>
+    <message>
+      <source>Delete album</source>
+      <translation>&#x62D;&#x630;&#x641; &#x627;&#x644;&#x623;&#x644;&#x628;&#x648;&#x645;</translation>
+    </message>
+    <message>
+      <source>Delete category</source>
+      <translation>&#x62D;&#x630;&#x641; &#x641;&#x626;&#x629;</translation>
+    </message>
+    <message>
+      <source>Add images</source>
+      <translation>&#x625;&#x636;&#x627;&#x641;&#x629; &#x635;&#x648;&#x631;</translation>
+    </message>
+    <message>
+      <source>Move images</source>
+      <translation>&#x646;&#x642;&#x644; &#x627;&#x644;&#x635;&#x648;&#x631;</translation>
+    </message>
+    <message>
+      <source>It\'s NOT fake!</source>
+      <translation>&#x627;&#x646;&#x647; \ &amp;#39;&#x644;&#x64A;&#x633;&#x62A; &#x648;&#x647;&#x645;&#x64A;&#x629;!</translation>
+    </message>
+    <message>
+      <source>Rendered in</source>
+      <translation>&#x641;&#x64A; &#x627;&#x644;&#x645;&#x642;&#x62F;&#x645;&#x629;</translation>
+    </message>
+    <message>
+      <source>Logged user</source>
+      <translation>&#x62A;&#x633;&#x62C;&#x64A;&#x644; &#x627;&#x644;&#x645;&#x633;&#x62A;&#x62E;&#x62F;&#x645;</translation>
+    </message>
+    <message>
+      <source>Account</source>
+      <translation>&#x62D;&#x633;&#x627;&#x628;</translation>
+    </message>
+    <message>
+      <source>Logout</source>
+      <translation>&#x62E;&#x631;&#x648;&#x62C;</translation>
+    </message>
+    <message>
+      <source>Login</source>
+      <translation>&#x62F;&#x62E;&#x648;&#x644;</translation>
+    </message>
+    <message>
+      <source>Enter keyword or phrase</source>
+      <translation>&#x623;&#x62F;&#x62E;&#x644; &#x627;&#x644;&#x643;&#x644;&#x645;&#x629; &#x623;&#x648; &#x627;&#x644;&#x639;&#x628;&#x627;&#x631;&#x629;</translation>
+    </message>
+    <message>
+      <source>Search entire forum</source>
+      <translation>&#x628;&#x62D;&#x62B; &#x627;&#x644;&#x645;&#x646;&#x62A;&#x62F;&#x649; &#x628;&#x623;&#x643;&#x645;&#x644;&#x647;</translation>
+    </message>
+    <message>
+      <source>Search</source>
+      <translation>&#x628;&#x62D;&#x62B;</translation>
+    </message>
+    <message>
+      <source>Last uploads</source>
+      <translation>&#x622;&#x62E;&#x631; &#x627;&#x644;&#x645;&#x633;&#x62A;&#x62C;&#x62F;&#x627;&#x62A;</translation>
+    </message>
+    <message>
+      <source>Last commented</source>
+      <translation>&#x639;&#x644;&#x642; &#x627;&#x644;&#x645;&#x627;&#x636;&#x64A;</translation>
+    </message>
+    <message>
+      <source>Last hits</source>
+      <translation>&#x645;&#x634;&#x627;&#x631;&#x643;&#x629; &#x645;&#x634;&#x627;&#x647;&#x62F;&#x627;&#x62A;</translation>
+    </message>
+    <message>
+      <source>Last rated</source>
+      <translation>&#x622;&#x62E;&#x631; &#x62A;&#x635;&#x646;&#x64A;&#x641;</translation>
+    </message>
+    <message>
+      <source>Last 24 h.</source>
+      <translation>&#x645;&#x634;&#x627;&#x631;&#x643;&#x629; 24 &#x633;&#x627;&#x639;&#x629;.</translation>
+    </message>
+    <message>
+      <source>Most popular</source>
+      <translation>&#x627;&#x644;&#x623;&#x643;&#x62B;&#x631; &#x634;&#x639;&#x628;&#x64A;&#x629;</translation>
+    </message>
+    <message>
+      <source>Top rated</source>
+      <translation>&#x623;&#x639;&#x644;&#x649; &#x62A;&#x635;&#x646;&#x64A;&#x641;</translation>
+    </message>
+    <message>
+      <source>Search entire gallery</source>
+      <translation>&#x627;&#x628;&#x62D;&#x62B; &#x639;&#x646; &#x645;&#x639;&#x631;&#x636; &#x643;&#x627;&#x645;&#x644;</translation>
+    </message>
+    <message>
+      <source>Last uploaded images</source>
+      <translation>&#x645;&#x634;&#x627;&#x631;&#x643;&#x629; &#x627;&#x644;&#x635;&#x648;&#x631; &#x627;&#x644;&#x62A;&#x64A; &#x62A;&#x645; &#x62A;&#x62D;&#x645;&#x64A;&#x644;&#x647;&#x627;</translation>
+    </message>
+    <message>
+      <source>View all categorys</source>
+      <translation>&#x639;&#x631;&#x636; &#x62C;&#x645;&#x64A;&#x639; categorys</translation>
+    </message>
+    <message>
+      <source>All time</source>
+      <translation>&#x643;&#x644; &#x627;&#x644;&#x648;&#x642;&#x62A;</translation>
+    </message>
+    <message>
+      <source>Interactive</source>
+      <translation>&#x627;&#x644;&#x62A;&#x641;&#x627;&#x639;&#x644;&#x64A;&#x629;</translation>
+    </message>
+    <message>
+      <source>Search by keyword</source>
+      <translation>&#x627;&#x644;&#x628;&#x62D;&#x62B; &#x639;&#x646; &#x637;&#x631;&#x64A;&#x642; &#x627;&#x644;&#x643;&#x644;&#x645;&#x627;&#x62A; &#x627;&#x644;&#x631;&#x626;&#x64A;&#x633;&#x64A;&#x629;</translation>
+    </message>
+    <message>
+      <source>Search by color</source>
+      <translation>&#x627;&#x644;&#x628;&#x62D;&#x62B; &#x639;&#x646; &#x637;&#x631;&#x64A;&#x642; &#x627;&#x644;&#x644;&#x648;&#x646;</translation>
+    </message>
+    <message>
+      <source>Search by similarity</source>
+      <translation>&#x627;&#x644;&#x628;&#x62D;&#x62B; &#x639;&#x646; &#x637;&#x631;&#x64A;&#x642; &#x627;&#x644;&#x62A;&#x634;&#x627;&#x628;&#x647;</translation>
+    </message>
+    <message>
+      <source>Search by sketch</source>
+      <translation>&#x627;&#x644;&#x628;&#x62D;&#x62B; &#x639;&#x646; &#x637;&#x631;&#x64A;&#x642; &#x631;&#x633;&#x645;</translation>
+    </message>
+    <message>
+      <source>Last viewed images</source>
+      <translation>&#x645;&#x634;&#x627;&#x631;&#x643;&#x629; &#x627;&#x644;&#x635;&#x648;&#x631; &#x634;&#x648;&#x647;&#x62F;&#x62A;</translation>
+    </message>
+    <message>
+      <source>Last searches</source>
+      <translation>&#x622;&#x62E;&#x631; &#x639;&#x645;&#x644;&#x64A;&#x627;&#x62A; &#x627;&#x644;&#x628;&#x62D;&#x62B;</translation>
+    </message>
+    <message>
+      <source>My account</source>
+      <translation>&#x62D;&#x633;&#x627;&#x628;&#x64A;</translation>
+    </message>
+    <message>
+      <source>Profile page</source>
+      <translation>&#x635;&#x641;&#x62D;&#x629; &#x627;&#x644;&#x645;&#x644;&#x641; &#x627;&#x644;&#x634;&#x62E;&#x635;&#x64A;</translation>
+    </message>
+    <message>
+      <source>Manage albums</source>
+      <translation>&#x625;&#x62F;&#x627;&#x631;&#x629; &#x623;&#x644;&#x628;&#x648;&#x645;&#x627;&#x62A;</translation>
+    </message>
+    <message>
+      <source>Credits</source>
+      <translation>&#x627;&#x644;&#x627;&#x639;&#x62A;&#x645;&#x627;&#x62F;&#x627;&#x62A;</translation>
+    </message>
+    <message>
+      <source>My orders</source>
+      <translation>&#x628;&#x644;&#x62F;&#x64A; &#x623;&#x648;&#x627;&#x645;&#x631;</translation>
+    </message>
+    <message>
+      <source>My credits orders</source>
+      <translation>&#x628;&#x644;&#x62F;&#x64A; &#x627;&#x639;&#x62A;&#x645;&#x627;&#x62F;&#x627;&#x62A; &#x623;&#x648;&#x627;&#x645;&#x631;</translation>
+    </message>
+    <message>
+      <source>Import images from facebook</source>
+      <translation>&#x635;&#x648;&#x631; &#x627;&#x644;&#x627;&#x633;&#x62A;&#x64A;&#x631;&#x627;&#x62F; &#x645;&#x646; &#x627;&#x644;&#x641;&#x64A;&#x633;&#x628;&#x648;&#x643;</translation>
+    </message>
+    <message>
+      <source>Register</source>
+      <translation>&#x62A;&#x633;&#x62C;&#x64A;&#x644;</translation>
+    </message>
+    <message>
+      <source>My favorites</source>
+      <translation>&#x628;&#x644;&#x62F;&#x64A; &#x627;&#x644;&#x645;&#x641;&#x636;&#x644;&#x629;</translation>
+    </message>
+    <message>
+      <source>Basket</source>
+      <translation>&#x633;&#x644;&#x629;</translation>
+    </message>
+    <message>
+      <source>Upload</source>
+      <translation>&#x62A;&#x62D;&#x645;&#x64A;&#x644;</translation>
+    </message>
+    <message>
+      <source>Upload zip</source>
+      <translation>&#x62A;&#x62D;&#x645;&#x64A;&#x644; &#x627;&#x644;&#x628;&#x631;&#x64A;&#x62F;&#x64A;</translation>
+    </message>
+    <message>
+      <source>Search...</source>
+      <translation>&#x627;&#x644;&#x628;&#x62D;&#x62B; &#x639;&#x646;...</translation>
+    </message>
+  </context>
+  <context>
+    <name>fb/album</name>
+    <message>
+      <source>Check photo to import</source>
+      <translation>&#x627;&#x644;&#x62A;&#x62D;&#x642;&#x642; &#x645;&#x646; &#x627;&#x644;&#x635;&#x648;&#x631;&#x629; &#x644;&#x627;&#x633;&#x62A;&#x64A;&#x631;&#x627;&#x62F;</translation>
+    </message>
+    <message>
+      <source>Import selected images to</source>
+      <translation>&#x635;&#x648;&#x631; &#x645;&#x62E;&#x62A;&#x627;&#x631;&#x629; &#x644;&#x627;&#x633;&#x62A;&#x64A;&#x631;&#x627;&#x62F;</translation>
+    </message>
+    <message>
+      <source>To what album you want to import images, start typing album name and click search</source>
+      <translation>&#x645;&#x627; &#x627;&#x644;&#x623;&#x644;&#x628;&#x648;&#x645; &#x627;&#x644;&#x630;&#x64A; &#x62A;&#x631;&#x64A;&#x62F; &#x627;&#x633;&#x62A;&#x64A;&#x631;&#x627;&#x62F; &#x627;&#x644;&#x635;&#x648;&#x631; &#x60C; &#x648;&#x628;&#x62F;&#x621; &#x643;&#x62A;&#x627;&#x628;&#x629; &#x627;&#x633;&#x645; &#x627;&#x644;&#x623;&#x644;&#x628;&#x648;&#x645; &#x648; &#x627;&#x636;&#x63A;&#x637; &#x628;&#x62D;&#x62B;</translation>
+    </message>
+    <message>
+      <source>Search for album</source>
+      <translation>&#x628;&#x62D;&#x62B; &#x639;&#x646; &#x627;&#x644;&#x623;&#x644;&#x628;&#x648;&#x645;</translation>
+    </message>
+    <message>
+      <source>Check all</source>
+      <translation>&#x641;&#x62D;&#x635; &#x62C;&#x645;&#x64A;&#x639;</translation>
+    </message>
+    <message>
+      <source>Click to see target, new window will open</source>
+      <translation>&#x627;&#x646;&#x642;&#x631; &#x644;&#x631;&#x624;&#x64A;&#x629; &#x627;&#x644;&#x647;&#x62F;&#x641; &#x60C; &#x648;&#x633;&#x648;&#x641; &#x62A;&#x641;&#x62A;&#x62D; &#x646;&#x627;&#x641;&#x630;&#x629; &#x62C;&#x62F;&#x64A;&#x62F;&#x629;</translation>
+    </message>
+    <message>
+      <source>Import selected images</source>
+      <translation>&#x627;&#x633;&#x62A;&#x64A;&#x631;&#x627;&#x62F; &#x627;&#x644;&#x635;&#x648;&#x631; &#x627;&#x644;&#x645;&#x62E;&#x62A;&#x627;&#x631;&#x629;</translation>
+    </message>
+    <message>
+      <source>Please choose atleast one image!</source>
+      <translation>&#x627;&#x644;&#x631;&#x62C;&#x627;&#x621; &#x627;&#x62E;&#x62A;&#x64A;&#x627;&#x631; &#x648;&#x627;&#x62D;&#x62F;&#x629; &#x639;&#x644;&#x649; &#x627;&#x644;&#x627;&#x642;&#x644; &#x635;&#x648;&#x631;&#x629;!</translation>
+    </message>
+    <message>
+      <source>images to import</source>
+      <translation>&#x635;&#x648;&#x631; &#x644;&#x627;&#x633;&#x62A;&#x64A;&#x631;&#x627;&#x62F;</translation>
+    </message>
+    <message>
+      <source>All images were imported</source>
+      <translation>&#x648;&#x642;&#x62F; &#x62A;&#x645; &#x627;&#x633;&#x62A;&#x64A;&#x631;&#x627;&#x62F; &#x62C;&#x645;&#x64A;&#x639; &#x627;&#x644;&#x635;&#x648;&#x631;</translation>
+    </message>
+    <message>
+      <source>Please choose album</source>
+      <translation>&#x627;&#x644;&#x631;&#x62C;&#x627;&#x621; &#x627;&#x62E;&#x62A;&#x64A;&#x627;&#x631; &#x627;&#x644;&#x623;&#x644;&#x628;&#x648;&#x645;</translation>
+    </message>
+    <message>
+      <source>Preview version</source>
+      <translation>&#x645;&#x639;&#x627;&#x64A;&#x646;&#x629; &#x627;&#x644;&#x646;&#x633;&#x62E;&#x629;</translation>
+    </message>
+  </context>
+  <context>
+    <name>feedback/form</name>
+    <message>
+      <source>Feedback</source>
+      <translation>&#x631;&#x62F;&#x648;&#x62F; &#x627;&#x644;&#x641;&#x639;&#x644;</translation>
+    </message>
+    <message>
+      <source>Feedback was send</source>
+      <translation>&#x62A;&#x645; &#x627;&#x631;&#x633;&#x627;&#x644; &#x645;&#x644;&#x627;&#x62D;&#x638;&#x627;&#x62A;&#x643;</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>&#x627;&#x633;&#x645;</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>&#x627;&#x644;&#x628;&#x631;&#x64A;&#x62F; &#x627;&#x644;&#x625;&#x644;&#x643;&#x62A;&#x631;&#x648;&#x646;&#x64A;</translation>
+    </message>
+    <message>
+      <source>Text</source>
+      <translation>&#x646;&#x635;</translation>
+    </message>
+    <message>
+      <source>Captcha image</source>
+      <translation>&#x635;&#x648;&#x631;&#x629; (captcha)</translation>
+    </message>
+    <message>
+      <source>Captcha code</source>
+      <translation>&#x631;&#x645;&#x632; CAPTCHA</translation>
+    </message>
+    <message>
+      <source>Required fields</source>
+      <translation>&#x627;&#x644;&#x62D;&#x642;&#x648;&#x644; &#x627;&#x644;&#x645;&#x637;&#x644;&#x648;&#x628;&#x629;</translation>
+    </message>
+    <message>
+      <source>Send</source>
+      <translation>&#x625;&#x631;&#x633;&#x627;&#x644;</translation>
+    </message>
+    <message>
+      <source>Please enter name!</source>
+      <translation>&#x645;&#x646; &#x641;&#x636;&#x644;&#x643; &#x627;&#x62F;&#x62E;&#x644; &#x627;&#x633;&#x645;!</translation>
+    </message>
+    <message>
+      <source>Invalid e-mail address!</source>
+      <translation>&#x63A;&#x64A;&#x631; &#x635;&#x627;&#x644;&#x62D;&#x629; &#x639;&#x646;&#x648;&#x627;&#x646; &#x627;&#x644;&#x628;&#x631;&#x64A;&#x62F; &#x627;&#x644;&#x625;&#x644;&#x643;&#x62A;&#x631;&#x648;&#x646;&#x64A;!</translation>
+    </message>
+    <message>
+      <source>Please enter text!</source>
+      <translation>&#x627;&#x644;&#x631;&#x62C;&#x627;&#x621; &#x625;&#x62F;&#x62E;&#x627;&#x644; &#x627;&#x644;&#x646;&#x635;!</translation>
+    </message>
+    <message>
+      <source>Please enter captcha code!</source>
+      <translation>&#x627;&#x644;&#x631;&#x62C;&#x627;&#x621; &#x625;&#x62F;&#x62E;&#x627;&#x644; &#x631;&#x645;&#x632; CAPTCHA!</translation>
+    </message>
+  </context>
+  <context>
+    <name>feedback/formsend</name>
+    <message>
+      <source>Feedback</source>
+      <translation>&#x631;&#x62F;&#x648;&#x62F; &#x627;&#x644;&#x641;&#x639;&#x644;</translation>
+    </message>
+    <message>
+      <source>Your feedback was succesfuly send</source>
+      <translation>&#x62A;&#x645; &#x627;&#x631;&#x633;&#x627;&#x644; &#x645;&#x644;&#x627;&#x62D;&#x638;&#x627;&#x62A;&#x643; &#x628;&#x646;&#x62C;&#x627;&#x62D;</translation>
+    </message>
+    <message>
+      <source>Home page</source>
+      <translation>&#x627;&#x644;&#x635;&#x641;&#x62D;&#x629; &#x627;&#x644;&#x631;&#x626;&#x64A;&#x633;&#x64A;&#x629;</translation>
+    </message>
+  </context>
+  <context>
+    <name>feedback/mail</name>
+    <message>
+      <source>Hello</source>
+      <translation>&#x645;&#x631;&#x62D;&#x628;&#x627;</translation>
+    </message>
+    <message>
+      <source>Feedback data</source>
+      <translation>&#x631;&#x62F;&#x648;&#x62F; &#x627;&#x644;&#x641;&#x639;&#x644; &#x628;&#x64A;&#x627;&#x646;&#x627;&#x62A;</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>&#x627;&#x633;&#x645;</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>&#x627;&#x644;&#x628;&#x631;&#x64A;&#x62F; &#x627;&#x644;&#x625;&#x644;&#x643;&#x62A;&#x631;&#x648;&#x646;&#x64A;</translation>
+    </message>
+    <message>
+      <source>Text</source>
+      <translation>&#x646;&#x635;</translation>
+    </message>
+    <message>
+      <source>Bye</source>
+      <translation>&#x648;&#x62F;&#x627;&#x639;&#x627;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/anaglyph</name>
+    <message>
+      <source>Original</source>
+      <translation>&#x623;&#x635;&#x644;&#x64A;</translation>
+    </message>
+    <message>
+      <source>Anaglyph</source>
+      <translation>&#x627;&#x644;&#x646;&#x642;&#x634;</translation>
+    </message>
+    <message>
+      <source>Animating</source>
+      <translation>&#x645;&#x648;&#x62D;&#x64A;&#x629;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/color</name>
+    <message>
+      <source>Exclude color</source>
+      <translation>&#x627;&#x633;&#x62A;&#x628;&#x639;&#x627;&#x62F; &#x627;&#x644;&#x644;&#x648;&#x646;</translation>
+    </message>
+    <message>
+      <source>Maximum</source>
+      <translation>&#x623;&#x642;&#x635;&#x649;</translation>
+    </message>
+    <message>
+      <source>filters</source>
+      <translation>&#x645;&#x631;&#x634;&#x62D;&#x627;&#x62A;</translation>
+    </message>
+    <message>
+      <source>Include color</source>
+      <translation>&#x648;&#x62A;&#x634;&#x645;&#x644; &#x627;&#x644;&#x623;&#x644;&#x648;&#x627;&#x646;</translation>
+    </message>
+    <message>
+      <source>Remove color</source>
+      <translation>&#x625;&#x632;&#x627;&#x644;&#x629; &#x627;&#x644;&#x644;&#x648;&#x646;</translation>
+    </message>
+    <message>
+      <source>Excluded colors in search</source>
+      <translation>&#x627;&#x633;&#x62A;&#x628;&#x639;&#x62F;&#x62A; &#x627;&#x644;&#x623;&#x644;&#x648;&#x627;&#x646; &#x641;&#x64A; &#x627;&#x644;&#x628;&#x62D;&#x62B;</translation>
+    </message>
+    <message>
+      <source>colors</source>
+      <translation>&#x627;&#x644;&#x623;&#x644;&#x648;&#x627;&#x646;</translation>
+    </message>
+    <message>
+      <source>More color</source>
+      <translation>&#x623;&#x643;&#x62B;&#x631; &#x627;&#x644;&#x623;&#x644;&#x648;&#x627;&#x646;</translation>
+    </message>
+    <message>
+      <source>Return to pallete</source>
+      <translation>&#x627;&#x644;&#x639;&#x648;&#x62F;&#x629; &#x625;&#x644;&#x649; pallete</translation>
+    </message>
+    <message>
+      <source>Images by color</source>
+      <translation>&#x627;&#x644;&#x635;&#x648;&#x631; &#x62D;&#x633;&#x628; &#x627;&#x644;&#x644;&#x648;&#x646;</translation>
+    </message>
+    <message>
+      <source>Choose color</source>
+      <translation>&#x627;&#x62E;&#x62A;&#x64A;&#x627;&#x631; &#x627;&#x644;&#x644;&#x648;&#x646;</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>&#x623;&#x64A;&#x629; &#x633;&#x62C;&#x644;&#x627;&#x62A;.</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>&#x635;&#x641;&#x62D;&#x629;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/createalbum</name>
+    <message>
+      <source>New album</source>
+      <translation>&#x627;&#x644;&#x623;&#x644;&#x628;&#x648;&#x645; &#x627;&#x644;&#x62C;&#x62F;&#x64A;&#x62F;</translation>
+    </message>
+    <message>
+      <source>Album name</source>
+      <translation>&#x627;&#x633;&#x645; &#x627;&#x644;&#x623;&#x644;&#x628;&#x648;&#x645;</translation>
+    </message>
+    <message>
+      <source>Description</source>
+      <translation>&#x648;&#x635;&#x641;</translation>
+    </message>
+    <message>
+      <source>Keywords</source>
+      <translation>&#x627;&#x644;&#x643;&#x644;&#x645;&#x627;&#x62A; &#x627;&#x644;&#x631;&#x626;&#x64A;&#x633;&#x64A;&#x629;</translation>
+    </message>
+    <message>
+      <source>Create</source>
+      <translation>&#x62E;&#x644;&#x642;</translation>
+    </message>
+    <message>
+      <source>Create and upload photos</source>
+      <translation>&#x625;&#x646;&#x634;&#x627;&#x621; &#x648;&#x62A;&#x62D;&#x645;&#x64A;&#x644; &#x627;&#x644;&#x635;&#x648;&#x631;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/myfavorites</name>
+    <message>
+      <source>Remove from favorites</source>
+      <translation>&#x625;&#x632;&#x627;&#x644;&#x629; &#x645;&#x646; &#x627;&#x644;&#x645;&#x641;&#x636;&#x644;&#x629;</translation>
+    </message>
+    <message>
+      <source>My favorite images</source>
+      <translation>&#x628;&#x644;&#x62F;&#x64A; &#x627;&#x644;&#x635;&#x648;&#x631; &#x627;&#x644;&#x645;&#x641;&#x636;&#x644;&#x629;</translation>
+    </message>
+    <message>
+      <source>Remove</source>
+      <translation>&#x625;&#x632;&#x627;&#x644;&#x629;</translation>
+    </message>
+    <message>
+      <source>Remove Open ID</source>
+      <translation>&#x625;&#x632;&#x627;&#x644;&#x629; &#x645;&#x639;&#x631;&#x641; &#x641;&#x62A;&#x62D;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastcommented</name>
+    <message>
+      <source>Last commented images</source>
+      <translation>&#x648;&#x639;&#x644;&#x642; &#x645;&#x634;&#x627;&#x631;&#x643;&#x629; &#x627;&#x644;&#x635;&#x648;&#x631;</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>&#x623;&#x64A;&#x629; &#x633;&#x62C;&#x644;&#x627;&#x62A;.</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>&#x642;&#x631;&#x627;&#x631;</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>&#x635;&#x641;&#x62D;&#x629;</translation>
+    </message>
+    <message>
+      <source>Last commented gallery images.</source>
+      <translation>&#x648;&#x639;&#x644;&#x642; &#x645;&#x634;&#x627;&#x631;&#x643;&#x629; &#x627;&#x644;&#x635;&#x648;&#x631; &#x645;&#x639;&#x631;&#x636;.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lasthits</name>
+    <message>
+      <source>Last viewed images</source>
+      <translation>&#x645;&#x634;&#x627;&#x631;&#x643;&#x629; &#x627;&#x644;&#x635;&#x648;&#x631; &#x634;&#x648;&#x647;&#x62F;&#x62A;</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>&#x623;&#x64A;&#x629; &#x633;&#x62C;&#x644;&#x627;&#x62A;.</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>&#x642;&#x631;&#x627;&#x631;</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>&#x635;&#x641;&#x62D;&#x629;</translation>
+    </message>
+    <message>
+      <source>Last viewed gallery images.</source>
+      <translation>&#x645;&#x634;&#x627;&#x631;&#x643;&#x629; &#x64A;&#x646;&#x638;&#x631; &#x645;&#x639;&#x631;&#x636; &#x627;&#x644;&#x635;&#x648;&#x631;.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastrated</name>
+    <message>
+      <source>Last rated images</source>
+      <translation>&#x645;&#x634;&#x627;&#x631;&#x643;&#x629; &#x627;&#x644;&#x635;&#x648;&#x631; &#x641;&#x64A; &#x627;&#x644;&#x62A;&#x635;&#x646;&#x64A;&#x641;</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>&#x623;&#x64A;&#x629; &#x633;&#x62C;&#x644;&#x627;&#x62A;.</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>&#x642;&#x631;&#x627;&#x631;</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>&#x635;&#x641;&#x62D;&#x629;</translation>
+    </message>
+    <message>
+      <source>Recently rated images.</source>
+      <translation>&#x62A;&#x635;&#x646;&#x64A;&#x641; &#x627;&#x644;&#x635;&#x648;&#x631; &#x645;&#x624;&#x62E;&#x631;&#x627;.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastsearches</name>
+    <message>
+      <source>Last searches</source>
+      <translation>&#x622;&#x62E;&#x631; &#x639;&#x645;&#x644;&#x64A;&#x627;&#x62A; &#x627;&#x644;&#x628;&#x62D;&#x62B;</translation>
+    </message>
+    <message>
+      <source>No records</source>
+      <translation>&#x644;&#x627; &#x64A;&#x648;&#x62C;&#x62F; &#x633;&#x62C;&#x644;&#x627;&#x62A;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastuploads</name>
+    <message>
+      <source>Last uploaded images</source>
+      <translation>&#x645;&#x634;&#x627;&#x631;&#x643;&#x629; &#x627;&#x644;&#x635;&#x648;&#x631; &#x627;&#x644;&#x62A;&#x64A; &#x62A;&#x645; &#x62A;&#x62D;&#x645;&#x64A;&#x644;&#x647;&#x627;</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>&#x623;&#x64A;&#x629; &#x633;&#x62C;&#x644;&#x627;&#x62A;.</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>&#x642;&#x631;&#x627;&#x631;</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>&#x635;&#x641;&#x62D;&#x629;</translation>
+    </message>
+    <message>
+      <source>Latest additions to gallery.</source>
+      <translation>&#x623;&#x62D;&#x62F;&#x62B; &#x627;&#x644;&#x625;&#x636;&#x627;&#x641;&#x627;&#x62A; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x639;&#x631;&#x636;.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/my_albums_list</name>
+    <message>
+      <source>Edit album</source>
+      <translation>&#x62A;&#x62D;&#x631;&#x64A;&#x631; &#x627;&#x644;&#x623;&#x644;&#x628;&#x648;&#x645;</translation>
+    </message>
+    <message>
+      <source>Are you sure?</source>
+      <translation>&#x647;&#x644; &#x623;&#x646;&#x62A; &#x645;&#x62A;&#x623;&#x643;&#x62F;&#x61F;</translation>
+    </message>
+    <message>
+      <source>Delete album</source>
+      <translation>&#x62D;&#x630;&#x641; &#x627;&#x644;&#x623;&#x644;&#x628;&#x648;&#x645;</translation>
+    </message>
+    <message>
+      <source>Add images</source>
+      <translation>&#x625;&#x636;&#x627;&#x641;&#x629; &#x635;&#x648;&#x631;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/myalbums</name>
+    <message>
+      <source>My albums</source>
+      <translation>&#x628;&#x644;&#x62F;&#x64A; &#x623;&#x644;&#x628;&#x648;&#x645;&#x627;&#x62A;</translation>
+    </message>
+    <message>
+      <source>New album</source>
+      <translation>&#x627;&#x644;&#x623;&#x644;&#x628;&#x648;&#x645; &#x627;&#x644;&#x62C;&#x62F;&#x64A;&#x62F;</translation>
+    </message>
+    <message>
+      <source>Update priority</source>
+      <translation>&#x627;&#x644;&#x62A;&#x62D;&#x62F;&#x64A;&#x62B; &#x623;&#x648;&#x644;&#x648;&#x64A;&#x629;</translation>
+    </message>
+    <message>
+      <source>You do not have any album.</source>
+      <translation>&#x644;&#x64A;&#x633; &#x644;&#x62F;&#x64A;&#x643; &#x623;&#x64A; &#x623;&#x644;&#x628;&#x648;&#x645;.</translation>
+    </message>
+    <message>
+      <source>Create a new album.</source>
+      <translation>&#x625;&#x646;&#x634;&#x627;&#x621; &#x623;&#x644;&#x628;&#x648;&#x645; &#x62C;&#x62F;&#x64A;&#x62F;.</translation>
+    </message>
+    <message>
+      <source>Account</source>
+      <translation>&#x62D;&#x633;&#x627;&#x628;</translation>
+    </message>
+    <message>
+      <source>Albums</source>
+      <translation>&#x627;&#x644;&#x628;&#x648;&#x645;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/mylistalbum</name>
+    <message>
+      <source>No records.</source>
+      <translation>&#x623;&#x64A;&#x629; &#x633;&#x62C;&#x644;&#x627;&#x62A;.</translation>
+    </message>
+    <message>
+      <source>Account</source>
+      <translation>&#x62D;&#x633;&#x627;&#x628;</translation>
+    </message>
+    <message>
+      <source>Albums</source>
+      <translation>&#x627;&#x644;&#x628;&#x648;&#x645;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/popular</name>
+    <message>
+      <source>Most popular images</source>
+      <translation>&#x627;&#x644;&#x635;&#x648;&#x631; &#x627;&#x644;&#x623;&#x643;&#x62B;&#x631; &#x634;&#x639;&#x628;&#x64A;&#x629;</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>&#x623;&#x64A;&#x629; &#x633;&#x62C;&#x644;&#x627;&#x62A;.</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>&#x642;&#x631;&#x627;&#x631;</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>&#x635;&#x641;&#x62D;&#x629;</translation>
+    </message>
+    <message>
+      <source>All time most popular images.</source>
+      <translation>&#x643;&#x644; &#x627;&#x644;&#x623;&#x648;&#x642;&#x627;&#x62A; &#x627;&#x644;&#x623;&#x643;&#x62B;&#x631; &#x634;&#x639;&#x628;&#x64A;&#x629; &#x627;&#x644;&#x635;&#x648;&#x631;.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/popularrecect</name>
+    <message>
+      <source>Most popular images in 24 hours.</source>
+      <translation>&#x627;&#x644;&#x635;&#x648;&#x631; &#x627;&#x644;&#x623;&#x643;&#x62B;&#x631; &#x634;&#x639;&#x628;&#x64A;&#x629; &#x641;&#x64A; &#x63A;&#x636;&#x648;&#x646; 24 &#x633;&#x627;&#x639;&#x629;.</translation>
+    </message>
+    <message>
+      <source>There are no images.</source>
+      <translation>&#x644;&#x627; &#x62A;&#x648;&#x62C;&#x62F; &#x635;&#x648;&#x631;.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/ratedrecent</name>
+    <message>
+      <source>Top rated images in 24 hours.</source>
+      <translation>&#x623;&#x639;&#x644;&#x649; &#x62A;&#x635;&#x646;&#x64A;&#x641; &#x627;&#x644;&#x635;&#x648;&#x631; &#x641;&#x64A; &#x63A;&#x636;&#x648;&#x646; 24 &#x633;&#x627;&#x639;&#x629;.</translation>
+    </message>
+    <message>
+      <source>Top rated images in 24 hours</source>
+      <translation>&#x623;&#x639;&#x644;&#x649; &#x62A;&#x635;&#x646;&#x64A;&#x641; &#x627;&#x644;&#x635;&#x648;&#x631; &#x641;&#x64A; &#x63A;&#x636;&#x648;&#x646; 24 &#x633;&#x627;&#x639;&#x629;</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>&#x635;&#x641;&#x62D;&#x629;</translation>
+    </message>
+    <message>
+      <source>Top rated images in last 24 hours.</source>
+      <translation>&#x623;&#x639;&#x644;&#x649; &#x62A;&#x635;&#x646;&#x64A;&#x641; &#x627;&#x644;&#x635;&#x648;&#x631; &#x641;&#x64A; &#x627;&#x644; 24 &#x633;&#x627;&#x639;&#x629; &#x627;&#x644;&#x645;&#x627;&#x636;&#x64A;&#x629;.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/sharehtml</name>
+    <message>
+      <source>Link to image</source>
+      <translation>&#x631;&#x627;&#x628;&#x637; &#x644;&#x644;&#x635;&#x648;&#x631;&#x629;</translation>
+    </message>
+    <message>
+      <source>Link to image with thumbnail</source>
+      <translation>&#x631;&#x627;&#x628;&#x637; &#x644;&#x635;&#x648;&#x631;&#x629; &#x645;&#x635;&#x63A;&#x631;&#x629; &#x645;&#x639;</translation>
+    </message>
+    <message>
+      <source>Link to image with medium size thumbnail</source>
+      <translation>&#x631;&#x627;&#x628;&#x637; &#x644;&#x635;&#x648;&#x631;&#x629; &#x645;&#x635;&#x63A;&#x631;&#x629; &#x645;&#x639; &#x645;&#x62A;&#x648;&#x633;&#x637;&#x629; &#x627;&#x644;&#x62D;&#x62C;&#x645;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/sharephpbb</name>
+    <message>
+      <source>Link to image</source>
+      <translation>&#x631;&#x627;&#x628;&#x637; &#x644;&#x644;&#x635;&#x648;&#x631;&#x629;</translation>
+    </message>
+    <message>
+      <source>Link to image with thumbnail</source>
+      <translation>&#x631;&#x627;&#x628;&#x637; &#x644;&#x635;&#x648;&#x631;&#x629; &#x645;&#x635;&#x63A;&#x631;&#x629; &#x645;&#x639;</translation>
+    </message>
+    <message>
+      <source>Link to image with medium size thumbnail</source>
+      <translation>&#x631;&#x627;&#x628;&#x637; &#x644;&#x635;&#x648;&#x631;&#x629; &#x645;&#x635;&#x63A;&#x631;&#x629; &#x645;&#x639; &#x645;&#x62A;&#x648;&#x633;&#x637;&#x629; &#x627;&#x644;&#x62D;&#x62C;&#x645;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/subcategory_list_full</name>
+    <message>
+      <source>albums</source>
+      <translation>&#x627;&#x644;&#x628;&#x648;&#x645;</translation>
+    </message>
+    <message>
+      <source>images</source>
+      <translation>&#x627;&#x644;&#x635;&#x648;&#x631;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/toprated</name>
+    <message>
+      <source>Top rated images</source>
+      <translation>&#x623;&#x639;&#x644;&#x649; &#x62A;&#x635;&#x646;&#x64A;&#x641; &#x627;&#x644;&#x635;&#x648;&#x631;</translation>
+    </message>
+    <message>
+      <source>No records</source>
+      <translation>&#x644;&#x627; &#x64A;&#x648;&#x62C;&#x62F; &#x633;&#x62C;&#x644;&#x627;&#x62A;</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>&#x642;&#x631;&#x627;&#x631;</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>&#x635;&#x641;&#x62D;&#x629;</translation>
+    </message>
+    <message>
+      <source>All time top rated images.</source>
+      <translation>&#x643;&#x644; &#x627;&#x644;&#x648;&#x642;&#x62A; &#x623;&#x639;&#x644;&#x649; &#x62A;&#x635;&#x646;&#x64A;&#x641; &#x627;&#x644;&#x635;&#x648;&#x631;.</translation>
+    </message>
+  </context>
+  <context>
+    <name>kernel/nopermission</name>
+    <message>
+      <source>You do not have permission to access module</source>
+      <translation type="unfinished">&#x644;&#x64A;&#x633; &#x644;&#x62F;&#x64A;&#x643; &#x625;&#x630;&#x646; &#x644;&#x644;&#x648;&#x635;&#x648;&#x644; &#x625;&#x644;&#x649; &#x627;&#x644;&#x648;&#x62D;&#x62F;&#x629;</translation>
+    </message>
+    <message>
+      <source>and use</source>
+      <translation type="unfinished">&#x648;&#x627;&#x633;&#x62A;&#x62E;&#x62F;&#x627;&#x645;</translation>
+    </message>
+    <message>
+      <source>function</source>
+      <translation type="unfinished">&#x648;&#x638;&#x64A;&#x641;&#x629;</translation>
+    </message>
+    <message>
+      <source>You do not have permission to access current object</source>
+      <translation type="unfinished">&#x644;&#x64A;&#x633; &#x644;&#x62F;&#x64A;&#x643; &#x625;&#x630;&#x646; &#x644;&#x644;&#x648;&#x635;&#x648;&#x644; &#x625;&#x644;&#x649; &#x627;&#x644;&#x643;&#x627;&#x626;&#x646; &#x627;&#x644;&#x62D;&#x627;&#x644;&#x64A;</translation>
+    </message>
+  </context>
+  <context>
+    <name>core/paginator</name>
+    <message>
+      <source>Page</source>
+      <translation type="unfinished">&#x635;&#x641;&#x62D;&#x629;</translation>
+    </message>
+    <message>
+      <source>of</source>
+      <translation type="unfinished">&#x645;&#x646;</translation>
+    </message>
+    <message>
+      <source>Found</source>
+      <translation type="unfinished">&#x648;&#x62C;&#x62F;&#x62A;</translation>
+    </message>
+    <message>
+      <source>Previous</source>
+      <translation type="unfinished">&#x633;&#x627;&#x628;&#x642;</translation>
+    </message>
+    <message>
+      <source>Go to page</source>
+      <translation type="unfinished">&#x627;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x635;&#x641;&#x62D;&#x629;</translation>
+    </message>
+    <message>
+      <source>Next</source>
+      <translation type="unfinished">&#x627;&#x644;&#x62A;&#x627;&#x644;&#x64A;</translation>
+    </message>
+  </context>
+  <context>
+    <name>similar/similar</name>
+    <message>
+      <source>Visualy similar images to</source>
+      <translation type="unfinished">&#x62A;&#x634;&#x628;&#x647; &#x627;&#x644;&#x635;&#x648;&#x631; &#x625;&#x644;&#x649; Visualy</translation>
+    </message>
+    <message>
+      <source>Search for visualy similar images</source>
+      <translation type="unfinished">&#x627;&#x644;&#x628;&#x62D;&#x62B; &#x639;&#x646; &#x635;&#x648;&#x631; &#x645;&#x634;&#x627;&#x628;&#x647;&#x629; visualy</translation>
+    </message>
+    <message>
+      <source>Please enable JavaScript to upload image</source>
+      <translation type="unfinished">&#x627;&#x644;&#x631;&#x62C;&#x627;&#x621; &#x62A;&#x645;&#x643;&#x64A;&#x646; &#x62C;&#x627;&#x641;&#x627; &#x633;&#x643;&#x631;&#x64A;&#x628;&#x62A; &#x644;&#x62A;&#x62D;&#x645;&#x64A;&#x644; &#x627;&#x644;&#x635;&#x648;&#x631;</translation>
+    </message>
+    <message>
+      <source>Click to choose image, you can also Drag and Drop file here (Drag and drop only for FF, Chrome).</source>
+      <translation type="unfinished">&#x627;&#x646;&#x642;&#x631; &#x644;&#x627;&#x62E;&#x62A;&#x64A;&#x627;&#x631; &#x635;&#x648;&#x631;&#x629; &#x60C; &#x64A;&#x645;&#x643;&#x646;&#x643; &#x623;&#x64A;&#x636;&#x627; &#x633;&#x62D;&#x628; &#x648;&#x625;&#x633;&#x642;&#x627;&#x637; &#x627;&#x644;&#x645;&#x644;&#x641; &#x647;&#x646;&#x627; (&#x633;&#x62D;&#x628; &#x648;&#x625;&#x641;&#x644;&#x627;&#x62A; &#x641;&#x642;&#x637; &#x644;&#x644;&#x641;&#x631;&#x646;&#x643; &#x641;&#x631;&#x646;&#x633;&#x64A; &#x60C; &#x648;&#x627;&#x644;&#x643;&#x631;&#x648;&#x645;).</translation>
+    </message>
+    <message>
+      <source>Cancel</source>
+      <translation type="unfinished">&#x625;&#x644;&#x63A;&#x627;&#x621;</translation>
+    </message>
+    <message>
+      <source>Failed</source>
+      <translation type="unfinished">&#x641;&#x634;&#x644;</translation>
+    </message>
+  </context>
+  <context>
+    <name>similar/sketch</name>
+    <message>
+      <source>Search by sketch</source>
+      <translation type="unfinished">&#x627;&#x644;&#x628;&#x62D;&#x62B; &#x639;&#x646; &#x637;&#x631;&#x64A;&#x642; &#x631;&#x633;&#x645;</translation>
+    </message>
+    <message>
+      <source>Sketch and find images by your sketch</source>
+      <translation type="unfinished">&#x648;&#x627;&#x644;&#x639;&#x62B;&#x648;&#x631; &#x639;&#x644;&#x649; &#x631;&#x633;&#x645; &#x627;&#x644;&#x635;&#x648;&#x631; &#x639;&#x646; &#x637;&#x631;&#x64A;&#x642; &#x631;&#x633;&#x645; &#x627;&#x644;&#x62E;&#x627;&#x635;</translation>
+    </message>
+  </context>
+  <context>
+    <name>statistic/view</name>
+    <message>
+      <source>hours</source>
+      <translation type="unfinished">&#x633;&#x627;&#x639;&#x627;&#x62A;</translation>
+    </message>
+    <message>
+      <source>Total pageviews</source>
+      <translation type="unfinished">&#x645;&#x62C;&#x645;&#x648;&#x639; &#x639;&#x631;&#x636; &#x635;&#x641;&#x62D;&#x629;</translation>
+    </message>
+    <message>
+      <source>Total visits</source>
+      <translation type="unfinished">&#x639;&#x62F;&#x62F; &#x627;&#x644;&#x632;&#x64A;&#x627;&#x631;&#x627;&#x62A;</translation>
+    </message>
+    <message>
+      <source>Time spent</source>
+      <translation type="unfinished">&#x642;&#x636;&#x649; &#x648;&#x642;&#x62A;&#x627;</translation>
+    </message>
+    <message>
+      <source>Last 31 days statistic, data resource - google analytics API</source>
+      <translation type="unfinished">&#x622;&#x62E;&#x631; &#x625;&#x62D;&#x635;&#x627;&#x626;&#x64A;&#x629; 31 &#x64A;&#x648;&#x645;&#x627; &#x60C; &#x648;&#x628;&#x64A;&#x627;&#x646;&#x627;&#x62A; &#x627;&#x644;&#x645;&#x648;&#x627;&#x631;&#x62F; -- &#x628;&#x631;&#x646;&#x627;&#x645;&#x62C; Google Analytics API</translation>
+    </message>
+    <message>
+      <source>Legend</source>
+      <translation type="unfinished">&#x623;&#x633;&#x637;&#x648;&#x631;&#x629;</translation>
+    </message>
+    <message>
+      <source>Pageviews</source>
+      <translation type="unfinished">&#x639;&#x631;&#x636; &#x635;&#x641;&#x62D;&#x629;</translation>
+    </message>
+    <message>
+      <source>Visits</source>
+      <translation type="unfinished">&#x627;&#x644;&#x632;&#x64A;&#x627;&#x631;&#x627;&#x62A;</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/mapaccounts</name>
+    <message>
+      <source>Login with facebook</source>
+      <translation type="unfinished">&#x627;&#x644;&#x62F;&#x62E;&#x648;&#x644; &#x645;&#x639; &#x627;&#x644;&#x641;&#x64A;&#x633;&#x628;&#x648;&#x643;</translation>
+    </message>
+    <message>
+      <source>Map to my account</source>
+      <translation type="unfinished">&#x627;&#x644;&#x62E;&#x631;&#x64A;&#x637;&#x629; &#x644;&#x62D;&#x633;&#x627;&#x628;&#x64A;</translation>
+    </message>
+    <message>
+      <source>my account</source>
+      <translation type="unfinished">&#x62D;&#x633;&#x627;&#x628;&#x64A;</translation>
+    </message>
+    <message>
+      <source>Login</source>
+      <translation type="unfinished">&#x62F;&#x62E;&#x648;&#x644;</translation>
+    </message>
+    <message>
+      <source>map to my account</source>
+      <translation type="unfinished">&#x627;&#x644;&#x62E;&#x631;&#x64A;&#x637;&#x629; &#x644;&#x62D;&#x633;&#x627;&#x628;&#x64A;</translation>
+    </message>
+    <message>
+      <source>Incorrect login or password</source>
+      <translation type="unfinished">&#x627;&#x644;&#x62F;&#x62E;&#x648;&#x644; &#x623;&#x648; &#x643;&#x644;&#x645;&#x629; &#x627;&#x644;&#x633;&#x631; &#x63A;&#x64A;&#x631; &#x635;&#x62D;&#x64A;&#x62D;&#x629;</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation type="unfinished">&#x627;&#x633;&#x645; &#x627;&#x644;&#x645;&#x633;&#x62A;&#x62E;&#x62F;&#x645;</translation>
+    </message>
+    <message>
+      <source>Password</source>
+      <translation type="unfinished">&#x643;&#x644;&#x645;&#x629; &#x627;&#x644;&#x633;&#x631;</translation>
+    </message>
+    <message>
+      <source>OR</source>
+      <translation type="unfinished">&#x623;&#x648;</translation>
+    </message>
+    <message>
+      <source>create account</source>
+      <translation type="unfinished">&#x625;&#x646;&#x634;&#x627;&#x621; &#x62D;&#x633;&#x627;&#x628;</translation>
+    </message>
+    <message>
+      <source>Next</source>
+      <translation type="unfinished">&#x627;&#x644;&#x62A;&#x627;&#x644;&#x64A;</translation>
+    </message>
+    <message>
+      <source>Open ID</source>
+      <translation type="unfinished">&#x641;&#x62A;&#x62D; &#x645;&#x639;&#x631;&#x641;</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/forgotpassword</name>
+    <message>
+      <source>Password remind</source>
+      <translation type="unfinished">&#x623;&#x630;&#x643;&#x631; &#x643;&#x644;&#x645;&#x629; &#x627;&#x644;&#x633;&#x631;</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation type="unfinished">&#x627;&#x644;&#x628;&#x631;&#x64A;&#x62F; &#x627;&#x644;&#x625;&#x644;&#x643;&#x62A;&#x631;&#x648;&#x646;&#x64A;</translation>
+    </message>
+    <message>
+      <source>Restore password</source>
+      <translation type="unfinished">&#x627;&#x633;&#x62A;&#x639;&#x627;&#x62F;&#x629; &#x643;&#x644;&#x645;&#x629; &#x627;&#x644;&#x645;&#x631;&#x648;&#x631;</translation>
+    </message>
+    <message>
+      <source>Order confirmed</source>
+      <translation type="unfinished">&#x648;&#x623;&#x643;&#x62F; &#x627;&#x644;&#x646;&#x638;&#x627;&#x645;</translation>
+    </message>
+    <message>
+      <source>Credits order confirmed</source>
+      <translation type="unfinished">&#x648;&#x623;&#x643;&#x62F; &#x627;&#x639;&#x62A;&#x645;&#x627;&#x62F;&#x627;&#x62A; &#x627;&#x644;&#x646;&#x638;&#x627;&#x645;</translation>
+    </message>
+    <message>
+      <source>Wrong e-mail address!</source>
+      <translation type="unfinished">&#x62E;&#x637;&#x623; &#x639;&#x646;&#x648;&#x627;&#x646; &#x627;&#x644;&#x628;&#x631;&#x64A;&#x62F; &#x627;&#x644;&#x625;&#x644;&#x643;&#x62A;&#x631;&#x648;&#x646;&#x64A;!</translation>
+    </message>
+    <message>
+      <source>Click this link and to You will be send new password</source>
+      <translation type="unfinished">&#x641;&#x648;&#x642; &#x647;&#x630;&#x627; &#x627;&#x644;&#x631;&#x627;&#x628;&#x637; &#x648;&#x633;&#x648;&#x641; &#x64A;&#x62A;&#x645; &#x625;&#x631;&#x633;&#x627;&#x644; &#x643;&#x644;&#x645;&#x629; &#x645;&#x631;&#x648;&#x631; &#x62C;&#x62F;&#x64A;&#x62F;&#x629;</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/forgotpasswordsent</name>
+    <message>
+      <source>Password remind</source>
+      <translation type="unfinished">&#x623;&#x630;&#x643;&#x631; &#x643;&#x644;&#x645;&#x629; &#x627;&#x644;&#x633;&#x631;</translation>
+    </message>
+    <message>
+      <source>E-mail send. Click link in email and to You will be send out new password.</source>
+      <translation type="unfinished">&#x625;&#x631;&#x633;&#x627;&#x644; &#x628;&#x631;&#x64A;&#x62F; &#x625;&#x644;&#x643;&#x62A;&#x631;&#x648;&#x646;&#x64A;. &#x627;&#x646;&#x642;&#x631; &#x639;&#x644;&#x649; &#x627;&#x644;&#x631;&#x627;&#x628;&#x637; &#x641;&#x64A; &#x627;&#x644;&#x628;&#x631;&#x64A;&#x62F; &#x627;&#x644;&#x625;&#x644;&#x643;&#x62A;&#x631;&#x648;&#x646;&#x64A; &#x648;&#x633;&#x648;&#x641; &#x64A;&#x62A;&#x645; &#x627;&#x631;&#x633;&#x627;&#x644; &#x643;&#x644;&#x645;&#x629; &#x627;&#x644;&#x645;&#x631;&#x648;&#x631; &#x627;&#x644;&#x62C;&#x62F;&#x64A;&#x62F;&#x629;.</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/index</name>
+    <message>
+      <source>User home</source>
+      <translation type="unfinished">&#x627;&#x644;&#x645;&#x633;&#x62A;&#x62E;&#x62F;&#x645;&#x64A;&#x646; &#x627;&#x644;&#x645;&#x646;&#x632;&#x644;&#x64A;&#x64A;&#x646;</translation>
+    </message>
+    <message>
+      <source>Welcome. Here you can:</source>
+      <translation type="unfinished">&#x62A;&#x631;&#x62D;&#x64A;&#x628;. &#x647;&#x646;&#x627; &#x64A;&#x645;&#x643;&#x646; &#x644;&#x643; :</translation>
+    </message>
+    <message>
+      <source>Edit personal settings</source>
+      <translation type="unfinished">&#x62A;&#x639;&#x62F;&#x64A;&#x644; &#x627;&#x644;&#x625;&#x639;&#x62F;&#x627;&#x62F;&#x627;&#x62A; &#x627;&#x644;&#x634;&#x62E;&#x635;&#x64A;&#x629;</translation>
+    </message>
+    <message>
+      <source>Manage personal albums</source>
+      <translation type="unfinished">&#x625;&#x62F;&#x627;&#x631;&#x629; &#x627;&#x644;&#x623;&#x644;&#x628;&#x648;&#x645;&#x627;&#x62A; &#x627;&#x644;&#x634;&#x62E;&#x635;&#x64A;&#x629;</translation>
+    </message>
+    <message>
+      <source>My account</source>
+      <translation type="unfinished">&#x62D;&#x633;&#x627;&#x628;&#x64A;</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/profile</name>
+    <message>
+      <source>User profile</source>
+      <translation type="unfinished">&#x627;&#x644;&#x62A;&#x639;&#x631;&#x64A;&#x641; &#x627;&#x644;&#x645;&#x633;&#x62A;&#x62E;&#x62F;&#x645;</translation>
+    </message>
+    <message>
+      <source>Name and surname</source>
+      <translation type="unfinished">&#x627;&#x644;&#x627;&#x633;&#x645; &#x648;&#x627;&#x644;&#x644;&#x642;&#x628;</translation>
+    </message>
+    <message>
+      <source>Website</source>
+      <translation type="unfinished">&#x627;&#x644;&#x645;&#x648;&#x642;&#x639;</translation>
+    </message>
+    <message>
+      <source>Introduction</source>
+      <translation type="unfinished">&#x645;&#x642;&#x62F;&#x645;&#x629;</translation>
+    </message>
+    <message>
+      <source>Last updated albums</source>
+      <translation type="unfinished">&#x622;&#x62E;&#x631; &#x623;&#x644;&#x628;&#x648;&#x645;&#x627;&#x62A; &#x62A;&#x645; &#x62A;&#x62D;&#x62F;&#x64A;&#x62B;&#x647;&#x627;</translation>
+    </message>
+    <message>
+      <source>Last uploaded images</source>
+      <translation type="unfinished">&#x645;&#x634;&#x627;&#x631;&#x643;&#x629; &#x627;&#x644;&#x635;&#x648;&#x631; &#x627;&#x644;&#x62A;&#x64A; &#x62A;&#x645; &#x62A;&#x62D;&#x645;&#x64A;&#x644;&#x647;&#x627;</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/remindpassword</name>
+    <message>
+      <source>New password</source>
+      <translation type="unfinished">&#x643;&#x644;&#x645;&#x629; &#x645;&#x631;&#x648;&#x631; &#x62C;&#x62F;&#x64A;&#x62F;&#x629;</translation>
+    </message>
+    <message>
+      <source>Hash not found or was used already</source>
+      <translation type="unfinished">&#x644;&#x645; &#x64A;&#x62A;&#x645; &#x627;&#x644;&#x639;&#x62B;&#x648;&#x631; &#x639;&#x644;&#x649; &#x627;&#x644;&#x62A;&#x62C;&#x632;&#x626;&#x629; &#x623;&#x648; &#x627;&#x633;&#x62A;&#x62E;&#x62F;&#x645;&#x62A; &#x628;&#x627;&#x644;&#x641;&#x639;&#x644;</translation>
+    </message>
+    <message>
+      <source>Password remind - new password</source>
+      <translation type="unfinished">&#x623;&#x630;&#x643;&#x631; &#x643;&#x644;&#x645;&#x629; &#x627;&#x644;&#x633;&#x631; -- &#x643;&#x644;&#x645;&#x629; &#x627;&#x644;&#x633;&#x631; &#x627;&#x644;&#x62C;&#x62F;&#x64A;&#x62F;&#x629;</translation>
+    </message>
+    <message>
+      <source>New password:</source>
+      <translation type="unfinished">&#x643;&#x644;&#x645;&#x629; &#x627;&#x644;&#x633;&#x631; &#x627;&#x644;&#x62C;&#x62F;&#x64A;&#x62F;&#x629; :</translation>
+    </message>
+    <message>
+      <source>New password has beend send to your email.</source>
+      <translation type="unfinished">&#x643;&#x644;&#x645;&#x629; &#x633;&#x631; &#x62C;&#x62F;&#x64A;&#x62F;&#x629; &#x648;&#x625;&#x631;&#x633;&#x627;&#x644;&#x647;&#x627; &#x625;&#x644;&#x649; &#x627;&#x644;&#x628;&#x631;&#x64A;&#x62F; &#x627;&#x644;&#x625;&#x644;&#x643;&#x62A;&#x631;&#x648;&#x646;&#x64A; &#x627;&#x644;&#x62E;&#x627;&#x635; beend.</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/basket</name>
+    <message>
+      <source>Basket</source>
+      <translation type="unfinished">&#x633;&#x644;&#x629;</translation>
+    </message>
+    <message>
+      <source>Image name</source>
+      <translation type="unfinished">&#x627;&#x633;&#x645; &#x627;&#x644;&#x635;&#x648;&#x631;&#x629;</translation>
+    </message>
+    <message>
+      <source>Version</source>
+      <translation type="unfinished">&#x627;&#x644;&#x625;&#x635;&#x62F;&#x627;&#x631;</translation>
+    </message>
+    <message>
+      <source>Image size</source>
+      <translation type="unfinished">&#x62D;&#x62C;&#x645; &#x627;&#x644;&#x635;&#x648;&#x631;&#x629;</translation>
+    </message>
+    <message>
+      <source>Format</source>
+      <translation type="unfinished">&#x634;&#x643;&#x644;</translation>
+    </message>
+    <message>
+      <source>Price</source>
+      <translation type="unfinished">&#x627;&#x644;&#x633;&#x639;&#x631;</translation>
+    </message>
+    <message>
+      <source>Credits</source>
+      <translation type="unfinished">&#x627;&#x644;&#x627;&#x639;&#x62A;&#x645;&#x627;&#x62F;&#x627;&#x62A;</translation>
+    </message>
+    <message>
+      <source>Remove from basket</source>
+      <translation type="unfinished">&#x625;&#x632;&#x627;&#x644;&#x629; &#x645;&#x646; &#x633;&#x644;&#x629;</translation>
+    </message>
+    <message>
+      <source>Choose payment option</source>
+      <translation type="unfinished">&#x627;&#x62E;&#x62A;&#x64A;&#x627;&#x631; &#x62E;&#x64A;&#x627;&#x631; &#x627;&#x644;&#x62F;&#x641;&#x639;</translation>
+    </message>
+    <message>
+      <source>In order to checkout atlest one item have to be selected.</source>
+      <translation type="unfinished">&#x645;&#x646; &#x623;&#x62C;&#x644; &#x627;&#x644;&#x62E;&#x631;&#x648;&#x62C; atlest &#x639;&#x646;&#x635;&#x631; &#x648;&#x627;&#x62D;&#x62F; &#x64A;&#x62C;&#x628; &#x623;&#x646; &#x64A;&#x643;&#x648;&#x646; &#x645;&#x62D;&#x62F;&#x62F;&#x627;.</translation>
+    </message>
+    <message>
+      <source>In order to checkout you have to</source>
+      <translation type="unfinished">&#x645;&#x646; &#x623;&#x62C;&#x644; &#x627;&#x644;&#x62E;&#x631;&#x648;&#x62C; &#x639;&#x644;&#x64A;&#x643;</translation>
+    </message>
+    <message>
+      <source>sign in</source>
+      <translation type="unfinished">&#x62A;&#x633;&#x62C;&#x64A;&#x644; &#x627;&#x644;&#x62F;&#x62E;&#x648;&#x644;</translation>
+    </message>
+    <message>
+      <source>or</source>
+      <translation type="unfinished">&#x623;&#x648;</translation>
+    </message>
+    <message>
+      <source>login</source>
+      <translation type="unfinished">&#x62F;&#x62E;&#x648;&#x644;</translation>
+    </message>
+    <message>
+      <source>if you have already created an account</source>
+      <translation type="unfinished">&#x625;&#x630;&#x627; &#x643;&#x646;&#x62A; &#x642;&#x62F; &#x623;&#x646;&#x634;&#x623;&#x62A; &#x628;&#x627;&#x644;&#x641;&#x639;&#x644; &#x62D;&#x633;&#x627;&#x628;</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/buycredits</name>
+    <message>
+      <source>Buy credits</source>
+      <translation type="unfinished">&#x634;&#x631;&#x627;&#x621; &#x627;&#x644;&#x623;&#x631;&#x635;&#x62F;&#x629;</translation>
+    </message>
+    <message>
+      <source>How many credits do want to buy?</source>
+      <translation type="unfinished">&#x643;&#x645; &#x639;&#x62F;&#x62F; &#x627;&#x644;&#x642;&#x631;&#x648;&#x636; &#x644;&#x627; &#x62A;&#x631;&#x64A;&#x62F; &#x623;&#x646; &#x62A;&#x634;&#x62A;&#x631;&#x64A;&#x61F;</translation>
+    </message>
+    <message>
+      <source>Choose payment method</source>
+      <translation type="unfinished">&#x627;&#x62E;&#x62A;&#x64A;&#x627;&#x631; &#x637;&#x631;&#x64A;&#x642;&#x629; &#x627;&#x644;&#x62F;&#x641;&#x639;</translation>
+    </message>
+  </context>
+  <context>
+    <name>credits_handler/accept</name>
+    <message>
+      <source>Order succesfull</source>
+      <translation type="unfinished">&#x623;&#x62C;&#x644; succesfull</translation>
+    </message>
+    <message>
+      <source>Payment was succesfull</source>
+      <translation type="unfinished">&#x648;&#x642;&#x62F; &#x62F;&#x641;&#x639; succesfull</translation>
+    </message>
+  </context>
+  <context>
+    <name>credits_handler/process</name>
+    <message>
+      <source>Checkout</source>
+      <translation type="unfinished">&#x627;&#x644;&#x62E;&#x631;&#x648;&#x62C;</translation>
+    </message>
+    <message>
+      <source>Confirm payment</source>
+      <translation type="unfinished">&#x62A;&#x623;&#x643;&#x64A;&#x62F; &#x627;&#x644;&#x62F;&#x641;&#x639;</translation>
+    </message>
+    <message>
+      <source>Not enouth credits to checkout</source>
+      <translation type="unfinished">&#x644;&#x627; enouth &#x627;&#x626;&#x62A;&#x645;&#x627;&#x646;&#x627;&#x62A; &#x644;&#x627;&#x637;&#x644;&#x628;</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/cancel</name>
+    <message>
+      <source>Payment canceled</source>
+      <translation type="unfinished">&#x625;&#x644;&#x63A;&#x627;&#x621; &#x627;&#x644;&#x62F;&#x641;&#x639;</translation>
+    </message>
+    <message>
+      <source>Paypal payment was canceled.</source>
+      <translation type="unfinished">&#x62A;&#x645; &#x625;&#x644;&#x63A;&#x627;&#x621; &#x628;&#x627;&#x64A;&#x628;&#x627;&#x644; &#x627;&#x644;&#x62F;&#x641;&#x639;.</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/error</name>
+    <message>
+      <source>Error</source>
+      <translation type="unfinished">&#x62E;&#x637;&#x623;</translation>
+    </message>
+    <message>
+      <source>Execution was terminated unexpectedly.</source>
+      <translation type="unfinished">&#x62A;&#x645; &#x625;&#x646;&#x647;&#x627;&#x621; &#x627;&#x644;&#x62A;&#x646;&#x641;&#x64A;&#x630; &#x628;&#x634;&#x643;&#x644; &#x63A;&#x64A;&#x631; &#x645;&#x62A;&#x648;&#x642;&#x639;.</translation>
+    </message>
+  </context>
+  <context>
+    <name>paypal_handler/process</name>
+    <message>
+      <source>Checkout using Paypal</source>
+      <translation type="unfinished">&#x627;&#x644;&#x62E;&#x631;&#x648;&#x62C; &#x628;&#x627;&#x633;&#x62A;&#x62E;&#x62F;&#x627;&#x645; &#x628;&#x627;&#x64A; &#x628;&#x627;&#x644;</translation>
+    </message>
+    <message>
+      <source>Buyer\'s Email</source>
+      <translation type="unfinished">&#x627;&#x644;&#x645;&#x634;&#x62A;&#x631;&#x64A; \ &amp;#39;&#x642; &#x627;&#x644;&#x628;&#x631;&#x64A;&#x62F; &#x627;&#x644;&#x625;&#x644;&#x643;&#x62A;&#x631;&#x648;&#x646;&#x64A;</translation>
+    </message>
+    <message>
+      <source>Amount</source>
+      <translation type="unfinished">&#x643;&#x645;&#x64A;&#x629;</translation>
+    </message>
+    <message>
+      <source>Currency</source>
+      <translation type="unfinished">&#x639;&#x645;&#x644;&#x629;</translation>
+    </message>
+    <message>
+      <source>Credits</source>
+      <translation type="unfinished">&#x627;&#x644;&#x627;&#x639;&#x62A;&#x645;&#x627;&#x62F;&#x627;&#x62A;</translation>
+    </message>
+  </context>
+  <context>
+    <name>paypal_handler/review</name>
+    <message>
+      <source>Order payment confirmation</source>
+      <translation type="unfinished">&#x62A;&#x623;&#x643;&#x64A;&#x62F; &#x623;&#x645;&#x631; &#x627;&#x644;&#x62F;&#x641;&#x639;</translation>
+    </message>
+    <message>
+      <source>Order amount</source>
+      <translation type="unfinished">&#x623;&#x62C;&#x644; &#x645;&#x628;&#x644;&#x63A;</translation>
+    </message>
+    <message>
+      <source>Confirm payment</source>
+      <translation type="unfinished">&#x62A;&#x623;&#x643;&#x64A;&#x62F; &#x627;&#x644;&#x62F;&#x641;&#x639;</translation>
+    </message>
+    <message>
+      <source>Thank you for your payment!</source>
+      <translation type="unfinished">&#x623;&#x634;&#x643;&#x631;&#x643;&#x645; &#x639;&#x644;&#x649; &#x627;&#x644;&#x62F;&#x641;&#x639;!</translation>
+    </message>
+    <message>
+      <source>credits</source>
+      <translation type="unfinished">&#x627;&#x644;&#x627;&#x639;&#x62A;&#x645;&#x627;&#x62F;&#x627;&#x62A;</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/mycredits</name>
+    <message>
+      <source>My credits balanse</source>
+      <translation type="unfinished">&#x628;&#x644;&#x62F;&#x64A; &#x627;&#x644;&#x627;&#x639;&#x62A;&#x645;&#x627;&#x62F;&#x627;&#x62A; balanse</translation>
+    </message>
+    <message>
+      <source>You have</source>
+      <translation type="unfinished">&#x644;&#x62F;&#x64A;&#x643;</translation>
+    </message>
+    <message>
+      <source>in your account</source>
+      <translation type="unfinished">&#x641;&#x64A; &#x62D;&#x633;&#x627;&#x628;&#x643;</translation>
+    </message>
+    <message>
+      <source>Buy credits</source>
+      <translation type="unfinished">&#x634;&#x631;&#x627;&#x621; &#x627;&#x644;&#x623;&#x631;&#x635;&#x62F;&#x629;</translation>
+    </message>
+    <message>
+      <source>My credits</source>
+      <translation type="unfinished">&#x628;&#x644;&#x62F;&#x64A; &#x627;&#x644;&#x627;&#x626;&#x62A;&#x645;&#x627;&#x646;&#x627;&#x62A;</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/myorders</name>
+    <message>
+      <source>My credits orders</source>
+      <translation type="unfinished">&#x628;&#x644;&#x62F;&#x64A; &#x627;&#x639;&#x62A;&#x645;&#x627;&#x62F;&#x627;&#x62A; &#x623;&#x648;&#x627;&#x645;&#x631;</translation>
+    </message>
+    <message>
+      <source>Date</source>
+      <translation type="unfinished">&#x62A;&#x627;&#x631;&#x64A;&#x62E;</translation>
+    </message>
+    <message>
+      <source>Order price</source>
+      <translation type="unfinished">&#x633;&#x639;&#x631; &#x627;&#x644;&#x646;&#x638;&#x627;&#x645;</translation>
+    </message>
+    <message>
+      <source>Order credits</source>
+      <translation type="unfinished">&#x62A;&#x631;&#x62A;&#x64A;&#x628; &#x627;&#x644;&#x642;&#x631;&#x648;&#x636;</translation>
+    </message>
+    <message>
+      <source>Order status</source>
+      <translation type="unfinished">&#x623;&#x62C;&#x644; &#x648;&#x636;&#x639;</translation>
+    </message>
+    <message>
+      <source>Payed</source>
+      <translation type="unfinished">&#x633;&#x64A;&#x648;&#x644;&#x64A;</translation>
+    </message>
+    <message>
+      <source>Confirmed</source>
+      <translation type="unfinished">&#x648;&#x623;&#x643;&#x62F;&#x62A;</translation>
+    </message>
+    <message>
+      <source>My orders</source>
+      <translation type="unfinished">&#x628;&#x644;&#x62F;&#x64A; &#x623;&#x648;&#x627;&#x645;&#x631;</translation>
+    </message>
+    <message>
+      <source>Order view</source>
+      <translation type="unfinished">&#x623;&#x62C;&#x644; &#x639;&#x631;&#x636;</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/orderview</name>
+    <message>
+      <source>Order view</source>
+      <translation type="unfinished">&#x623;&#x62C;&#x644; &#x639;&#x631;&#x636;</translation>
+    </message>
+    <message>
+      <source>Order time</source>
+      <translation type="unfinished">&#x62A;&#x631;&#x62A;&#x64A;&#x628; &#x627;&#x644;&#x648;&#x642;&#x62A;</translation>
+    </message>
+    <message>
+      <source>Order price</source>
+      <translation type="unfinished">&#x633;&#x639;&#x631; &#x627;&#x644;&#x646;&#x638;&#x627;&#x645;</translation>
+    </message>
+    <message>
+      <source>Order credits</source>
+      <translation type="unfinished">&#x62A;&#x631;&#x62A;&#x64A;&#x628; &#x627;&#x644;&#x642;&#x631;&#x648;&#x636;</translation>
+    </message>
+    <message>
+      <source>Order status</source>
+      <translation type="unfinished">&#x623;&#x62C;&#x644; &#x648;&#x636;&#x639;</translation>
+    </message>
+    <message>
+      <source>Payed</source>
+      <translation type="unfinished">&#x633;&#x64A;&#x648;&#x644;&#x64A;</translation>
+    </message>
+    <message>
+      <source>Confirmed</source>
+      <translation type="unfinished">&#x648;&#x623;&#x643;&#x62F;&#x62A;</translation>
+    </message>
+    <message>
+      <source>Ordered items</source>
+      <translation type="unfinished">&#x623;&#x645;&#x631;&#x62A; &#x627;&#x644;&#x628;&#x646;&#x648;&#x62F;</translation>
+    </message>
+    <message>
+      <source>Image name</source>
+      <translation type="unfinished">&#x627;&#x633;&#x645; &#x627;&#x644;&#x635;&#x648;&#x631;&#x629;</translation>
+    </message>
+    <message>
+      <source>Version</source>
+      <translation type="unfinished">&#x627;&#x644;&#x625;&#x635;&#x62F;&#x627;&#x631;</translation>
+    </message>
+    <message>
+      <source>Image size</source>
+      <translation type="unfinished">&#x62D;&#x62C;&#x645; &#x627;&#x644;&#x635;&#x648;&#x631;&#x629;</translation>
+    </message>
+    <message>
+      <source>Format</source>
+      <translation type="unfinished">&#x634;&#x643;&#x644;</translation>
+    </message>
+    <message>
+      <source>Price</source>
+      <translation type="unfinished">&#x627;&#x644;&#x633;&#x639;&#x631;</translation>
+    </message>
+    <message>
+      <source>Download count</source>
+      <translation type="unfinished">&#x62A;&#x62D;&#x645;&#x64A;&#x644; &#x627;&#x644;&#x639;&#x62F;</translation>
+    </message>
+    <message>
+      <source>Downloads left</source>
+      <translation type="unfinished">&#x627;&#x644;&#x62A;&#x646;&#x632;&#x64A;&#x644;&#x627;&#x62A; &#x627;&#x644;&#x64A;&#x633;&#x627;&#x631;</translation>
+    </message>
+    <message>
+      <source>Credits</source>
+      <translation type="unfinished">&#x627;&#x644;&#x627;&#x639;&#x62A;&#x645;&#x627;&#x62F;&#x627;&#x62A;</translation>
+    </message>
+    <message>
+      <source>Download image</source>
+      <translation type="unfinished">&#x62A;&#x62D;&#x645;&#x64A;&#x644; &#x627;&#x644;&#x635;&#x648;&#x631;</translation>
+    </message>
+    <message>
+      <source>downloads left</source>
+      <translation type="unfinished">&#x627;&#x644;&#x62A;&#x646;&#x632;&#x64A;&#x644;&#x627;&#x62A; &#x627;&#x644;&#x64A;&#x633;&#x627;&#x631;</translation>
+    </message>
+    <message>
+      <source>No downloads available</source>
+      <translation type="unfinished">&#x644;&#x627; &#x627;&#x644;&#x62A;&#x646;&#x632;&#x64A;&#x644;&#x627;&#x62A; &#x627;&#x644;&#x645;&#x62A;&#x627;&#x62D;&#x629;</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/paymentoption</name>
+    <message>
+      <source>Payment option</source>
+      <translation type="unfinished">&#x62E;&#x64A;&#x627;&#x631; &#x627;&#x644;&#x62F;&#x641;&#x639;</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation type="unfinished">&#x627;&#x644;&#x628;&#x631;&#x64A;&#x62F; &#x627;&#x644;&#x625;&#x644;&#x643;&#x62A;&#x631;&#x648;&#x646;&#x64A;</translation>
+    </message>
+    <message>
+      <source>Choose payment method</source>
+      <translation type="unfinished">&#x627;&#x62E;&#x62A;&#x64A;&#x627;&#x631; &#x637;&#x631;&#x64A;&#x642;&#x629; &#x627;&#x644;&#x62F;&#x641;&#x639;</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/paymentoptioncredit</name>
+    <message>
+      <source>Payment option</source>
+      <translation type="unfinished">&#x62E;&#x64A;&#x627;&#x631; &#x627;&#x644;&#x62F;&#x641;&#x639;</translation>
+    </message>
+    <message>
+      <source>Continue</source>
+      <translation type="unfinished">&#x62A;&#x648;&#x627;&#x635;&#x644;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/category</name>
+    <message>
+      <source>Root category</source>
+      <translation type="unfinished">&#x627;&#x644;&#x641;&#x626;&#x629; &#x627;&#x644;&#x62C;&#x630;&#x631;&#x64A;&#x629;</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation type="unfinished">&#x635;&#x641;&#x62D;&#x629;</translation>
+    </message>
+    <message>
+      <source>Forum</source>
+      <translation type="unfinished">&#x645;&#x646;&#x62A;&#x62F;&#x649;</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/category</name>
+    <message>
+      <source>Please enter topic name!</source>
+      <translation type="unfinished">&#x645;&#x646; &#x641;&#x636;&#x644;&#x643; &#x627;&#x62F;&#x62E;&#x644; &#x627;&#x633;&#x645; &#x627;&#x644;&#x645;&#x648;&#x636;&#x648;&#x639;!</translation>
+    </message>
+    <message>
+      <source>Please enter message!</source>
+      <translation type="unfinished">&#x627;&#x644;&#x631;&#x62C;&#x627;&#x621; &#x643;&#x62A;&#x627;&#x628;&#x629; &#x627;&#x644;&#x631;&#x633;&#x627;&#x644;&#x629;!</translation>
+    </message>
+    <message>
+      <source>Please choose category!</source>
+      <translation type="unfinished">&#x627;&#x644;&#x631;&#x62C;&#x627;&#x621; &#x627;&#x62E;&#x62A;&#x64A;&#x627;&#x631; &#x641;&#x626;&#x629;!</translation>
+    </message>
+    <message>
+      <source>Not parent category!</source>
+      <translation type="unfinished">&#x644;&#x627; &#x627;&#x644;&#x623;&#x635;&#x644; &#x627;&#x644;&#x641;&#x626;&#x629;!</translation>
+    </message>
+    <message>
+      <source>Invalid category!</source>
+      <translation type="unfinished">&#x627;&#x644;&#x641;&#x626;&#x629; &#x63A;&#x64A;&#x631; &#x635;&#x627;&#x644;&#x62D;&#x629;!</translation>
+    </message>
+    <message>
+      <source>Forum</source>
+      <translation type="unfinished">&#x645;&#x646;&#x62A;&#x62F;&#x649;</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/createcategory</name>
+    <message>
+      <source>Please enter category name!</source>
+      <translation type="unfinished">&#x627;&#x644;&#x631;&#x62C;&#x627;&#x621; &#x625;&#x62F;&#x62E;&#x627;&#x644; &#x627;&#x633;&#x645; &#x627;&#x644;&#x641;&#x626;&#x629;!</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation type="unfinished">&#x645;&#x646;&#x632;&#x644;</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/editmessage</name>
+    <message>
+      <source>Please enter message!</source>
+      <translation type="unfinished">&#x627;&#x644;&#x631;&#x62C;&#x627;&#x621; &#x643;&#x62A;&#x627;&#x628;&#x629; &#x627;&#x644;&#x631;&#x633;&#x627;&#x644;&#x629;!</translation>
+    </message>
+    <message>
+      <source>Forum</source>
+      <translation type="unfinished">&#x645;&#x646;&#x62A;&#x62F;&#x649;</translation>
+    </message>
+    <message>
+      <source>Message edit</source>
+      <translation type="unfinished">&#x62A;&#x62D;&#x631;&#x64A;&#x631; &#x631;&#x633;&#x627;&#x644;&#x629;</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/edittopic</name>
+    <message>
+      <source>Please enter topic name!</source>
+      <translation type="unfinished">&#x645;&#x646; &#x641;&#x636;&#x644;&#x643; &#x627;&#x62F;&#x62E;&#x644; &#x627;&#x633;&#x645; &#x627;&#x644;&#x645;&#x648;&#x636;&#x648;&#x639;!</translation>
+    </message>
+    <message>
+      <source>Please enter topic status!</source>
+      <translation type="unfinished">&#x645;&#x646; &#x641;&#x636;&#x644;&#x643; &#x627;&#x62F;&#x62E;&#x644; &#x648;&#x636;&#x639; &#x627;&#x644;&#x645;&#x648;&#x636;&#x648;&#x639;!</translation>
+    </message>
+    <message>
+      <source>Forum</source>
+      <translation type="unfinished">&#x645;&#x646;&#x62A;&#x62F;&#x649;</translation>
+    </message>
+    <message>
+      <source>Topic edit</source>
+      <translation type="unfinished">&#x645;&#x648;&#x636;&#x648;&#x639; &#x62A;&#x62D;&#x631;&#x64A;&#x631;</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/report</name>
+    <message>
+      <source>Please enter message!</source>
+      <translation type="unfinished">&#x627;&#x644;&#x631;&#x62C;&#x627;&#x621; &#x643;&#x62A;&#x627;&#x628;&#x629; &#x627;&#x644;&#x631;&#x633;&#x627;&#x644;&#x629;!</translation>
+    </message>
+    <message>
+      <source>Forum message report</source>
+      <translation type="unfinished">&#x645;&#x646;&#x62A;&#x62F;&#x649; &#x627;&#x644;&#x631;&#x633;&#x627;&#x644;&#x629; &#x627;&#x644;&#x62A;&#x642;&#x631;&#x64A;&#x631;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/searchrss</name>
+    <message>
+      <source>Search results</source>
+      <translation type="unfinished">&#x646;&#x62A;&#x627;&#x626;&#x62C; &#x627;&#x644;&#x628;&#x62D;&#x62B;</translation>
+    </message>
+    <message>
+      <source>Search</source>
+      <translation type="unfinished">&#x628;&#x62D;&#x62B;</translation>
+    </message>
+    <message>
+      <source>Search RSS by keyword</source>
+      <translation type="unfinished">&#x627;&#x644;&#x628;&#x62D;&#x62B; &#x639;&#x646; &#x637;&#x631;&#x64A;&#x642; &#x627;&#x644;&#x643;&#x644;&#x645;&#x627;&#x62A; &#x627;&#x644;&#x631;&#x626;&#x64A;&#x633;&#x64A;&#x629; RSS</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation type="unfinished">&#x639;&#x631;&#x636; &#x627;&#x644;&#x635;&#x648;&#x631;</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/searchrss</name>
+    <message>
+      <source>Search</source>
+      <translation type="unfinished">&#x628;&#x62D;&#x62B;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/albumeditadmin</name>
+    <message>
+      <source>Root category</source>
+      <translation type="unfinished">&#x627;&#x644;&#x641;&#x626;&#x629; &#x627;&#x644;&#x62C;&#x630;&#x631;&#x64A;&#x629;</translation>
+    </message>
+    <message>
+      <source>Add images</source>
+      <translation type="unfinished">&#x625;&#x636;&#x627;&#x641;&#x629; &#x635;&#x648;&#x631;</translation>
+    </message>
+    <message>
+      <source>Album edit</source>
+      <translation type="unfinished">&#x627;&#x644;&#x623;&#x644;&#x628;&#x648;&#x645; &#x62A;&#x62D;&#x631;&#x64A;&#x631;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/addvote</name>
+    <message>
+      <source>Thank you for your vote</source>
+      <translation type="unfinished">&#x623;&#x634;&#x643;&#x631;&#x643;&#x645; &#x639;&#x644;&#x649; &#x627;&#x644;&#x62A;&#x635;&#x648;&#x64A;&#x62A; &#x627;&#x644;&#x62E;&#x627;&#x635;</translation>
+    </message>
+    <message>
+      <source>You are not allowed to vote!</source>
+      <translation type="unfinished">&#x644;&#x627; &#x64A;&#x633;&#x645;&#x62D; &#x644;&#x643; &#x628;&#x627;&#x644;&#x62A;&#x635;&#x648;&#x64A;&#x62A;!</translation>
+    </message>
+    <message>
+      <source>You have already voted!</source>
+      <translation type="unfinished">&#x643;&#x646;&#x62A; &#x642;&#x62F; &#x635;&#x648;&#x62A; &#x628;&#x627;&#x644;&#x641;&#x639;&#x644;!</translation>
+    </message>
+    <message>
+      <source>Vote deducted!</source>
+      <translation type="unfinished">&#x627;&#x644;&#x62A;&#x635;&#x648;&#x64A;&#x62A; &#x62E;&#x635;&#x645;!</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/albumrss</name>
+    <message>
+      <source>Last uploaded images to album</source>
+      <translation type="unfinished">&#x645;&#x634;&#x627;&#x631;&#x643;&#x629; &#x627;&#x644;&#x635;&#x648;&#x631; &#x627;&#x644;&#x62A;&#x64A; &#x64A;&#x62A;&#x645; &#x62A;&#x62D;&#x645;&#x64A;&#x644;&#x647;&#x627; &#x625;&#x644;&#x649; &#x623;&#x644;&#x628;&#x648;&#x645;</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation type="unfinished">&#x639;&#x631;&#x636; &#x627;&#x644;&#x635;&#x648;&#x631;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lasthitsrss</name>
+    <message>
+      <source>watched</source>
+      <translation type="unfinished">&#x631;&#x627;&#x642;&#x628;</translation>
+    </message>
+    <message>
+      <source>Last viewed images</source>
+      <translation type="unfinished">&#x645;&#x634;&#x627;&#x631;&#x643;&#x629; &#x627;&#x644;&#x635;&#x648;&#x631; &#x634;&#x648;&#x647;&#x62F;&#x62A;</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation type="unfinished">&#x639;&#x631;&#x636; &#x627;&#x644;&#x635;&#x648;&#x631;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastcommentedrss</name>
+    <message>
+      <source>Last commented images</source>
+      <translation type="unfinished">&#x648;&#x639;&#x644;&#x642; &#x645;&#x634;&#x627;&#x631;&#x643;&#x629; &#x627;&#x644;&#x635;&#x648;&#x631;</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation type="unfinished">&#x639;&#x631;&#x636; &#x627;&#x644;&#x635;&#x648;&#x631;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastratedrss</name>
+    <message>
+      <source>Last rated images</source>
+      <translation type="unfinished">&#x645;&#x634;&#x627;&#x631;&#x643;&#x629; &#x627;&#x644;&#x635;&#x648;&#x631; &#x641;&#x64A; &#x627;&#x644;&#x62A;&#x635;&#x646;&#x64A;&#x641;</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation type="unfinished">&#x639;&#x631;&#x636; &#x627;&#x644;&#x635;&#x648;&#x631;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastuploadsrss</name>
+    <message>
+      <source>Last uploaded images</source>
+      <translation type="unfinished">&#x645;&#x634;&#x627;&#x631;&#x643;&#x629; &#x627;&#x644;&#x635;&#x648;&#x631; &#x627;&#x644;&#x62A;&#x64A; &#x62A;&#x645; &#x62A;&#x62D;&#x645;&#x64A;&#x644;&#x647;&#x627;</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation type="unfinished">&#x639;&#x631;&#x636; &#x627;&#x644;&#x635;&#x648;&#x631;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastuploadstoalbums</name>
+    <message>
+      <source>Last uploads to albums</source>
+      <translation type="unfinished">&#x645;&#x634;&#x627;&#x631;&#x643;&#x629; &#x644;&#x62A;&#x62D;&#x645;&#x64A;&#x644; &#x623;&#x644;&#x628;&#x648;&#x645;&#x627;&#x62A;</translation>
+    </message>
+    <message>
+      <source>Recently updated albums</source>
+      <translation type="unfinished">&#x623;&#x644;&#x628;&#x648;&#x645;&#x627;&#x62A; &#x62A;&#x645; &#x62A;&#x62D;&#x62F;&#x64A;&#x62B;&#x647;&#x627; &#x645;&#x624;&#x62E;&#x631;&#x627;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/movebyresolution</name>
+    <message>
+      <source>Move by resolution</source>
+      <translation type="unfinished">&#x646;&#x642;&#x644; &#x628;&#x645;&#x648;&#x62C;&#x628; &#x627;&#x644;&#x642;&#x631;&#x627;&#x631;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/popularrecent</name>
+    <message>
+      <source>Most popular images in 24 hours</source>
+      <translation type="unfinished">&#x627;&#x644;&#x635;&#x648;&#x631; &#x627;&#x644;&#x623;&#x643;&#x62B;&#x631; &#x634;&#x639;&#x628;&#x64A;&#x629; &#x641;&#x64A; &#x63A;&#x636;&#x648;&#x646; 24 &#x633;&#x627;&#x639;&#x629;</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation type="unfinished">&#x635;&#x641;&#x62D;&#x629;</translation>
+    </message>
+    <message>
+      <source>Most popular images in last 24 hours.</source>
+      <translation type="unfinished">&#x627;&#x644;&#x635;&#x648;&#x631; &#x627;&#x644;&#x623;&#x643;&#x62B;&#x631; &#x634;&#x639;&#x628;&#x64A;&#x629; &#x641;&#x64A; &#x627;&#x644; 24 &#x633;&#x627;&#x639;&#x629; &#x627;&#x644;&#x645;&#x627;&#x636;&#x64A;&#x629;.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/popularrss</name>
+    <message>
+      <source>Most popular images</source>
+      <translation type="unfinished">&#x627;&#x644;&#x635;&#x648;&#x631; &#x627;&#x644;&#x623;&#x643;&#x62B;&#x631; &#x634;&#x639;&#x628;&#x64A;&#x629;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/tagphoto</name>
+    <message>
+      <source>Thank you a lot :)</source>
+      <translation type="unfinished">&#x623;&#x634;&#x643;&#x631; &#x644;&#x643; &#x627;&#x644;&#x643;&#x62B;&#x64A;&#x631; :)</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/topratedrss</name>
+    <message>
+      <source>Top rated images</source>
+      <translation type="unfinished">&#x623;&#x639;&#x644;&#x649; &#x62A;&#x635;&#x646;&#x64A;&#x641; &#x627;&#x644;&#x635;&#x648;&#x631;</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation type="unfinished">&#x639;&#x631;&#x636; &#x627;&#x644;&#x635;&#x648;&#x631;</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/updateimage</name>
+    <message>
+      <source>Image updated</source>
+      <translation type="unfinished">&#x635;&#x648;&#x631;&#x629; &#x645;&#x62D;&#x62F;&#x62B;&#x629;</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/imagevariation</name>
+    <message>
+      <source>Basket</source>
+      <translation type="unfinished">&#x633;&#x644;&#x629;</translation>
+    </message>
+    <message>
+      <source>Payment option</source>
+      <translation type="unfinished">&#x62E;&#x64A;&#x627;&#x631; &#x627;&#x644;&#x62F;&#x641;&#x639;</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/imagevariationform</name>
+    <message>
+      <source>Credits amount must be greater than 0!</source>
+      <translation type="unfinished">&#x64A;&#x62C;&#x628; &#x623;&#x646; &#x627;&#x644;&#x627;&#x639;&#x62A;&#x645;&#x627;&#x62F;&#x627;&#x62A; &#x627;&#x644;&#x645;&#x628;&#x644;&#x63A; &#x623;&#x643;&#x628;&#x631; &#x645;&#x646; 0!</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/settingedit</name>
+    <message>
+      <source>Edit</source>
+      <translation type="unfinished">&#x62A;&#x62D;&#x631;&#x64A;&#x631;</translation>
+    </message>
+  </context>
+  <context>
+    <name>similar/image</name>
+    <message>
+      <source>Similar images to</source>
+      <translation type="unfinished">&#x644;&#x648;&#x62D;&#x627;&#x62A; &#x645;&#x645;&#x627;&#x62B;&#x644;&#x629;</translation>
+    </message>
+    <message>
+      <source>Search for visualy similar images</source>
+      <translation type="unfinished">&#x627;&#x644;&#x628;&#x62D;&#x62B; &#x639;&#x646; &#x635;&#x648;&#x631; &#x645;&#x634;&#x627;&#x628;&#x647;&#x629; visualy</translation>
+    </message>
+  </context>
+  <context>
+    <name>system/index</name>
+    <message>
+      <source>System administration panel</source>
+      <translation type="unfinished">&#x646;&#x638;&#x627;&#x645; &#x627;&#x644;&#x625;&#x62F;&#x627;&#x631;&#x629; &#x644;&#x648;&#x62D;&#x629;</translation>
+    </message>
+  </context>
+</TS>

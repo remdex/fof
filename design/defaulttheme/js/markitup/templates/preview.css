@@ -1,0 +1,11 @@
+/* preview style examples */
+body {
+	background-color:#EFEFEF;
+	font:70% Verdana, Arial, Helvetica, sans-serif;
+}
+
+blockquote{
+background-color:#FFFFFF;border:1px solid #CCCCCC;
+margin-left:10px;
+padding:5px;
+}

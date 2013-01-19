@@ -1,0 +1,4280 @@
+<?xml version="1.0"?>
+<!DOCTYPE TS>
+<TS>
+  <context>
+    <name>article/editstatic</name>
+    <message>
+      <source>Article name</source>
+      <translation>&#x10C;len ime</translation>
+    </message>
+    <message>
+      <source>Body</source>
+      <translation>Body</translation>
+    </message>
+    <message>
+      <source>Article edit</source>
+      <translation>&#x10C;len edit</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+  </context>
+  <context>
+    <name>article/newstatic</name>
+    <message>
+      <source>New article</source>
+      <translation>Novi &#x10D;len</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Shrani</translation>
+    </message>
+  </context>
+  <context>
+    <name>article/staticlist</name>
+    <message>
+      <source>Static articles</source>
+      <translation>Static &#x10D;lanki</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Ime</translation>
+    </message>
+    <message>
+      <source>Edit</source>
+      <translation>Urejanje</translation>
+    </message>
+    <message>
+      <source>New article</source>
+      <translation>Novi &#x10D;len</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/admincategorys</name>
+    <message>
+      <source>Category</source>
+      <translation>Kategorija</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Naslov</translation>
+    </message>
+    <message>
+      <source>Owner</source>
+      <translation>Lastnik</translation>
+    </message>
+    <message>
+      <source>Topics</source>
+      <translation>Teme</translation>
+    </message>
+    <message>
+      <source>Messages</source>
+      <translation>Sporo&#x10D;ila</translation>
+    </message>
+    <message>
+      <source>Edit category</source>
+      <translation>Uredi kategorijo</translation>
+    </message>
+    <message>
+      <source>Delete category</source>
+      <translation>Izbri&#x161;i kategorijo</translation>
+    </message>
+    <message>
+      <source>Create a category</source>
+      <translation>Ustvarite skupino</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>Domov</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/album</name>
+    <message>
+      <source>No records</source>
+      <translation>&#x160;t evidence</translation>
+    </message>
+    <message>
+      <source>Search by color and keyword, just try to see how fun it is!</source>
+      <translation>Iskanje po barvi in &#x200B;&#x200B;klju&#x10D;nih besed, samo sku&#x161;amo videti, kako zabavno je!</translation>
+    </message>
+    <message>
+      <source>Enter keyword or phrase</source>
+      <translation>Vpi&#x161;ite klju&#x10D;no besedo ali besedno zvezo</translation>
+    </message>
+    <message>
+      <source>Search entire gallery</source>
+      <translation>I&#x161;&#x10D;i po celotni galeriji</translation>
+    </message>
+    <message>
+      <source>Search</source>
+      <translation>Iskanje</translation>
+    </message>
+    <message>
+      <source>enter keyword and click color, or just click color</source>
+      <translation>vpi&#x161;ite klju&#x10D;no besedo in kliknite barvo, ali pa samo kliknite barvo</translation>
+    </message>
+    <message>
+      <source>Include color</source>
+      <translation>Vklju&#x10D;i barve</translation>
+    </message>
+    <message>
+      <source>Exclude color</source>
+      <translation>Izklju&#x10D;i barve</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Stran</translation>
+    </message>
+    <message>
+      <source>Last uploaded last</source>
+      <translation>Zadnje dodane zadnji</translation>
+    </message>
+    <message>
+      <source>Most popular first</source>
+      <translation>Najbolj priljubljeni first</translation>
+    </message>
+    <message>
+      <source>Most popular last</source>
+      <translation>Najbolj priljubljeni zadnje</translation>
+    </message>
+    <message>
+      <source>Last hits first</source>
+      <translation>Last zadetkov first</translation>
+    </message>
+    <message>
+      <source>Last hits last</source>
+      <translation>Last zadetkov zadnji</translation>
+    </message>
+    <message>
+      <source>Last commented first</source>
+      <translation>Zadnji komentiral first</translation>
+    </message>
+    <message>
+      <source>Last commented last</source>
+      <translation>Zadnji komentiral zadnje</translation>
+    </message>
+    <message>
+      <source>Last rated first</source>
+      <translation>Last ocenjeno first</translation>
+    </message>
+    <message>
+      <source>Last rated last</source>
+      <translation>Last ocenjeno zadnji</translation>
+    </message>
+    <message>
+      <source>Top rated first</source>
+      <translation>Najbolj ocenjeno first</translation>
+    </message>
+    <message>
+      <source>Top rated last Last</source>
+      <translation>Najbolj ocenjeno zadnji Last</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Resolucija</translation>
+    </message>
+    <message>
+      <source>Last uploaded images to album</source>
+      <translation>Zadnje dodane slike v album</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/createcategory</name>
+    <message>
+      <source>New category</source>
+      <translation>Nova kategorija</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Shrani</translation>
+    </message>
+    <message>
+      <source>back</source>
+      <translation>nazaj</translation>
+    </message>
+    <message>
+      <source>Please enter message!</source>
+      <translation>Vnesite sporo&#x10D;ilo!</translation>
+    </message>
+    <message>
+      <source>Please enter category name!</source>
+      <translation>Prosimo, vnesite ime kategorije!</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>Domov</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/editcategory</name>
+    <message>
+      <source>Category edit</source>
+      <translation>Kategorija edit</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+    <message>
+      <source>Please enter category name!</source>
+      <translation>Prosimo, vnesite ime kategorije!</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/editcategory</name>
+    <message>
+      <source>back</source>
+      <translation>nazaj</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Ime</translation>
+    </message>
+    <message>
+      <source>Description</source>
+      <translation>Opis</translation>
+    </message>
+    <message>
+      <source>Owner</source>
+      <translation>Lastnik</translation>
+    </message>
+    <message>
+      <source>Category edit</source>
+      <translation>Kategorija edit</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+    <message>
+      <source>Hide subcategorys in frontpage</source>
+      <translation>Skrij subcategorys v frontpage</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/albumedit</name>
+    <message>
+      <source>Edit topic</source>
+      <translation>Edit temo</translation>
+    </message>
+    <message>
+      <source>Topic name</source>
+      <translation>Topic ime</translation>
+    </message>
+    <message>
+      <source>Topic status</source>
+      <translation>Topic stanja</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+    <message>
+      <source>Album edit</source>
+      <translation>Album edit</translation>
+    </message>
+    <message>
+      <source>Album name</source>
+      <translation>Ime albuma</translation>
+    </message>
+    <message>
+      <source>Album category</source>
+      <translation>Album kategorijo</translation>
+    </message>
+    <message>
+      <source>Album owner</source>
+      <translation>Album lastnika</translation>
+    </message>
+    <message>
+      <source>Description</source>
+      <translation>Opis</translation>
+    </message>
+    <message>
+      <source>Keywords</source>
+      <translation>Klju&#x10D;ne besede</translation>
+    </message>
+    <message>
+      <source>Public</source>
+      <translation>Javna</translation>
+    </message>
+    <message>
+      <source>All users can uploads images to this album</source>
+      <translation>Vsi uporabniki lahko dodane slike v tem albumu</translation>
+    </message>
+    <message>
+      <source>Hidden</source>
+      <translation>Hidden</translation>
+    </message>
+    <message>
+      <source>Hide album from users</source>
+      <translation>Skrij album od uporabnikov</translation>
+    </message>
+    <message>
+      <source>Album thumbnail</source>
+      <translation>Album thumbnail</translation>
+    </message>
+    <message>
+      <source>Newest album image</source>
+      <translation>Najnovej&#x161;i album slik</translation>
+    </message>
+    <message>
+      <source>Revert to newest album image display mode</source>
+      <translation>Povrni do najnovej&#x161;ih slik album na&#x10D;in prikaza</translation>
+    </message>
+    <message>
+      <source>Remove</source>
+      <translation>Odstrani</translation>
+    </message>
+    <message>
+      <source>Edit message</source>
+      <translation>Uredi sporo&#x10D;ilo</translation>
+    </message>
+    <message>
+      <source>Message</source>
+      <translation>Message</translation>
+    </message>
+    <message>
+      <source>File</source>
+      <translation>Datoteka</translation>
+    </message>
+    <message>
+      <source>New message</source>
+      <translation>Novo sporo&#x10D;ilo</translation>
+    </message>
+    <message>
+      <source>Publish</source>
+      <translation>Objavi</translation>
+    </message>
+    <message>
+      <source>New topic</source>
+      <translation>Nova tema</translation>
+    </message>
+    <message>
+      <source>Choose topic category</source>
+      <translation>Izberite temo kategorijo</translation>
+    </message>
+    <message>
+      <source>Please enter album name!</source>
+      <translation>Prosimo, vnesite ime albuma!</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/album_list_admin</name>
+    <message>
+      <source>Are you sure?</source>
+      <translation>Ali ste prepri&#x10D;ani?</translation>
+    </message>
+    <message>
+      <source>Add images</source>
+      <translation>Dodajanje slik</translation>
+    </message>
+    <message>
+      <source>Edit album</source>
+      <translation>Edit album</translation>
+    </message>
+    <message>
+      <source>Move all album photos to another album</source>
+      <translation>Premakni vse album fotografij v drug album</translation>
+    </message>
+    <message>
+      <source>Move photos by resolution</source>
+      <translation>Premakni fotografije z Resolucijo</translation>
+    </message>
+    <message>
+      <source>Delete album</source>
+      <translation>Brisanje album</translation>
+    </message>
+    <message>
+      <source>Approve all images</source>
+      <translation>Odobri vse slike</translation>
+    </message>
+    <message>
+      <source>Disapprove all images</source>
+      <translation>Zavrni vse slike</translation>
+    </message>
+    <message>
+      <source>View on site</source>
+      <translation>Pogled na mesto</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/userlist</name>
+    <message>
+      <source>Report list</source>
+      <translation>Poro&#x10D;ilo seznam</translation>
+    </message>
+    <message>
+      <source>Report</source>
+      <translation>Poro&#x10D;ilo</translation>
+    </message>
+    <message>
+      <source>Topic</source>
+      <translation>Topic</translation>
+    </message>
+    <message>
+      <source>Topic message</source>
+      <translation>Topic sporo&#x10D;ilo</translation>
+    </message>
+    <message>
+      <source>Date</source>
+      <translation>Datum</translation>
+    </message>
+    <message>
+      <source>Edit topic</source>
+      <translation>Edit temo</translation>
+    </message>
+    <message>
+      <source>Delete topic</source>
+      <translation>Izbri&#x161;i temo</translation>
+    </message>
+    <message>
+      <source>IP</source>
+      <translation>IP</translation>
+    </message>
+    <message>
+      <source>Users</source>
+      <translation>Uporabniki</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Uporabni&#x161;ko ime</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Edit user</source>
+      <translation>Urejanje uporabnikov</translation>
+    </message>
+    <message>
+      <source>Delete user</source>
+      <translation>Brisanje uporabnikov</translation>
+    </message>
+    <message>
+      <source>New user</source>
+      <translation>Nov uporabnik</translation>
+    </message>
+    <message>
+      <source>Replace image</source>
+      <translation>Zamenjajte sliko</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Sistem konfiguracijo</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/subcategory_list</name>
+    <message>
+      <source>images</source>
+      <translation>slik</translation>
+    </message>
+    <message>
+      <source>albums</source>
+      <translation>albumov</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/addimages</name>
+    <message>
+      <source>Add images to album</source>
+      <translation>Dodajanje slik v album</translation>
+    </message>
+    <message>
+      <source>Move album images to another album</source>
+      <translation>Premakni album slik v drug album</translation>
+    </message>
+    <message>
+      <source>Move image to another album</source>
+      <translation>Premakni sliko v drugo album</translation>
+    </message>
+  </context>
+  <context>
+    <name>lhad/orderitemdetails/orderitemdetails_display_ad_magazine</name>
+    <message>
+      <source>Please enable JavaScript to upload image</source>
+      <translation>Prosimo, omogo&#x10D;ite JavaScript za nalaganje slik</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/publicupload</name>
+    <message>
+      <source>Upload</source>
+      <translation>Nalo&#x17E;i</translation>
+    </message>
+    <message>
+      <source>Click to choose images to upload, you can also drop files here.</source>
+      <translation>Kliknite, da izberete slike za nalaganje, lahko tudi spustite datoteke tukaj.</translation>
+    </message>
+    <message>
+      <source>Click to choose images to upload, you can also Drag and Drop files here (Darg and drop only for FF, Chrome).</source>
+      <translation>Kliknite, da izberete slike za nalaganje, lahko tudi povle&#x10D;ete in spustite datoteke tukaj (Darg in spusti samo za FF, Chrome).</translation>
+    </message>
+    <message>
+      <source>Public images archive upload</source>
+      <translation>Javna slik Arhiv upload</translation>
+    </message>
+    <message>
+      <source>Click to choose zip to upload, you can also drop files here (Darg and drop only for FF, Chrome).</source>
+      <translation>Kliknite, da izberete zip prenesti, lahko tudi spustite datoteke tukaj (Darg in spusti samo za FF, Chrome).</translation>
+    </message>
+    <message>
+      <source>Public images upload</source>
+      <translation>Javna slike upload</translation>
+    </message>
+    <message>
+      <source>Max file size </source>
+      <translation type="unfinished">Max velikost datoteke</translation>
+    </message>
+  </context>
+  <context>
+    <name>lhad/uploadadorderitem_content</name>
+    <message>
+      <source>Cancel</source>
+      <translation>Prekli&#x10D;i</translation>
+    </message>
+    <message>
+      <source>Failed</source>
+      <translation>Failed</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/fileuploadcontainer</name>
+    <message>
+      <source>Title</source>
+      <translation>Naslov</translation>
+    </message>
+    <message>
+      <source>Keywords</source>
+      <translation>Klju&#x10D;ne besede</translation>
+    </message>
+    <message>
+      <source>Cross eye image</source>
+      <translation>Cross o&#x10D;i slike</translation>
+    </message>
+    <message>
+      <source>Caption</source>
+      <translation>Caption</translation>
+    </message>
+    <message>
+      <source>Enter new album name or choose public album</source>
+      <translation>Vnesite novo ime albuma ali izberite javni album</translation>
+    </message>
+    <message>
+      <source>description</source>
+      <translation>opis</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/admincategorys</name>
+    <message>
+      <source>Category</source>
+      <translation>Kategorija</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Naslov</translation>
+    </message>
+    <message>
+      <source>Owner</source>
+      <translation>Lastnik</translation>
+    </message>
+    <message>
+      <source>Edit category</source>
+      <translation>Uredi kategorijo</translation>
+    </message>
+    <message>
+      <source>Delete category</source>
+      <translation>Izbri&#x161;i kategorijo</translation>
+    </message>
+    <message>
+      <source>Create a category</source>
+      <translation>Ustvarite skupino</translation>
+    </message>
+    <message>
+      <source>Category albums</source>
+      <translation>Kategorija albumov</translation>
+    </message>
+    <message>
+      <source>This category does not have an album.</source>
+      <translation>Ta kategorija nima album.</translation>
+    </message>
+    <message>
+      <source>Create an album</source>
+      <translation>Ustvari album</translation>
+    </message>
+    <message>
+      <source>Batch album create</source>
+      <translation>Batch album ustvarjajo</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>Domov</translation>
+    </message>
+    <message>
+      <source>Root category</source>
+      <translation>Root kategorijo</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/album_list</name>
+    <message>
+      <source>files</source>
+      <translation>datotek</translation>
+    </message>
+    <message>
+      <source>Album priority</source>
+      <translation>Album prednost</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/batchadd</name>
+    <message>
+      <source>I cannot write this directory</source>
+      <translation>Ne morem pisati ta imenik</translation>
+    </message>
+    <message>
+      <source>No image were found!</source>
+      <translation>Najdena ni bila nobena slika!</translation>
+    </message>
+    <message>
+      <source>Import</source>
+      <translation>Import</translation>
+    </message>
+    <message>
+      <source>Import recursive this directory</source>
+      <translation>Uvoz rekurzivni ta imenik</translation>
+    </message>
+    <message>
+      <source>Search</source>
+      <translation>Iskanje</translation>
+    </message>
+    <message>
+      <source>Please enter album name and click search</source>
+      <translation>Prosimo, vnesite ime albuma in kliknite iskanje</translation>
+    </message>
+    <message>
+      <source>List images</source>
+      <translation>Seznam slik</translation>
+    </message>
+    <message>
+      <source>List images recursive</source>
+      <translation>Seznam slik recursive</translation>
+    </message>
+    <message>
+      <source>Import images</source>
+      <translation>Uvoz slik</translation>
+    </message>
+    <message>
+      <source>Click list images or list images recursive</source>
+      <translation>Kliknite seznam slik ali seznam slik recursive</translation>
+    </message>
+    <message>
+      <source>Add images</source>
+      <translation>Dodajanje slik</translation>
+    </message>
+    <message>
+      <source>Please choose album first!</source>
+      <translation>Izberite album prvi!</translation>
+    </message>
+    <message>
+      <source>Mass image upload</source>
+      <translation>Mass prenos slik</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/ratebanlist</name>
+    <message>
+      <source>Baned IP for rating</source>
+      <translation>Baned IP za rating</translation>
+    </message>
+    <message>
+      <source>Are you sure?</source>
+      <translation>Ali ste prepri&#x10D;ani?</translation>
+    </message>
+    <message>
+      <source>Delete ip</source>
+      <translation>Izbri&#x161;i ip</translation>
+    </message>
+    <message>
+      <source>New IP BAN</source>
+      <translation>New IP BAN</translation>
+    </message>
+    <message>
+      <source>IP</source>
+      <translation>IP</translation>
+    </message>
+    <message>
+      <source>Add</source>
+      <translation>Dodaj</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Sistem konfiguracijo</translation>
+    </message>
+    <message>
+      <source>Comment ban IP</source>
+      <translation>Komentar prepoved IP</translation>
+    </message>
+    <message>
+      <source>Rate ban IP</source>
+      <translation>Stopnja prepoved IP</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/grouplist</name>
+    <message>
+      <source>Delete comment</source>
+      <translation>Brisanje komentarja</translation>
+    </message>
+    <message>
+      <source>Edit comment</source>
+      <translation>Edit comment</translation>
+    </message>
+    <message>
+      <source>Delete image</source>
+      <translation>Brisanje slike</translation>
+    </message>
+    <message>
+      <source>Groups</source>
+      <translation>Skupine</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Ime</translation>
+    </message>
+    <message>
+      <source>Edit group</source>
+      <translation>Uredi skupino</translation>
+    </message>
+    <message>
+      <source>Delete group</source>
+      <translation>Izbri&#x161;i skupino</translation>
+    </message>
+    <message>
+      <source>New group</source>
+      <translation>Nova skupina</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Sistem konfiguracijo</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/my_image_list</name>
+    <message>
+      <source>Delete comment</source>
+      <translation>Brisanje komentarja</translation>
+    </message>
+    <message>
+      <source>Edit comment</source>
+      <translation>Edit comment</translation>
+    </message>
+    <message>
+      <source>Delete image</source>
+      <translation>Brisanje slike</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>Prika&#x17E;i sliko</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Naslov</translation>
+    </message>
+    <message>
+      <source>Keywords</source>
+      <translation>Klju&#x10D;ne besede</translation>
+    </message>
+    <message>
+      <source>Caption</source>
+      <translation>Caption</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+    <message>
+      <source>Message author</source>
+      <translation>Sporo&#x10D;ilo avtorja</translation>
+    </message>
+    <message>
+      <source>Message</source>
+      <translation>Message</translation>
+    </message>
+    <message>
+      <source>Rotate image clockwise</source>
+      <translation>Zasuk v smeri urnega kazalca slike</translation>
+    </message>
+    <message>
+      <source>Flip horizontaly</source>
+      <translation>Flip horizontaly</translation>
+    </message>
+    <message>
+      <source>Flip verticaly</source>
+      <translation>Flip vertikalno</translation>
+    </message>
+    <message>
+      <source>Upload new image</source>
+      <translation>Nalo&#x17E;i novo sliko</translation>
+    </message>
+    <message>
+      <source>Set as folder thumbnail</source>
+      <translation>Nastavi kot sli&#x10D;ice mape</translation>
+    </message>
+    <message>
+      <source>Move image to another album</source>
+      <translation>Premakni sliko v drugo album</translation>
+    </message>
+    <message>
+      <source>Anaglyph</source>
+      <translation>Vidne preko</translation>
+    </message>
+    <message>
+      <source>Approved</source>
+      <translation>Odobreno</translation>
+    </message>
+    <message>
+      <source>Select image</source>
+      <translation>Izberi slike</translation>
+    </message>
+    <message>
+      <source>File</source>
+      <translation>Datoteka</translation>
+    </message>
+    <message>
+      <source>Upload</source>
+      <translation>Nalo&#x17E;i</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/createalbumadmin</name>
+    <message>
+      <source>New album</source>
+      <translation>Novi album</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Shrani</translation>
+    </message>
+    <message>
+      <source>New batch album create</source>
+      <translation>Nova serija ustvariti album</translation>
+    </message>
+    <message>
+      <source>Paste album names separated by new line</source>
+      <translation>Prilepi imena album lo&#x10D;ena z novo linijo</translation>
+    </message>
+    <message>
+      <source>Public</source>
+      <translation>Javna</translation>
+    </message>
+    <message>
+      <source>All users can uploads images to this album</source>
+      <translation>Vsi uporabniki lahko dodane slike v tem albumu</translation>
+    </message>
+    <message>
+      <source>Please enter album name!</source>
+      <translation>Prosimo, vnesite ime albuma!</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/duplicates</name>
+    <message>
+      <source>Similar images number</source>
+      <translation>Podobne slike &#x161;tevilka</translation>
+    </message>
+    <message>
+      <source>Details</source>
+      <translation>Podrobnosti</translation>
+    </message>
+    <message>
+      <source>More</source>
+      <translation>Ve&#x10D;</translation>
+    </message>
+    <message>
+      <source>Delete duplicate session</source>
+      <translation>Brisanje podvojenih seje</translation>
+    </message>
+    <message>
+      <source>No duplicates pending...</source>
+      <translation>&#x160;t dvojnikov v teku ...</translation>
+    </message>
+    <message>
+      <source>Duplicates</source>
+      <translation>Podvojene</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/image</name>
+    <message>
+      <source>Picture comments</source>
+      <translation>Picture komentarji</translation>
+    </message>
+    <message>
+      <source>No comments</source>
+      <translation>No comments</translation>
+    </message>
+    <message>
+      <source>Comment stored</source>
+      <translation>Komentar shranjeni</translation>
+    </message>
+    <message>
+      <source>Leave a reply</source>
+      <translation>Pustite odgovor</translation>
+    </message>
+    <message>
+      <source>Nick</source>
+      <translation>Nick</translation>
+    </message>
+    <message>
+      <source>Max 25 characters</source>
+      <translation>Max 25 znakov</translation>
+    </message>
+    <message>
+      <source>Message</source>
+      <translation>Message</translation>
+    </message>
+    <message>
+      <source>Send</source>
+      <translation>Po&#x161;lji</translation>
+    </message>
+    <message>
+      <source>Image edit</source>
+      <translation>Image edit</translation>
+    </message>
+    <message>
+      <source>Rate this picture</source>
+      <translation>Oceni to sliko</translation>
+    </message>
+    <message>
+      <source>star</source>
+      <translation>zvezda</translation>
+    </message>
+    <message>
+      <source>stars</source>
+      <translation>zvezde</translation>
+    </message>
+    <message>
+      <source>Vote!</source>
+      <translation>Glasujte!</translation>
+    </message>
+    <message>
+      <source>Deduct vote!</source>
+      <translation>Odbitek glas!</translation>
+    </message>
+    <message>
+      <source>next image</source>
+      <translation>Naslednja slika</translation>
+    </message>
+    <message>
+      <source>previous image</source>
+      <translation>Prej&#x161;nja slika</translation>
+    </message>
+    <message>
+      <source>return to thumbnails</source>
+      <translation>Vrni se na sli&#x10D;ice</translation>
+    </message>
+    <message>
+      <source>Click to see fullsize</source>
+      <translation>Kliknite za ogled pove&#x10D;avo</translation>
+    </message>
+    <message>
+      <source>Supported BB Code style tags: [b] [i] [u] [quote] :) :D :( :o :p ;)</source>
+      <translation>Podprti BB tags stil Code: [b] [i] [u] [quote]:): D: (: o: p;)</translation>
+    </message>
+    <message>
+      <source>Add to favorites</source>
+      <translation>Dodaj med priljubljene</translation>
+    </message>
+    <message>
+      <source>Share this page HTML code</source>
+      <translation>Deli to stran HTML kodo</translation>
+    </message>
+    <message>
+      <source>Share PHPBB code</source>
+      <translation>Share phpBB kodo</translation>
+    </message>
+    <message>
+      <source>Anaglyph version</source>
+      <translation>Vidne preko razli&#x10D;ica</translation>
+    </message>
+    <message>
+      <source>Enter tags separated by space</source>
+      <translation>Vnesite oznake lo&#x10D;eni z razmikom;</translation>
+    </message>
+    <message>
+      <source>Picture details</source>
+      <translation>Slika podrobnosti</translation>
+    </message>
+    <message>
+      <source>Filename</source>
+      <translation>Ime datoteke</translation>
+    </message>
+    <message>
+      <source>File size</source>
+      <translation>Velikost datoteke</translation>
+    </message>
+    <message>
+      <source>Image rating</source>
+      <translation>Image rating</translation>
+    </message>
+    <message>
+      <source>Date added</source>
+      <translation>Datum nalaganja</translation>
+    </message>
+    <message>
+      <source>Dimensions</source>
+      <translation>Dimenzije</translation>
+    </message>
+    <message>
+      <source>Displayed</source>
+      <translation>Prikazano</translation>
+    </message>
+    <message>
+      <source>times</source>
+      <translation>krat</translation>
+    </message>
+    <message>
+      <source>Album</source>
+      <translation>Album</translation>
+    </message>
+    <message>
+      <source>URL</source>
+      <translation>URL</translation>
+    </message>
+    <message>
+      <source>Owner</source>
+      <translation>Lastnik</translation>
+    </message>
+    <message>
+      <source>About user</source>
+      <translation>O uporabnikov</translation>
+    </message>
+    <message>
+      <source>votes</source>
+      <translation>glasov</translation>
+    </message>
+    <message>
+      <source>Search for similar colors images</source>
+      <translation>Iskanje podobnih slik barv</translation>
+    </message>
+    <message>
+      <source>Search for visualy similar images</source>
+      <translation>Iskanje visualy podobne slike</translation>
+    </message>
+    <message>
+      <source>More user images</source>
+      <translation>Ve&#x10D; slik uporabnika</translation>
+    </message>
+    <message>
+      <source>Version</source>
+      <translation>Version</translation>
+    </message>
+    <message>
+      <source>Image size</source>
+      <translation>Velikost slike</translation>
+    </message>
+    <message>
+      <source>Format</source>
+      <translation>Format</translation>
+    </message>
+    <message>
+      <source>Price</source>
+      <translation>Cena</translation>
+    </message>
+    <message>
+      <source>credits</source>
+      <translation>krediti</translation>
+    </message>
+    <message>
+      <source>Remove from basket</source>
+      <translation>Odstrani iz ko&#x161;arice</translation>
+    </message>
+    <message>
+      <source>Add to basket</source>
+      <translation>Dodaj v ko&#x161;arico</translation>
+    </message>
+    <message>
+      <source>Wrong captcha code!</source>
+      <translation>Wrong captcha kode!</translation>
+    </message>
+    <message>
+      <source>Please enter nick!</source>
+      <translation>Vnesite nick!</translation>
+    </message>
+    <message>
+      <source>Please enter comment!</source>
+      <translation>Prosimo, vnesite komentar!</translation>
+    </message>
+    <message>
+      <source>You are not allowed to leave a comments!</source>
+      <translation>Nimate dovoljenja zapustiti komentarje!</translation>
+    </message>
+    <message>
+      <source>Guest_</source>
+      <translation>Guest_</translation>
+    </message>
+    <message>
+      <source>Last uploaded images</source>
+      <translation>Zadnje dodane slike</translation>
+    </message>
+    <message>
+      <source>Last additions</source>
+      <translation>Zadnje dodano</translation>
+    </message>
+    <message>
+      <source>Last viewed images</source>
+      <translation>Zadnje dodane slike</translation>
+    </message>
+    <message>
+      <source>Last commented images</source>
+      <translation>Zadnji komentiral slike</translation>
+    </message>
+    <message>
+      <source>Last rated images</source>
+      <translation>Zadnje ocenjene slike</translation>
+    </message>
+    <message>
+      <source>Top rated images</source>
+      <translation>Najbolje ocenjene slike</translation>
+    </message>
+    <message>
+      <source>Search by color</source>
+      <translation>Iskanje po barvi</translation>
+    </message>
+    <message>
+      <source>Most popular images</source>
+      <translation>Najbolj priljubljene slike</translation>
+    </message>
+    <message>
+      <source>Search rss by keyword</source>
+      <translation>Iskanje po klju&#x10D;nih besedah &#x200B;&#x200B;rss</translation>
+    </message>
+    <message>
+      <source>Last uploaded first</source>
+      <translation>Zadnje dodane first</translation>
+    </message>
+    <message>
+      <source>Last uploaded last</source>
+      <translation>Zadnje dodane zadnji</translation>
+    </message>
+    <message>
+      <source>Most popular first</source>
+      <translation>Najbolj priljubljeni first</translation>
+    </message>
+    <message>
+      <source>Most popular last</source>
+      <translation>Najbolj priljubljeni zadnje</translation>
+    </message>
+    <message>
+      <source>Last hits first</source>
+      <translation>Last zadetkov first</translation>
+    </message>
+    <message>
+      <source>Last hits last</source>
+      <translation>Last zadetkov zadnji</translation>
+    </message>
+    <message>
+      <source>Last commented first</source>
+      <translation>Zadnji komentiral first</translation>
+    </message>
+    <message>
+      <source>Last commented last</source>
+      <translation>Zadnji komentiral zadnje</translation>
+    </message>
+    <message>
+      <source>Top rated first</source>
+      <translation>Najbolj ocenjeno first</translation>
+    </message>
+    <message>
+      <source>Top rated last Last</source>
+      <translation>Najbolj ocenjeno zadnji Last</translation>
+    </message>
+    <message>
+      <source>Last rated first</source>
+      <translation>Last ocenjeno first</translation>
+    </message>
+    <message>
+      <source>Last rated last</source>
+      <translation>Last ocenjeno zadnji</translation>
+    </message>
+    <message>
+      <source>Most relevance images last</source>
+      <translation>Ve&#x10D;ina slik EGP zadnje</translation>
+    </message>
+    <message>
+      <source>search results</source>
+      <translation>Rezultati iskanja</translation>
+    </message>
+    <message>
+      <source>Last uploaded images to album</source>
+      <translation>Zadnje dodane slike v album</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/managealbum</name>
+    <message>
+      <source>No records.</source>
+      <translation>&#x160;t zapisov.</translation>
+    </message>
+    <message>
+      <source>Category</source>
+      <translation>Kategorija</translation>
+    </message>
+    <message>
+      <source>Create an album</source>
+      <translation>Ustvari album</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>Domov</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/managealbumimages</name>
+    <message>
+      <source>Move selected images to</source>
+      <translation>Premakni izbrane slike</translation>
+    </message>
+    <message>
+      <source>Check all</source>
+      <translation>Preverite vse</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>&#x160;t zapisov.</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>Domov</translation>
+    </message>
+    <message>
+      <source>Root category</source>
+      <translation>Root kategorijo</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/movealbumphotos</name>
+    <message>
+      <source>Search album</source>
+      <translation>Iskanje album</translation>
+    </message>
+    <message>
+      <source>Move photos</source>
+      <translation>Premakni fotografije</translation>
+    </message>
+    <message>
+      <source>We moved</source>
+      <translation>Preselili smo se</translation>
+    </message>
+    <message>
+      <source>images</source>
+      <translation>slik</translation>
+    </message>
+    <message>
+      <source>Move album photos</source>
+      <translation>Premakni album fotografij</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/image_list</name>
+    <message>
+      <source>preview version</source>
+      <translation>predogled razli&#x10D;ica</translation>
+    </message>
+    <message>
+      <source>See full size</source>
+      <translation>Oglejte si polno velikost</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/search</name>
+    <message>
+      <source>Last uploaded</source>
+      <translation>Zadnje dodane</translation>
+    </message>
+    <message>
+      <source>Most popular</source>
+      <translation>Najbolj priljubljeni</translation>
+    </message>
+    <message>
+      <source>Last hits</source>
+      <translation>Last zadetkov</translation>
+    </message>
+    <message>
+      <source>Top rated</source>
+      <translation>Najbolj ocenjeno</translation>
+    </message>
+    <message>
+      <source>Last rated</source>
+      <translation>Zadnje Ocenjene</translation>
+    </message>
+    <message>
+      <source>Last commented</source>
+      <translation>Zadnja komentirana</translation>
+    </message>
+    <message>
+      <source>Filename</source>
+      <translation>Ime datoteke</translation>
+    </message>
+    <message>
+      <source>Search results</source>
+      <translation>Rezultati iskanja</translation>
+    </message>
+    <message>
+      <source>Nothing found</source>
+      <translation>Ni&#x10D; ugotovljeno</translation>
+    </message>
+    <message>
+      <source>Any resolution</source>
+      <translation>Vse lo&#x10D;ljivosti</translation>
+    </message>
+    <message>
+      <source>Relevance</source>
+      <translation>Ustreznost</translation>
+    </message>
+    <message>
+      <source>Any keyword</source>
+      <translation>Vse klju&#x10D;ne besede</translation>
+    </message>
+    <message>
+      <source>All keywords</source>
+      <translation>Vse klju&#x10D;ne besede</translation>
+    </message>
+    <message>
+      <source>search results</source>
+      <translation>Rezultati iskanja</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Stran</translation>
+    </message>
+    <message>
+      <source>Last uploaded first</source>
+      <translation>Zadnje dodane first</translation>
+    </message>
+    <message>
+      <source>Last uploaded last</source>
+      <translation>Zadnje dodane zadnji</translation>
+    </message>
+    <message>
+      <source>Most popular first</source>
+      <translation>Najbolj priljubljeni first</translation>
+    </message>
+    <message>
+      <source>Most popular last</source>
+      <translation>Najbolj priljubljeni zadnje</translation>
+    </message>
+    <message>
+      <source>Last hits first</source>
+      <translation>Last zadetkov first</translation>
+    </message>
+    <message>
+      <source>Last hits last</source>
+      <translation>Last zadetkov zadnji</translation>
+    </message>
+    <message>
+      <source>Last commented first</source>
+      <translation>Zadnji komentiral first</translation>
+    </message>
+    <message>
+      <source>Last commented last</source>
+      <translation>Zadnji komentiral zadnje</translation>
+    </message>
+    <message>
+      <source>Last rated first</source>
+      <translation>Last ocenjeno first</translation>
+    </message>
+    <message>
+      <source>Last rated last</source>
+      <translation>Last ocenjeno zadnji</translation>
+    </message>
+    <message>
+      <source>Top rated first</source>
+      <translation>Najbolj ocenjeno first</translation>
+    </message>
+    <message>
+      <source>Top rated last</source>
+      <translation>Najbolj ocenjeno zadnji</translation>
+    </message>
+    <message>
+      <source>Most relevance images last</source>
+      <translation>Ve&#x10D;ina slik EGP zadnje</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Resolucija</translation>
+    </message>
+    <message>
+      <source>Search RSS by keyword</source>
+      <translation>Iskanje po klju&#x10D;nih besedah &#x200B;&#x200B;RSS</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/editrole</name>
+    <message>
+      <source>Role edit</source>
+      <translation>Vloga edit</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Naslov</translation>
+    </message>
+    <message>
+      <source>Assigned functions</source>
+      <translation>Namenski funkcije</translation>
+    </message>
+    <message>
+      <source>Module</source>
+      <translation>Modul</translation>
+    </message>
+    <message>
+      <source>Function</source>
+      <translation>Funkcija</translation>
+    </message>
+    <message>
+      <source>Remove selected</source>
+      <translation>Odstrani izbrano</translation>
+    </message>
+    <message>
+      <source>New policy</source>
+      <translation>Nova politika</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+    <message>
+      <source>Cancel</source>
+      <translation>Prekli&#x10D;i</translation>
+    </message>
+    <message>
+      <source>Role assigned groups</source>
+      <translation>Vloga dodeljena skupine</translation>
+    </message>
+    <message>
+      <source>Group assignement to role</source>
+      <translation>Skupina assignement na vlogo</translation>
+    </message>
+    <message>
+      <source>Assign group</source>
+      <translation>Dolo&#x10D;i skupino</translation>
+    </message>
+    <message>
+      <source>Please enter role name</source>
+      <translation>Prosimo, vnesite ime vlogo</translation>
+    </message>
+    <message>
+      <source>Please choose module</source>
+      <translation>Prosimo, izberite modul</translation>
+    </message>
+    <message>
+      <source>Please choose module function</source>
+      <translation>Prosimo, izberite modul funkcijo</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Sistem konfiguracijo</translation>
+    </message>
+    <message>
+      <source>List of roles</source>
+      <translation>Seznam vlog</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/groupassignrole</name>
+    <message>
+      <source>Title</source>
+      <translation>Naslov</translation>
+    </message>
+    <message>
+      <source>Assign</source>
+      <translation>Dolo&#x10D;i</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/modulefunctions</name>
+    <message>
+      <source>All functions</source>
+      <translation>Vse funkcije</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/newpolicy</name>
+    <message>
+      <source>New policy</source>
+      <translation>Nova politika</translation>
+    </message>
+    <message>
+      <source>Assigned functions</source>
+      <translation>Namenski funkcije</translation>
+    </message>
+    <message>
+      <source>Choose module</source>
+      <translation>Izberite modul</translation>
+    </message>
+    <message>
+      <source>All modules</source>
+      <translation>Vsi moduli</translation>
+    </message>
+    <message>
+      <source>Choose module function</source>
+      <translation>Izberite modul funkcijo</translation>
+    </message>
+    <message>
+      <source>All functions</source>
+      <translation>Vse funkcije</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Shrani</translation>
+    </message>
+    <message>
+      <source>Cancel</source>
+      <translation>Prekli&#x10D;i</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/newrole</name>
+    <message>
+      <source>New role</source>
+      <translation>Nova vloga</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Naslov</translation>
+    </message>
+    <message>
+      <source>Policy list</source>
+      <translation>Politika seznam</translation>
+    </message>
+    <message>
+      <source>Module</source>
+      <translation>Modul</translation>
+    </message>
+    <message>
+      <source>Function</source>
+      <translation>Funkcija</translation>
+    </message>
+    <message>
+      <source>New policy</source>
+      <translation>Nova politika</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Shrani</translation>
+    </message>
+    <message>
+      <source>Cancel</source>
+      <translation>Prekli&#x10D;i</translation>
+    </message>
+    <message>
+      <source>Please enter role name</source>
+      <translation>Prosimo, vnesite ime vlogo</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Sistem konfiguracijo</translation>
+    </message>
+    <message>
+      <source>List of roles</source>
+      <translation>Seznam vlog</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/roleassigngroup</name>
+    <message>
+      <source>Title</source>
+      <translation>Naslov</translation>
+    </message>
+    <message>
+      <source>Assign</source>
+      <translation>Dolo&#x10D;i</translation>
+    </message>
+  </context>
+  <context>
+    <name>permission/roles</name>
+    <message>
+      <source>List of roles</source>
+      <translation>Seznam vlog</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Naslov</translation>
+    </message>
+    <message>
+      <source>Edit role</source>
+      <translation>Uredi vlogo</translation>
+    </message>
+    <message>
+      <source>Delete role</source>
+      <translation>Izbri&#x161;i vlogo</translation>
+    </message>
+    <message>
+      <source>New role</source>
+      <translation>Nova vloga</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Sistem konfiguracijo</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/index</name>
+    <message>
+      <source>Shop configuration</source>
+      <translation>Shop konfiguracijo</translation>
+    </message>
+    <message>
+      <source>Images variations sizes</source>
+      <translation>Slike sprememb velikosti</translation>
+    </message>
+    <message>
+      <source>List payment options</source>
+      <translation>Seznam mo&#x17E;nosti pla&#x10D;ila</translation>
+    </message>
+    <message>
+      <source>Settings list</source>
+      <translation>Nastavitve seznam</translation>
+    </message>
+    <message>
+      <source>Orders list</source>
+      <translation>Naro&#x10D;ila seznam</translation>
+    </message>
+    <message>
+      <source>Credits orders list</source>
+      <translation>Krediti naro&#x10D;ila seznam</translation>
+    </message>
+    <message>
+      <source>Shop</source>
+      <translation>Shop</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/listpaymentoptions</name>
+    <message>
+      <source>Payment options</source>
+      <translation>Mo&#x17E;nosti pla&#x10D;ila</translation>
+    </message>
+    <message>
+      <source>Identifier</source>
+      <translation>Identifier</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Ime</translation>
+    </message>
+    <message>
+      <source>Active</source>
+      <translation>Aktivna</translation>
+    </message>
+    <message>
+      <source>Author</source>
+      <translation>Avtor</translation>
+    </message>
+    <message>
+      <source>Edit</source>
+      <translation>Urejanje</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/orderedit</name>
+    <message>
+      <source>Order view</source>
+      <translation>Vrstni red pogled</translation>
+    </message>
+    <message>
+      <source>Order time</source>
+      <translation>Da bi &#x10D;as</translation>
+    </message>
+    <message>
+      <source>Order price</source>
+      <translation>Da cena</translation>
+    </message>
+    <message>
+      <source>Order credits</source>
+      <translation>Da kreditov</translation>
+    </message>
+    <message>
+      <source>Order status</source>
+      <translation>Status naro&#x10D;ila</translation>
+    </message>
+    <message>
+      <source>Payed.</source>
+      <translation>Pla&#x10D;a.</translation>
+    </message>
+    <message>
+      <source>Confirmed</source>
+      <translation>Potrjen</translation>
+    </message>
+    <message>
+      <source>Ordered items</source>
+      <translation>Naro&#x10D;eno predmetov</translation>
+    </message>
+    <message>
+      <source>Image name</source>
+      <translation>Image Ime</translation>
+    </message>
+    <message>
+      <source>Version</source>
+      <translation>Version</translation>
+    </message>
+    <message>
+      <source>Image size</source>
+      <translation>Velikost slike</translation>
+    </message>
+    <message>
+      <source>Format</source>
+      <translation>Format</translation>
+    </message>
+    <message>
+      <source>Price</source>
+      <translation>Cena</translation>
+    </message>
+    <message>
+      <source>Download count</source>
+      <translation>Download &#x161;tetje</translation>
+    </message>
+    <message>
+      <source>Downloads left</source>
+      <translation>Downloads levo</translation>
+    </message>
+    <message>
+      <source>Credits</source>
+      <translation>Credits</translation>
+    </message>
+  </context>
+  <context>
+    <name>systemconfig/list</name>
+    <message>
+      <source>Delete order item</source>
+      <translation>Delete, da postavke</translation>
+    </message>
+    <message>
+      <source>Delete order</source>
+      <translation>Delete, da</translation>
+    </message>
+    <message>
+      <source>Config list</source>
+      <translation>Config seznam</translation>
+    </message>
+    <message>
+      <source>Identifier</source>
+      <translation>Identifier</translation>
+    </message>
+    <message>
+      <source>Explain</source>
+      <translation>Razlo&#x17E;ite</translation>
+    </message>
+    <message>
+      <source>Edit value</source>
+      <translation>Edit vrednost</translation>
+    </message>
+    <message>
+      <source>System config options</source>
+      <translation>Sistem config mo&#x17E;nosti</translation>
+    </message>
+    <message>
+      <source>List</source>
+      <translation>Seznam</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/orderslist</name>
+    <message>
+      <source>Orders credits list</source>
+      <translation>Naro&#x10D;ila krediti seznam</translation>
+    </message>
+    <message>
+      <source>ID</source>
+      <translation>ID</translation>
+    </message>
+    <message>
+      <source>Date</source>
+      <translation>Datum</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Order price</source>
+      <translation>Da cena</translation>
+    </message>
+    <message>
+      <source>Order credits</source>
+      <translation>Da kreditov</translation>
+    </message>
+    <message>
+      <source>Order status</source>
+      <translation>Status naro&#x10D;ila</translation>
+    </message>
+    <message>
+      <source>Payed.</source>
+      <translation>Pla&#x10D;a.</translation>
+    </message>
+    <message>
+      <source>Confirmed</source>
+      <translation>Potrjen</translation>
+    </message>
+    <message>
+      <source>No orders...</source>
+      <translation>&#x160;t naro&#x10D;ila ...</translation>
+    </message>
+    <message>
+      <source>Orders list</source>
+      <translation>Naro&#x10D;ila seznam</translation>
+    </message>
+    <message>
+      <source>Order view</source>
+      <translation>Vrstni red pogled</translation>
+    </message>
+    <message>
+      <source>User orders list</source>
+      <translation>Uporabni&#x161;ko naro&#x10D;ila seznam</translation>
+    </message>
+    <message>
+      <source>User credits orders list</source>
+      <translation>Uporabni&#x161;ko kreditov naro&#x10D;ila seznam</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/paymentoptionedit</name>
+    <message>
+      <source>Payment option edit</source>
+      <translation>Pla&#x10D;ilo mo&#x17E;nost urejanja</translation>
+    </message>
+    <message>
+      <source>Identifier</source>
+      <translation>Identifier</translation>
+    </message>
+    <message>
+      <source>Active</source>
+      <translation>Aktivna</translation>
+    </message>
+    <message>
+      <source>Payment settings</source>
+      <translation>Pla&#x10D;ilo nastavitve</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+  </context>
+  <context>
+    <name>systemconfig/edit</name>
+    <message>
+      <source>Edit</source>
+      <translation>Urejanje</translation>
+    </message>
+    <message>
+      <source>Data updated</source>
+      <translation>Podatki posodobljeni</translation>
+    </message>
+    <message>
+      <source>Identifier</source>
+      <translation>Identifier</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+    <message>
+      <source>Values applies to</source>
+      <translation>Vrednosti se nana&#x161;a na</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/settinglist</name>
+    <message>
+      <source>Shop config list</source>
+      <translation>Shop config seznam</translation>
+    </message>
+    <message>
+      <source>Identifier</source>
+      <translation>Identifier</translation>
+    </message>
+    <message>
+      <source>Explain</source>
+      <translation>Razlo&#x17E;ite</translation>
+    </message>
+    <message>
+      <source>Value</source>
+      <translation>Vrednost</translation>
+    </message>
+    <message>
+      <source>Edit value</source>
+      <translation>Edit vrednost</translation>
+    </message>
+  </context>
+  <context>
+    <name>statistic/choosesite</name>
+    <message>
+      <source>Choose site you want to show statistic</source>
+      <translation>Izberite strani, ki jo &#x17E;elite prikazati statistika</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Shrani</translation>
+    </message>
+  </context>
+  <context>
+    <name>statistic/index</name>
+    <message>
+      <source>Google analytics statistic</source>
+      <translation>Google analytics statistika</translation>
+    </message>
+    <message>
+      <source>Grant access application to access google analytics API</source>
+      <translation>Grant dostop do aplikacij za dostop do Google Analytics API</translation>
+    </message>
+    <message>
+      <source>Site choose</source>
+      <translation>Site izbrati</translation>
+    </message>
+    <message>
+      <source>View statistic</source>
+      <translation>Poglej statistiko</translation>
+    </message>
+    <message>
+      <source>Statistic</source>
+      <translation>Statistika</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>Domov</translation>
+    </message>
+  </context>
+  <context>
+    <name>system/configuration</name>
+    <message>
+      <source>System configuration</source>
+      <translation>Sistem konfiguracijo</translation>
+    </message>
+    <message>
+      <source>Users</source>
+      <translation>Uporabniki</translation>
+    </message>
+    <message>
+      <source>List of groups</source>
+      <translation>Seznam skupin</translation>
+    </message>
+    <message>
+      <source>List of roles</source>
+      <translation>Seznam vlog</translation>
+    </message>
+    <message>
+      <source>System configuration values</source>
+      <translation>Sistem konfiguracijo vrednosti</translation>
+    </message>
+    <message>
+      <source>Watermark protection</source>
+      <translation>Watermark za&#x161;&#x10D;ite</translation>
+    </message>
+    <message>
+      <source>Banned rating IP list</source>
+      <translation>Prepovedani rating IP seznama</translation>
+    </message>
+    <message>
+      <source>Banned commenting IP list</source>
+      <translation>Prepovedani komentiranja IP seznama</translation>
+    </message>
+  </context>
+  <context>
+    <name>systemconfig/watermark</name>
+    <message>
+      <source>Watermark configuration</source>
+      <translation>Watermark konfiguracijo</translation>
+    </message>
+    <message>
+      <source>Settings updated</source>
+      <translation>Nastavitve posodobljene</translation>
+    </message>
+    <message>
+      <source>Delete watermark</source>
+      <translation>Brisanje vodnega &#x17E;iga</translation>
+    </message>
+    <message>
+      <source>Image, it is recommended PNG type image</source>
+      <translation>Image, je priporo&#x10D;ljivo, PNG Tip slike</translation>
+    </message>
+    <message>
+      <source>Settings</source>
+      <translation>Nastavitve</translation>
+    </message>
+    <message>
+      <source>Watermark disabled</source>
+      <translation>Watermark onemogo&#x10D;ena</translation>
+    </message>
+    <message>
+      <source>Watermark enabled for normal size thumbnails</source>
+      <translation>Watermark omogo&#x10D;en za normalno velikost sli&#x10D;ice</translation>
+    </message>
+    <message>
+      <source>Watermark enabled for all images</source>
+      <translation>Watermark omogo&#x10D;en za vse slike</translation>
+    </message>
+    <message>
+      <source>Watermark position</source>
+      <translation>Vodni znak polo&#x17E;aj</translation>
+    </message>
+    <message>
+      <source>Top left</source>
+      <translation>Top levo</translation>
+    </message>
+    <message>
+      <source>Top right</source>
+      <translation>Top desno</translation>
+    </message>
+    <message>
+      <source>Bottom left</source>
+      <translation>Spodaj levo</translation>
+    </message>
+    <message>
+      <source>Bottom right</source>
+      <translation>Spodaj desno</translation>
+    </message>
+    <message>
+      <source>Center</source>
+      <translation>Center</translation>
+    </message>
+    <message>
+      <source>Watermark padding from borders</source>
+      <translation>Watermark padding od meje</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+    <message>
+      <source>Watermark</source>
+      <translation>Watermark</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/account</name>
+    <message>
+      <source>Logged user</source>
+      <translation>Prijavljen uporabnik</translation>
+    </message>
+    <message>
+      <source>Account updated</source>
+      <translation>Account posodobljeno</translation>
+    </message>
+    <message>
+      <source>Do not enter password unless you want to change it</source>
+      <translation>Ne vnesite geslo, &#x10D;e ga &#x17E;elite spremeniti</translation>
+    </message>
+    <message>
+      <source>Login information</source>
+      <translation>Prijava informacije</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Uporabni&#x161;ko ime</translation>
+    </message>
+    <message>
+      <source>Password</source>
+      <translation>Geslo</translation>
+    </message>
+    <message>
+      <source>Repeat password</source>
+      <translation>Ponovite geslo</translation>
+    </message>
+    <message>
+      <source>Contact information</source>
+      <translation>Kontaktni podatki</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+    <message>
+      <source>Message send</source>
+      <translation>Sporo&#x10D;ilo po&#x161;ljete</translation>
+    </message>
+    <message>
+      <source>Add google account</source>
+      <translation>Dodaj google ra&#x10D;un</translation>
+    </message>
+    <message>
+      <source>Working</source>
+      <translation>Delo</translation>
+    </message>
+    <message>
+      <source>Profile page settings</source>
+      <translation>Stran s profilom nastavitve</translation>
+    </message>
+    <message>
+      <source>Profile settings updated</source>
+      <translation>Profil nastavitve posodobljene</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Ime</translation>
+    </message>
+    <message>
+      <source>Surname</source>
+      <translation>Priimek</translation>
+    </message>
+    <message>
+      <source>Website</source>
+      <translation>Spletna stran</translation>
+    </message>
+    <message>
+      <source>Information about you</source>
+      <translation>Informacije o vas</translation>
+    </message>
+    <message>
+      <source>Profile photo</source>
+      <translation>Fotografija profila</translation>
+    </message>
+    <message>
+      <source>See how your profile looks to users</source>
+      <translation>Oglejte si, kako izgleda va&#x161; profil za uporabnike</translation>
+    </message>
+    <message>
+      <source>View profile</source>
+      <translation>Poglej profil</translation>
+    </message>
+    <message>
+      <source>Wrong email address</source>
+      <translation>Napa&#x10D;en e-po&#x161;tni naslov</translation>
+    </message>
+    <message>
+      <source>Passwords mismatch</source>
+      <translation>Gesla neusklajenost</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/edit</name>
+    <message>
+      <source>User edit</source>
+      <translation>Uporabni&#x161;ko edit</translation>
+    </message>
+    <message>
+      <source>Do not enter password unless you want to change it</source>
+      <translation>Ne vnesite geslo, &#x10D;e ga &#x17E;elite spremeniti</translation>
+    </message>
+    <message>
+      <source>Login information</source>
+      <translation>Prijava informacije</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Uporabni&#x161;ko ime</translation>
+    </message>
+    <message>
+      <source>Password</source>
+      <translation>Geslo</translation>
+    </message>
+    <message>
+      <source>Repeat password</source>
+      <translation>Ponovite geslo</translation>
+    </message>
+    <message>
+      <source>Contact information</source>
+      <translation>Kontaktni podatki</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+    <message>
+      <source>User prifle</source>
+      <translation>Uporabni&#x161;ko prifle</translation>
+    </message>
+    <message>
+      <source>My account</source>
+      <translation>Moj ra&#x10D;un</translation>
+    </message>
+    <message>
+      <source>Facebook albums</source>
+      <translation>Facebook albumov</translation>
+    </message>
+    <message>
+      <source>Facebook session has expired, please login</source>
+      <translation>Facebook seja je potekla, prosim login</translation>
+    </message>
+    <message>
+      <source>Account</source>
+      <translation>Ra&#x10D;un</translation>
+    </message>
+    <message>
+      <source>Albums</source>
+      <translation>Albumi</translation>
+    </message>
+    <message>
+      <source>My albums</source>
+      <translation>Moja albumov</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Sistem konfiguracijo</translation>
+    </message>
+    <message>
+      <source>Account data</source>
+      <translation>Account podatki</translation>
+    </message>
+    <message>
+      <source>Wrong email address</source>
+      <translation>Napa&#x10D;en e-po&#x161;tni naslov</translation>
+    </message>
+    <message>
+      <source>Passwords mismatch</source>
+      <translation>Gesla neusklajenost</translation>
+    </message>
+    <message>
+      <source>Users</source>
+      <translation>Uporabniki</translation>
+    </message>
+    <message>
+      <source>Authentifion with google</source>
+      <translation>Authentifion z google</translation>
+    </message>
+    <message>
+      <source>Profile settings</source>
+      <translation>Profil nastavitve</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/editgroup</name>
+    <message>
+      <source>Group edit</source>
+      <translation>Skupina edit</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Naslov</translation>
+    </message>
+    <message>
+      <source>Update</source>
+      <translation>Update</translation>
+    </message>
+    <message>
+      <source>Assigned users</source>
+      <translation>Namenski uporabnikov</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Uporabni&#x161;ko ime</translation>
+    </message>
+    <message>
+      <source>Remove user from group</source>
+      <translation>Odstranjevanje uporabnikov iz skupin</translation>
+    </message>
+    <message>
+      <source>Assign user</source>
+      <translation>Dolo&#x10D;i uporabnikov</translation>
+    </message>
+    <message>
+      <source>User assignment</source>
+      <translation>Uporabni&#x161;ko odstop</translation>
+    </message>
+    <message>
+      <source>Assigned roles</source>
+      <translation>Namenski vlog</translation>
+    </message>
+    <message>
+      <source>Remove role from group</source>
+      <translation>Odstranite vlogo iz skupine</translation>
+    </message>
+    <message>
+      <source>Assign role</source>
+      <translation>Dolo&#x10D;i vloge</translation>
+    </message>
+    <message>
+      <source>Role assignment</source>
+      <translation>Vloga odstop</translation>
+    </message>
+    <message>
+      <source>Please enter group name</source>
+      <translation>Prosimo, vnesite ime skupine</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Sistem konfiguracijo</translation>
+    </message>
+    <message>
+      <source>Groups</source>
+      <translation>Skupine</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/groupassignuser</name>
+    <message>
+      <source>User</source>
+      <translation>Uporabnik</translation>
+    </message>
+    <message>
+      <source>Assign</source>
+      <translation>Dolo&#x10D;i</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/login</name>
+    <message>
+      <source>Please login</source>
+      <translation>Prosim, prijavite se</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Uporabni&#x161;ko ime</translation>
+    </message>
+    <message>
+      <source>Password</source>
+      <translation>Geslo</translation>
+    </message>
+    <message>
+      <source>Login</source>
+      <translation>Prijava</translation>
+    </message>
+    <message>
+      <source>Password remind</source>
+      <translation>Geslo spomnil</translation>
+    </message>
+    <message>
+      <source>Please login with your facebook account</source>
+      <translation>Prosim, prijavi se s svojim ra&#x10D;unom facebook</translation>
+    </message>
+    <message>
+      <source>Report abuse</source>
+      <translation>Prijavi zlorabo</translation>
+    </message>
+    <message>
+      <source>Please write whats wrong within a post</source>
+      <translation>Prosimo, da napi&#x161;ete kaj je narobe v mesto</translation>
+    </message>
+    <message>
+      <source>Send</source>
+      <translation>Po&#x161;lji</translation>
+    </message>
+    <message>
+      <source>Registration is complete</source>
+      <translation>Registracija je popolna</translation>
+    </message>
+    <message>
+      <source>Registration is complete please login.</source>
+      <translation>Registracija je popolna se lahko prijavite.</translation>
+    </message>
+    <message>
+      <source>Checkout</source>
+      <translation>Naro&#x10D;ilo</translation>
+    </message>
+    <message>
+      <source>Incorrect username or password</source>
+      <translation>Napa&#x10D;no uporabni&#x161;ko ime ali geslo</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/new</name>
+    <message>
+      <source>New user</source>
+      <translation>Nov uporabnik</translation>
+    </message>
+    <message>
+      <source>Login information</source>
+      <translation>Prijava informacije</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Uporabni&#x161;ko ime</translation>
+    </message>
+    <message>
+      <source>Password</source>
+      <translation>Geslo</translation>
+    </message>
+    <message>
+      <source>Repeat password</source>
+      <translation>Ponovite geslo</translation>
+    </message>
+    <message>
+      <source>Contact information</source>
+      <translation>Kontaktni podatki</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Shrani</translation>
+    </message>
+    <message>
+      <source>OR login with</source>
+      <translation>ALI prijavo z</translation>
+    </message>
+    <message>
+      <source>Login with google account</source>
+      <translation>Prijavite se z uporabni&#x161;kim ra&#x10D;unom pri Googlu</translation>
+    </message>
+    <message>
+      <source>Working</source>
+      <translation>Delo</translation>
+    </message>
+    <message>
+      <source>Working...</source>
+      <translation>Delo ...</translation>
+    </message>
+    <message>
+      <source>Registration</source>
+      <translation>Registracija</translation>
+    </message>
+    <message>
+      <source>Safe code</source>
+      <translation>Safe kodo</translation>
+    </message>
+    <message>
+      <source>Register</source>
+      <translation>Registriraj se</translation>
+    </message>
+    <message>
+      <source>Sutch username is already taken!</source>
+      <translation>Sutch uporabni&#x161;ko ime je &#x17E;e!</translation>
+    </message>
+    <message>
+      <source>Please enter album name!</source>
+      <translation>Prosimo, vnesite ime albuma!</translation>
+    </message>
+    <message>
+      <source>Please enter category name!</source>
+      <translation>Prosimo, vnesite ime kategorije!</translation>
+    </message>
+    <message>
+      <source>User exists</source>
+      <translation>Uporabni&#x161;ko obstaja</translation>
+    </message>
+    <message>
+      <source>Wrong email address</source>
+      <translation>Napa&#x10D;en e-po&#x161;tni naslov</translation>
+    </message>
+    <message>
+      <source>Please enter username</source>
+      <translation>Prosimo, vnesite uporabni&#x161;ko ime</translation>
+    </message>
+    <message>
+      <source>Passwords mismatch</source>
+      <translation>Gesla neusklajenost</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Sistem konfiguracijo</translation>
+    </message>
+    <message>
+      <source>Users</source>
+      <translation>Uporabniki</translation>
+    </message>
+    <message>
+      <source>Please enter group name</source>
+      <translation>Prosimo, vnesite ime skupine</translation>
+    </message>
+    <message>
+      <source>E-mail taken!</source>
+      <translation>E-po&#x161;to, ki jih!</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/newgroup</name>
+    <message>
+      <source>New group</source>
+      <translation>Nova skupina</translation>
+    </message>
+    <message>
+      <source>Title</source>
+      <translation>Naslov</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>Shrani</translation>
+    </message>
+    <message>
+      <source>Save and assign user</source>
+      <translation>Shrani in dolo&#x10D;ite uporabnikov</translation>
+    </message>
+    <message>
+      <source>System configuration</source>
+      <translation>Sistem konfiguracijo</translation>
+    </message>
+    <message>
+      <source>Groups</source>
+      <translation>Skupine</translation>
+    </message>
+  </context>
+  <context>
+    <name>pagelayout/pagelayout</name>
+    <message>
+      <source>Home</source>
+      <translation>Domov</translation>
+    </message>
+    <message>
+      <source>Configuration</source>
+      <translation>Konfiguracija</translation>
+    </message>
+    <message>
+      <source>Gallery categorys</source>
+      <translation>Galerija categorys</translation>
+    </message>
+    <message>
+      <source>Last uploads to albums</source>
+      <translation>Zadnje dodane slike v albume</translation>
+    </message>
+    <message>
+      <source>Batch images add</source>
+      <translation>Batch slik dodaj</translation>
+    </message>
+    <message>
+      <source>Duplicates</source>
+      <translation>Podvojene</translation>
+    </message>
+    <message>
+      <source>Static articles</source>
+      <translation>Static &#x10D;lanki</translation>
+    </message>
+    <message>
+      <source>Statistic</source>
+      <translation>Statistika</translation>
+    </message>
+    <message>
+      <source>Shop</source>
+      <translation>Shop</translation>
+    </message>
+    <message>
+      <source>Forum</source>
+      <translation>Forum</translation>
+    </message>
+    <message>
+      <source>Delete photo by ID</source>
+      <translation>Brisanje fotografije z ID</translation>
+    </message>
+    <message>
+      <source>Photo was deleted</source>
+      <translation>Slika je bila izbrisana</translation>
+    </message>
+    <message>
+      <source>Go to album</source>
+      <translation>Pojdi na album</translation>
+    </message>
+    <message>
+      <source>Go to forum topic</source>
+      <translation>Pojdi na temo forum</translation>
+    </message>
+    <message>
+      <source>Go to forum category</source>
+      <translation>Pojdi na forum kategoriji</translation>
+    </message>
+    <message>
+      <source>Go to image</source>
+      <translation>Pojdi na slike</translation>
+    </message>
+    <message>
+      <source>Root category</source>
+      <translation>Root kategorijo</translation>
+    </message>
+    <message>
+      <source>Open</source>
+      <translation>Odpri</translation>
+    </message>
+    <message>
+      <source>Edit</source>
+      <translation>Urejanje</translation>
+    </message>
+    <message>
+      <source>New album</source>
+      <translation>Novi album</translation>
+    </message>
+    <message>
+      <source>New batch albums</source>
+      <translation>Nova serija albumov</translation>
+    </message>
+    <message>
+      <source>New category</source>
+      <translation>Nova kategorija</translation>
+    </message>
+    <message>
+      <source>Delete album</source>
+      <translation>Brisanje album</translation>
+    </message>
+    <message>
+      <source>Delete category</source>
+      <translation>Izbri&#x161;i kategorijo</translation>
+    </message>
+    <message>
+      <source>Add images</source>
+      <translation>Dodajanje slik</translation>
+    </message>
+    <message>
+      <source>Move images</source>
+      <translation>Premakni slike</translation>
+    </message>
+    <message>
+      <source>It\'s NOT fake!</source>
+      <translation>Prav \ &amp;#39;s NE ponaredek!</translation>
+    </message>
+    <message>
+      <source>Rendered in</source>
+      <translation>Rendered v</translation>
+    </message>
+    <message>
+      <source>Logged user</source>
+      <translation>Prijavljen uporabnik</translation>
+    </message>
+    <message>
+      <source>Account</source>
+      <translation>Ra&#x10D;un</translation>
+    </message>
+    <message>
+      <source>Logout</source>
+      <translation>Odjava</translation>
+    </message>
+    <message>
+      <source>Login</source>
+      <translation>Prijava</translation>
+    </message>
+    <message>
+      <source>Enter keyword or phrase</source>
+      <translation>Vpi&#x161;ite klju&#x10D;no besedo ali besedno zvezo</translation>
+    </message>
+    <message>
+      <source>Search entire forum</source>
+      <translation>Iskanje celoten forum</translation>
+    </message>
+    <message>
+      <source>Search</source>
+      <translation>Iskanje</translation>
+    </message>
+    <message>
+      <source>Last uploads</source>
+      <translation>Zadnje dodane</translation>
+    </message>
+    <message>
+      <source>Last commented</source>
+      <translation>Zadnja komentirana</translation>
+    </message>
+    <message>
+      <source>Last hits</source>
+      <translation>Last zadetkov</translation>
+    </message>
+    <message>
+      <source>Last rated</source>
+      <translation>Zadnje Ocenjene</translation>
+    </message>
+    <message>
+      <source>Last 24 h.</source>
+      <translation>Zadnjih 24 h.</translation>
+    </message>
+    <message>
+      <source>Most popular</source>
+      <translation>Najbolj priljubljeni</translation>
+    </message>
+    <message>
+      <source>Top rated</source>
+      <translation>Najbolj ocenjeno</translation>
+    </message>
+    <message>
+      <source>Search entire gallery</source>
+      <translation>I&#x161;&#x10D;i po celotni galeriji</translation>
+    </message>
+    <message>
+      <source>Last uploaded images</source>
+      <translation>Zadnje dodane slike</translation>
+    </message>
+    <message>
+      <source>View all categorys</source>
+      <translation>Poglej vse categorys</translation>
+    </message>
+    <message>
+      <source>All time</source>
+      <translation>Ves &#x10D;as</translation>
+    </message>
+    <message>
+      <source>Interactive</source>
+      <translation>Interactive</translation>
+    </message>
+    <message>
+      <source>Search by keyword</source>
+      <translation>Iskanje po klju&#x10D;nih besedah</translation>
+    </message>
+    <message>
+      <source>Search by color</source>
+      <translation>Iskanje po barvi</translation>
+    </message>
+    <message>
+      <source>Search by similarity</source>
+      <translation>Iskanje po podobnosti</translation>
+    </message>
+    <message>
+      <source>Search by sketch</source>
+      <translation>Iskanje po skica</translation>
+    </message>
+    <message>
+      <source>Last viewed images</source>
+      <translation>Zadnje dodane slike</translation>
+    </message>
+    <message>
+      <source>Last searches</source>
+      <translation>Zadnja iskanja</translation>
+    </message>
+    <message>
+      <source>My account</source>
+      <translation>Moj ra&#x10D;un</translation>
+    </message>
+    <message>
+      <source>Profile page</source>
+      <translation>Stran s profilom</translation>
+    </message>
+    <message>
+      <source>Manage albums</source>
+      <translation>Upravljanje albumov</translation>
+    </message>
+    <message>
+      <source>Credits</source>
+      <translation>Credits</translation>
+    </message>
+    <message>
+      <source>My orders</source>
+      <translation>Moja naro&#x10D;ila</translation>
+    </message>
+    <message>
+      <source>My credits orders</source>
+      <translation>Moja kreditov naro&#x10D;il</translation>
+    </message>
+    <message>
+      <source>Import images from facebook</source>
+      <translation>Uvoz slik iz facebook</translation>
+    </message>
+    <message>
+      <source>Register</source>
+      <translation>Registriraj se</translation>
+    </message>
+    <message>
+      <source>My favorites</source>
+      <translation>Moja izbira</translation>
+    </message>
+    <message>
+      <source>Basket</source>
+      <translation>Basket</translation>
+    </message>
+    <message>
+      <source>Upload</source>
+      <translation>Nalo&#x17E;i</translation>
+    </message>
+    <message>
+      <source>Upload zip</source>
+      <translation>Nalo&#x17E;i zip</translation>
+    </message>
+    <message>
+      <source>Search...</source>
+      <translation>Iskanje ...</translation>
+    </message>
+  </context>
+  <context>
+    <name>fb/album</name>
+    <message>
+      <source>Check photo to import</source>
+      <translation>Preverite fotografije za uvoz</translation>
+    </message>
+    <message>
+      <source>Import selected images to</source>
+      <translation>Uvoz izbrane slike</translation>
+    </message>
+    <message>
+      <source>To what album you want to import images, start typing album name and click search</source>
+      <translation>V kolik&#x161;ni album, ki ga &#x17E;elite uvoziti slike, za&#x10D;nite tipkati ime albuma in kliknite iskanje</translation>
+    </message>
+    <message>
+      <source>Search for album</source>
+      <translation>Iskanje album</translation>
+    </message>
+    <message>
+      <source>Check all</source>
+      <translation>Preverite vse</translation>
+    </message>
+    <message>
+      <source>Click to see target, new window will open</source>
+      <translation>Kliknite za ogled cilj, se bo odprlo novo okno</translation>
+    </message>
+    <message>
+      <source>Import selected images</source>
+      <translation>Uvoz izbrane slike</translation>
+    </message>
+    <message>
+      <source>Please choose atleast one image!</source>
+      <translation>Izberite vsaj eno sliko!</translation>
+    </message>
+    <message>
+      <source>images to import</source>
+      <translation>slik za uvoz</translation>
+    </message>
+    <message>
+      <source>All images were imported</source>
+      <translation>Vse slike so bili uvo&#x17E;eni</translation>
+    </message>
+    <message>
+      <source>Please choose album</source>
+      <translation>Izberite album</translation>
+    </message>
+    <message>
+      <source>Preview version</source>
+      <translation>Preview razli&#x10D;ice</translation>
+    </message>
+  </context>
+  <context>
+    <name>feedback/form</name>
+    <message>
+      <source>Feedback</source>
+      <translation>Povratne informacije</translation>
+    </message>
+    <message>
+      <source>Feedback was send</source>
+      <translation>Odziv je bil poslati</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Ime</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Text</source>
+      <translation>Besedilo</translation>
+    </message>
+    <message>
+      <source>Captcha image</source>
+      <translation>Captcha slika</translation>
+    </message>
+    <message>
+      <source>Captcha code</source>
+      <translation>Captcha kode</translation>
+    </message>
+    <message>
+      <source>Required fields</source>
+      <translation>Obvezna polja</translation>
+    </message>
+    <message>
+      <source>Send</source>
+      <translation>Po&#x161;lji</translation>
+    </message>
+    <message>
+      <source>Please enter name!</source>
+      <translation>Prosimo, vnesite ime!</translation>
+    </message>
+    <message>
+      <source>Invalid e-mail address!</source>
+      <translation>Neveljaven e-po&#x161;tni naslov!</translation>
+    </message>
+    <message>
+      <source>Please enter text!</source>
+      <translation>Vnesite besedilo!</translation>
+    </message>
+    <message>
+      <source>Please enter captcha code!</source>
+      <translation>Vnesite captcha kode!</translation>
+    </message>
+  </context>
+  <context>
+    <name>feedback/formsend</name>
+    <message>
+      <source>Feedback</source>
+      <translation>Povratne informacije</translation>
+    </message>
+    <message>
+      <source>Your feedback was succesfuly send</source>
+      <translation>Va&#x161;a povratna informacija je bila uspe&#x161;no po&#x161;ljete</translation>
+    </message>
+    <message>
+      <source>Home page</source>
+      <translation>Doma&#x10D;a stran</translation>
+    </message>
+  </context>
+  <context>
+    <name>feedback/mail</name>
+    <message>
+      <source>Hello</source>
+      <translation>Hello</translation>
+    </message>
+    <message>
+      <source>Feedback data</source>
+      <translation>Izmerjenih podatkov</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>Ime</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Text</source>
+      <translation>Besedilo</translation>
+    </message>
+    <message>
+      <source>Bye</source>
+      <translation>Bye</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/anaglyph</name>
+    <message>
+      <source>Original</source>
+      <translation>Original</translation>
+    </message>
+    <message>
+      <source>Anaglyph</source>
+      <translation>Vidne preko</translation>
+    </message>
+    <message>
+      <source>Animating</source>
+      <translation>Animacija</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/color</name>
+    <message>
+      <source>Exclude color</source>
+      <translation>Izklju&#x10D;i barve</translation>
+    </message>
+    <message>
+      <source>Maximum</source>
+      <translation>Najve&#x10D;ja</translation>
+    </message>
+    <message>
+      <source>filters</source>
+      <translation>filtri</translation>
+    </message>
+    <message>
+      <source>Include color</source>
+      <translation>Vklju&#x10D;i barve</translation>
+    </message>
+    <message>
+      <source>Remove color</source>
+      <translation>Odstranjevanje barve</translation>
+    </message>
+    <message>
+      <source>Excluded colors in search</source>
+      <translation>Izklju&#x10D;eni barv pri iskanju</translation>
+    </message>
+    <message>
+      <source>colors</source>
+      <translation>Barve</translation>
+    </message>
+    <message>
+      <source>More color</source>
+      <translation>Ve&#x10D; barv</translation>
+    </message>
+    <message>
+      <source>Return to pallete</source>
+      <translation>Vrni se na paleti</translation>
+    </message>
+    <message>
+      <source>Images by color</source>
+      <translation>Slike po barvi</translation>
+    </message>
+    <message>
+      <source>Choose color</source>
+      <translation>Izberite barvo</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>&#x160;t zapisov.</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Stran</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/createalbum</name>
+    <message>
+      <source>New album</source>
+      <translation>Novi album</translation>
+    </message>
+    <message>
+      <source>Album name</source>
+      <translation>Ime albuma</translation>
+    </message>
+    <message>
+      <source>Description</source>
+      <translation>Opis</translation>
+    </message>
+    <message>
+      <source>Keywords</source>
+      <translation>Klju&#x10D;ne besede</translation>
+    </message>
+    <message>
+      <source>Create</source>
+      <translation>Ustvarite</translation>
+    </message>
+    <message>
+      <source>Create and upload photos</source>
+      <translation>Ustvarjanje in nalaganje fotografij</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/myfavorites</name>
+    <message>
+      <source>Remove from favorites</source>
+      <translation>Odstrani iz priljubljenih</translation>
+    </message>
+    <message>
+      <source>My favorite images</source>
+      <translation>Moje najljub&#x161;e slike</translation>
+    </message>
+    <message>
+      <source>Remove</source>
+      <translation>Odstrani</translation>
+    </message>
+    <message>
+      <source>Remove Open ID</source>
+      <translation>Odstranite Odpri ID</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastcommented</name>
+    <message>
+      <source>Last commented images</source>
+      <translation>Zadnji komentiral slike</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>&#x160;t zapisov.</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Resolucija</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Stran</translation>
+    </message>
+    <message>
+      <source>Last commented gallery images.</source>
+      <translation>Zadnji komentiral Galerija slik.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lasthits</name>
+    <message>
+      <source>Last viewed images</source>
+      <translation>Zadnje dodane slike</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>&#x160;t zapisov.</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Resolucija</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Stran</translation>
+    </message>
+    <message>
+      <source>Last viewed gallery images.</source>
+      <translation>Zadnji ogledi Galerija slik.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastrated</name>
+    <message>
+      <source>Last rated images</source>
+      <translation>Zadnje ocenjene slike</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>&#x160;t zapisov.</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Resolucija</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Stran</translation>
+    </message>
+    <message>
+      <source>Recently rated images.</source>
+      <translation>Nedavno ocenjene slike.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastsearches</name>
+    <message>
+      <source>Last searches</source>
+      <translation>Zadnja iskanja</translation>
+    </message>
+    <message>
+      <source>No records</source>
+      <translation>&#x160;t evidence</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastuploads</name>
+    <message>
+      <source>Last uploaded images</source>
+      <translation>Zadnje dodane slike</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>&#x160;t zapisov.</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Resolucija</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Stran</translation>
+    </message>
+    <message>
+      <source>Latest additions to gallery.</source>
+      <translation>Najnovej&#x161;e slike v galerijo.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/my_albums_list</name>
+    <message>
+      <source>Edit album</source>
+      <translation>Edit album</translation>
+    </message>
+    <message>
+      <source>Are you sure?</source>
+      <translation>Ali ste prepri&#x10D;ani?</translation>
+    </message>
+    <message>
+      <source>Delete album</source>
+      <translation>Brisanje album</translation>
+    </message>
+    <message>
+      <source>Add images</source>
+      <translation>Dodajanje slik</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/myalbums</name>
+    <message>
+      <source>My albums</source>
+      <translation>Moja albumov</translation>
+    </message>
+    <message>
+      <source>New album</source>
+      <translation>Novi album</translation>
+    </message>
+    <message>
+      <source>Update priority</source>
+      <translation>Posodobitev prednost</translation>
+    </message>
+    <message>
+      <source>You do not have any album.</source>
+      <translation>Nimate koli album.</translation>
+    </message>
+    <message>
+      <source>Create a new album.</source>
+      <translation>Ustvarite nov album.</translation>
+    </message>
+    <message>
+      <source>Account</source>
+      <translation>Ra&#x10D;un</translation>
+    </message>
+    <message>
+      <source>Albums</source>
+      <translation>Albumi</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/mylistalbum</name>
+    <message>
+      <source>No records.</source>
+      <translation>&#x160;t zapisov.</translation>
+    </message>
+    <message>
+      <source>Account</source>
+      <translation>Ra&#x10D;un</translation>
+    </message>
+    <message>
+      <source>Albums</source>
+      <translation>Albumi</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/popular</name>
+    <message>
+      <source>Most popular images</source>
+      <translation>Najbolj priljubljene slike</translation>
+    </message>
+    <message>
+      <source>No records.</source>
+      <translation>&#x160;t zapisov.</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Resolucija</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Stran</translation>
+    </message>
+    <message>
+      <source>All time most popular images.</source>
+      <translation>Ves &#x10D;as najbolj priljubljenih slik.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/popularrecect</name>
+    <message>
+      <source>Most popular images in 24 hours.</source>
+      <translation>Najbolj priljubljeni slik v 24 urah.</translation>
+    </message>
+    <message>
+      <source>There are no images.</source>
+      <translation>Ni slik.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/ratedrecent</name>
+    <message>
+      <source>Top rated images in 24 hours.</source>
+      <translation>Najbolje ocenjene slike v 24 urah.</translation>
+    </message>
+    <message>
+      <source>Top rated images in 24 hours</source>
+      <translation>Najbolje ocenjene slike v 24 urah</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Stran</translation>
+    </message>
+    <message>
+      <source>Top rated images in last 24 hours.</source>
+      <translation>Najbolje ocenjene slike v zadnjih 24 urah.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/sharehtml</name>
+    <message>
+      <source>Link to image</source>
+      <translation>Povezava do slike</translation>
+    </message>
+    <message>
+      <source>Link to image with thumbnail</source>
+      <translation>Povezava do slike z ikonami</translation>
+    </message>
+    <message>
+      <source>Link to image with medium size thumbnail</source>
+      <translation>Povezava do slike z ikonami srednje velikosti</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/sharephpbb</name>
+    <message>
+      <source>Link to image</source>
+      <translation>Povezava do slike</translation>
+    </message>
+    <message>
+      <source>Link to image with thumbnail</source>
+      <translation>Povezava do slike z ikonami</translation>
+    </message>
+    <message>
+      <source>Link to image with medium size thumbnail</source>
+      <translation>Povezava do slike z ikonami srednje velikosti</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/subcategory_list_full</name>
+    <message>
+      <source>albums</source>
+      <translation>albumov</translation>
+    </message>
+    <message>
+      <source>images</source>
+      <translation>slik</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/toprated</name>
+    <message>
+      <source>Top rated images</source>
+      <translation>Najbolje ocenjene slike</translation>
+    </message>
+    <message>
+      <source>No records</source>
+      <translation>&#x160;t evidence</translation>
+    </message>
+    <message>
+      <source>Resolution</source>
+      <translation>Resolucija</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Stran</translation>
+    </message>
+    <message>
+      <source>All time top rated images.</source>
+      <translation>Ves &#x10D;as top ocenjene slike.</translation>
+    </message>
+  </context>
+  <context>
+    <name>kernel/nopermission</name>
+    <message>
+      <source>You do not have permission to access module</source>
+      <translation>Nimate dovoljenja za dostop do modula</translation>
+    </message>
+    <message>
+      <source>and use</source>
+      <translation>in uporabo</translation>
+    </message>
+    <message>
+      <source>function</source>
+      <translation>Funkcija</translation>
+    </message>
+    <message>
+      <source>You do not have permission to access current object</source>
+      <translation>Nimate dovoljenja za dostop do trenutnega objekta</translation>
+    </message>
+  </context>
+  <context>
+    <name>core/paginator</name>
+    <message>
+      <source>Page</source>
+      <translation>Stran</translation>
+    </message>
+    <message>
+      <source>of</source>
+      <translation>od</translation>
+    </message>
+    <message>
+      <source>Found</source>
+      <translation>Najdeno</translation>
+    </message>
+    <message>
+      <source>Previous</source>
+      <translation>Prej&#x161;nja</translation>
+    </message>
+    <message>
+      <source>Go to page</source>
+      <translation>Pojdi na stran</translation>
+    </message>
+    <message>
+      <source>Next</source>
+      <translation>Naslednja</translation>
+    </message>
+  </context>
+  <context>
+    <name>similar/similar</name>
+    <message>
+      <source>Visualy similar images to</source>
+      <translation>Visualy podobne slike</translation>
+    </message>
+    <message>
+      <source>Search for visualy similar images</source>
+      <translation>Iskanje visualy podobne slike</translation>
+    </message>
+    <message>
+      <source>Please enable JavaScript to upload image</source>
+      <translation>Prosimo, omogo&#x10D;ite JavaScript za nalaganje slik</translation>
+    </message>
+    <message>
+      <source>Click to choose image, you can also Drag and Drop file here (Drag and drop only for FF, Chrome).</source>
+      <translation>Kliknite, da izberete sliko, lahko tudi povle&#x10D;ete in spustite datoteke tukaj (povleci in spusti samo za FF, Chrome).</translation>
+    </message>
+    <message>
+      <source>Cancel</source>
+      <translation>Prekli&#x10D;i</translation>
+    </message>
+    <message>
+      <source>Failed</source>
+      <translation>Failed</translation>
+    </message>
+  </context>
+  <context>
+    <name>similar/sketch</name>
+    <message>
+      <source>Search by sketch</source>
+      <translation>Iskanje po skica</translation>
+    </message>
+    <message>
+      <source>Sketch and find images by your sketch</source>
+      <translation>Skica in najti slike z va&#x161;im skica</translation>
+    </message>
+  </context>
+  <context>
+    <name>statistic/view</name>
+    <message>
+      <source>hours</source>
+      <translation>ure</translation>
+    </message>
+    <message>
+      <source>Total pageviews</source>
+      <translation>Skupaj ogledov strani</translation>
+    </message>
+    <message>
+      <source>Total visits</source>
+      <translation>Skupaj obiskov</translation>
+    </message>
+    <message>
+      <source>Time spent</source>
+      <translation>Porabljen &#x10D;as</translation>
+    </message>
+    <message>
+      <source>Last 31 days statistic, data resource - google analytics API</source>
+      <translation>Last 31 dneh statistika, podatki, viri - Google Analytics API</translation>
+    </message>
+    <message>
+      <source>Legend</source>
+      <translation>Legenda</translation>
+    </message>
+    <message>
+      <source>Pageviews</source>
+      <translation>Ogledi strani</translation>
+    </message>
+    <message>
+      <source>Visits</source>
+      <translation>Obiskov</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/mapaccounts</name>
+    <message>
+      <source>Login with facebook</source>
+      <translation>Prijava s Facebook</translation>
+    </message>
+    <message>
+      <source>Map to my account</source>
+      <translation>Zemljevid na moj ra&#x10D;un</translation>
+    </message>
+    <message>
+      <source>my account</source>
+      <translation>moj ra&#x10D;un</translation>
+    </message>
+    <message>
+      <source>Login</source>
+      <translation>Prijava</translation>
+    </message>
+    <message>
+      <source>map to my account</source>
+      <translation>map na moj ra&#x10D;un</translation>
+    </message>
+    <message>
+      <source>Incorrect login or password</source>
+      <translation>Nepravilno prijavo ali geslo</translation>
+    </message>
+    <message>
+      <source>Username</source>
+      <translation>Uporabni&#x161;ko ime</translation>
+    </message>
+    <message>
+      <source>Password</source>
+      <translation>Geslo</translation>
+    </message>
+    <message>
+      <source>OR</source>
+      <translation>ALI</translation>
+    </message>
+    <message>
+      <source>create account</source>
+      <translation>create account</translation>
+    </message>
+    <message>
+      <source>Next</source>
+      <translation>Naslednja</translation>
+    </message>
+    <message>
+      <source>Open ID</source>
+      <translation>Odpri ID</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/forgotpassword</name>
+    <message>
+      <source>Password remind</source>
+      <translation>Geslo spomnil</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Restore password</source>
+      <translation>Obnovi geslo</translation>
+    </message>
+    <message>
+      <source>Order confirmed</source>
+      <translation>Da bi potrdili</translation>
+    </message>
+    <message>
+      <source>Credits order confirmed</source>
+      <translation>Krediti bi potrdili</translation>
+    </message>
+    <message>
+      <source>Wrong e-mail address!</source>
+      <translation>Napa&#x10D;en e-po&#x161;tni naslov!</translation>
+    </message>
+    <message>
+      <source>Click this link and to You will be send new password</source>
+      <translation>Kliknite to povezavo in da boste poslali novo geslo</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/forgotpasswordsent</name>
+    <message>
+      <source>Password remind</source>
+      <translation>Geslo spomnil</translation>
+    </message>
+    <message>
+      <source>E-mail send. Click link in email and to You will be send out new password.</source>
+      <translation>E-mail po&#x161;lji. Kliknite povezavo v e-po&#x161;te in da boste lahko poslali novo geslo.</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/index</name>
+    <message>
+      <source>User home</source>
+      <translation>Uporabni&#x161;ko doma</translation>
+    </message>
+    <message>
+      <source>Welcome. Here you can:</source>
+      <translation>Dobrodo&#x161;li. Tukaj lahko:</translation>
+    </message>
+    <message>
+      <source>Edit personal settings</source>
+      <translation>Urejanje osebnih nastavitev</translation>
+    </message>
+    <message>
+      <source>Manage personal albums</source>
+      <translation>Upravljanje osebnih albumov</translation>
+    </message>
+    <message>
+      <source>My account</source>
+      <translation>Moj ra&#x10D;un</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/profile</name>
+    <message>
+      <source>User profile</source>
+      <translation>Podatki o uporabniku</translation>
+    </message>
+    <message>
+      <source>Name and surname</source>
+      <translation>Ime in priimek</translation>
+    </message>
+    <message>
+      <source>Website</source>
+      <translation>Spletna stran</translation>
+    </message>
+    <message>
+      <source>Introduction</source>
+      <translation>Uvod</translation>
+    </message>
+    <message>
+      <source>Last updated albums</source>
+      <translation>Zadnji dodani albumi</translation>
+    </message>
+    <message>
+      <source>Last uploaded images</source>
+      <translation>Zadnje dodane slike</translation>
+    </message>
+  </context>
+  <context>
+    <name>user/remindpassword</name>
+    <message>
+      <source>New password</source>
+      <translation>Novo geslo</translation>
+    </message>
+    <message>
+      <source>Hash not found or was used already</source>
+      <translation>Hash ni bilo mogo&#x10D;e najti ali pa je bila &#x17E;e uporabljena</translation>
+    </message>
+    <message>
+      <source>Password remind - new password</source>
+      <translation>Geslo spomni - novo geslo</translation>
+    </message>
+    <message>
+      <source>New password:</source>
+      <translation>Novo geslo:</translation>
+    </message>
+    <message>
+      <source>New password has beend send to your email.</source>
+      <translation>Novo geslo je beend po&#x161;ljite na e-po&#x161;to.</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/basket</name>
+    <message>
+      <source>Basket</source>
+      <translation>Basket</translation>
+    </message>
+    <message>
+      <source>Image name</source>
+      <translation>Image Ime</translation>
+    </message>
+    <message>
+      <source>Version</source>
+      <translation>Version</translation>
+    </message>
+    <message>
+      <source>Image size</source>
+      <translation>Velikost slike</translation>
+    </message>
+    <message>
+      <source>Format</source>
+      <translation>Format</translation>
+    </message>
+    <message>
+      <source>Price</source>
+      <translation>Cena</translation>
+    </message>
+    <message>
+      <source>Credits</source>
+      <translation>Credits</translation>
+    </message>
+    <message>
+      <source>Remove from basket</source>
+      <translation>Odstrani iz ko&#x161;arice</translation>
+    </message>
+    <message>
+      <source>Choose payment option</source>
+      <translation>Izberite mo&#x17E;nost pla&#x10D;ila</translation>
+    </message>
+    <message>
+      <source>In order to checkout atlest one item have to be selected.</source>
+      <translation>Da bi checkout atlest eno postavko je treba izbrati.</translation>
+    </message>
+    <message>
+      <source>In order to checkout you have to</source>
+      <translation>Da bi checkout morate</translation>
+    </message>
+    <message>
+      <source>sign in</source>
+      <translation>prijavite v</translation>
+    </message>
+    <message>
+      <source>or</source>
+      <translation>ali</translation>
+    </message>
+    <message>
+      <source>login</source>
+      <translation>Prijava</translation>
+    </message>
+    <message>
+      <source>if you have already created an account</source>
+      <translation>&#x10C;e ste &#x17E;e ustvarili ra&#x10D;un</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/buycredits</name>
+    <message>
+      <source>Buy credits</source>
+      <translation>Kupi kredit</translation>
+    </message>
+    <message>
+      <source>How many credits do want to buy?</source>
+      <translation>Koliko kreditov ne &#x17E;elite kupiti?</translation>
+    </message>
+    <message>
+      <source>Choose payment method</source>
+      <translation>Izberite na&#x10D;in pla&#x10D;ila</translation>
+    </message>
+  </context>
+  <context>
+    <name>credits_handler/accept</name>
+    <message>
+      <source>Order succesfull</source>
+      <translation>Vrstni red uspe&#x161;na</translation>
+    </message>
+    <message>
+      <source>Payment was succesfull</source>
+      <translation>Pla&#x10D;ilo je bila uspe&#x161;na</translation>
+    </message>
+  </context>
+  <context>
+    <name>credits_handler/process</name>
+    <message>
+      <source>Checkout</source>
+      <translation>Naro&#x10D;ilo</translation>
+    </message>
+    <message>
+      <source>Confirm payment</source>
+      <translation>Potrdi pla&#x10D;ila</translation>
+    </message>
+    <message>
+      <source>Not enouth credits to checkout</source>
+      <translation>Ne enouth kreditov na blagajno</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/cancel</name>
+    <message>
+      <source>Payment canceled</source>
+      <translation>Pla&#x10D;ilo odpovedana</translation>
+    </message>
+    <message>
+      <source>Paypal payment was canceled.</source>
+      <translation>Paypal pla&#x10D;ila je bil odpovedan.</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/error</name>
+    <message>
+      <source>Error</source>
+      <translation>Napaka</translation>
+    </message>
+    <message>
+      <source>Execution was terminated unexpectedly.</source>
+      <translation>Izvedba je bila nepri&#x10D;akovano prekinjena.</translation>
+    </message>
+  </context>
+  <context>
+    <name>paypal_handler/process</name>
+    <message>
+      <source>Checkout using Paypal</source>
+      <translation>Checkout z uporabo Paypal</translation>
+    </message>
+    <message>
+      <source>Buyer\'s Email</source>
+      <translation>Kupec \ &amp;#39;s Email</translation>
+    </message>
+    <message>
+      <source>Amount</source>
+      <translation>Znesek</translation>
+    </message>
+    <message>
+      <source>Currency</source>
+      <translation>Gotovina</translation>
+    </message>
+    <message>
+      <source>Credits</source>
+      <translation>Credits</translation>
+    </message>
+  </context>
+  <context>
+    <name>paypal_handler/review</name>
+    <message>
+      <source>Order payment confirmation</source>
+      <translation>Pla&#x10D;ilni nalog, potrdilo</translation>
+    </message>
+    <message>
+      <source>Order amount</source>
+      <translation>Znesek naro&#x10D;ila</translation>
+    </message>
+    <message>
+      <source>Confirm payment</source>
+      <translation>Potrdi pla&#x10D;ila</translation>
+    </message>
+    <message>
+      <source>Thank you for your payment!</source>
+      <translation>Zahvaljujemo se vam za pla&#x10D;ilo!</translation>
+    </message>
+    <message>
+      <source>credits</source>
+      <translation>krediti</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/mycredits</name>
+    <message>
+      <source>My credits balanse</source>
+      <translation>Moja kreditov balanse</translation>
+    </message>
+    <message>
+      <source>You have</source>
+      <translation>Mora&#x161;</translation>
+    </message>
+    <message>
+      <source>in your account</source>
+      <translation>v svoj ra&#x10D;un</translation>
+    </message>
+    <message>
+      <source>Buy credits</source>
+      <translation>Kupi kredit</translation>
+    </message>
+    <message>
+      <source>My credits</source>
+      <translation>Moja krediti</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/myorders</name>
+    <message>
+      <source>My credits orders</source>
+      <translation>Moja kreditov naro&#x10D;il</translation>
+    </message>
+    <message>
+      <source>Date</source>
+      <translation>Datum</translation>
+    </message>
+    <message>
+      <source>Order price</source>
+      <translation>Da cena</translation>
+    </message>
+    <message>
+      <source>Order credits</source>
+      <translation>Da kreditov</translation>
+    </message>
+    <message>
+      <source>Order status</source>
+      <translation>Status naro&#x10D;ila</translation>
+    </message>
+    <message>
+      <source>Payed</source>
+      <translation>Pla&#x10D;a</translation>
+    </message>
+    <message>
+      <source>Confirmed</source>
+      <translation>Potrjen</translation>
+    </message>
+    <message>
+      <source>My orders</source>
+      <translation>Moja naro&#x10D;ila</translation>
+    </message>
+    <message>
+      <source>Order view</source>
+      <translation>Vrstni red pogled</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/orderview</name>
+    <message>
+      <source>Order view</source>
+      <translation>Vrstni red pogled</translation>
+    </message>
+    <message>
+      <source>Order time</source>
+      <translation>Da bi &#x10D;as</translation>
+    </message>
+    <message>
+      <source>Order price</source>
+      <translation>Da cena</translation>
+    </message>
+    <message>
+      <source>Order credits</source>
+      <translation>Da kreditov</translation>
+    </message>
+    <message>
+      <source>Order status</source>
+      <translation>Status naro&#x10D;ila</translation>
+    </message>
+    <message>
+      <source>Payed</source>
+      <translation>Pla&#x10D;a</translation>
+    </message>
+    <message>
+      <source>Confirmed</source>
+      <translation>Potrjen</translation>
+    </message>
+    <message>
+      <source>Ordered items</source>
+      <translation>Naro&#x10D;eno predmetov</translation>
+    </message>
+    <message>
+      <source>Image name</source>
+      <translation>Image Ime</translation>
+    </message>
+    <message>
+      <source>Version</source>
+      <translation>Version</translation>
+    </message>
+    <message>
+      <source>Image size</source>
+      <translation>Velikost slike</translation>
+    </message>
+    <message>
+      <source>Format</source>
+      <translation>Format</translation>
+    </message>
+    <message>
+      <source>Price</source>
+      <translation>Cena</translation>
+    </message>
+    <message>
+      <source>Download count</source>
+      <translation>Download &#x161;tetje</translation>
+    </message>
+    <message>
+      <source>Downloads left</source>
+      <translation>Downloads levo</translation>
+    </message>
+    <message>
+      <source>Credits</source>
+      <translation>Credits</translation>
+    </message>
+    <message>
+      <source>Download image</source>
+      <translation>Prenos slike</translation>
+    </message>
+    <message>
+      <source>downloads left</source>
+      <translation>prenosi levo</translation>
+    </message>
+    <message>
+      <source>No downloads available</source>
+      <translation>&#x160;t prenosi na voljo</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/paymentoption</name>
+    <message>
+      <source>Payment option</source>
+      <translation>Mo&#x17E;nost pla&#x10D;ila</translation>
+    </message>
+    <message>
+      <source>E-mail</source>
+      <translation>E-mail</translation>
+    </message>
+    <message>
+      <source>Choose payment method</source>
+      <translation>Izberite na&#x10D;in pla&#x10D;ila</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/paymentoptioncredit</name>
+    <message>
+      <source>Payment option</source>
+      <translation>Mo&#x17E;nost pla&#x10D;ila</translation>
+    </message>
+    <message>
+      <source>Continue</source>
+      <translation>Nadaljuj</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/category</name>
+    <message>
+      <source>Root category</source>
+      <translation>Root kategorijo</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Stran</translation>
+    </message>
+    <message>
+      <source>Forum</source>
+      <translation>Forum</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/category</name>
+    <message>
+      <source>Please enter topic name!</source>
+      <translation>Prosimo, vnesite ime teme!</translation>
+    </message>
+    <message>
+      <source>Please enter message!</source>
+      <translation>Vnesite sporo&#x10D;ilo!</translation>
+    </message>
+    <message>
+      <source>Please choose category!</source>
+      <translation>Izberite kategorijo!</translation>
+    </message>
+    <message>
+      <source>Not parent category!</source>
+      <translation>Ne parent category!</translation>
+    </message>
+    <message>
+      <source>Invalid category!</source>
+      <translation>Neveljavna kategoriji!</translation>
+    </message>
+    <message>
+      <source>Forum</source>
+      <translation>Forum</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/createcategory</name>
+    <message>
+      <source>Please enter category name!</source>
+      <translation>Prosimo, vnesite ime kategorije!</translation>
+    </message>
+    <message>
+      <source>Home</source>
+      <translation>Domov</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/editmessage</name>
+    <message>
+      <source>Please enter message!</source>
+      <translation>Vnesite sporo&#x10D;ilo!</translation>
+    </message>
+    <message>
+      <source>Forum</source>
+      <translation>Forum</translation>
+    </message>
+    <message>
+      <source>Message edit</source>
+      <translation>Sporo&#x10D;ilo edit</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/edittopic</name>
+    <message>
+      <source>Please enter topic name!</source>
+      <translation>Prosimo, vnesite ime teme!</translation>
+    </message>
+    <message>
+      <source>Please enter topic status!</source>
+      <translation>Vnesite temo stanje!</translation>
+    </message>
+    <message>
+      <source>Forum</source>
+      <translation>Forum</translation>
+    </message>
+    <message>
+      <source>Topic edit</source>
+      <translation>Topic edit</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/report</name>
+    <message>
+      <source>Please enter message!</source>
+      <translation>Vnesite sporo&#x10D;ilo!</translation>
+    </message>
+    <message>
+      <source>Forum message report</source>
+      <translation>Forum sporo&#x10D;ilo poro&#x10D;ila</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/searchrss</name>
+    <message>
+      <source>Search results</source>
+      <translation>Rezultati iskanja</translation>
+    </message>
+    <message>
+      <source>Search</source>
+      <translation>Iskanje</translation>
+    </message>
+    <message>
+      <source>Search RSS by keyword</source>
+      <translation>Iskanje po klju&#x10D;nih besedah &#x200B;&#x200B;RSS</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>Prika&#x17E;i sliko</translation>
+    </message>
+  </context>
+  <context>
+    <name>forum/searchrss</name>
+    <message>
+      <source>Search</source>
+      <translation>Iskanje</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/albumeditadmin</name>
+    <message>
+      <source>Root category</source>
+      <translation>Root kategorijo</translation>
+    </message>
+    <message>
+      <source>Add images</source>
+      <translation>Dodajanje slik</translation>
+    </message>
+    <message>
+      <source>Album edit</source>
+      <translation>Album edit</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/addvote</name>
+    <message>
+      <source>Thank you for your vote</source>
+      <translation>Hvala za va&#x161; glas</translation>
+    </message>
+    <message>
+      <source>You are not allowed to vote!</source>
+      <translation>Nimate dovoljenja za glasovanje!</translation>
+    </message>
+    <message>
+      <source>You have already voted!</source>
+      <translation>Ste &#x17E;e glasovali!</translation>
+    </message>
+    <message>
+      <source>Vote deducted!</source>
+      <translation>Glasujte od&#x161;teti!</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/albumrss</name>
+    <message>
+      <source>Last uploaded images to album</source>
+      <translation>Zadnje dodane slike v album</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>Prika&#x17E;i sliko</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lasthitsrss</name>
+    <message>
+      <source>watched</source>
+      <translation>gledal</translation>
+    </message>
+    <message>
+      <source>Last viewed images</source>
+      <translation>Zadnje dodane slike</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>Prika&#x17E;i sliko</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastcommentedrss</name>
+    <message>
+      <source>Last commented images</source>
+      <translation>Zadnji komentiral slike</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>Prika&#x17E;i sliko</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastratedrss</name>
+    <message>
+      <source>Last rated images</source>
+      <translation>Zadnje ocenjene slike</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>Prika&#x17E;i sliko</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastuploadsrss</name>
+    <message>
+      <source>Last uploaded images</source>
+      <translation>Zadnje dodane slike</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>Prika&#x17E;i sliko</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/lastuploadstoalbums</name>
+    <message>
+      <source>Last uploads to albums</source>
+      <translation>Zadnje dodane slike v albume</translation>
+    </message>
+    <message>
+      <source>Recently updated albums</source>
+      <translation>Nedavno dodani albumi</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/movebyresolution</name>
+    <message>
+      <source>Move by resolution</source>
+      <translation>Premikanje po sklepu</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/popularrecent</name>
+    <message>
+      <source>Most popular images in 24 hours</source>
+      <translation>Najbolj priljubljeni slik v 24 urah</translation>
+    </message>
+    <message>
+      <source>Page</source>
+      <translation>Stran</translation>
+    </message>
+    <message>
+      <source>Most popular images in last 24 hours.</source>
+      <translation>Najbolj priljubljeni slike v zadnjih 24 urah.</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/popularrss</name>
+    <message>
+      <source>Most popular images</source>
+      <translation>Najbolj priljubljene slike</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/tagphoto</name>
+    <message>
+      <source>Thank you a lot :)</source>
+      <translation>Hvala veliko:)</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/topratedrss</name>
+    <message>
+      <source>Top rated images</source>
+      <translation>Najbolje ocenjene slike</translation>
+    </message>
+    <message>
+      <source>View image</source>
+      <translation>Prika&#x17E;i sliko</translation>
+    </message>
+  </context>
+  <context>
+    <name>gallery/updateimage</name>
+    <message>
+      <source>Image updated</source>
+      <translation>Posodobljeno Image</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/imagevariation</name>
+    <message>
+      <source>Basket</source>
+      <translation>Basket</translation>
+    </message>
+    <message>
+      <source>Payment option</source>
+      <translation>Mo&#x17E;nost pla&#x10D;ila</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/imagevariationform</name>
+    <message>
+      <source>Credits amount must be greater than 0!</source>
+      <translation>Krediti znesek mora biti ve&#x10D;ji od 0!</translation>
+    </message>
+  </context>
+  <context>
+    <name>shop/settingedit</name>
+    <message>
+      <source>Edit</source>
+      <translation>Urejanje</translation>
+    </message>
+  </context>
+  <context>
+    <name>similar/image</name>
+    <message>
+      <source>Similar images to</source>
+      <translation>Podobne slike</translation>
+    </message>
+    <message>
+      <source>Search for visualy similar images</source>
+      <translation>Iskanje visualy podobne slike</translation>
+    </message>
+  </context>
+  <context>
+    <name>system/index</name>
+    <message>
+      <source>System administration panel</source>
+      <translation>Sistem upravljanja plo&#x161;&#x10D;a</translation>
+    </message>
+  </context>
+</TS>

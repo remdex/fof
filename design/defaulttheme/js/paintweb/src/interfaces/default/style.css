@@ -1,0 +1,1094 @@
+/*
+ * Copyright (C) 2008, 2009 Mihai Şucan
+ *
+ * This file is part of PaintWeb.
+ *
+ * PaintWeb is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * PaintWeb is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with PaintWeb.  If not, see <http://www.gnu.org/licenses/>.
+ *
+ * $URL: http://code.google.com/p/paintweb $
+ * $Date: 2009-11-08 13:15:04 +0200 $
+ */
+
+.paintweb_placeholder {
+  background: #fff;
+  color: #000;
+  display: block !important;
+  font: 12px sans-serif;
+  min-width: 535px
+}
+
+.paintweb_placeholder label { cursor: pointer }
+
+.paintweb_placeholder input[type=text], .paintweb_placeholder input[type=password], .paintweb_placeholder input[type=number] { border: 1px solid #000 }
+
+.paintweb_placeholder a:focus { outline: 1px solid #888 }
+
+.paintweb_appTitle { display: none }
+
+.paintweb_viewport {
+  background: #999;
+  border: 1px solid #000;
+  height: 400px;
+  min-height: 150px;
+  min-width: 535px;
+  overflow: auto;
+  position: relative
+}
+
+.paintweb_canvasContainer {
+  background: url('images/checkers-big.png');
+  border: 1px solid #000;
+  overflow: hidden;
+  position: relative
+}
+
+.paintweb_layerCanvas, .paintweb_bufferCanvas {
+  cursor: crosshair;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%
+}
+
+.paintweb_canvasResizer {
+  background: #000;
+  bottom: -5px;
+  cursor: se-resize;
+  height: 5px;
+  overflow: hidden;
+  position: absolute;
+  right: -5px;
+  text-indent: 6px;
+  width: 5px
+}
+
+/* If we use display:none Opera will not properly determine the image 
+ * width/height. */
+.paintweb_insertimgElement {
+  position: absolute;
+  visibility: hidden
+}
+
+.paintweb_mousekeysPointer {
+  background: #000;
+  border: 1px solid #fff;
+  height: 4px; 
+  position: absolute;
+  width: 4px
+}
+
+.paintweb_mousekeysPointer.paintweb_mouseDown {
+  background: #0ff;
+  border: 1px solid #000
+}
+
+.paintweb_selectionMarquee {
+  border: 3px dashed #333;
+  outline: 1px dashed #fff;
+  opacity: 0.7;
+  position: absolute
+}
+
+.paintweb_tabPanel {
+  background: #eee;
+  position: relative;
+}
+
+.paintweb_tab {
+  position: relative;
+}
+
+.paintweb_tabsList {
+  background: #d7d7d7;
+  border-top: 1px solid #9e9e9e;
+  list-style: none;
+  margin: 0;
+  padding: 0 0 6px 0;
+  clear: both;
+}
+
+.paintweb_tabsList li {
+  display: inline;
+}
+
+.paintweb_tabsList a {
+  background: #e4e4e4;
+  border-bottom: 1px solid #999;
+  border-right: 1px solid #acacac;
+  color: #000;
+  float: left;
+  padding: 4px 8px;
+  text-decoration: none
+}
+
+.paintweb_tabActive a {
+  background: #eee !important;
+  padding-top: 5px !important;
+  padding-bottom: 6px !important;
+  margin-top: -1px
+}
+
+.paintweb_tabsList a:hover, .paintweb_tabsList a:focus {
+  background: #fff;
+  color: #000
+}
+
+.paintweb_tools {
+  border-left: 1px solid #d6d6d6;
+  border-top: 1px solid #d6d6d6;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  width: 416px;
+}
+
+/* .clearfix */
+.paintweb_statusbar:after, .paintweb_tools:after, .paintweb_tabsList:after, .paintweb_colormixer_hexalpha:after, .paintweb_main_selection:after {
+  content: ".";
+  display: block;
+  visibility: hidden;
+  height: 0;
+  clear: both;
+}
+
+.paintweb_tabPanel_main {
+  border: 1px solid #9e9e9e;
+  border-width: 1px 1px 0 1px;
+}
+
+.paintweb_tool, .paintweb_command, .paintweb_icon {
+  background: #f2f2f2;
+  border: 1px solid #d6d6d6;
+}
+
+.paintweb_tools li {
+  border-top: 0;
+  border-left: 0;
+  float: left
+}
+
+.paintweb_tool a, .paintweb_command a, .paintweb_icon a {
+  background-repeat: no-repeat;
+  color: #000;
+  display: block;
+  height: 31px;
+  overflow: hidden;
+  text-indent: 33px;
+  width: 31px;
+  white-space: nowrap
+}
+
+.paintweb_tool:hover, .paintweb_tool:focus,
+.paintweb_command:hover, .paintweb_command:focus,
+.paintweb_icon:hover, .paintweb_icon:focus { background: #fff }
+
+.paintweb_tool a:hover, .paintweb_tool a:focus, .paintweb_command a:hover, .paintweb_command a:focus, .paintweb_icon a:hover, .paintweb_icon a:focus {
+  color: #000;
+  opacity: 0.5
+}
+
+.paintweb_toolActive, .paintweb_configActive {
+  background-color: #929292;
+  color: #fff
+}
+
+.paintweb_tool.paintweb_disabled, .paintweb_command.paintweb_disabled, .paintweb_icon.paintweb_disabled {
+  background-color: transparent
+}
+
+.paintweb_tool.paintweb_disabled a, .paintweb_command.paintweb_disabled a, .paintweb_icon.paintweb_disabled a {
+  cursor: default;
+  opacity: 0.4
+}
+
+.paintweb_toolsWrap {
+  clear: left;
+  height: 0;
+}
+
+.paintweb_toolSeparator {
+  border: 1px solid #d6d6d6;
+  cursor: default;
+  float: left;
+  height: 31px;
+  overflow: hidden;
+  width: 31px
+}
+
+.paintweb_statusbar {
+  background: #eee;
+  border: 1px solid #9e9e9e;
+  border-width: 0 1px 1px 1px;
+  position: relative
+}
+
+.paintweb_imageSize {
+  background: #cbcbcb;
+  border-right: 1px solid #a3a3a3;
+  color: #333;
+  font-size: 0.9em;
+  height: 100%;
+  left: 0;
+  line-height: 26px;
+  margin: 0;
+  padding: 0 8px;
+  position: absolute;
+  top: 0;
+  vertical-align: middle
+}
+
+.paintweb_statusMessage {
+  margin: 0 11em 0 6em;
+  padding: 5px 0
+}
+
+.paintweb_statusZoom {
+  background: #cbcbcb url('icons/zoom.png') no-repeat;
+  border: 1px solid #a3a3a3;
+  border-width: 0 1px;
+  float: right;
+  font-size: 0.9em;
+  height: 100%;
+  line-height: 28px;
+  margin: 0;
+  padding: 0 8px 0 31px;
+  position: absolute;
+  right: 20px;
+  top: 0;
+  vertical-align: middle
+}
+
+.paintweb_imageZoom { width: 4em }
+
+.paintweb_viewportResizer {
+  background: #999;
+  border: 4px solid #fff;
+  border-width: 4px 0 0 4px;
+  bottom: 0;
+  cursor: se-resize;
+  height: 10px;
+  margin: 0;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  right: 0;
+  text-indent: 15px;
+  width: 10px
+}
+
+.paintweb_viewportResizer:hover, .paintweb_viewportResizer:focus {
+  background: #fff;
+  border-color: #999
+}
+
+.paintweb_main_line,
+.paintweb_main_line_bcurve,
+.paintweb_main_line_ellipse,
+.paintweb_main_line_eraser,
+.paintweb_main_line_pencil,
+.paintweb_main_line_polygon,
+.paintweb_main_line_rectangle,
+.paintweb_main_line_text,
+.paintweb_main_main,
+.paintweb_main_selection,
+.paintweb_main_shadow,
+.paintweb_main_text { margin: 5px }
+
+.paintweb_opt_lineWidth, .paintweb_opt_miterLimit {
+  background: #f2f2f2;
+  border: 1px solid #d6d6d6;
+  line-height: 31px;
+  margin: 0;
+  padding: 0 0 0 5px;
+  position: relative;
+  white-space: nowrap;
+  width: 11em
+}
+
+.paintweb_opt_miterLimit { border-top: 0 }
+
+.paintweb_cfg_line_lineWidth, .paintweb_cfg_line_miterLimit {
+  height: 1.4em;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  right: 5px;
+  top: 5px;
+  width: 4em
+}
+
+.paintweb_cfg_line_lineCap, .paintweb_cfg_line_lineJoin {
+  background: #f2f2f2;
+  border: 1px solid #d6d6d6;
+  left: 12.5em;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  padding: 0 96px 0 5px;
+  line-height: 31px;
+  width: 5em
+}
+
+.paintweb_cfg_line_lineJoin { top: 32px }
+
+.paintweb_cfg_line_lineCap p, .paintweb_cfg_line_lineJoin p {
+  margin: 0;
+  padding: 0;
+}
+
+.paintweb_cfg_line_lineCap div, .paintweb_cfg_line_lineJoin div {
+  border-bottom: 0;
+  border-right: 0;
+  border-top: 0;
+  position: absolute;
+  top: 0
+}
+
+.paintweb_lineJoin_miter, .paintweb_lineCap_butt { right: 64px }
+.paintweb_lineJoin_round, .paintweb_lineCap_square { right: 32px }
+.paintweb_lineJoin_bevel, .paintweb_lineCap_round { right: 0 }
+
+.paintweb_cfg_shapeType {
+  background: #f2f2f2;
+  border: 1px solid #d6d6d6;
+  left: 28em;
+  position: absolute;
+  top: 0;
+  white-space: nowrap
+}
+
+.paintweb_cfg_shapeType p {
+  line-height: 31px;
+  margin: 0;
+  padding: 0 5px
+}
+
+.paintweb_cfg_shapeType p + div { border-left: 0 }
+
+.paintweb_cfg_shapeType div {
+  border-bottom: 0;
+  border-right: 0;
+  float: left
+}
+
+.paintweb_main_line_bcurve .paintweb_cfg_line_lineCap,
+.paintweb_main_line_rectangle .paintweb_cfg_line_lineJoin {
+  border-top: 0;
+  left: 0;
+  padding-right: 0;
+  position: relative;
+  top: 0;
+  width: 14em
+}
+
+.paintweb_main_line_bcurve .paintweb_opt_lineWidth,
+.paintweb_main_line_rectangle .paintweb_opt_lineWidth { width: 14em }
+
+.paintweb_main_line_rectangle .paintweb_cfg_shapeType,
+.paintweb_main_line_bcurve .paintweb_cfg_shapeType { left: 15.6em }
+
+.paintweb_main_line_polygon .paintweb_opt_lineWidth,
+.paintweb_main_line_polygon .paintweb_opt_miterLimit { width: 12em }
+
+.paintweb_main_line_polygon .paintweb_cfg_line_lineCap,
+.paintweb_main_line_polygon .paintweb_cfg_line_lineJoin { left: 13.5em }
+
+.paintweb_main_line_polygon .paintweb_cfg_shapeType { left: 28.2em }
+
+.paintweb_main_line_text .paintweb_opt_lineWidth,
+.paintweb_main_line_ellipse .paintweb_opt_lineWidth { width: 15em }
+
+.paintweb_main_line_text .paintweb_cfg_shapeType,
+.paintweb_main_line_ellipse .paintweb_cfg_shapeType {
+  border-top: 0;
+  left: 0;
+  padding: 0 9em 0 5px;
+  position: relative;
+  top: 0;
+  width: 6em
+}
+
+.paintweb_main_line_text .paintweb_cfg_shapeType p,
+.paintweb_main_line_ellipse .paintweb_cfg_shapeType p { padding: 0 }
+
+.paintweb_main_line_text .paintweb_icon,
+.paintweb_main_line_ellipse .paintweb_icon {
+  border-left: 1px solid #d6d6d6;
+  border-right: 0;
+  border-top: 0;
+  float: none;
+  position: absolute;
+  top: 0
+}
+
+.paintweb_main_line_text .paintweb_shapeType_stroke,
+.paintweb_main_line_ellipse .paintweb_shapeType_stroke { right: 0 }
+
+.paintweb_main_line_text .paintweb_shapeType_fill,
+.paintweb_main_line_ellipse .paintweb_shapeType_fill { right: 32px }
+
+.paintweb_main_line_text .paintweb_shapeType_both,
+.paintweb_main_line_ellipse .paintweb_shapeType_both { right: 64px }
+
+
+.paintweb_main_shadow p {
+  background: #f2f2f2;
+  border: 1px solid #d6d6d6;
+  line-height: 31px;
+  margin: 0;
+  padding: 0 5px;
+  position: relative;
+  vertical-align: middle;
+  white-space: nowrap;
+  width: 11em
+}
+
+.paintweb_main_shadow input { vertical-align: middle }
+
+.paintweb_cfg_shadow_shadowBlur, .paintweb_cfg_shadow_shadowOffsetX, .paintweb_cfg_shadow_shadowOffsetY {
+  height: 1.5em;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  right: 5px;
+  top: 5px;
+  width: 4em
+}
+
+.paintweb_opt_shadowOffsetX {
+  left: 13em;
+  position: absolute !important;
+  top: 0
+}
+
+.paintweb_opt_shadowOffsetY {
+  left: 13em;
+  position: absolute !important;
+  top: 31px
+}
+
+.paintweb_opt_shadowColor { border-top: 0 !important }
+
+.paintweb_shadow_shadowColor {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+}
+
+.paintweb_opt_shadowBlur {
+  left: 26em;
+  position: absolute !important;
+  top: 0;
+  width: 9em !important
+}
+
+.paintweb_main_selection .paintweb_command {
+  float: left;
+  margin: 0;
+  padding: 0
+}
+
+.paintweb_main_selection .paintweb_cmd_selectionCopy,
+.paintweb_main_selection .paintweb_cmd_clipboardPaste { border-left: 0 }
+
+.paintweb_cmd_selectionCrop {
+  border-top: 0;
+  clear: left
+}
+
+.paintweb_cmd_selectionDelete, .paintweb_cmd_selectionFill {
+  border-left: 0;
+  border-top: 0
+}
+
+.paintweb_opt_selectionTransparent, .paintweb_opt_selectionTransform {
+  background: #f2f2f2;
+  border: 1px solid #d6d6d6;
+  left: 110px;
+  line-height: 31px;
+  margin: 0;
+  padding: 0 5px;
+  position: absolute;
+  top: 0;
+  vertical-align: middle;
+  width: 15em
+}
+
+.paintweb_opt_selectionTransform {
+  border-top: 0;
+  top: 33px
+}
+
+.paintweb_opt_fontFamily label, .paintweb_opt_fontSize label { display: none }
+
+.paintweb_opt_fontFamily, .paintweb_opt_fontSize {
+  float: left;
+  background: #f2f2f2;
+  border: 1px solid #d6d6d6;
+  border-bottom: 0;
+  line-height: 31px;
+  margin: 0;
+  padding: 0 5px;
+  vertical-align: middle;
+}
+
+.paintweb_opt_fontFamily, .paintweb_cfg_text_fontFamily { width: 117px }
+
+.paintweb_opt_fontSize {
+  background-image: url('icons/text-size.png');
+  background-repeat: no-repeat;
+  width: 57px;
+  padding-left: 33px;
+  border-left: 0;
+}
+
+
+.paintweb_cfg_text_fontSize { width: 53px }
+
+.paintweb_opt_textString {
+  background: #f2f2f2;
+  border: 1px solid #d6d6d6;
+  height: 55px;
+  left: 224px;
+  margin: 0;
+  padding: 4px 5px;
+  position: absolute;
+  top: 0
+}
+
+.paintweb_textString {
+  display: block;
+  height: 32px;
+  width: 160px
+}
+
+.paintweb_main_text .paintweb_icon {
+  border-left: 0;
+  float: left
+}
+
+.paintweb_cfg_text_bold {
+  border-left: 1px solid #d6d6d6;
+  clear: left;
+  margin-bottom: 5px
+}
+
+.paintweb_cfg_text_textAlign p {
+  border: 1px solid #d6d6d6;
+  border-left: 0;
+  float: left;
+  height: 0;
+  margin: 0;
+  overflow: hidden;
+  padding: 31px 0 0 0;
+  text-indent: 65px;
+  white-space: nowrap;
+  width: 64px
+}
+
+.paintweb_floatingPanel {
+  -moz-border-radius: 0 0 15px 15px;
+  -moz-box-shadow: rgba(0, 0, 0, 0.2) 5px 5px 10px;
+  -webkit-border-bottom-left-radius: 15px;
+  -webkit-border-bottom-right-radius: 15px;
+  -webkit-box-shadow: rgba(0, 0, 0, 0.2) 5px 5px 10px;
+  background: #eee;
+  border: 1px solid #a2a2a2;
+  position: absolute
+}
+
+.paintweb_floatingPanel_title {
+  background: #d2cfcb url('images/floatingPanel-title.png') repeat-x;
+  border-bottom: 1px solid #a2a2a2;
+  color: #555;
+  cursor: pointer;
+  font-size: 1em;
+  font-weight: bold;
+  line-height: 20px;
+  margin: 0;
+  padding: 0 10px;
+  vertical-align: middle
+}
+
+.paintweb_floatingPanel_minimize, .paintweb_floatingPanel_restore, .paintweb_floatingPanel_close {
+  border-left: 1px solid #a2a2a2;
+  height: 0;
+  opacity: 0.4;
+  overflow: hidden;
+  padding-top: 20px;
+  position: absolute;
+  text-indent: 22px;
+  top: 0;
+  white-space: nowrap;
+  width: 21px
+}
+
+.paintweb_floatingPanel_minimize:hover, .paintweb_floatingPanel_restore:hover, .paintweb_floatingPanel_close:hover, 
+.paintweb_floatingPanel_minimize:focus, .paintweb_floatingPanel_restore:focus, .paintweb_floatingPanel_close:focus { opacity: 1 }
+
+.paintweb_floatingPanel_minimize {
+  background: url('images/floatingPanel-minimize.png') no-repeat;
+  right: 22px
+}
+
+.paintweb_floatingPanel_restore {
+  background: url('images/floatingPanel-restore.png') no-repeat;
+  right: 22px
+}
+
+.paintweb_floatingPanel_close {
+  background: url('images/floatingPanel-close.png') no-repeat;
+  right: 0
+}
+
+.paintweb_floatingPanel_minimized {
+  height: 1.3em !important;
+  min-height: 0 !important
+}
+
+.paintweb_floatingPanel_minimized .paintweb_floatingPanel_content,
+.paintweb_floatingPanel_minimized .paintweb_floatingPanel_resizer { display: none }
+
+.paintweb_floatingPanel_content {
+  margin: 10px;
+  position: relative
+}
+
+.paintweb_floatingPanel_resizer {
+  bottom: 0;
+  cursor: se-resize;
+  height: 10px;
+  position: absolute;
+  right: 0;
+  width: 10px
+}
+
+.paintweb_floatingPanel_about {
+  left: 100px;
+  top: 100px;
+  width: 400px
+}
+
+.paintweb_floatingPanel_about .paintweb_floatingPanel_content {
+  background: url('images/paintweb-logo.png') top center no-repeat;
+  margin-top: 10px;
+  padding-top: 96px
+}
+
+.paintweb_floatingPanel_colormixer {
+  height: 275px;
+  left: 150px;
+  top: 150px;
+  width: 570px
+}
+
+.paintweb_colorInput {
+  background: url('images/checkers.png');
+  border: 1px solid #000;
+  display: block;
+  height: 20px;
+  /*
+   * Opera has problems rendering outlines...
+   * outline: 1px solid #fff;
+   */
+  width: 40px
+}
+
+.paintweb_colorInputActive { outline: 2px solid #99f }
+
+.paintweb_colorInput a {
+  display: block;
+  height: 100%;
+  overflow: hidden;
+  text-decoration: none;
+  text-indent: 110%;
+  white-space: nowrap;
+  width: 100%
+}
+
+.paintweb_strokeFillStyles {
+  background: url("images/toolbar-colors.png") no-repeat;
+  font-size: 0.9em;
+  height: 67px;
+  left: 427px;
+  position: absolute;
+  top: 0;
+  width: 69px
+}
+
+.paintweb_strokeFillStylesSearch {
+  background: url("images/toolbar-colors.png") no-repeat;
+  font-size: 0.9em;
+  height: 67px;
+  left: 457px;
+  position: absolute;
+  top: 0;
+  width: 69px
+}
+
+
+.paintweb_opt_fillStyle {
+  height: 51px;
+  margin: 2px 0 0 13px;
+  padding: 0
+}
+
+.paintweb_opt_strokeStyle {
+  margin: 0;
+  padding: 0 11px 0 0;
+  text-align: right
+}
+
+.paintweb_fillStyle {
+  height: 25px;
+  left: 13px;
+  position: absolute;
+  top: 16px;
+  width: 25px;
+}
+
+.paintweb_strokeStyle {
+  bottom: 14px;
+  height: 25px;
+  position: absolute;
+  right: 13px;
+  width: 25px
+}
+
+.paintweb_floatingPanel_colormixer .paintweb_tabsList {
+  border: 1px solid #9e9e9e;
+  padding-bottom: 0
+}
+
+.paintweb_floatingPanel_colormixer .paintweb_tabsList a {
+  border-bottom: 0;
+  padding-bottom: 5px;
+  padding-top: 5px
+}
+
+.paintweb_floatingPanel_colormixer .paintweb_tabActive a {
+  background: #f2f2f2 !important;
+  padding-top: 6px !important
+}
+
+.paintweb_floatingPanel_colormixer .paintweb_floatingPanel_content { height: 229px }
+
+.paintweb_tabPanel_colormixer_selector {
+  bottom: 0;
+  left: 0;
+  position: absolute
+}
+
+.paintweb_tabPanel_colormixer_selector .paintweb_tab {
+  background: #656565;
+  border: 1px solid #f2f2f2;
+  height: 195px;
+  padding: 2px;
+  width: 199px
+}
+
+.paintweb_tabPanel_colormixer_inputs {
+  bottom: 0;
+  left: 214px;
+  margin: 0;
+  position: absolute;
+  width: 236px
+}
+
+.paintweb_tabPanel_colormixer_inputs ol {
+  border-width: 0 1px;
+  border: 1px solid #c6c6c6;
+  list-style: none;
+  margin: 0;
+  padding: 0
+}
+
+.paintweb_tabPanel_colormixer_inputs ol li {
+  background: #f2f2f2;
+  border-top: 1px solid #c6c6c6;
+  margin: 0;
+  padding: 7px;
+  vertical-align: middle
+}
+
+.paintweb_tabPanel_colormixer_inputs input:not([type=radio]) {
+  margin-top: -2px;
+  position: absolute;
+  right: 7px;
+  text-align: right;
+  width: 4em
+}
+
+.paintweb_tabPanel_colormixer_inputs input[type=radio] { margin: 0 }
+
+.paintweb_colormixer_controls {
+  left: 2px;
+  position: absolute;
+  top: 2px
+}
+
+.paintweb_colormixer_chartDot {
+  background: #000;
+  border: 1px solid #fff;
+  height: 3px;
+  margin: -3px 0 0 -3px;
+  opacity: 0.5;
+  position: absolute;
+  width: 3px
+}
+
+.paintweb_colormixer_slider {
+  background: #000;
+  border: 1px solid #fff;
+  height: 3px;
+  margin: -2px 0 0 -1px;
+  opacity: 0.5;
+  position: absolute
+}
+
+.paintweb_colormixer_cpaletteInput {
+  margin-bottom: 3px;
+  width: 97%
+}
+
+.paintweb_colormixer_cpaletteOutput {
+  height: 166px;
+  overflow: auto
+}
+
+.paintweb_colormixer_cpaletteOutput a {
+  float: left;
+  height: 0;
+  margin: 1px 1px 0 0;
+  overflow: hidden;
+  padding-top: 11px;
+  text-decoration: none;
+  width: 11px
+}
+
+.paintweb_colormixer_cpaletteOutput a:hover,
+.paintweb_colormixer_cpaletteOutput a:focus { outline: 1px solid #fff }
+
+.paintweb_colormixer_preview {
+  background: #f2f2f2;
+  border: 1px solid #c6c6c6;
+  color: #555;
+  font-size: 0.9em;
+  left: 215px;
+  list-style: none;
+  margin: 0;
+  padding: 0 0 1.6em 0;
+  position: absolute;
+  top: 0
+}
+
+.paintweb_colormixer_preview li {
+  background: url('images/checkers.png');
+  border: 1px solid #000;
+  float: left;
+  height: 40px
+}
+
+.paintweb_colormixer_preview span {
+  display: block;
+  height: 40px;
+  margin-bottom: 3px;
+  width: 40px
+}
+
+.paintweb_colormixer_colorOld {
+  border-left: 0 !important;
+  text-align: right
+}
+
+.paintweb_colormixer_colorOld span { cursor: pointer }
+
+.paintweb_colormixer_actions {
+  border-bottom: 0;
+  border: 1px solid #c6c6c6;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 90px
+}
+
+.paintweb_colormixer_actions a {
+  background: #e7e1db url('images/button.png') repeat-x;
+  border-bottom: 1px solid #c6c6c6;
+  color: #666;
+  display: block;
+  padding: 2px 5px;
+  text-decoration: none
+}
+
+.paintweb_colormixer_actions a:hover, .paintweb_colormixer_actions a:focus {
+  border-color: #000;
+  color: #000
+}
+
+.paintweb_colormixer_hexalpha {
+  background: #f2f2f2;
+  border: 1px solid #c6c6c6;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  right: 100px;
+  top: 0
+}
+
+.paintweb_colormixer_hexalpha li {
+  float: left;
+  margin: 5px
+}
+
+.paintweb_colormixer_hexalpha input { display: block }
+
+.paintweb_ckey_alpha { width: 4em }
+
+.paintweb_ckey_hex { width: 5em }
+
+
+/* Icons */
+
+.paintweb_cmd_historyUndo a { background-image: url('icons/historyUndo.png') }
+
+.paintweb_cmd_historyRedo a { background-image: url('icons/historyRedo.png') }
+
+.paintweb_cmd_selectionCut a { background-image: url('icons/selectionCut.png') }
+
+.paintweb_cmd_selectionCopy a { background-image: url('icons/selectionCopy.png') }
+
+.paintweb_cmd_clipboardPaste a { background-image: url('icons/clipboardPaste.png') }
+
+.paintweb_cmd_selectionCrop a { background-image: url('icons/selectionCrop.png') }
+
+.paintweb_cmd_selectionDelete a { background-image: url('icons/selectionDelete.png') }
+
+.paintweb_cmd_selectionFill a { background-image: url('icons/selectionFill.png') }
+
+
+
+.paintweb_cmd_imageClear a { background-image: url('icons/imageClear.png') }
+
+.paintweb_cmd_about {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  margin: 0
+}
+
+.paintweb_cmd_about a { background-image: url('icons/paintweb.png') }
+
+.paintweb_tool_cbucket a { background-image: url('icons/cbucket.png') }
+
+.paintweb_tool_cpicker a { background-image: url('icons/cpicker.png') }
+
+.paintweb_tool_bcurve a { background-image: url('icons/bcurve.png') }
+
+.paintweb_tool_ellipse a { background-image: url('icons/ellipse.png') }
+
+.paintweb_tool_line a { background-image: url('icons/line.png') }
+
+.paintweb_tool_pencil a { background-image: url('icons/pencil.png') }
+
+.paintweb_tool_hand a { background-image: url('icons/hand.png') }
+
+.paintweb_tool_polygon a { background-image: url('icons/polygon.png') }
+
+.paintweb_tool_rectangle a { background-image: url('icons/rectangle.png') }
+
+.paintweb_tool_selection a { background-image: url('icons/selection.png') }
+
+.paintweb_tool_text a { background-image: url('icons/text.png') }
+
+.paintweb_tool_insertimg a { background-image: url('icons/insertimg.png') }
+
+.paintweb_tool_eraser a { background-image: url('icons/eraser.png') }
+
+.paintweb_lineCap_butt a { background-image: url('icons/line-cap-butt.png') }
+
+.paintweb_lineCap_square a { background-image: url('icons/line-cap-square.png') }
+
+.paintweb_lineCap_round a { background-image: url('icons/line-cap-round.png') }
+
+.paintweb_lineJoin_miter a { background-image: url('icons/line-join-miter.png') }
+
+.paintweb_lineJoin_round a { background-image: url('icons/line-join-round.png') }
+
+.paintweb_lineJoin_bevel a { background-image: url('icons/line-join-bevel.png') }
+
+.paintweb_shapeType_both a { background-image: url('icons/shapeType-both.png') }
+
+.paintweb_shapeType_fill a { background-image: url('icons/shapeType-fill.png') }
+
+.paintweb_shapeType_stroke a { background-image: url('icons/shapeType-stroke.png') }
+
+.paintweb_cfg_text_bold a { background-image: url('icons/text-bold.png') }
+
+.paintweb_cfg_text_italic a { background-image: url('icons/text-italic.png') }
+
+.paintweb_textAlign_left a { background-image: url('icons/text-align-left.png') }
+
+.paintweb_textAlign_center a { background-image: url('icons/text-align-center.png') }
+
+.paintweb_textAlign_right a { background-image: url('icons/text-align-right.png') }
+
+/* TinyMCE plugin */
+
+.paintweb_tinymce_status {
+  background: #ffffc5;
+  border-bottom: 0;
+  border: 1px solid #9e9e9e;
+  color: #000;
+  display: block !important;
+  font: 14px sans-serif;
+  min-width: 535px;
+  position: relative
+}
+
+.paintweb_tinymce_status span {
+  display: block;
+  margin-right: 9em;
+  padding: 8px
+}
+
+.paintweb_tinymce_save, .paintweb_tinymce_cancel {
+  cursor: pointer;
+  position: absolute;
+  top: 4px
+}
+
+.paintweb_tinymce_cancel { right: 5px }
+.paintweb_tinymce_save { right: 6em }
+
+/* vim:set fo=wan1croql tw=80 ts=2 sw=2 sts=2 sta et ai cin fenc=utf-8 ff=unix: */
+
+.search-button-img a{
+height:68px;
+width:118px;
+margin:0;
+padding:0;
+margin-top:-15px;
+text-indent:120px;
+}
+
+.search-button-img{
+background: url('icons/search.png');
+margin:0;padding:0;width:120px;left:500px;
+}
