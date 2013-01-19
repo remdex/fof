@@ -8,7 +8,7 @@ foreach ($ReverseOrder as $pathItem) : ?>
 <? endif; ?>
 <?=erConfigClassLhConfig::getInstance()->getSetting( 'site', 'title' )?></title>
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-<link rel="stylesheet" type="text/css" href="<?=erLhcoreClassDesign::designCSS('css/style.css;js/markitup/skins/simple/style.css;js/markitup/sets/bbcode/style.css');?>" /> 
+<link rel="stylesheet" type="text/css" href="<?=erLhcoreClassDesign::designCSS('css/foundation.css;js/markitup/skins/simple/style.css;js/markitup/sets/bbcode/style.css');?>" /> 
 <link rel="icon" type="image/png" href="<?=erLhcoreClassDesign::design('images/favicon.ico')?>" />
 <link rel="shortcut icon" type="image/x-icon" href="<?=erLhcoreClassDesign::design('images/favicon.ico')?>" />
 <meta name="Keywords" content="" />

@@ -17,7 +17,7 @@
 
 <?php if (!isset($hide_add)) : ?>
 <div class="new-record-control">
-<a href="<?=erLhcoreClassDesign::baseurl('abstract/new')?>/<?=$identifier?>"><img src="<?=erLhcoreClassDesign::design('images/icons/add.png');?>" alt="<?=erTranslationClassLhTranslation::getInstance()->getTranslation('user/userlist','New');?>" title="<?=erTranslationClassLhTranslation::getInstance()->getTranslation('user/userlist','New');?>" /></a>
+<a class="small button rounde" href="<?=erLhcoreClassDesign::baseurl('abstract/new')?>/<?=$identifier?>"><?=erTranslationClassLhTranslation::getInstance()->getTranslation('user/userlist','New');?></a>
 </div>
 <br>
 <?php endif;?>
@@ -25,6 +25,7 @@
 <?php if ($pages->items_total > 0) : ?> 
 
 <table class="lentele" cellpadding="0" cellspacing="0" width="100%">
+<thead>
 <tr>
     <?php foreach ($fields as $field) : ?>
     	<?php if (!isset($field['hidden'])) : ?>
@@ -34,6 +35,7 @@
     <th width="1%">&nbsp;</th>
     <th width="1%">&nbsp;</th>
 </tr>
+</thead>
 <? 
 
 if (!isset($items)){
@@ -64,8 +66,8 @@ foreach ($items as $item) : ?>
         <?php endif;?>
         
         <?endforeach;?>        
-        <td><a href="<?=erLhcoreClassDesign::baseurl('abstract/edit')?>/<?=$identifier.'/'.$item->id?>"><img src="<?=erLhcoreClassDesign::design('images/icons/page_edit.png');?>" alt="<?=erTranslationClassLhTranslation::getInstance()->getTranslation('user/userlist','Edit');?>" title="<?=erTranslationClassLhTranslation::getInstance()->getTranslation('user/userlist','Edit');?>" /></a></td>
-        <td><a onclick="return confirm('Are you sure?')" class="delitem" href="<?=erLhcoreClassDesign::baseurl('abstract/delete')?>/<?=$identifier.'/'.$item->id?>"><img src="<?=erLhcoreClassDesign::design('images/icons/delete.png');?>" alt="<?=erTranslationClassLhTranslation::getInstance()->getTranslation('user/userlist','Delete');?>" title="<?=erTranslationClassLhTranslation::getInstance()->getTranslation('user/userlist','Delete');?>" /></a></td>
+        <td><a class="tiny button round" href="<?=erLhcoreClassDesign::baseurl('abstract/edit')?>/<?=$identifier.'/'.$item->id?>"><?=erTranslationClassLhTranslation::getInstance()->getTranslation('user/userlist','Edit');?></a></td>
+        <td><a class="tiny alert button round" onclick="return confirm('Are you sure?')" class="delitem" href="<?=erLhcoreClassDesign::baseurl('abstract/delete')?>/<?=$identifier.'/'.$item->id?>"><?=erTranslationClassLhTranslation::getInstance()->getTranslation('user/userlist','Delete');?></a></td>
     </tr>
 <? endforeach; ?>
 </table>

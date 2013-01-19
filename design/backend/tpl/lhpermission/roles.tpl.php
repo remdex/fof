@@ -1,12 +1,14 @@
-<div class="header-list"><h1><?=erTranslationClassLhTranslation::getInstance()->getTranslation('permission/roles','List of roles');?></h1></div>
+<h1><?=erTranslationClassLhTranslation::getInstance()->getTranslation('permission/roles','List of roles');?></h1>
 
 <table class="lentele" cellpadding="0" cellspacing="0">
+<thead>
 <tr>
     <th>ID</th>
     <th><?=erTranslationClassLhTranslation::getInstance()->getTranslation('permission/roles','Title');?></th>
     <th>&nbsp;</th>
     <th>&nbsp;</th>
 </tr>
+</thead>
 <? foreach (erLhcoreClassRole::getRoleList() as $departament) : ?>
     <tr>
         <td><?=$departament['id']?></td>

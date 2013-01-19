@@ -1,20 +1,13 @@
-<fieldset><legend><?=erTranslationClassLhTranslation::getInstance()->getTranslation('systemconfig/edit','Edit')?></legend>
+<h1><?=erTranslationClassLhTranslation::getInstance()->getTranslation('systemconfig/edit','Edit')?></h1>
 
-<? if (isset($errArr)) : ?>
-<div class="error-list">
-<ul>
-<?php foreach ($errArr as $err) : ?>
-    <li><?=$err?></li>
-<?php endforeach;?>
-</ul>
-</div>
-<br />
-<? endif;?>
+<? if (isset($errors)) : ?>
+		<?php include(erLhcoreClassDesign::designtpl('lhkernel/validation_error.tpl.php'));?>
+<? endif; ?>
+
 
 <? if (isset($data_updated)) : ?>
 	<div class="dataupdate"><?=erTranslationClassLhTranslation::getInstance()->getTranslation('systemconfig/edit','Data updated');?></div>
 <? endif; ?>
-
 
 <form method="post" action="<?=erLhcoreClassDesign::baseurl('systemconfig/edit')?>/<?=$systemconfig->identifier?>">
 
@@ -41,8 +34,6 @@ $siteaccessOptions = erConfigClassLhConfig::getInstance()->getSetting('site_acce
 <input class="default-input" type="text" name="ValueParam" value="<?=htmlspecialchars($systemconfig->value);?>" />
 <?php endif;?>
 
-<input type="submit" class="default-button" name="UpdateConfig" value="<?=erTranslationClassLhTranslation::getInstance()->getTranslation('systemconfig/edit','Update')?>"/>
+<input type="submit" class="small button" name="UpdateConfig" value="<?=erTranslationClassLhTranslation::getInstance()->getTranslation('systemconfig/edit','Update')?>"/>
 
 </form>
-
-</fieldset>

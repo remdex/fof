@@ -4,18 +4,19 @@
 <head>
 <?php include_once(erLhcoreClassDesign::designtpl('pagelayouts/parts/page_head.tpl.php'));?>
 </head>
-<body>
-    <div id="container" class="no-left-column no-right-column">
-    	<div id="bodcont" class="float-break">			
-    		<div id="middcont">
-    			<div id="mainartcont">    			 
-    			 <?					
-    			     echo $Result['content'];		
-    			 ?>	
-    			</div>
-    		</div>		
-    	</div>		
-    <?php include_once(erLhcoreClassDesign::designtpl('pagelayouts/parts/page_footer.tpl.php'));?>
+
+<div class="row">
+    <div class="columns twelve"> 			 
+		 <?php echo $Result['content']; ?>	
     </div>
+</div>
+	
+<div class="row">
+    <div class="columns twelve"> 	
+        <?php include_once(erLhcoreClassDesign::designtpl('pagelayouts/parts/page_footer.tpl.php'));?>
+    </div>
+</div>
+
+
 </body>
 </html>
