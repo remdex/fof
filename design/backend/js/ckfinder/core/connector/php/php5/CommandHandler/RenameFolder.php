@@ -2,8 +2,8 @@
 /*
  * CKFinder
  * ========
- * http://ckfinder.com
- * Copyright (C) 2007-2010, CKSource - Frederico Knabben. All rights reserved.
+ * http://cksource.com/ckfinder
+ * Copyright (C) 2007-2013, CKSource - Frederico Knabben. All rights reserved.
  *
  * The software, this file and its contents are subject to the CKFinder
  * License. Please read the license.txt file before using, installing, copying,
@@ -67,7 +67,7 @@ class CKFinder_Connector_CommandHandler_RenameFolder extends CKFinder_Connector_
         }
         $resourceTypeInfo = $this->_currentFolder->getResourceTypeConfig();
 
-        if (!CKFinder_Connector_Utils_FileSystem::checkFileName($newFolderName) || $resourceTypeInfo->checkIsHiddenFolder($newFolderName)) {
+        if (!CKFinder_Connector_Utils_FileSystem::checkFolderName($newFolderName) || $resourceTypeInfo->checkIsHiddenFolder($newFolderName)) {
             $this->_errorHandler->throwError(CKFINDER_CONNECTOR_ERROR_INVALID_NAME);
         }
 
@@ -84,9 +84,9 @@ class CKFinder_Connector_CommandHandler_RenameFolder extends CKFinder_Connector_
         }
 
         //let's calculate new folder name
-        $newFolderPath = dirname($oldFolderPath).DIRECTORY_SEPARATOR.$newFolderName.DIRECTORY_SEPARATOR;
+        $newFolderPath = dirname($oldFolderPath).'/'.$newFolderName.'/';
 
-        if (file_exists(rtrim($newFolderPath, DIRECTORY_SEPARATOR))) {
+        if (file_exists(rtrim($newFolderPath, '/'))) {
             $this->_errorHandler->throwError(CKFINDER_CONNECTOR_ERROR_ALREADY_EXIST);
         }
 

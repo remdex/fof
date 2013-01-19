@@ -3,6 +3,8 @@ $tpl = erLhcoreClassTemplate::getInstance('lharticle/editstatic.tpl.php');
 
 $Static = erLhcoreClassArticle::getSession()->load( 'erLhcoreClassModelArticleStatic', (int)$Params['user_parameters']['static_id']);  
 
+$_SESSION['has_access_to_editor'] = 1;
+
 if (isset($_POST['UpdateArticle']))
 {
     $Static->content = $_POST['ArticleBody'];

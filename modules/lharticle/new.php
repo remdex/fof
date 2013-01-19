@@ -44,13 +44,13 @@ if (isset($_POST['UpdateArticle']))
     {
        $photoDir = 'var/media/'.$Article->id;
        if (!file_exists($photoDir))
-       mkdir($photoDir,$config->conf->getSetting( 'site', 'StorageDirPermissions' ));
+       mkdir($photoDir,$config->getSetting( 'site', 'StorageDirPermissions' ));
 
        $photoDir = 'var/media/'.$Article->id.'/images';
        if (!file_exists($photoDir))
-       mkdir($photoDir,$config->conf->getSetting( 'site', 'StorageDirPermissions' ));	       
+       mkdir($photoDir,$config->getSetting( 'site', 'StorageDirPermissions' ));	       
 
-       $fileName = erLhcoreClassValidationHelpher::moveUploadedFile('ArticleThumb',$photoDir . '/' );
+       $fileName = erLhcoreClassSearchHandler::moveUploadedFile('ArticleThumb',$photoDir . '/' );
        
        $Article->has_photo = 1;
        $Article->file_name = $fileName;

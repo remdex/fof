@@ -1,8 +1,8 @@
 <?php
-// Copyright (c) 2003-2010, CKSource - Frederico Knabben. All rights reserved.
+// Copyright (c) 2003-2013, CKSource - Frederico Knabben. All rights reserved.
 // For licensing, see LICENSE.html or http://ckfinder.com/license
 
-//  Defines the object, for the English language. This is the base file for all translations.
+//  Defines the object for the Japanese language.
 
 $GLOBALS['CKFLang'] = array (
 	'ErrorUnknown' => 'リクエストの処理に失敗しました。 (Error %1)',
@@ -16,6 +16,7 @@ $GLOBALS['CKFLang'] = array (
 		'105' => '拡張子が正しくありません。',
 		'109' => '不正なリクエストです。',
 		'110' => '不明なエラーが発生しました。',
+		'111' => 'It was not possible to complete the request due to resulting file size.',
 		'115' => '同じ名前のファイル/フォルダがすでに存在しています。',
 		'116' => 'フォルダが見つかりませんでした。ページを更新して再度お試し下さい。',
 		'117' => 'ファイルが見つかりませんでした。ページを更新して再度お試し下さい。',

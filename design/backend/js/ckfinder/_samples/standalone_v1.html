@@ -2,8 +2,8 @@
 <!--
  * CKFinder
  * ========
- * http://ckfinder.com
- * Copyright (C) 2007-2010, CKSource - Frederico Knabben. All rights reserved.
+ * http://cksource.com/ckfinder
+ * Copyright (C) 2007-2013, CKSource - Frederico Knabben. All rights reserved.
  *
  * The software, this file and its contents are subject to the CKFinder
  * License. Please read the license.txt file before using, installing, copying,
@@ -33,17 +33,16 @@
 	</script>
 </head>
 <body>
-	<h1>
+	<h1 class="samples">
 		CKFinder - Sample - Standalone (V1)
 	</h1>
-	<hr />
 	<p>
 		CKFinder may be used in standalone mode inside any page, to create a repository
-		manager with easy. You may define a custom JavaScript function to be called when
+		manager with ease. You may define a custom JavaScript function to be called when
 		an image is selected (double-clicked).</p>
-	<p>
+	<div class="description">
 		This sample is using the old "V1" integration method.
-	</p>
+	</div>
 	<div>
 		<script type="text/javascript">
 
@@ -54,7 +53,7 @@
 				// Display additional information available in the "data" object.
 				// For example, the size of a file (in KB) is available in the data["fileSize"] variable.
 				msg += 'File size: ' + data['fileSize'] + 'KB\n';
-				msg += 'Last modifed: ' + data['fileDate'];
+				msg += 'Last modified: ' + data['fileDate'];
 
 				alert( msg );
 			}
@@ -62,6 +61,8 @@
 			// You can use the "CKFinder" class to render CKFinder in a page:
 			var finder = new CKFinder();
 			finder.BasePath = '../';	// The path for the installation of CKFinder (default = "/ckfinder/").
+			// The default height is 400.
+			finder.Height = 600;
 			finder.SelectFunction = ShowFileInfo;
 			// It is not required to use the "v1" skin.
 			finder.Skin = 'v1';
@@ -69,12 +70,21 @@
 
 			// It can also be done in a single line, calling the "static"
 			// Create( basePath, width, height, selectActionFunction ) function:
-			// CKFinder.Create( '../../', null, null, ShowFileInfo );
+			// CKFinder.Create( '../', null, null, ShowFileInfo );
 			//
 			// The "Create" function can also accept an object as the only argument.
-			// CKFinder.Create( { BasePath : '../../', Skin : 'v1', SelectActionFunction : ShowFileInfo } );
+			// CKFinder.Create( { BasePath : '../', Skin : 'v1', SelectActionFunction : ShowFileInfo } );
 
 		</script>
+	</div>
+	<div id="footer">
+		<hr />
+		<p>
+			CKFinder - Ajax File Manager - <a class="samples" href="http://cksource.com/ckfinder/">http://cksource.com/ckfinder</a>
+		</p>
+		<p id="copy">
+			Copyright &copy; 2003-2013, <a class="samples" href="http://cksource.com/">CKSource</a> - Frederico Knabben. All rights reserved.
+		</p>
 	</div>
 </body>
 </html>

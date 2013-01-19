@@ -2,8 +2,8 @@
 /*
  * CKFinder
  * ========
- * http://ckfinder.com
- * Copyright (C) 2007-2010, CKSource - Frederico Knabben. All rights reserved.
+ * http://cksource.com/ckfinder
+ * Copyright (C) 2007-2013, CKSource - Frederico Knabben. All rights reserved.
  *
  * The software, this file and its contents are subject to the CKFinder
  * License. Please read the license.txt file before using, installing, copying,
@@ -47,7 +47,7 @@ class CKFinder_Connector_Utils_FileSystem
             if (strlen($path1)) {
                 $_lastCharP1 = substr($path1, -1, 1);
                 if ($_lastCharP1 != "/" && $_lastCharP1 != "\\") {
-                    $path1 .= DIRECTORY_SEPARATOR;
+                    $path1 .= '/';
                 }
             }
         }
@@ -59,7 +59,7 @@ class CKFinder_Connector_Utils_FileSystem
                 }
                 $_lastCharP1 = substr($path1, -1, 1);
                 if ($_lastCharP1 != "/" && $_lastCharP1 != "\\" && $_firstCharP2 != "/" && $_firstCharP2 != "\\") {
-                    $path1 .= DIRECTORY_SEPARATOR;
+                    $path1 .= '/';
                 }
             }
             else {
@@ -79,12 +79,60 @@ class CKFinder_Connector_Utils_FileSystem
      */
     public static function checkFileName($fileName)
     {
+        $_config =& CKFinder_Connector_Core_Factory::getInstance("Core_Config");
+
         if (is_null($fileName) || !strlen($fileName) || substr($fileName,-1,1)=="." || false!==strpos($fileName, "..")) {
             return false;
         }
 
         if (preg_match(CKFINDER_REGEX_INVALID_FILE, $fileName)) {
             return false;
+        }
+
+        if ($_config->getDisallowUnsafeCharacters()) {
+            if (strpos($fileName, ";") !== false) {
+                return false;
+            }
+        }
+
+        return true;
+    }
+
+    /**
+     * Check whether $folderName is a valid folder name, return true on success
+     *
+     * @static
+     * @access public
+     * @param string $folderName
+     * @return boolean
+     */
+    public static function checkFolderName($folderName)
+    {
+        $_config =& CKFinder_Connector_Core_Factory::getInstance("Core_Config");
+
+        if ($_config->getDisallowUnsafeCharacters()) {
+            if (strpos($folderName, ".") !== false) {
+                return false;
+            }
+        }
+
+        return CKFinder_Connector_Utils_FileSystem::checkFileName($folderName);
+    }
+
+    /**
+     * Check whether $path contains valid folders names
+     *
+     * @static
+     * @access public
+     * @param string $path
+     */
+    public static function checkFolderPath($path){
+      $path = substr($path,strpos($path,'/')+1);
+      $path = explode('/',trim($path,'/'));
+        foreach ( $path as $dir ){
+          if ( !empty($dir) && !CKFinder_Connector_Utils_FileSystem::checkFolderName($dir) ){
+            return false;
+          }
         }
 
         return true;
@@ -132,16 +180,17 @@ class CKFinder_Connector_Utils_FileSystem
     }
 
     /**
-     * Return file name without extension (without dot & last part after dot)
+     * Return file name without extension
      *
      * @static
      * @access public
      * @param string $fileName
+     * @param boolean $shortExtensionMode If set to false, extension is everything after a first dot
      * @return string
      */
-    public static function getFileNameWithoutExtension($fileName)
+    public static function getFileNameWithoutExtension($fileName, $shortExtensionMode = TRUE)
     {
-        $dotPos = strrpos( $fileName, '.' );
+        $dotPos = $shortExtensionMode ? strrpos( $fileName, '.' ) : strpos( $fileName, '.' );
         if (false === $dotPos) {
             return $fileName;
         }
@@ -150,21 +199,22 @@ class CKFinder_Connector_Utils_FileSystem
     }
 
     /**
-     * Get file extension (only last part - e.g. extension of file.foo.bar.jpg = jpg)
+     * Get file extension
      *
      * @static
      * @access public
      * @param string $fileName
+     * @param boolean $shortExtensionMode If set to false, extension is everything after a first dot
      * @return string
      */
-    public static function getExtension( $fileName )
+    public static function getExtension( $fileName, $shortExtensionMode = TRUE )
     {
-        $dotPos = strrpos( $fileName, '.' );
+        $dotPos = $shortExtensionMode ? strrpos( $fileName, '.' ) : strpos( $fileName, '.' );
         if (false === $dotPos) {
             return "";
         }
 
-        return substr( $fileName, strrpos( $fileName, '.' ) +1 ) ;
+        return substr( $fileName, $dotPos + 1 );
     }
 
     /**
@@ -267,6 +317,29 @@ class CKFinder_Connector_Utils_FileSystem
                 $str
             );
         return $str;
+    }
+
+    /**
+     * Secure file name from unsafe characters
+     *
+     * @param string $fileName
+     * @access public
+     * @static
+     * @return string $fileName
+     */
+    public static function secureFileName($fileName)
+    {
+      $_config =& CKFinder_Connector_Core_Factory::getInstance("Core_Config");
+      $fileName = str_replace(array(":", "*", "?", "|", "/"), "_", $fileName);
+      if ( $_config->getDisallowUnsafeCharacters() )
+      {
+        $fileName = str_replace(";", "_", $fileName);
+      }
+      if ($_config->forceAscii())
+      {
+        $fileName = CKFinder_Connector_Utils_FileSystem::convertToAscii($fileName);
+      }
+      return $fileName;
     }
 
     /**
@@ -524,11 +597,14 @@ class CKFinder_Connector_Utils_FileSystem
      *
      * @access public
      * @static
-     * @param string $serverPath
+     * @param string $clientPath client path (with trailing slash)
+     * @param object $_resourceType resource type configuration
      * @return boolean
      */
-    public static function hasChildren($serverPath)
+    public static function hasChildren($clientPath, $_resourceType)
     {
+        $serverPath = CKFinder_Connector_Utils_FileSystem::combinePaths($_resourceType->getDirectory(), $clientPath);
+
         if (!is_dir($serverPath) || (false === $fh = @opendir($serverPath))) {
             return false;
         }
@@ -537,8 +613,18 @@ class CKFinder_Connector_Utils_FileSystem
         while (false !== ($filename = readdir($fh))) {
             if ($filename == '.' || $filename == '..') {
                 continue;
-            } else if (is_dir($serverPath . DIRECTORY_SEPARATOR . $filename)) {
+            } else if (is_dir($serverPath . $filename)) {
                 //we have found valid directory
+                $_config =& CKFinder_Connector_Core_Factory::getInstance("Core_Config");
+                $_acl = $_config->getAccessControlConfig();
+                $_aclMask = $_acl->getComputedMask($_resourceType->getName(), $clientPath . $filename);
+                if ( ($_aclMask & CKFINDER_CONNECTOR_ACL_FOLDER_VIEW) != CKFINDER_CONNECTOR_ACL_FOLDER_VIEW ) {
+                    continue;
+                }
+                if ($_resourceType->checkIsHiddenFolder($filename)) {
+                  continue;
+                }
+
                 $hasChildren = true;
                 break;
             }
@@ -547,5 +633,129 @@ class CKFinder_Connector_Utils_FileSystem
         closedir($fh);
 
         return $hasChildren;
+    }
+
+    /**
+     * Retruns temp directory
+     *
+     * @access public
+     * @static
+     * @return string
+     */
+    public static function getTmpDir()
+    {
+      $_config = & CKFinder_Connector_Core_Factory::getInstance("Core_Config");
+      $tmpDir = $_config->getTempDirectory();
+      if ( $tmpDir )
+      {
+        return $tmpDir;
+      }
+      if ( !function_exists('sys_get_temp_dir')) {
+        function sys_get_temp_dir() {
+          if( $temp=getenv('TMP') ){
+            return $temp;
+          }
+          if( $temp=getenv('TEMP') ) {
+            return $temp;
+          }
+          if( $temp=getenv('TMPDIR') ) {
+            return $temp;
+          }
+          $temp = tempnam(__FILE__,'');
+          if ( file_exists($temp) ){
+            unlink($temp);
+            return dirname($temp);
+          }
+          return null;
+        }
+      }
+      return sys_get_temp_dir();
+    }
+
+    /**
+     * Check if given directory is empty
+     *
+     * @param string $dirname
+     * @access public
+     * @static
+     * @return bool
+     */
+    public static function isEmptyDir($dirname)
+    {
+      $files = scandir($dirname);
+      if ( $files && count($files) > 2)
+      {
+        return false;
+      }
+      return true;
+    }
+
+    /**
+     * Autorename file if previous name is already taken
+     *
+     * @param string $filePath
+     * @param string $fileName
+     * @param string $sFileNameOrginal
+     */
+    public static function autoRename( $filePath, $fileName )
+    {
+      $sFileNameOrginal = $fileName;
+      $iCounter = 0;
+      while (true)
+      {
+        $sFilePath = CKFinder_Connector_Utils_FileSystem::combinePaths($filePath, $fileName);
+        if ( file_exists($sFilePath) ){
+          $iCounter++;
+          $fileName = CKFinder_Connector_Utils_FileSystem::getFileNameWithoutExtension($sFileNameOrginal, false) . "(" . $iCounter . ")" . "." .CKFinder_Connector_Utils_FileSystem::getExtension($sFileNameOrginal, false);
+        }
+        else
+        {
+          break;
+        }
+      }
+      return $fileName;
+    }
+
+    /**
+     * Send file to browser
+     * Selects the method depending on the XSendfile setting
+     * @param string $filePath
+     */
+    public static function sendFile( $filePath ){
+      $config =& CKFinder_Connector_Core_Factory::getInstance("Core_Config");
+      if ( $config->getXSendfile() ){
+        CKFinder_Connector_Utils_FileSystem::sendWithXSendfile($filePath);
+      } else {
+        CKFinder_Connector_Utils_FileSystem::readfileChunked($filePath);
+      }
+    }
+
+    /**
+     * Send files using X-Sendfile server module
+     *
+     * @param string $filePath
+     */
+    public static function sendWithXSendfile ( $filePath ){
+      if ( stripos($_SERVER['SERVER_SOFTWARE'], 'nginx') !== FALSE ){
+        $fallback = true;
+        $config =& CKFinder_Connector_Core_Factory::getInstance("Core_Config");
+        $XSendfileNginx = $config->getXSendfileNginx();
+        foreach ( $XSendfileNginx as $location => $root){
+          if ( false !== stripos($filePath , $root) ){
+            $fallback = false;
+            $filePath = str_ireplace($root,$location,$filePath);
+            header("X-Accel-Redirect: ".$filePath); // Nginx
+            break;
+          }
+        }
+        // fallback to standar method
+        if ( $fallback ){
+          CKFinder_Connector_Utils_FileSystem::readfileChunked($filePath);
+        }
+      } elseif ( stripos($_SERVER['SERVER_SOFTWARE'], 'lighttpd/1.4') !== FALSE ){
+        header("X-LIGHTTPD-send-file: ".$filePath); // Lighttpd v1.4
+      } else {
+        header("X-Sendfile: ".$filePath); // Apache, Lighttpd v1.5, Cherokee
+      }
     }
 }

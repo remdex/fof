@@ -2,8 +2,8 @@
 /*
 * CKFinder
 * ========
-* http://ckfinder.com
-* Copyright (C) 2007-2010, CKSource - Frederico Knabben. All rights reserved.
+* http://cksource.com/ckfinder
+* Copyright (C) 2007-2013, CKSource - Frederico Knabben. All rights reserved.
 *
 * The software, this file and its contents are subject to the CKFinder
 * License. Please read the license.txt file before using, installing, copying,
@@ -42,6 +42,17 @@ class CKFinder_Connector_Utils_Misc
             $errorMessage = "";
         }
         return $errorMessage;
+    }
+
+    /**
+     * Simulate the encodeURIComponent() function available in JavaScript
+     * @param string $str
+     * @return string
+     */
+    public static function encodeURIComponent($str)
+    {
+        $revert = array('%21'=>'!', '%2A'=>'*', '%27'=>"'", '%28'=>'(', '%29'=>')');
+        return strtr(rawurlencode($str), $revert);
     }
 
     /**
@@ -132,6 +143,10 @@ class CKFinder_Connector_Utils_Misc
         //Default memory limit is 8MB so well stick with that.
         //To find out what yours is, view your php.ini file.
         $memoryLimit = CKFinder_Connector_Utils_Misc::returnBytes(@ini_get('memory_limit'))/$MB;
+        // There are no memory limits, nothing to do
+        if ($memoryLimit == -1) {
+          return true;
+        }
         if (!$memoryLimit) {
             $memoryLimit = 8;
         }
@@ -210,7 +225,7 @@ class CKFinder_Connector_Utils_Misc
         foreach ($haystack as $key => $val) {
             $lcase[$key] = strtolower($val);
         }
-        return in_array($needle, $lcase);
+        return in_array(strtolower($needle), $lcase);
     }
 
     /**
@@ -225,6 +240,21 @@ class CKFinder_Connector_Utils_Misc
     {
         $explode = explode('/', str_replace("\\", "/", $file));
         return end($explode);
+    }
+
+    /**
+    * Checks whether the string is valid UTF8
+    * @static
+    * @access public
+    * @param string $string
+    * @return boolean
+    */
+    public static function isValidUTF8($string)
+    {
+        if (strlen($string) == 0) {
+            return true;
+        }
+        return (preg_match('/^./us', $string) == 1);
     }
 
     /**

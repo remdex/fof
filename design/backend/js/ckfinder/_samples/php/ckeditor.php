@@ -2,8 +2,8 @@
 <!--
  * CKFinder
  * ========
- * http://ckfinder.com
- * Copyright (C) 2007-2010, CKSource - Frederico Knabben. All rights reserved.
+ * http://cksource.com/ckfinder
+ * Copyright (C) 2007-2013, CKSource - Frederico Knabben. All rights reserved.
  *
  * The software, this file and its contents are subject to the CKFinder
  * License. Please read the license.txt file before using, installing, copying,
@@ -18,13 +18,12 @@
 	<link href="../sample.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
-	<h1>
+	<h1 class="samples">
 		CKFinder - Sample - CKEditor Integration
 	</h1>
-	<hr />
-	<p>
+	<div class="description">
 		CKFinder can be easily integrated with <a href="http://ckeditor.com">CKEditor</a>. Try it now, by clicking
-		the "Image" or "Link" icons and then the "<strong>Browse Server</strong>" button.</p>
+		the "Image" or "Link" icons and then the "<strong>Browse Server</strong>" button.</div>
 <?php
 
 // Helper function for this sample file.
@@ -78,5 +77,14 @@ else
 }
 
 ?>
+	<div id="footer">
+		<hr />
+		<p>
+			CKFinder - Ajax File Manager - <a class="samples" href="http://cksource.com/ckfinder/">http://cksource.com/ckfinder</a>
+		</p>
+		<p id="copy">
+			Copyright &copy; 2003-2013, <a class="samples" href="http://cksource.com/">CKSource</a> - Frederico Knabben. All rights reserved.
+		</p>
+	</div>
 </body>
 </html>

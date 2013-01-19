@@ -1,4 +1,17 @@
 <?php
+/*
+* CKFinder
+* ========
+* http://cksource.com/ckfinder
+* Copyright (C) 2007-2013, CKSource - Frederico Knabben. All rights reserved.
+*
+* The software, this file and its contents are subject to the CKFinder
+* License. Please read the license.txt file before using, installing, copying,
+* modifying or distribute this file or part of its contents. The contents of
+* this file is part of the Source Code of CKFinder.
+*
+* CKFinder extension: adds watermark to uploaded images.
+*/
 
 class Watermark
 {
@@ -123,6 +136,16 @@ class Watermark
         $dest_x = $sourceImageAttr[0] - $watermark_width - $marginLeft;
         $dest_y = $sourceImageAttr[1] - $watermark_height - $marginBottom;
 
+        if ( $sourceImageAttr['mime'] == 'image/png')
+        {
+            if(function_exists('imagesavealpha') && function_exists('imagecolorallocatealpha') )
+            {
+                 $bg = imagecolorallocatealpha($oImage, 255, 255, 255, 127); // (PHP 4 >= 4.3.2, PHP 5)
+                 imagefill($oImage, 0, 0 , $bg);
+                 imagealphablending($oImage, false);
+                 imagesavealpha($oImage, true);  // (PHP 4 >= 4.3.2, PHP 5)
+            }
+        }
         if ($watermarkImageAttr['mime'] == 'image/png') {
             imagecopy($oImage, $oWatermarkImage, $dest_x, $dest_y, 0, 0, $watermark_width, $watermark_height);
         }
@@ -153,10 +176,13 @@ class Watermark
 
 $watermark = new Watermark();
 $config['Hooks']['AfterFileUpload'][] = array($watermark, 'onAfterFileUpload');
-$config['Plugin_Watermark'] = array(
-	"source" => "logo.gif",
-	"marginRight" => 5,
-	"marginBottom" => 5,
-	"quality" => 90,
-	"transparency" => 80,
-);
+if (empty($config['Plugin_Watermark']))
+{
+    $config['Plugin_Watermark'] = array(
+        "source" => "logo.gif",
+        "marginRight" => 5,
+        "marginBottom" => 5,
+        "quality" => 90,
+        "transparency" => 80,
+    );
+}
