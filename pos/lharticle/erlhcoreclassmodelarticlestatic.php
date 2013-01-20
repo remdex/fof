@@ -19,6 +19,11 @@ $def->properties['content']->columnName   = 'content';
 $def->properties['content']->propertyName = 'content';
 $def->properties['content']->propertyType = ezcPersistentObjectProperty::PHP_TYPE_STRING; 
 
+$def->properties['mtime'] = new ezcPersistentObjectProperty();
+$def->properties['mtime']->columnName   = 'mtime';
+$def->properties['mtime']->propertyName = 'mtime';
+$def->properties['mtime']->propertyType = ezcPersistentObjectProperty::PHP_TYPE_STRING; 
+
 return $def; 
 
 ?>

@@ -2,11 +2,9 @@
 
 <div class="articlebody">
 
-<? if (isset($errArr)) : ?>
-    <? foreach ((array)$errArr as $error) : ?>
-    	<div class="error">*&nbsp;<?=$error;?></div>
-    <? endforeach; ?>
-<? endif;?>
+<? if (isset($errors)) : ?>
+		<?php include(erLhcoreClassDesign::designtpl('lhkernel/validation_error.tpl.php'));?>
+<? endif; ?>
 
 	<div><br />
 		<form action="<?=erLhcoreClassDesign::baseurl('permission/newrole')?>" method="post">

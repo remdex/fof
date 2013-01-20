@@ -1,7 +1,9 @@
 <div class="header-list">
 <h1><?=erTranslationClassLhTranslation::getInstance()->getTranslation('user/login','Please login');?></h1>
 </div>
-<? if (isset($error)) : ?><h2 class="error-h2"><?=$error;?></h2><? endif;?>
+<? if (isset($errors)) : ?>
+	<?php include(erLhcoreClassDesign::designtpl('lhkernel/validation_error.tpl.php'));?>
+<? endif; ?>
 
 <?php include_once(erLhcoreClassDesign::designtpl('lhuser/open_id_block.tpl.php'));?>
 

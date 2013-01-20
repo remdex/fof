@@ -64,6 +64,14 @@ class erLhcoreClassModelArticleCategory {
        $session->delete($this);
    }
    
+   public function saveThis() {
+   		// Clean cache because templates get's compiled
+   		erLhcoreClassArticle::getSession()->saveOrUpdate( $this );
+   		   		   		
+   		$cache = CSCacheAPC::getMem();
+   		$cacheVersion = $cache->increaseCacheVersion('article_cache_version');
+   }
+   
    
    public function getParentCategories($parent = false)
    {

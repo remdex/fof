@@ -149,8 +149,7 @@ class erLhcoreClassDesign
 	    		return ;
 	    	}
     	}
-    	
-    	
+    	    	
         $cache = CSCacheAPC::getMem();
         
         $cacheKey = 'site_version_'.$cache->getCacheVersion('site_version').'_module_translations_'.erLhcoreClassSystem::instance()->Language;
@@ -169,7 +168,7 @@ class erLhcoreClassDesign
             
             $cache->store($cacheKey,self::$moduleTranslations);      
         }
-        
+                        
         list($module,$function) = explode('/',$link);
         
         $moduleTranslated = $module;

@@ -1,4 +1,3 @@
-
 <?php
 $currentUser = erLhcoreClassUser::instance();   
 if ($currentUser->isLogged()) : 

@@ -7,7 +7,8 @@ class erLhcoreClassModelArticleStatic {
        return array (
                'id'                  => $this->id,
                'content'             => $this->content,
-               'name'            	 => $this->name
+               'name'            	 => $this->name,
+               'mtime'            	 => $this->mtime
        );
    }
 
@@ -26,6 +27,9 @@ class erLhcoreClassModelArticleStatic {
    }
    
    public function saveThis() {
+       
+        $this->mtime = time();
+        
    		// Clean cache because templates get's compiled
    		erLhcoreClassArticle::getSession()->saveOrUpdate( $this );
    		
@@ -35,6 +39,8 @@ class erLhcoreClassModelArticleStatic {
    		
    		$cache = CSCacheAPC::getMem();
    		$cacheVersion = $cache->increaseCacheVersion('article_cache_version');
+   		
+   		
    }
    
    public function __get($variable)
@@ -54,7 +60,11 @@ class erLhcoreClassModelArticleStatic {
    					return $this->content_front;
    					  					
    				break;
-   		
+   				
+   			case 'mtime_front':
+   			      return date('Y-m-d H:i:s',$this->mtime);
+   			    break;
+   			    
    			default:
    				break;
    		}

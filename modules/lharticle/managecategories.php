@@ -15,5 +15,8 @@ if (isset($_POST['CreateCategory']))
 
 $Result['content'] = $tpl->fetch();
 
+$Result['path'] = array(
+array('title' => erTranslationClassLhTranslation::getInstance()->getTranslation('article/staticlist','Manage categories'))
+)
 
 ?>

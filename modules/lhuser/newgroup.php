@@ -41,7 +41,7 @@ if (isset($_POST['Save_group']) || isset($_POST['Save_group_and_assign_user']))
                 
         $GroupData->name = $form->Name;
         
-        $tpl->set('errArr',$Errors);
+        $tpl->set('errors',$Errors);
     }
 }
 

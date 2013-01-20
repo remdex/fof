@@ -29,10 +29,10 @@ if (isset($_POST['Forgotpassword'])) {
 			$host = $_SERVER['HTTP_HOST'];	
 			
 			$adminEmail = erConfigClassLhConfig::getInstance()->getSetting( 'site', 'site_admin_email' );		
-			
+
 			$userID = erLhcoreClassModelUser::fetchUserByEmail($form->Email);
 			$UserData = erLhcoreClassUser::getSession()->load( 'erLhcoreClassModelUser', $userID );
-						
+		
 			$hash = erLhcoreClassModelForgotPassword::randomPassword(40);
 
 			erLhcoreClassModelForgotPassword::setRemindHash($UserData->id,$hash);	

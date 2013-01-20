@@ -8,9 +8,9 @@
 <label>Alias URL</label>
 <input type="text" class="inputfield" name="AliasURL" value="<?=htmlspecialchars($article->alias_url)?>" />
  
-
+<?php /*
 <label>Is modal <input type="checkbox" name="IsModal" value="on" <?php $article->is_modal == 1 ? print 'checked="checked"' : '' ?> /></label>
-
+*/ ?>
 
 
 <label>Intro</label>
@@ -51,5 +51,13 @@ $oFCKeditor->editor('ArticleBody',$article->body) ;
 		 
 <label>Position</label>   
 <input type="text" class="inputfield" name="pos" value="<?=htmlspecialchars($article->pos)?>" />
-   
-<input type="submit" class="small button" name="UpdateArticle" value="Save" />
+
+<ul class="button-group radius">
+    <li><input type="submit" class="small button" name="SaveArticle" value="<?=erTranslationClassLhTranslation::getInstance()->getTranslation('article/editstatic','Save')?>" /></li>    
+    <?php if (is_numeric($article->id)) : ?>
+    <li><input type="submit" class="small button" name="UpdateArticle" value="<?=erTranslationClassLhTranslation::getInstance()->getTranslation('article/editstatic','Update')?>" /></li>
+    <?php endif; ?>
+    <li><input type="submit" class="small button" name="CancelArticle" value="<?=erTranslationClassLhTranslation::getInstance()->getTranslation('article/editstatic','Cancel')?>" /></li>
+ </ul>
+ 
+ 

@@ -1,4 +1,4 @@
-<div class="header-list"><h1><?=erTranslationClassLhTranslation::getInstance()->getTranslation('user/userlist','Users');?></h1></div>
+<h1><?=erTranslationClassLhTranslation::getInstance()->getTranslation('user/userlist','Users');?></h1>
 
 <form action="<?=erLhcoreClassDesign::baseurl('user/userlist')?>" method="get">
     <div class="row">
@@ -13,7 +13,6 @@
         </div>    
     </div>
 </form>
-
 
 <table class="lentele" cellpadding="0" cellspacing="0" width="100%">
 <thead>

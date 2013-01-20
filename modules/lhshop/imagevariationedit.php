@@ -67,7 +67,7 @@ if (isset($_POST['UpdateVariation']))
         return ;
         
     }  else {
-        $tpl->set('errArr',$Errors);
+        $tpl->set('errors',$Errors);
     }
 }
 

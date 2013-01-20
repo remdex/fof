@@ -87,7 +87,7 @@ if (isset($_POST['SendRequest']))
            $formData['FormEmail'] = $form->FormEmail;
         }      
         
-        $tpl->set('errArr',$Errors);
+        $tpl->set('errors',$Errors);
     }
 
 }

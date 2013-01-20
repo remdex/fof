@@ -38,7 +38,7 @@ if (isset($_POST['Update_role']))
         return ;
         
     }  else {
-        $tpl->set('errArr',$Errors);
+        $tpl->set('errors',$Errors);
     }
 }
 

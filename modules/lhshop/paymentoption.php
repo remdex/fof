@@ -57,7 +57,7 @@ if (isset($_POST['ChoosePaymentMethod']))
         exit;
         
 	} else {
-		$tpl->set('errArr',$Errors);
+		$tpl->set('errors',$Errors);
 	}
 		
 	

@@ -61,7 +61,7 @@ if (isset($_POST['SaveVariation']))
         return ;
         
     }  else {
-        $tpl->set('errArr',$Errors);
+        $tpl->set('errors',$Errors);
     }
 
 }

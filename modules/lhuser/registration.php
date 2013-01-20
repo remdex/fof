@@ -68,24 +68,11 @@ if (isset($_POST['Update_account']))
         $GroupUser->group_id = erConfigClassLhConfig::getInstance()->getSetting( 'user_settings', 'default_user_group' ); //User group
         $GroupUser->user_id = $UserData->id;        
         erLhcoreClassUser::getSession()->save($GroupUser);
-               
-        try {
-            $defaultUserCategoryParent = erLhcoreClassModelGalleryCategory::fetch(erConfigClassLhConfig::getInstance()->getSetting( 'gallery_settings', 'default_gallery_category' ));
-            $userCategory = new erLhcoreClassModelGalleryCategory();
-            $userCategory->owner_id =  $UserData->id;
-            $userCategory->parent =  $defaultUserCategoryParent->cid;
-            $userCategory->name =  $form->Username;
-            erLhcoreClassGallery::getSession()->save($userCategory);               
-            $userCategory->clearCategoryCache();
-        } catch (Exception $e) { // Perhaps administrator deleted default gallery category
-            // Do nothing
-        }
-        
+                
         erLhcoreClassUser::instance()->setLoggedUserInstantly($UserData->id);
         erLhcoreClassModule::redirect('user/index');
         exit;
-    
-        
+            
     }  else {
         
         if ( $form->hasValidData( 'Email' ) )
@@ -95,7 +82,7 @@ if (isset($_POST['Update_account']))
         
         $UserData->username = $form->Username;
         
-        $tpl->set('errArr',$Errors);
+        $tpl->set('errors',$Errors);
     }
 }
 

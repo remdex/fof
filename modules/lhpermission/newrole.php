@@ -34,7 +34,7 @@ if (isset($_POST['Save_role']) ||isset($_POST['New_policy']) )
         return ;
         
     }  else {
-        $tpl->set('errArr',$Errors);
+        $tpl->set('errors',$Errors);
     }
 }
 

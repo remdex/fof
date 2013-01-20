@@ -3,14 +3,25 @@ $tpl = erLhcoreClassTemplate::getInstance('lharticle/newstatic.tpl.php');
 
 $Static = new erLhcoreClassModelArticleStatic();
 
-if (isset($_POST['UpdateArticle']))
-{
-    $Static->content = $_POST['ArticleBody'];
-    $Static->name = $_POST['ArticleName'];        
-    $Static->saveThis();
-     		
+if ( isset($_POST['CancelArticle']) ) {        
     erLhcoreClassModule::redirect('article/staticlist');
-    return; 
+    exit;
+}           
+        
+if (isset($_POST['SaveArticle']))
+{
+    $Errors = erLhcoreClassArticle::validateStaticArticle($Static);
+    
+    if (empty($Errors)) { 
+        
+        $Static->saveThis();
+           
+        erLhcoreClassModule::redirect('article/staticlist');
+        exit;
+        
+    } else {
+        $tpl->set('errors',$Errors);
+    }
 }
 
 $tpl->set('static',$Static);

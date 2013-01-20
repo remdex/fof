@@ -13,12 +13,12 @@ class erLhcoreClassModelArticle {
 			'descriptionoveride'     => $this->descriptionoveride,
 			'category_id'            => $this->category_id,
 			'has_photo'              => $this->has_photo,               
-			'category_id_parent'     => $this->category_id_parent,
 			'file_name'              => $this->file_name,
 			'pos'                    => $this->pos,
 			'alias_url'              => $this->alias_url,
 			'alternative_url'        => $this->alternative_url,
-			'is_modal'               => $this->is_modal
+			'is_modal'               => $this->is_modal,
+			'mtime'                  => $this->mtime,
 		);
 	}
    
@@ -29,30 +29,46 @@ class erLhcoreClassModelArticle {
 			$this->$key = $val;
 		}
 	} 
-          
-	public static function getArticlesByCategory($categoryID = 0, $offset = 0, $limit = 50,$field = 'category_id')
-	{
-		if ($categoryID != 0) {
-			$session = erLhcoreClassArticle::getSession();
-			$q = $session->createFindQuery( 'erLhcoreClassModelArticle' );
-			$q->where( 
-				$q->expr->eq( $field, $q->bindValue( $categoryID ) )     
-			); 
-			$q->limit( $limit, $offset ); 
-			$q->orderBy( 'pos ASC, id DESC' ); 
-		} else {
-			$session = erLhcoreClassArticle::getSession();
-			$q = $session->createFindQuery( 'erLhcoreClassModelArticle' );          
-			$q->limit( $limit, $offset ); 
-			$q->orderBy( 'pos ASC, id DESC' ); 
-		}
-		          
-		$objects = $session->find( $q, 'erLhcoreClassModelArticle' );  
-		
-		return $objects; 
-	}
+       
+	public function saveThis() {
+
+	    $this->mtime = time();
+	    
+   		erLhcoreClassArticle::getSession()->saveOrUpdate( $this );
+   		   		   		
+   		$cache = CSCacheAPC::getMem();
+   		$cacheVersion = $cache->increaseCacheVersion('article_cache_version');
+   }
    
-	public static function getList($paramsSearch = array())
+   public static function getCount($params = array())
+   {
+       $session = erLhcoreClassAbstract::getSession();
+       $q = $session->database->createSelectQuery();  
+       $q->select( "COUNT(id)" )->from( "lh_article" );   
+         
+       if (isset($params['filter']) && count($params['filter']) > 0)
+       {
+           $conditions = array();
+           
+           foreach ($params['filter'] as $field => $fieldValue)
+           {
+               $conditions[] = $q->expr->eq( $field, $fieldValue );
+           }
+           
+           $q->where( 
+                 $conditions   
+           );
+      }  
+             
+      $stmt = $q->prepare();       
+      $stmt->execute();  
+      $result = $stmt->fetchColumn(); 
+            
+      return $result; 
+   }
+
+     
+   public static function getList($paramsSearch = array())
    {             
    	
        $paramsDefault = array('limit' => 32, 'offset' => 0);
@@ -140,11 +156,15 @@ class erLhcoreClassModelArticle {
 				   } elseif ($this->alias_url != '') {
 				   		$this->url_article = $this->alias_url;
 				   } else {
-				   		$this->url_article = erLhcoreClassDesign::baseurl(urlencode(erLhcoreClassCharTransform::TransformToURL($this->article_name).'-'.$this->id.'a.html'));
+				   		$this->url_article = erLhcoreClassDesign::baseurl(urlencode(erLhcoreClassCharTransform::TransformToURL($this->article_name).'-'.$this->id.'a.html'),false);
 				   }
 				   return $this->url_article;
 				break;
 				
+			case 'mtime_front':
+   			      return date('Y-m-d H:i:s',$this->mtime);
+   			    break;
+   			    	
 			case 'photo_path':
 				   $photo_path = 'var/media/'.$this->id.'/images/'.$this->file_name;
 				   if (file_exists($photo_path))
@@ -238,12 +258,12 @@ class erLhcoreClassModelArticle {
     public $descriptionoveride = '';
     public $category_id = '';
     public $has_photo = 0;
-    public $category_id_parent = 0;
     public $file_name = '';
     public $pos = 0;
     public $alias_url = '';
     public $alternative_url = '';
     public $is_modal = 0;
+    public $mtime = 0;
 
 }
 ?>

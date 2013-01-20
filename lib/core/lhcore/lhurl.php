@@ -59,9 +59,7 @@ class erLhcoreClassURL extends ezcUrl {
             } else {
                 
                 $optionsSiteAccess = $cfgSite->getSetting('site_access_options',$defaultSiteAccess);
-                
-               
-                
+                                
                 // Falling back
                 $sysConfiguration->SiteAccess = $defaultSiteAccess; 
                 $sysConfiguration->Language = $optionsSiteAccess['locale'];                
@@ -90,7 +88,7 @@ class erLhcoreClassURL extends ezcUrl {
                 $moduleExist = $urlInstance->getParam( 'module' ) != '' && erLhcoreClassModule::getModule($urlInstance->getParam( 'module' )) === false;
                                   
                 if ( $moduleExist ) {
-                	
+                    
                 	// First try alias translation
                 	$resultItem = self::getTranslatedURL($urlInstance->getParam( 'module' ));
                 	if ( $resultItem !== false && $resultItem['type'] == self::TRANSLATION_URLALIAS ) {
@@ -109,9 +107,6 @@ class erLhcoreClassURL extends ezcUrl {
                 		$urlInstance = new erLhcoreClassURL(erLhcoreClassSystem::instance()->RequestURI, $urlCfgDefault);
                 	}
                 }
-                
-                
-                
             }
             
             self::$instance =  $urlInstance;        

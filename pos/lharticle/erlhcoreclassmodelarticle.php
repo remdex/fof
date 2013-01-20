@@ -34,6 +34,11 @@ $def->properties['publishtime']->columnName   = 'publishtime';
 $def->properties['publishtime']->propertyName = 'publishtime';
 $def->properties['publishtime']->propertyType = ezcPersistentObjectProperty::PHP_TYPE_STRING; 
 
+$def->properties['mtime'] = new ezcPersistentObjectProperty();
+$def->properties['mtime']->columnName   = 'mtime';
+$def->properties['mtime']->propertyName = 'mtime';
+$def->properties['mtime']->propertyType = ezcPersistentObjectProperty::PHP_TYPE_STRING; 
+
 $def->properties['descriptionoveride'] = new ezcPersistentObjectProperty();
 $def->properties['descriptionoveride']->columnName   = 'descriptionoveride';
 $def->properties['descriptionoveride']->propertyName = 'descriptionoveride';
@@ -48,11 +53,6 @@ $def->properties['has_photo'] = new ezcPersistentObjectProperty();
 $def->properties['has_photo']->columnName   = 'has_photo';
 $def->properties['has_photo']->propertyName = 'has_photo';
 $def->properties['has_photo']->propertyType = ezcPersistentObjectProperty::PHP_TYPE_INT; 
-
-$def->properties['category_id_parent'] = new ezcPersistentObjectProperty();
-$def->properties['category_id_parent']->columnName   = 'category_id_parent';
-$def->properties['category_id_parent']->propertyName = 'category_id_parent';
-$def->properties['category_id_parent']->propertyType = ezcPersistentObjectProperty::PHP_TYPE_INT; 
 
 $def->properties['pos'] = new ezcPersistentObjectProperty();
 $def->properties['pos']->columnName   = 'pos';

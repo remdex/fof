@@ -112,7 +112,7 @@ if (isset($_POST['Update_account']))
         	$tpl->set('sendinvite', $form->SendInvite);
         }
         
-        $tpl->set('errArr',$Errors);
+        $tpl->set('errors',$Errors);
     }
 }
 

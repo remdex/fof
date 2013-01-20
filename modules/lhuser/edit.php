@@ -94,7 +94,7 @@ if (isset($_POST['Update_account']))
         return ;
         
     }  else {
-        $tpl->set('errArr',$Errors);
+        $tpl->set('errors',$Errors);
     }
 }
 

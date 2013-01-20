@@ -31,7 +31,7 @@ if (isset($_POST['Update_group']) )
         return ;
         
     }  else {
-        $tpl->set('errArr',$Errors);
+        $tpl->set('errors',$Errors);
     }
 }
 

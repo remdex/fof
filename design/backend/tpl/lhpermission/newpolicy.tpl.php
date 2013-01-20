@@ -1,14 +1,12 @@
-<fieldset><legend><?=erTranslationClassLhTranslation::getInstance()->getTranslation('permission/newpolicy','New policy');?> - <?=$role->name?></legend>
+<h1><?=erTranslationClassLhTranslation::getInstance()->getTranslation('permission/newpolicy','New policy');?> - <?=$role->name?></h1>
 
 <div class="articlebody">
 
-<? if (isset($errArr)) : ?>
-    <? foreach ((array)$errArr as $error) : ?>
-    	<div class="error">*&nbsp;<?=$error;?></div>
-    <? endforeach; ?>
-<? endif;?>
+<? if (isset($errors)) : ?>
+		<?php include(erLhcoreClassDesign::designtpl('lhkernel/validation_error.tpl.php'));?>
+<? endif; ?>
 
-	<div><br />
+	<div>
 		<form action="<?=erLhcoreClassDesign::baseurl('/permission/editrole')?>/<?=$role->id?>" method="post">
 						
 			<fieldset><legend><?=erTranslationClassLhTranslation::getInstance()->getTranslation('permission/newpolicy','Assigned functions');?></legend> 			
@@ -33,17 +31,19 @@
 			     </td>
 			 </tr>
 			</table>			
-<br />
 
-			<input type="submit" class="default-button" name="Store_policy" value="<?=erTranslationClassLhTranslation::getInstance()->getTranslation('permission/newpolicy','Save');?>"/>
-			<input type="submit" class="default-button" name="Cancel_policy" value="<?=erTranslationClassLhTranslation::getInstance()->getTranslation('permission/newpolicy','Cancel');?>"/>
+
+			<input type="submit" class="small button" name="Store_policy" value="<?=erTranslationClassLhTranslation::getInstance()->getTranslation('permission/newpolicy','Save');?>"/>
+			<input type="submit" class="small button" name="Cancel_policy" value="<?=erTranslationClassLhTranslation::getInstance()->getTranslation('permission/newpolicy','Cancel');?>"/><br /><br />
+
+
 			</fieldset>
 					
 		</form>
 	</div>
 </div>
 
-</fieldset>
+
 
 <script type="text/javascript">
 $( "#ModuleSelectedID" ).change( function () { 
