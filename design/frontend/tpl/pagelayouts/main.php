@@ -38,7 +38,12 @@
     </div>
   </div>
      
-  <?php include_once(erLhcoreClassDesign::designtpl('pagelayouts/parts/page_footer.tpl.php'));?>
+<script type="text/javascript">
+//var _lactq = _lactq || [];
+//_lactq.push({'f':'dummy_callback','a':['argument']});
+</script>
+  
+<?php include_once(erLhcoreClassDesign::designtpl('pagelayouts/parts/page_footer.tpl.php'));?>
      
 </body>
 </html>

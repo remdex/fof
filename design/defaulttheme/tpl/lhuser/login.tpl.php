@@ -5,7 +5,7 @@
 	<?php include(erLhcoreClassDesign::designtpl('lhkernel/validation_error.tpl.php'));?>
 <? endif; ?>
 
-<?php include_once(erLhcoreClassDesign::designtpl('lhuser/open_id_block.tpl.php'));?>
+<?php //include_once(erLhcoreClassDesign::designtpl('lhuser/open_id_block.tpl.php'));?>
 
 <form method="post" action="<?=erLhcoreClassDesign::baseurl('user/login')?>">
 

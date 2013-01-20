@@ -36,3 +36,32 @@
   }
 
 })(jQuery, this);
+
+$.postJSON = function(url, data, callback) {
+	$.post(url, data, callback, "json");
+};
+
+// Lazy callback options
+var hw = {
+    formAddPath: WWW_DIR_JAVASCRIPT,		
+		
+	setPath : function (path)
+	{		
+		this.formAddPath = path;
+	}
+};
+
+$.fn.reverse = [].reverse;
+
+var _lactq = _lactq || [];
+var functionMap = {
+    'dummy_callback': function(arg){
+        alert('ff' + arg);
+    }
+};
+
+$(document).ready(function() {      
+    $.each(_lactq, function(index, value) {
+        functionMap[value.f].apply(hw,value.a);       
+    }); 
+});
