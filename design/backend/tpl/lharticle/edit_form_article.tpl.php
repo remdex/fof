@@ -20,7 +20,6 @@ $oFCKeditor->basePath = erLhcoreClassDesign::design('js/ckeditor').'/' ;
 CKFinder::SetupCKEditor($oFCKeditor, erLhcoreClassDesign::design('js/ckfinder/'));   
 $oFCKeditor->config['height'] = 300;
 $oFCKeditor->config['width'] = '99%';
-$oFCKeditor->config['customConfig'] = 'customConfigFile.js';
 $oFCKeditor->editor('ArticleIntro',$article->intro) ;
 ?>
         <br />
@@ -44,7 +43,6 @@ $oFCKeditor->basePath = erLhcoreClassDesign::design('js/ckeditor').'/' ;
 CKFinder::SetupCKEditor($oFCKeditor, erLhcoreClassDesign::design('js/ckfinder/')); 
 $oFCKeditor->config['height'] = 300;
 $oFCKeditor->config['width'] = '99%';
-$oFCKeditor->config['customConfig'] = 'customConfigFile.js';
 $oFCKeditor->editor('ArticleBody',$article->body) ;
 ?>
 <br />
