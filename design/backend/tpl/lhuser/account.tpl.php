@@ -3,11 +3,11 @@
 </div>
 
 <? if (isset($errors)) : ?>
-		<?php include(erLhcoreClassDesign::designtpl('lhkernel/validation_error.tpl.php'));?>
+	<?php include(erLhcoreClassDesign::designtpl('lhkernel/validation_error.tpl.php'));?>
 <? endif; ?>
 
-<? if (isset($account_updated) && $account_updated == 'done') : ?>
-	<div class="dataupdate"><?=erTranslationClassLhTranslation::getInstance()->getTranslation('user/account','Account updated');?></div>
+<? if (isset($account_updated) && $account_updated == 'done') : $msg = erTranslationClassLhTranslation::getInstance()->getTranslation('user/account','Account updated'); ?>
+	<?php include(erLhcoreClassDesign::designtpl('lhkernel/alert_success.tpl.php'));?>	
 <? endif; ?>
 
 <p><?=erTranslationClassLhTranslation::getInstance()->getTranslation('user/account','Do not enter password unless you want to change it');?></p>
