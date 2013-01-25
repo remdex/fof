@@ -7,7 +7,9 @@ if ( isset($_POST['CancelArticle']) ) {
     erLhcoreClassModule::redirect('article/managecategories');
     exit;
 }           
-        
+
+$_SESSION['has_access_to_editor'] = 1;
+
 if (isset($_POST['UpdateArticle']) || isset($_POST['SaveArticle']))
 {
     $Errors = erLhcoreClassArticle::validateCategory($Category);
@@ -16,8 +18,14 @@ if (isset($_POST['UpdateArticle']) || isset($_POST['SaveArticle']))
         
         $Category->saveThis();
         CSCacheAPC::getMem()->increaseCacheVersion('article_cache_version');        
-        if (isset($_POST['SaveArticle'])) {        
-            erLhcoreClassModule::redirect('article/managecategories');
+        if (isset($_POST['SaveArticle'])) { 
+              
+            $append = '';     
+            if ($Category->parent_id > 0) {
+                $append = '/'.$Category->id;
+            }
+            
+            erLhcoreClassModule::redirect('article/managecategories',$append);
             exit;
         } else {
             $tpl->set('updated',true);
@@ -28,15 +36,12 @@ if (isset($_POST['UpdateArticle']) || isset($_POST['SaveArticle']))
     }
 }
 
-
-
-
-
 $tpl->set('category',$Category);
 $Result['content'] = $tpl->fetch();
 
-
-$Result['path'] = array(array('title' => $Category->category_name));
+$Result['path'] = array();
+$Result['path'][] = array('url' => erLhcoreClassDesign::baseurl('article/managecategories').'/'.$Category->id, 'title' => $Category->category_name);
+$Result['path'][] = array('title' => 'Edit category');
 
 
 ?>

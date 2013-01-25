@@ -2,16 +2,14 @@
 $tpl = erLhcoreClassTemplate::getInstance( 'lharticle/new.tpl.php');
 
 $Article = new erLhcoreClassModelArticle();
-$Category = erLhcoreClassModelArticleCategory::getCategoryByID($Params['user_parameters']['category_id']);  
+$Category = erLhcoreClassModelArticleCategory::fetch($Params['user_parameters']['category_id']);  
 $Article->category_id = $Params['user_parameters']['category_id'];
-$Article->category_id_parent = $Category->parent; 
 $Article->publishtime = time(); 
-
 
 $_SESSION['has_access_to_editor'] = 1;
 
 if ( isset($_POST['CancelArticle']) ) {        
-    erLhcoreClassModule::redirect('article/managesubcategories','/'.$Article->category_id);
+    erLhcoreClassModule::redirect('article/managecategories','/'.$Article->category_id);
     exit;
 } 
 
@@ -24,7 +22,7 @@ if (isset($_POST['UpdateArticle']) || isset($_POST['SaveArticle']))
         $Article->saveThis();
                 
         if (isset($_POST['SaveArticle'])) {        
-            erLhcoreClassModule::redirect('article/managesubcategories','/'.$Article->category_id);
+            erLhcoreClassModule::redirect('article/managecategories','/'.$Article->category_id);
             exit;
         } else {
             $tpl->set('updated',true);

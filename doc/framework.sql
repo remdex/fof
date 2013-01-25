@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: localhost
--- Generation Time: Jan 19, 2013 at 08:24 PM
+-- Generation Time: Jan 25, 2013 at 10:06 PM
 -- Server version: 5.5.28
 -- PHP Version: 5.4.10
 
@@ -15,10 +15,6 @@ SET time_zone = "+00:00";
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
 /*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
 /*!40101 SET NAMES utf8 */;
-
---
--- Database: `web_kim_framework`
---
 
 -- --------------------------------------------------------
 
@@ -216,13 +212,31 @@ CREATE TABLE IF NOT EXISTS `lh_article` (
   `descriptionoveride` text NOT NULL,
   `category_id` int(11) NOT NULL,
   `has_photo` int(11) NOT NULL,
-  `category_id_parent` int(11) NOT NULL,
   `pos` int(11) NOT NULL,
   `alias_url` varchar(100) NOT NULL,
   `alternative_url` varchar(100) NOT NULL,
   `is_modal` int(11) NOT NULL,
+  `mtime` int(11) NOT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=7 ;
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=23 ;
+
+--
+-- Dumping data for table `lh_article`
+--
+
+INSERT INTO `lh_article` (`id`, `article_name`, `intro`, `file_name`, `body`, `publishtime`, `descriptionoveride`, `category_id`, `has_photo`, `pos`, `alias_url`, `alternative_url`, `is_modal`, `mtime`) VALUES
+(8, 'sdfsdfsdf', '<p>asdasdads</p>\r\n', '', '<p>asdadsad</p>\r\n', 1358630308, '', 1, 0, 0, 'about-us', '', 0, 0),
+(9, 'sdfsdfsdf', '<p>asdasdads</p>\r\n', '', '<p>asdadsad</p>\r\n', 1358630377, '', 1, 0, 0, 'about-us', '', 0, 0),
+(11, 'Article name', '<p>Article body</p>\r\n', '', '', 1358674058, '', 0, 0, 0, '', '', 0, 0),
+(12, 'sdf', '<p>sdf</p>\r\n', '', '', 1358674190, '', 1, 0, 0, '', '', 0, 1358674754),
+(13, 'f', '<p>sdfsdf</p>\r\n', '09bcc23748c28d73814752ba84975c883f921cb4.jpg', '', 1358674234, '', 1, 1, 0, '', '', 0, 1358674748),
+(14, 'hj', '<p>ghj</p>\r\n', '', '', 1358679167, '', 1, 0, 0, '', '', 0, 1358679168),
+(15, 'ghj', '<p>ghj</p>\r\n', '', '', 1358679173, '', 1, 0, 0, '', '', 0, 1358679173),
+(16, 'ghj', '<p>gj</p>\r\n', '', '', 1358679178, '', 1, 0, 0, '', '', 0, 1358679178),
+(17, 'Without alias page', '<p>ghj</p>\r\n', '', '', 1358679183, '', 1, 0, 0, '', '', 0, 1358694433),
+(18, 'gh', '<p>ghj</p>\r\n', '', '', 1358679188, '', 1, 0, 0, '', '', 0, 1358679188),
+(19, 'ghj', '<p>ghj</p>\r\n', '', '', 1358679195, '', 1, 0, 0, '', '', 0, 1358679195),
+(20, 'fgh', '<p>fgh</p>\r\n', '', '', 1359141958, '', 1, 0, 0, '', '', 0, 1359141958);
 
 -- --------------------------------------------------------
 
@@ -234,18 +248,22 @@ CREATE TABLE IF NOT EXISTS `lh_article_category` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `category_name` varchar(100) NOT NULL,
   `placement` int(11) NOT NULL,
-  `descriptionoveride` varchar(250) NOT NULL,
   `intro` text NOT NULL,
-  `parent` int(11) NOT NULL,
+  `parent_id` int(11) NOT NULL,
+  `pos` int(11) NOT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=2 ;
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=7 ;
 
 --
 -- Dumping data for table `lh_article_category`
 --
 
-INSERT INTO `lh_article_category` (`id`, `category_name`, `placement`, `descriptionoveride`, `intro`, `parent`) VALUES
-(1, 'Footer articles', 0, '', '', 0);
+INSERT INTO `lh_article_category` (`id`, `category_name`, `placement`, `intro`, `parent_id`, `pos`) VALUES
+(1, 'Footer articles', 20, '<p><iframe frameborder="0" height="315" scrolling="no" src="http://www.youtube.com/embed/7W807-GokEQ" width="560"></iframe></p>\r\n', 0, 0),
+(2, 'Top menu', 10, '<p>top meniu</p>\r\n', 0, 0),
+(4, 'First menu item', 40, '<p>first menu item</p>\r\n', 2, 0),
+(5, 'Here new', 10, '<p>gdfgdg</p>\r\n', 2, 0),
+(6, 'dfg', 30, '<p>dfg</p>\r\n', 2, 10);
 
 -- --------------------------------------------------------
 
@@ -257,16 +275,18 @@ CREATE TABLE IF NOT EXISTS `lh_article_static` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `name` varchar(200) NOT NULL,
   `content` text NOT NULL,
+  `mtime` int(11) NOT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=4 ;
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=5 ;
 
 --
 -- Dumping data for table `lh_article_static`
 --
 
-INSERT INTO `lh_article_static` (`id`, `name`, `content`) VALUES
-(2, 'Frontpage bottom article', ''),
-(3, 'Frontpage introduction article', '\n');
+INSERT INTO `lh_article_static` (`id`, `name`, `content`, `mtime`) VALUES
+(2, 'Frontpage bottom article', '', 0),
+(3, 'Frontpage introduction article hjhj', '<p><img alt="" src="/var/media/images/Desert.jpg" style="width: 124px; height: 93px;" />hfghfgh &nbsp;Å²ÄÆ&scaron;werÄ™Ä—Ä¨Ä— c</p>\r\n\r\n<p>ghfghfgh &scaron;&scaron;ÄÆ&Scaron;&Scaron;&Scaron;&Scaron;</p>\r\n\r\n<p>fghfghfghfgh</p>\r\n\r\n<p>Å³Å³&scaron;&scaron;&scaron;&scaron;</p>\r\n\r\n<p>ghfgh</p>\r\n', 1359144280),
+(4, 'New static', '<p>All should work now</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><iframe allowfullscreen="" frameborder="0" height="315" src="http://www.youtube.com/embed/SKq9IUO8J2E" width="420"></iframe></p>\r\n\r\n<p>asd</p>\r\n', 1358762344);
 
 -- --------------------------------------------------------
 
@@ -347,7 +367,7 @@ CREATE TABLE IF NOT EXISTS `lh_groupuser` (
   KEY `group_id` (`group_id`),
   KEY `user_id` (`user_id`),
   KEY `group_id_2` (`group_id`,`user_id`)
-) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=36 ;
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=37 ;
 
 --
 -- Dumping data for table `lh_groupuser`
@@ -364,6 +384,7 @@ INSERT INTO `lh_groupuser` (`id`, `group_id`, `user_id`) VALUES
 (27, 2, 12),
 (29, 2, 13),
 (2, 3, 2),
+(36, 3, 18),
 (26, 4, 11),
 (34, 4, 16);
 
@@ -664,14 +685,15 @@ CREATE TABLE IF NOT EXISTS `lh_users` (
   `lastactivity` int(11) NOT NULL,
   `disabled` int(11) NOT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=18 ;
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=19 ;
 
 --
 -- Dumping data for table `lh_users`
 --
 
 INSERT INTO `lh_users` (`id`, `username`, `password`, `email`, `lastactivity`, `disabled`) VALUES
-(1, 'adminasdasd', 'ac9abaf59707a046485dbdc37995e6bb459ab0d1', 'admin@coral.lt', 0, 0);
+(1, 'adminasdasd', 'ac9abaf59707a046485dbdc37995e6bb459ab0d1', 'admin@coral.lt', 0, 0),
+(18, 'anonymous', '358c9ceeda66dfa7bddefbd9e4f1993fbbf7e652', 'anonymous@gmail.com', 0, 0);
 
 -- --------------------------------------------------------
 
@@ -727,4 +749,4 @@ CREATE TABLE IF NOT EXISTS `lh_user_oauth` (
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
-/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */; 

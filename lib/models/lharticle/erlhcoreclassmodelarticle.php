@@ -52,7 +52,7 @@ class erLhcoreClassModelArticle {
            
            foreach ($params['filter'] as $field => $fieldValue)
            {
-               $conditions[] = $q->expr->eq( $field, $fieldValue );
+               $conditions[] = $q->expr->eq( $field, $q->bindValue($fieldValue) );
            }
            
            $q->where( 
@@ -113,7 +113,7 @@ class erLhcoreClassModelArticle {
        {
            foreach ($params['filterlt'] as $field => $fieldValue)
            {
-               $conditions[] = $q->expr->lt( $field, $fieldValue );
+               $conditions[] = $q->expr->lt( $field, $q->bindValue($fieldValue) );
            } 
        }
       
@@ -121,7 +121,7 @@ class erLhcoreClassModelArticle {
        {
            foreach ($params['filtergt'] as $field => $fieldValue)
            {
-               $conditions[] = $q->expr->gt( $field, $fieldValue );
+               $conditions[] = $q->expr->gt( $field, $q->bindValue($fieldValue));
            } 
        }      
       

@@ -78,7 +78,7 @@ class erLhcoreClassArticle {
         if ( !$form->hasValidData( 'CategoryPos' ) ) {  
             $Errors[] =  erTranslationClassLhTranslation::getInstance()->getTranslation('user/new','Please enter category position');        
         } else {
-            $Static->placement = $form->CategoryPos;
+            $Static->pos = $form->CategoryPos;
         }
         
         return $Errors;

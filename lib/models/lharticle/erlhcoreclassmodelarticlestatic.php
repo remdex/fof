@@ -70,7 +70,7 @@ class erLhcoreClassModelArticleStatic {
    		}
    }
    
-   public static function getArticles($paramsSearch = array())
+   public static function getList($paramsSearch = array())
    {             
 	   	$paramsDefault = array('limit' => 32, 'offset' => 0);
 	

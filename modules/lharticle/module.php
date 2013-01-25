@@ -26,7 +26,7 @@ $ViewList['newstatic'] = array(
     'script' => 'newstatic.php',
     'params' => array(),    
     'functions' => array( 'edit' )
-    );
+);
 
 // Articles with categories
 $ViewList['category'] = array(
@@ -34,15 +34,9 @@ $ViewList['category'] = array(
 		'params' => array('category_id')
 );
 
-$ViewList['subcategory'] = array(
-		'script' => 'subcategory.php',
+$ViewList['newcategory'] = array(
+		'script' => 'newcategory.php',
 		'params' => array('category_id')
-);
-
-$ViewList['managesubcategories'] = array(
-		'script' => 'managesubcategories.php',
-		'params' => array('category_id'),
-		'functions' => array( 'edit' )
 );
 
 $ViewList['view'] = array(
@@ -80,14 +74,9 @@ $ViewList['new'] = array(
 		'functions' => array( 'edit' )
 );
 
-$ViewList['section'] = array(
-		'script' => 'section.php',
-		'params' => array('section_id')
-);
- 
 $ViewList['managecategories'] = array(
 		'script' => 'managecategories.php',
-		'params' => array(),
+		'params' => array('category_id'),
 		'functions' => array( 'edit' )
 );
 

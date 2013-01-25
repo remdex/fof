@@ -9,7 +9,7 @@
     <th width="1%">&nbsp;</th>      
 </tr>
 </thead>
-<? foreach (erLhcoreClassModelArticleStatic::getArticles() as $article) : ?>
+<? foreach (erLhcoreClassModelArticleStatic::getList(array('limit' => 100000)) as $article) : ?>
     <tr>
         <td width="1%"><?=htmlspecialchars($article->id)?></td>
         <td><?=htmlspecialchars($article->name)?></td>      
