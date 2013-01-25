@@ -3,7 +3,11 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: localhost
+<<<<<<< HEAD
 -- Generation Time: Jan 25, 2013 at 10:06 PM
+=======
+-- Generation Time: Jan 24, 2013 at 07:42 AM
+>>>>>>> 5fa9aa35ee2c2b1377fa7d5aaf5bddba50308894
 -- Server version: 5.5.28
 -- PHP Version: 5.4.10
 
@@ -218,7 +222,11 @@ CREATE TABLE IF NOT EXISTS `lh_article` (
   `is_modal` int(11) NOT NULL,
   `mtime` int(11) NOT NULL,
   PRIMARY KEY (`id`)
+<<<<<<< HEAD
 ) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=23 ;
+=======
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=20 ;
+>>>>>>> 5fa9aa35ee2c2b1377fa7d5aaf5bddba50308894
 
 --
 -- Dumping data for table `lh_article`
@@ -235,8 +243,12 @@ INSERT INTO `lh_article` (`id`, `article_name`, `intro`, `file_name`, `body`, `p
 (16, 'ghj', '<p>gj</p>\r\n', '', '', 1358679178, '', 1, 0, 0, '', '', 0, 1358679178),
 (17, 'Without alias page', '<p>ghj</p>\r\n', '', '', 1358679183, '', 1, 0, 0, '', '', 0, 1358694433),
 (18, 'gh', '<p>ghj</p>\r\n', '', '', 1358679188, '', 1, 0, 0, '', '', 0, 1358679188),
+<<<<<<< HEAD
 (19, 'ghj', '<p>ghj</p>\r\n', '', '', 1358679195, '', 1, 0, 0, '', '', 0, 1358679195),
 (20, 'fgh', '<p>fgh</p>\r\n', '', '', 1359141958, '', 1, 0, 0, '', '', 0, 1359141958);
+=======
+(19, 'ghj', '<p>ghj</p>\r\n', '', '', 1358679195, '', 1, 0, 0, '', '', 0, 1358679195);
+>>>>>>> 5fa9aa35ee2c2b1377fa7d5aaf5bddba50308894
 
 -- --------------------------------------------------------
 
@@ -258,12 +270,17 @@ CREATE TABLE IF NOT EXISTS `lh_article_category` (
 -- Dumping data for table `lh_article_category`
 --
 
+<<<<<<< HEAD
 INSERT INTO `lh_article_category` (`id`, `category_name`, `placement`, `intro`, `parent_id`, `pos`) VALUES
 (1, 'Footer articles', 20, '<p><iframe frameborder="0" height="315" scrolling="no" src="http://www.youtube.com/embed/7W807-GokEQ" width="560"></iframe></p>\r\n', 0, 0),
 (2, 'Top menu', 10, '<p>top meniu</p>\r\n', 0, 0),
 (4, 'First menu item', 40, '<p>first menu item</p>\r\n', 2, 0),
 (5, 'Here new', 10, '<p>gdfgdg</p>\r\n', 2, 0),
 (6, 'dfg', 30, '<p>dfg</p>\r\n', 2, 10);
+=======
+INSERT INTO `lh_article_category` (`id`, `category_name`, `placement`, `descriptionoveride`, `intro`, `parent`) VALUES
+(1, 'Footer articles', 0, '', '<p><iframe frameborder="0" height="315" scrolling="no" src="http://www.youtube.com/embed/7W807-GokEQ" width="560"></iframe></p>\r\n', 0);
+>>>>>>> 5fa9aa35ee2c2b1377fa7d5aaf5bddba50308894
 
 -- --------------------------------------------------------
 
@@ -285,7 +302,11 @@ CREATE TABLE IF NOT EXISTS `lh_article_static` (
 
 INSERT INTO `lh_article_static` (`id`, `name`, `content`, `mtime`) VALUES
 (2, 'Frontpage bottom article', '', 0),
+<<<<<<< HEAD
 (3, 'Frontpage introduction article hjhj', '<p><img alt="" src="/var/media/images/Desert.jpg" style="width: 124px; height: 93px;" />hfghfgh &nbsp;Å²ÄÆ&scaron;werÄ™Ä—Ä¨Ä— c</p>\r\n\r\n<p>ghfghfgh &scaron;&scaron;ÄÆ&Scaron;&Scaron;&Scaron;&Scaron;</p>\r\n\r\n<p>fghfghfghfgh</p>\r\n\r\n<p>Å³Å³&scaron;&scaron;&scaron;&scaron;</p>\r\n\r\n<p>ghfgh</p>\r\n', 1359144280),
+=======
+(3, 'Frontpage introduction article hjhj', '<p><img alt="" src="/var/media/images/Desert.jpg" style="width: 124px; height: 93px;" />hfghfgh &nbsp;Ųįšweręėčė c</p>\r\n\r\n<p>ghfghfgh ššįŠŠŠŠ</p>\r\n\r\n<p>fghfghfghfgh</p>\r\n\r\n<p>ųųšššš</p>\r\n', 1358674631),
+>>>>>>> 5fa9aa35ee2c2b1377fa7d5aaf5bddba50308894
 (4, 'New static', '<p>All should work now</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><iframe allowfullscreen="" frameborder="0" height="315" src="http://www.youtube.com/embed/SKq9IUO8J2E" width="420"></iframe></p>\r\n\r\n<p>asd</p>\r\n', 1358762344);
 
 -- --------------------------------------------------------
