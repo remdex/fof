@@ -29,6 +29,11 @@ $def->properties['pos']->columnName   = 'pos';
 $def->properties['pos']->propertyName = 'pos';
 $def->properties['pos']->propertyType = ezcPersistentObjectProperty::PHP_TYPE_INT; 
 
+$def->properties['hide_articles'] = new ezcPersistentObjectProperty();
+$def->properties['hide_articles']->columnName   = 'hide_articles';
+$def->properties['hide_articles']->propertyName = 'hide_articles';
+$def->properties['hide_articles']->propertyType = ezcPersistentObjectProperty::PHP_TYPE_INT; 
+
 
 return $def; 
 

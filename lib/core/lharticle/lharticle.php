@@ -59,11 +59,20 @@ class erLhcoreClassArticle {
     		),
     		'Intro' => new ezcInputFormDefinitionElement(
     				ezcInputFormDefinitionElement::OPTIONAL, 'unsafe_raw'
+    		),
+    		'HideArticles' => new ezcInputFormDefinitionElement(
+    				ezcInputFormDefinitionElement::OPTIONAL, 'boolean'
     		)
         );
         
         $form = new ezcInputForm( INPUT_POST, $definition );
         $Errors = array();
+        
+        if ( $form->hasValidData( 'HideArticles' ) && $form->HideArticles == true ) {
+        	$Static->hide_articles = 1;
+        } else {
+            $Static->hide_articles = 0;
+        }
         
         if ( !$form->hasValidData( 'CategoryName' ) || $form->CategoryName == '' ) {
         	$Errors[] =  erTranslationClassLhTranslation::getInstance()->getTranslation('user/new','Please enter category name');

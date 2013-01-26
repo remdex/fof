@@ -3,11 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: localhost
-<<<<<<< HEAD
--- Generation Time: Jan 25, 2013 at 10:06 PM
-=======
--- Generation Time: Jan 24, 2013 at 07:42 AM
->>>>>>> 5fa9aa35ee2c2b1377fa7d5aaf5bddba50308894
+-- Generation Time: Jan 26, 2013 at 11:30 AM
 -- Server version: 5.5.28
 -- PHP Version: 5.4.10
 
@@ -19,6 +15,10 @@ SET time_zone = "+00:00";
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
 /*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
 /*!40101 SET NAMES utf8 */;
+
+--
+-- Database: `web_kim_framework`
+--
 
 -- --------------------------------------------------------
 
@@ -222,11 +222,7 @@ CREATE TABLE IF NOT EXISTS `lh_article` (
   `is_modal` int(11) NOT NULL,
   `mtime` int(11) NOT NULL,
   PRIMARY KEY (`id`)
-<<<<<<< HEAD
-) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=23 ;
-=======
-) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=20 ;
->>>>>>> 5fa9aa35ee2c2b1377fa7d5aaf5bddba50308894
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=24 ;
 
 --
 -- Dumping data for table `lh_article`
@@ -243,12 +239,9 @@ INSERT INTO `lh_article` (`id`, `article_name`, `intro`, `file_name`, `body`, `p
 (16, 'ghj', '<p>gj</p>\r\n', '', '', 1358679178, '', 1, 0, 0, '', '', 0, 1358679178),
 (17, 'Without alias page', '<p>ghj</p>\r\n', '', '', 1358679183, '', 1, 0, 0, '', '', 0, 1358694433),
 (18, 'gh', '<p>ghj</p>\r\n', '', '', 1358679188, '', 1, 0, 0, '', '', 0, 1358679188),
-<<<<<<< HEAD
 (19, 'ghj', '<p>ghj</p>\r\n', '', '', 1358679195, '', 1, 0, 0, '', '', 0, 1358679195),
-(20, 'fgh', '<p>fgh</p>\r\n', '', '', 1359141958, '', 1, 0, 0, '', '', 0, 1359141958);
-=======
-(19, 'ghj', '<p>ghj</p>\r\n', '', '', 1358679195, '', 1, 0, 0, '', '', 0, 1358679195);
->>>>>>> 5fa9aa35ee2c2b1377fa7d5aaf5bddba50308894
+(20, 'fgh', '<p>fgh</p>\r\n', '', '', 1359141958, '', 1, 0, 0, '', '', 0, 1359141958),
+(23, 'sdf', '<p>sdf</p>\r\n', '', '', 1359192585, '', 5, 0, 0, '', '', 0, 1359192585);
 
 -- --------------------------------------------------------
 
@@ -259,28 +252,27 @@ INSERT INTO `lh_article` (`id`, `article_name`, `intro`, `file_name`, `body`, `p
 CREATE TABLE IF NOT EXISTS `lh_article_category` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `category_name` varchar(100) NOT NULL,
-  `placement` int(11) NOT NULL,
   `intro` text NOT NULL,
   `parent_id` int(11) NOT NULL,
   `pos` int(11) NOT NULL,
+  `hide_articles` int(11) NOT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=7 ;
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=11 ;
 
 --
 -- Dumping data for table `lh_article_category`
 --
 
-<<<<<<< HEAD
-INSERT INTO `lh_article_category` (`id`, `category_name`, `placement`, `intro`, `parent_id`, `pos`) VALUES
-(1, 'Footer articles', 20, '<p><iframe frameborder="0" height="315" scrolling="no" src="http://www.youtube.com/embed/7W807-GokEQ" width="560"></iframe></p>\r\n', 0, 0),
-(2, 'Top menu', 10, '<p>top meniu</p>\r\n', 0, 0),
-(4, 'First menu item', 40, '<p>first menu item</p>\r\n', 2, 0),
-(5, 'Here new', 10, '<p>gdfgdg</p>\r\n', 2, 0),
-(6, 'dfg', 30, '<p>dfg</p>\r\n', 2, 10);
-=======
-INSERT INTO `lh_article_category` (`id`, `category_name`, `placement`, `descriptionoveride`, `intro`, `parent`) VALUES
-(1, 'Footer articles', 0, '', '<p><iframe frameborder="0" height="315" scrolling="no" src="http://www.youtube.com/embed/7W807-GokEQ" width="560"></iframe></p>\r\n', 0);
->>>>>>> 5fa9aa35ee2c2b1377fa7d5aaf5bddba50308894
+INSERT INTO `lh_article_category` (`id`, `category_name`, `intro`, `parent_id`, `pos`, `hide_articles`) VALUES
+(1, 'Footer articles', '<p><iframe frameborder="0" height="315" scrolling="no" src="http://www.youtube.com/embed/7W807-GokEQ" width="560"></iframe></p>\r\n', 0, 0, 0),
+(2, 'Top menu', '<p>top meniu</p>\r\n', 0, 0, 0),
+(4, 'Support project', '<p style="margin: 1em 0px 0px; padding: 0px; font-family: Helvetica, Arial, Verdana, sans-serif; font-size: 12px; line-height: normal;">Developing whole application takes a lot of time. So if you want to speedup application development you can make contributions to projects. You can support by paypal or join project itself.</p>\r\n\r\n<p style="margin: 1em 0px 0px; padding: 0px; font-family: Helvetica, Arial, Verdana, sans-serif; font-size: 12px; line-height: normal;">Currently now I&#39;m looking for people who could make new translations or fix current grammar mistakes :D. I would be very glad if someone could review English translations :). Just write me a letter.</p>\r\n', 2, 10, 0),
+(5, 'News', '', 2, 0, 0),
+(6, 'Documentation', '<p>dfg</p>\r\n', 2, 20, 0),
+(7, 'Requirements', '<p><span style="font-family: Helvetica, Arial, Verdana, sans-serif; font-size: 12px; line-height: normal;">Live helper chat requires these software components</span></p>\r\n\r\n<ol style="margin: 2px 0px 10px 15px; padding-right: 0px; padding-left: 0px; font-family: Helvetica, Arial, Verdana, sans-serif; font-size: 12px; line-height: normal;">\r\n	<li style="margin: 0px; padding: 0px;">PHP 5.x version</li>\r\n	<li style="margin: 0px; padding: 0px;">Mysql 4.x or higher version&nbsp;</li>\r\n</ol>\r\n', 2, 30, 0),
+(8, 'Features', '', 2, 40, 0),
+(9, 'How to install', '<p><span style="font-family: Helvetica, Arial, Verdana, sans-serif; font-size: 12px; line-height: normal;">Point your browser to&nbsp;</span><strong style="margin: 0px; padding: 0px; font-family: Helvetica, Arial, Verdana, sans-serif; font-size: 12px; line-height: normal;">http://&lt;install_domain&gt;/&lt;install_path&gt;/index.php/install/install/</strong><span style="font-family: Helvetica, Arial, Verdana, sans-serif; font-size: 12px; line-height: normal;">and follow installation instructions.</span></p>\r\n', 2, 50, 0),
+(10, 'Screenshots', '<p>All provided application screenshots are described in the documentation.</p>\r\n<h3>Application main window</h3>\r\n<a class="image-fancy" href="/docimages/main-window/main-window.png"><img src="/docimages/main-window/thumbnails/main-window.png"></a>\r\n\r\n<h3>Chats managing</h3>\r\n<a class="image-fancy" href="/docimages/chat/chat-activelist.png"><img src="/docimages/chat/thumbnails/chat-activelist.png"></a>\r\n<a class="image-fancy" href="/docimages/chat/chat-listing.png"><img src="/docimages/chat/thumbnails/chat-listing.png"></a>\r\n<a class="image-fancy" href="/docimages/chat/chat-pending-transfer.png"><img src="/docimages/chat/thumbnails/chat-pending-transfer.png"></a>\r\n<a class="image-fancy" href="/docimages/chat/chat-transfer.png"><img src="/docimages/chat/thumbnails/chat-transfer.png"></a>\r\n<a class="image-fancy" href="/docimages/chat/chat-single.png"><img src="/docimages/chat/thumbnails/chat-single.png"></a>\r\n<a class="image-fancy" href="/docimages/chat/chat-window.png"><img src="/docimages/chat/thumbnails/chat-window.png"></a>\r\n<a class="image-fancy" href="/docimages/chat/chat-rooms.png"><img src="/docimages/chat/thumbnails/chat-rooms.png"></a>\r\n<a class="image-fancy" href="/docimages/chat/chat-list.png"><img src="/docimages/chat/thumbnails/chat-list.png"></a>\r\n\r\n<h3>Users, groups managing</h3>\r\n<a class="image-fancy" href="/docimages/users/account.png"><img src="/docimages/users/thumbnails/account.png"></a>\r\n<a class="image-fancy" href="/docimages/users/edit-user.png"><img src="/docimages/users/thumbnails/edit-user.png"></a>\r\n<a class="image-fancy" href="/docimages/users/new-user.png"><img src="/docimages/users/thumbnails/new-user.png"></a>\r\n<a class="image-fancy" href="/docimages/users/list-users.png"><img src="/docimages/users/thumbnails/list-users.png"></a>\r\n\r\n<h3>Permissions management</h3>\r\n<a class="image-fancy" href="/docimages/roles/role-assing-group.png"><img src="/docimages/roles/thumbnails/role-assing-group.png"></a>\r\n<a class="image-fancy" href="/docimages/roles/role-edit.png"><img src="/docimages/roles/thumbnails/role-edit.png"></a>\r\n<a class="image-fancy" href="/docimages/roles/role-assign-policy.png"><img src="/docimages/roles/thumbnails/role-assign-policy.png"></a>\r\n<a class="image-fancy" href="/docimages/roles/new-role.png"><img src="/docimages/roles/thumbnails/new-role.png"></a>\r\n<a class="image-fancy" href="/docimages/roles/roles.png"><img src="/docimages/roles/thumbnails/roles.png"></a>\r\n\r\n<h3>Javascript code generation for integration</h3>\r\n<a class="image-fancy" href="/docimages/html/code-html.png"><img src="/docimages/html/thumbnails/code-html.png"></a>\r\n\r\n<h3>Departments managing screenshots</h3>\r\n<a class="image-fancy" href="/docimages/departaments/edit-departament.png"><img src="/docimages/departaments/thumbnails/edit-departament.png"></a>\r\n<a class="image-fancy" href="/docimages/departaments/new-departament.png"><img src="/docimages/departaments/thumbnails/new-departament.png"></a>\r\n<a class="image-fancy" href="/docimages/departaments/departament-add-icon.png"><img src="/docimages/departaments/thumbnails/departament-add-icon.png"></a>\r\n<a class="image-fancy" href="/docimages/departaments/startchat-departament.png"><img src="/docimages/departaments/thumbnails/startchat-departament.png"></a>\r\n<a class="image-fancy" href="/docimages/departaments/departaments-list.png"><img src="/docimages/departaments/thumbnails/departaments-list.png"></a>\r\n\r\n<h3>Administrator logging</h3>\r\n<a class="image-fancy" href="/docimages/login/login.png"><img src="/docimages/login/thumbnails/login.png"></a>\r\n\r\n<h3>Application install process</h3>\r\n<a class="image-fancy" href="/docimages/install/install-start.png"><img src="/docimages/install/thumbnails/install-start.png"></a>\r\n<a class="image-fancy" href="/docimages/install/step-2.png"><img src="/docimages/install/thumbnails/step-2.png"></a>\r\n<a class="image-fancy" href="/docimages/install/step-3.png"><img src="/docimages/install/thumbnails/step-3.png"></a>\r\n<a class="image-fancy" href="/docimages/install/step-4.png"><img src="/docimages/install/thumbnails/step-4.png"></a>\r\n<a class="image-fancy" href="/docimages/install/already-installed.png"><img src="/docimages/install/thumbnails/already-installed.png"></a>\r\n\r\n<h3>Application from user side</h3>\r\n<a class="image-fancy" href="/docimages/userside/start-chat.png"><img src="/docimages/userside/thumbnails/start-chat.png"></a>\r\n<a class="image-fancy" href="/docimages/userside/user-chat.png"><img src="/docimages/userside/thumbnails/user-chat.png"></a>\r\n\r\n<h3>Desktop client screenshots</h3>\r\n<a class="image-fancy" href="/docimages/dekstop-client/main-window/try-icon.png"><img src="/docimages/dekstop-client/main-window/thumbnails/try-icon.png"></a>\r\n<a class="image-fancy" href="/docimages/dekstop-client/main-window/main-window.png"><img src="/docimages/dekstop-client/main-window/thumbnails/main-window.png"></a>\r\n<a class="image-fancy" href="/docimages/dekstop-client/logging/login-as-dialog.png"><img src="/docimages/dekstop-client/logging/thumbnails/login-as-dialog.png"></a>\r\n<a class="image-fancy" href="/docimages/dekstop-client/logging/login-as-menu.png"><img src="/docimages/dekstop-client/logging/thumbnails/login-as-menu.png"></a>\r\n<a class="image-fancy" href="/docimages/dekstop-client/logging/login-dialog.png"><img src="/docimages/dekstop-client/logging/thumbnails/login-dialog.png"></a>\r\n<a class="image-fancy" href="/docimages/dekstop-client/chat-rooms/mdi-window.png"><img src="/docimages/dekstop-client/chat-rooms/thumbnails/mdi-window.png"></a>\r\n<a class="image-fancy" href="/docimages/dekstop-client/chat-rooms/chat-transfer.png"><img src="/docimages/dekstop-client/chat-rooms/thumbnails/chat-transfer.png"></a>\r\n<a class="image-fancy" href="/docimages/dekstop-client/chat-rooms/separate-window.png"><img src="/docimages/dekstop-client/chat-rooms/thumbnails/separate-window.png"></a>\r\n<a class="image-fancy" href="/docimages/dekstop-client/chat-rooms/chat-as-tab.png"><img src="/docimages/dekstop-client/chat-rooms/thumbnails/chat-as-tab.png"></a>\r\n<a class="image-fancy" href="/docimages/dekstop-client/chat-rooms/closed-chats-menu.png"><img src="/docimages/dekstop-client/chat-rooms/thumbnails/closed-chats-menu.png"></a>\r\n<a class="image-fancy" href="/docimages/dekstop-client/chat-rooms/active-chats-menu.png"><img src="/docimages/dekstop-client/chat-rooms/thumbnails/active-chats-menu.png"></a>\r\n<a class="image-fancy" href="/docimages/dekstop-client/chat-rooms/transfered-chats-menu.png"><img src="/docimages/dekstop-client/chat-rooms/thumbnails/transfered-chats-menu.png"></a>\r\n<a class="image-fancy" href="/docimages/dekstop-client/chat-rooms/pending-chats-menu.png"><img src="/docimages/dekstop-client/chat-rooms/thumbnails/pending-chats-menu.png"></a>\r\n<a class="image-fancy" href="/docimages/dekstop-client/chat-rooms/chat-rooms-expanded.png"><img src="/docimages/dekstop-client/chat-rooms/thumbnails/chat-rooms-expanded.png"></a>\r\n<a class="image-fancy" href="/docimages/dekstop-client/chat-rooms/chat-rooms-general.png"><img src="/docimages/dekstop-client/chat-rooms/thumbnails/chat-rooms-general.png"></a>\r\n<a class="image-fancy" href="/docimages/dekstop-client/chat-rooms/transfered-chat-tooltop.png"><img src="/docimages/dekstop-client/chat-rooms/thumbnails/transfered-chat-tooltop.png"></a>\r\n<a class="image-fancy" href="/docimages/dekstop-client/chat-rooms/pending-chat-tooltip.png"><img src="/docimages/dekstop-client/chat-rooms/thumbnails/pending-chat-tooltip.png"></a>\r\n<a class="image-fancy" href="/docimages/dekstop-client/chat-rooms/chat-rooms-menu.png"><img src="/docimages/dekstop-client/chat-rooms/thumbnails/chat-rooms-menu.png"></a>\r\n\r\n<script type="text/javascript">	\r\n		$(function(){			\r\n				$(''.image-fancy'').fancyzoom({Speed:0,showoverlay:false});\r\n			});\r\n</script>', 2, 60, 0);
 
 -- --------------------------------------------------------
 
@@ -302,11 +294,7 @@ CREATE TABLE IF NOT EXISTS `lh_article_static` (
 
 INSERT INTO `lh_article_static` (`id`, `name`, `content`, `mtime`) VALUES
 (2, 'Frontpage bottom article', '', 0),
-<<<<<<< HEAD
 (3, 'Frontpage introduction article hjhj', '<p><img alt="" src="/var/media/images/Desert.jpg" style="width: 124px; height: 93px;" />hfghfgh &nbsp;Å²ÄÆ&scaron;werÄ™Ä—Ä¨Ä— c</p>\r\n\r\n<p>ghfghfgh &scaron;&scaron;ÄÆ&Scaron;&Scaron;&Scaron;&Scaron;</p>\r\n\r\n<p>fghfghfghfgh</p>\r\n\r\n<p>Å³Å³&scaron;&scaron;&scaron;&scaron;</p>\r\n\r\n<p>ghfgh</p>\r\n', 1359144280),
-=======
-(3, 'Frontpage introduction article hjhj', '<p><img alt="" src="/var/media/images/Desert.jpg" style="width: 124px; height: 93px;" />hfghfgh &nbsp;Ųįšweręėčė c</p>\r\n\r\n<p>ghfghfgh ššįŠŠŠŠ</p>\r\n\r\n<p>fghfghfghfgh</p>\r\n\r\n<p>ųųšššš</p>\r\n', 1358674631),
->>>>>>> 5fa9aa35ee2c2b1377fa7d5aaf5bddba50308894
 (4, 'New static', '<p>All should work now</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><iframe allowfullscreen="" frameborder="0" height="315" src="http://www.youtube.com/embed/SKq9IUO8J2E" width="420"></iframe></p>\r\n\r\n<p>asd</p>\r\n', 1358762344);
 
 -- --------------------------------------------------------

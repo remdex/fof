@@ -20,6 +20,7 @@ class erLhcoreClassModelArticleCategory {
                'intro'              => $this->intro,           
                'parent_id'          => $this->parent_id,
                'pos'                => $this->pos,
+               'hide_articles'      => $this->hide_articles,
       );
    }
    
@@ -41,7 +42,7 @@ class erLhcoreClassModelArticleCategory {
    {
        switch ($var) {
        	case 'url_path':
-       		   $this->url_path = erLhcoreClassDesign::baseurl(urlencode(erLhcoreClassCharTransform::TransformToURL($this->category_name).'-'.$this->id.'cat.html'));
+       		   $this->url_path = erLhcoreClassDesign::baseurl(urlencode(erLhcoreClassCharTransform::TransformToURL($this->category_name).'-'.$this->id.'c.html'),false);
        		   return $this->url_path;
        		break;
        		
@@ -167,6 +168,7 @@ class erLhcoreClassModelArticleCategory {
    public $parent_id = 0;
    public $intro = '';
    public $pos = 0;
+   public $hide_articles = 0;
 }
 
 ?>

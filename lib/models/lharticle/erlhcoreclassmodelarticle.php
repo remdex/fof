@@ -164,7 +164,16 @@ class erLhcoreClassModelArticle {
 			case 'mtime_front':
    			      return date('Y-m-d H:i:s',$this->mtime);
    			    break;
-   			    	
+   			    
+   			case 'ptime_front':
+   			      return date('Y-m-d H:i:s',$this->publishtime);
+   			    break;
+   			    
+   			case 'category':
+				   $this->category = erLhcoreClassModelArticleCategory::fetch( $this->category_id );
+				   return $this->category;
+				break;
+				        	
 			case 'photo_path':
 				   $photo_path = 'var/media/'.$this->id.'/images/'.$this->file_name;
 				   if (file_exists($photo_path))

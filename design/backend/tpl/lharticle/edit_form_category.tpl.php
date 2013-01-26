@@ -1,4 +1,3 @@
-
 <label>Name</label>
 <input type="text" class="inputfield" name="CategoryName" value="<?=htmlspecialchars($category_new->category_name)?>" />
 
@@ -15,3 +14,6 @@ $oFCKeditor->editor('Intro',$category_new->intro) ;
 
 <label>Position</label>
 <input type="text" class="inputfield" name="CategoryPos" value="<?=htmlspecialchars($category_new->pos)?>" />
+
+<label>Hide articles</label>
+<input type="checkbox" class="inputfield" name="HideArticles" value="on" <?php echo $category->hide_articles == 1 ? 'checked="checked"' : ''?> />

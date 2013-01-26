@@ -1,0 +1,16 @@
+RewriteEngine On
+
+# Siteaccess
+RewriteRule ^/(m|lit|ger|fre|esp|por|ita|rus|jap|den|nor|ind|ces|hrv|pol|tur|ukr|bel|sve|rum|fin|ice|idn|chi|gre|ara|slv|srb|alb|slo|lav|kor|hun|est)/(.*)-([0-9]*)c.html(.*?)?$ index.php/$1/article/category/$3$4
+RewriteRule ^/(m|lit|ger|fre|esp|por|ita|rus|jap|den|nor|ind|ces|hrv|pol|tur|ukr|bel|sve|rum|fin|ice|idn|chi|gre|ara|slv|srb|alb|slo|lav|kor|hun|est)/(.*)-([0-9]*)a.html(.*?)?$ index.php/$1/article/view/$3$4
+
+RewriteRule ^(.*)-([0-9]*)c.html(.*?)?$ index.php/article/category/$2$3
+RewriteRule ^(.*)-([0-9]*)a.html(.*?)?$ index.php/view/album/$2$3
+
+RewriteRule ^robots.txt - [L]
+RewriteRule ^design/.* - [L]
+RewriteRule ^var/.* - [L]
+
+RewriteRule ^/var/[^/]+/cache/(stylesheets|images|javascripts?)/.* - [L]
+RewriteRule !\.(gif|jpe?g|png|bmp|css|js|xml|html|ico|json|ogv|swf|flv|php)|var(.+)storage.pdf(.+)\.pdf$ index.php
+DirectoryIndex index.php
