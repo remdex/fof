@@ -5,12 +5,6 @@ class erLhcoreClassRenderHelper {
     public static function renderCombobox($params = array())
     {
        
-        $cache = CSCacheAPC::getMem();          
-        $cacheKey = CSCacheAPC::multi_implode('attr',$params);
-        $cacheKey = md5($cacheKey.'site_version_'.$cache->getCacheVersion('site_version'));
-        
-        if (($output = $cache->restore($cacheKey)) === false)
-        {  
             $onchange = (isset($params['on_change']) && $params['on_change'] != '') ? ' onchange="'.$params['on_change'].'" ' : '';
             
             $output = ''; 
@@ -76,10 +70,7 @@ class erLhcoreClassRenderHelper {
             }
                    
             $output .= '</select>';   
-            
-            $cache->store($cacheKey,$output);     
-        }    
-        
+          
         return $output;  
     } 
     

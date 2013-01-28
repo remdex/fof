@@ -36,7 +36,7 @@ if (isset($_POST['UpdateArticle']) || isset($_POST['SaveArticle']))
     }
 }
 
-$tpl->set('category',$Category);
+$tpl->set('category_new',$Category);
 $Result['content'] = $tpl->fetch();
 
 $Result['path'] = array();

@@ -1,6 +1,6 @@
 <h1><?=erTranslationClassLhTranslation::getInstance()->getTranslation('user/grouplist','Category edit');?></h1>
 
-<form action="<?=erLhcoreClassDesign::baseurl('article/editcategory')?>/<?=$category->id?>" method="post">
+<form action="<?=erLhcoreClassDesign::baseurl('article/editcategory')?>/<?=$category_new->id?>" method="post">
 
 <?php if (isset($errors)) : ?>
 		<?php include(erLhcoreClassDesign::designtpl('lhkernel/validation_error.tpl.php'));?>
@@ -17,7 +17,6 @@
     <li><input type="submit" class="small button" name="SaveArticle" value="<?=erTranslationClassLhTranslation::getInstance()->getTranslation('article/editstatic','Save')?>" /></li>
     <li><input type="submit" class="small button" name="UpdateArticle" value="<?=erTranslationClassLhTranslation::getInstance()->getTranslation('article/editstatic','Update')?>" /></li>
     <li><input type="submit" class="small button" name="CancelArticle" value="<?=erTranslationClassLhTranslation::getInstance()->getTranslation('article/editstatic','Cancel')?>" /></li>
- </ul>
- 
- 
+</ul>
+
 </form>

@@ -5,8 +5,8 @@
 <?php include_once(erLhcoreClassDesign::designtpl('pagelayouts/parts/page_head.tpl.php'));?>
 </head>
 <body>
-     
-       
+    
+<div class="content-row">      
 <div class="row">
     <div class="columns twelve">
 
@@ -77,6 +77,7 @@
     <?php include_once(erLhcoreClassDesign::designtpl('pagelayouts/parts/page_footer.tpl.php'));?>
 
     </div>
+</div>
 </div>
 
 </body>

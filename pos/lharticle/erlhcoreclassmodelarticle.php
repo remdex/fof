@@ -39,11 +39,6 @@ $def->properties['mtime']->columnName   = 'mtime';
 $def->properties['mtime']->propertyName = 'mtime';
 $def->properties['mtime']->propertyType = ezcPersistentObjectProperty::PHP_TYPE_STRING; 
 
-$def->properties['descriptionoveride'] = new ezcPersistentObjectProperty();
-$def->properties['descriptionoveride']->columnName   = 'descriptionoveride';
-$def->properties['descriptionoveride']->propertyName = 'descriptionoveride';
-$def->properties['descriptionoveride']->propertyType = ezcPersistentObjectProperty::PHP_TYPE_STRING; 
-
 $def->properties['category_id'] = new ezcPersistentObjectProperty();
 $def->properties['category_id']->columnName   = 'category_id';
 $def->properties['category_id']->propertyName = 'category_id';
@@ -58,11 +53,6 @@ $def->properties['pos'] = new ezcPersistentObjectProperty();
 $def->properties['pos']->columnName   = 'pos';
 $def->properties['pos']->propertyName = 'pos';
 $def->properties['pos']->propertyType = ezcPersistentObjectProperty::PHP_TYPE_INT; 
-
-$def->properties['is_modal'] = new ezcPersistentObjectProperty();
-$def->properties['is_modal']->columnName   = 'is_modal';
-$def->properties['is_modal']->propertyName = 'is_modal';
-$def->properties['is_modal']->propertyType = ezcPersistentObjectProperty::PHP_TYPE_INT; 
 
 $def->properties['alias_url'] = new ezcPersistentObjectProperty();
 $def->properties['alias_url']->columnName   = 'alias_url';

@@ -21,6 +21,7 @@ class erLhcoreClassModelArticleCategory {
                'parent_id'          => $this->parent_id,
                'pos'                => $this->pos,
                'hide_articles'      => $this->hide_articles,
+               'alternative_url'    => $this->alternative_url,
       );
    }
    
@@ -169,6 +170,7 @@ class erLhcoreClassModelArticleCategory {
    public $intro = '';
    public $pos = 0;
    public $hide_articles = 0;
+   public $alternative_url = '';
 }
 
 ?>

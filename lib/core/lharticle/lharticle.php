@@ -62,6 +62,9 @@ class erLhcoreClassArticle {
     		),
     		'HideArticles' => new ezcInputFormDefinitionElement(
     				ezcInputFormDefinitionElement::OPTIONAL, 'boolean'
+    		),
+    		'AlternativeURL' => new ezcInputFormDefinitionElement(
+    				ezcInputFormDefinitionElement::OPTIONAL, 'unsafe_raw'
     		)
         );
         
@@ -72,6 +75,12 @@ class erLhcoreClassArticle {
         	$Static->hide_articles = 1;
         } else {
             $Static->hide_articles = 0;
+        }
+        
+        if ( $form->hasValidData( 'AlternativeURL' ) && $form->AlternativeURL != '' ) {
+        	$Static->alternative_url = $form->AlternativeURL;
+        } else {
+            $Static->alternative_url = '';
         }
         
         if ( !$form->hasValidData( 'CategoryName' ) || $form->CategoryName == '' ) {

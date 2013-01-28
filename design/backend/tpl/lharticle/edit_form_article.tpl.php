@@ -1,17 +1,16 @@
 <label>Name</label>
 <input type="text" class="inputfield" name="ArticleName" value="<?=htmlspecialchars($article->article_name)?>" />
 
-
-<label>Alternative URL</label>
-<input type="text" class="inputfield" name="AlternativeURL" value="<?=htmlspecialchars($article->alternative_url)?>" />
-
-<label>Alias URL</label>
-<input type="text" class="inputfield" name="AliasURL" value="<?=htmlspecialchars($article->alias_url)?>" />
- 
-<?php /*
-<label>Is modal <input type="checkbox" name="IsModal" value="on" <?php $article->is_modal == 1 ? print 'checked="checked"' : '' ?> /></label>
-*/ ?>
-
+<div class="row">
+	<div class="columns six">
+	<label>Alternative URL</label>
+	<input type="text" class="inputfield" name="AlternativeURL" value="<?=htmlspecialchars($article->alternative_url)?>" />
+	</div>
+	<div class="columns six">
+	<label>Alias URL</label>
+	<input type="text" class="inputfield" name="AliasURL" value="<?=htmlspecialchars($article->alias_url)?>" />
+	</div>
+</div>
 
 <label>Intro</label>
 <?

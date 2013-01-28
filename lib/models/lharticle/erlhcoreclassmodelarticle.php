@@ -9,15 +9,13 @@ class erLhcoreClassModelArticle {
 			'article_name'           => $this->article_name,
 			'intro'                  => $this->intro,
 			'body'                   => $this->body,
-			'publishtime'            => $this->publishtime,
-			'descriptionoveride'     => $this->descriptionoveride,
+			'publishtime'            => $this->publishtime,			
 			'category_id'            => $this->category_id,
 			'has_photo'              => $this->has_photo,               
 			'file_name'              => $this->file_name,
 			'pos'                    => $this->pos,
 			'alias_url'              => $this->alias_url,
-			'alternative_url'        => $this->alternative_url,
-			'is_modal'               => $this->is_modal,
+			'alternative_url'        => $this->alternative_url,			
 			'mtime'                  => $this->mtime,
 		);
 	}
@@ -271,7 +269,6 @@ class erLhcoreClassModelArticle {
     public $pos = 0;
     public $alias_url = '';
     public $alternative_url = '';
-    public $is_modal = 0;
     public $mtime = 0;
 
 }

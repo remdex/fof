@@ -1,5 +1,10 @@
 <?php
 
+if ( isset($_POST['Cancel_account']) ) {        
+    erLhcoreClassModule::redirect('user/userlist');
+    exit;
+} 
+
 $tpl = erLhcoreClassTemplate::getInstance('lhuser/edit.tpl.php');
 
 $UserData = erLhcoreClassUser::getSession()->load( 'erLhcoreClassModelUser', (int)$Params['user_parameters']['user_id'] );

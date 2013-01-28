@@ -34,6 +34,11 @@ $def->properties['hide_articles']->columnName   = 'hide_articles';
 $def->properties['hide_articles']->propertyName = 'hide_articles';
 $def->properties['hide_articles']->propertyType = ezcPersistentObjectProperty::PHP_TYPE_INT; 
 
+$def->properties['alternative_url'] = new ezcPersistentObjectProperty();
+$def->properties['alternative_url']->columnName   = 'alternative_url';
+$def->properties['alternative_url']->propertyName = 'alternative_url';
+$def->properties['alternative_url']->propertyType = ezcPersistentObjectProperty::PHP_TYPE_STRING; 
+
 
 return $def; 
 
